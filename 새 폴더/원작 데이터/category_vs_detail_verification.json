@@ -1,0 +1,20 @@
+{
+  "checksPassed": true,
+  "characters": 53,
+  "skills": 106,
+  "items": 662,
+  "coveredCurrentItems": 641,
+  "missingCategoryItems": [],
+  "activeItemsNotInCategoryRows": [],
+  "categoryVsDetailNumericDifferences": [
+    {
+      "name": "Bastard Sword",
+      "field": "攻撃力",
+      "categoryValue": 34,
+      "detailValue": 26,
+      "categorySource": "https://gamerch.com/blacksurvival/460793",
+      "detailSource": "https://gamerch.com/blacksurvival/460891"
+    }
+  ],
+  "scope": "Coverage and source consistency checks; source conflicts remain observations, not failures silently corrected"
+}

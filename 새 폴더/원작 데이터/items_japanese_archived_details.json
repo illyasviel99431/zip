@@ -1,0 +1,4718 @@
+{
+  "scope": "Public Japanese wiki pages; current/historical tables retain heading context; collected page counts include links later checked for non-item targets; collection is not a claim of final-version verification",
+  "items": [
+    {
+      "id": "460869",
+      "url": "https://gamerch.com/blacksurvival/460869",
+      "nameJa": "ウィンターラー",
+      "englishName": "Winterer",
+      "bilingualName": "ウィンターラー ／ Winterer",
+      "updatedAt": "2022/10/21 20:12",
+      "tables": [
+        {
+          "context": [
+            "アイテム情報"
+          ],
+          "rows": [
+            [
+              {
+                "text": "武器種",
+                "rowspan": 1,
+                "colspan": 1,
+                "links": []
+              },
+              {
+                "text": "攻撃力",
+                "rowspan": 1,
+                "colspan": 1,
+                "links": []
+              },
+              {
+                "text": "等級",
+                "rowspan": 1,
+                "colspan": 1,
+                "links": []
+              }
+            ],
+            [
+              {
+                "text": "斬り・突き",
+                "rowspan": 1,
+                "colspan": 1,
+                "links": []
+              },
+              {
+                "text": "50",
+                "rowspan": 1,
+                "colspan": 1,
+                "links": []
+              },
+              {
+                "text": "英雄",
+                "rowspan": 1,
+                "colspan": 1,
+                "links": []
+              }
+            ]
+          ]
+        },
+        {
+          "context": [
+            "必要材料（削除前の配置）"
+          ],
+          "rows": [
+            [
+              {
+                "text": "",
+                "rowspan": 1,
+                "colspan": 1,
+                "links": []
+              },
+              {
+                "text": "入手方法（ 配置数 ）",
+                "rowspan": 1,
+                "colspan": 1,
+                "links": []
+              }
+            ],
+            [
+              {
+                "text": "/ ナイフ",
+                "rowspan": 1,
+                "colspan": 1,
+                "links": [
+                  {
+                    "url": "https://gamerch.com/blacksurvival/460913",
+                    "title": "ナイフ"
+                  }
+                ]
+              },
+              {
+                "text": "井戸（5）",
+                "rowspan": 1,
+                "colspan": 1,
+                "links": [
+                  {
+                    "url": "https://gamerch.com/blacksurvival/460845",
+                    "title": "井戸"
+                  }
+                ]
+              }
+            ],
+            [
+              {
+                "text": "/ 原石",
+                "rowspan": 1,
+                "colspan": 1,
+                "links": [
+                  {
+                    "url": "https://gamerch.com/blacksurvival/461485",
+                    "title": "原石"
+                  }
+                ]
+              },
+              {
+                "text": "山道（5）, 池（4）, トンネル（2）",
+                "rowspan": 1,
+                "colspan": 1,
+                "links": [
+                  {
+                    "url": "https://gamerch.com/blacksurvival/460836",
+                    "title": "山道"
+                  },
+                  {
+                    "url": "https://gamerch.com/blacksurvival/460833",
+                    "title": "池"
+                  },
+                  {
+                    "url": "https://gamerch.com/blacksurvival/460838",
+                    "title": "トンネル"
+                  }
+                ]
+              }
+            ],
+            [
+              {
+                "text": "/ 金槌",
+                "rowspan": 1,
+                "colspan": 1,
+                "links": [
+                  {
+                    "url": "https://gamerch.com/blacksurvival/461215",
+                    "title": "金槌"
+                  }
+                ]
+              },
+              {
+                "text": "消防署（6）, 村会館（6）, 港（5）,病院（4）",
+                "rowspan": 1,
+                "colspan": 1,
+                "links": [
+                  {
+                    "url": "https://gamerch.com/blacksurvival/460830",
+                    "title": "消防署"
+                  },
+                  {
+                    "url": "https://gamerch.com/blacksurvival/460829",
+                    "title": "村会館"
+                  },
+                  {
+                    "url": "https://gamerch.com/blacksurvival/460823",
+                    "title": "港"
+                  },
+                  {
+                    "url": "https://gamerch.com/blacksurvival/460842",
+                    "title": "病院"
+                  }
+                ]
+              }
+            ],
+            [
+              {
+                "text": "/ 生命の木",
+                "rowspan": 1,
+                "colspan": 1,
+                "links": [
+                  {
+                    "url": "https://gamerch.com/blacksurvival/461435",
+                    "title": "生命の木"
+                  }
+                ]
+              },
+              {
+                "text": "ランダム地域",
+                "rowspan": 1,
+                "colspan": 1,
+                "links": [
+                  {
+                    "url": "https://gamerch.com/blacksurvival/460817",
+                    "title": "ランダム地域"
+                  }
+                ]
+              }
+            ],
+            [
+              {
+                "text": "/ 石ころ",
+                "rowspan": 1,
+                "colspan": 1,
+                "links": [
+                  {
+                    "url": "https://gamerch.com/blacksurvival/461482",
+                    "title": "石ころ"
+                  }
+                ]
+              },
+              {
+                "text": "トンネル（8）, 山道（7）, 寺（5）, 墓場（4）, ホテル（3）",
+                "rowspan": 1,
+                "colspan": 1,
+                "links": [
+                  {
+                    "url": "https://gamerch.com/blacksurvival/460838",
+                    "title": "トンネル"
+                  },
+                  {
+                    "url": "https://gamerch.com/blacksurvival/460836",
+                    "title": "山道"
+                  },
+                  {
+                    "url": "https://gamerch.com/blacksurvival/460839",
+                    "title": "寺"
+                  },
+                  {
+                    "url": "https://gamerch.com/blacksurvival/460837",
+                    "title": "墓場"
+                  },
+                  {
+                    "url": "https://gamerch.com/blacksurvival/460826",
+                    "title": "ホテル"
+                  }
+                ]
+              }
+            ],
+            [
+              {
+                "text": "/ 氷",
+                "rowspan": 1,
+                "colspan": 1,
+                "links": [
+                  {
+                    "url": "https://gamerch.com/blacksurvival/461467",
+                    "title": "氷"
+                  }
+                ]
+              },
+              {
+                "text": "井戸（5）, ホテル（2）",
+                "rowspan": 1,
+                "colspan": 1,
+                "links": [
+                  {
+                    "url": "https://gamerch.com/blacksurvival/460845",
+                    "title": "井戸"
+                  },
+                  {
+                    "url": "https://gamerch.com/blacksurvival/460826",
+                    "title": "ホテル"
+                  }
+                ]
+              }
+            ]
+          ]
+        },
+        {
+          "context": [
+            "進級・製作（削除前の仕様）"
+          ],
+          "rows": [
+            [
+              {
+                "text": "⇒ 製作図",
+                "rowspan": 1,
+                "colspan": 4,
+                "links": []
+              }
+            ],
+            [
+              {
+                "text": "/ ウィンターラー",
+                "rowspan": 6,
+                "colspan": 1,
+                "links": []
+              },
+              {
+                "text": "/ 宝剣",
+                "rowspan": 3,
+                "colspan": 1,
+                "links": []
+              },
+              {
+                "text": "/ ナイフ",
+                "rowspan": 1,
+                "colspan": 1,
+                "links": []
+              }
+            ],
+            [
+              {
+                "text": "/ ルビー",
+                "rowspan": 2,
+                "colspan": 1,
+                "links": []
+              },
+              {
+                "text": "/ 原石",
+                "rowspan": 1,
+                "colspan": 1,
+                "links": []
+              }
+            ],
+            [
+              {
+                "text": "/ 金槌",
+                "rowspan": 1,
+                "colspan": 1,
+                "links": []
+              }
+            ],
+            [
+              {
+                "text": "/ 万年氷",
+                "rowspan": 3,
+                "colspan": 1,
+                "links": []
+              },
+              {
+                "text": "/ 命の粉",
+                "rowspan": 2,
+                "colspan": 1,
+                "links": []
+              },
+              {
+                "text": "/ 生命の木",
+                "rowspan": 1,
+                "colspan": 1,
+                "links": []
+              }
+            ],
+            [
+              {
+                "text": "/ 石ころ（3）",
+                "rowspan": 1,
+                "colspan": 1,
+                "links": []
+              }
+            ],
+            [
+              {
+                "text": "/ 氷",
+                "rowspan": 1,
+                "colspan": 1,
+                "links": []
+              }
+            ]
+          ]
+        }
+      ],
+      "originalFinalVersionVerified": false
+    },
+    {
+      "id": "460917",
+      "url": "https://gamerch.com/blacksurvival/460917",
+      "nameJa": "粗末な斧",
+      "englishName": "Crude Axe",
+      "bilingualName": "粗末な斧 ／ Crude Axe",
+      "updatedAt": "2022/10/21 20:12",
+      "tables": [
+        {
+          "context": [
+            "アイテム情報"
+          ],
+          "rows": [
+            [
+              {
+                "text": "武器種",
+                "rowspan": 1,
+                "colspan": 1,
+                "links": []
+              },
+              {
+                "text": "攻撃力",
+                "rowspan": 1,
+                "colspan": 1,
+                "links": []
+              },
+              {
+                "text": "等級",
+                "rowspan": 1,
+                "colspan": 1,
+                "links": []
+              }
+            ],
+            [
+              {
+                "text": "斬り",
+                "rowspan": 1,
+                "colspan": 1,
+                "links": []
+              },
+              {
+                "text": "６",
+                "rowspan": 1,
+                "colspan": 1,
+                "links": []
+              },
+              {
+                "text": "一般",
+                "rowspan": 1,
+                "colspan": 1,
+                "links": []
+              }
+            ]
+          ]
+        },
+        {
+          "context": [
+            "配置地域"
+          ],
+          "rows": [
+            [
+              {
+                "text": "地域",
+                "rowspan": 1,
+                "colspan": 1,
+                "links": []
+              },
+              {
+                "text": "配置数",
+                "rowspan": 1,
+                "colspan": 1,
+                "links": []
+              }
+            ],
+            [
+              {
+                "text": "/ 地下通路",
+                "rowspan": 1,
+                "colspan": 1,
+                "links": [
+                  {
+                    "url": "https://gamerch.com/blacksurvival/460822",
+                    "title": "地下通路"
+                  }
+                ]
+              },
+              {
+                "text": "１",
+                "rowspan": 1,
+                "colspan": 1,
+                "links": []
+              }
+            ]
+          ]
+        }
+      ],
+      "originalFinalVersionVerified": false
+    },
+    {
+      "id": "460937",
+      "url": "https://gamerch.com/blacksurvival/460937",
+      "nameJa": "粗末な錐",
+      "englishName": "Crude Awl",
+      "bilingualName": "粗末な錐 ／ Crude Awl",
+      "updatedAt": "2022/10/21 20:12",
+      "tables": [
+        {
+          "context": [
+            "アイテム情報"
+          ],
+          "rows": [
+            [
+              {
+                "text": "武器種",
+                "rowspan": 1,
+                "colspan": 1,
+                "links": []
+              },
+              {
+                "text": "攻撃力",
+                "rowspan": 1,
+                "colspan": 1,
+                "links": []
+              },
+              {
+                "text": "等級",
+                "rowspan": 1,
+                "colspan": 1,
+                "links": []
+              }
+            ],
+            [
+              {
+                "text": "突き",
+                "rowspan": 1,
+                "colspan": 1,
+                "links": []
+              },
+              {
+                "text": "６",
+                "rowspan": 1,
+                "colspan": 1,
+                "links": []
+              },
+              {
+                "text": "一般",
+                "rowspan": 1,
+                "colspan": 1,
+                "links": []
+              }
+            ]
+          ]
+        },
+        {
+          "context": [
+            "配置地域"
+          ],
+          "rows": [
+            [
+              {
+                "text": "地域",
+                "rowspan": 1,
+                "colspan": 1,
+                "links": []
+              },
+              {
+                "text": "配置数",
+                "rowspan": 1,
+                "colspan": 1,
+                "links": []
+              }
+            ],
+            [
+              {
+                "text": "/ 地下通路",
+                "rowspan": 1,
+                "colspan": 1,
+                "links": [
+                  {
+                    "url": "https://gamerch.com/blacksurvival/460822",
+                    "title": "地下通路"
+                  }
+                ]
+              },
+              {
+                "text": "１",
+                "rowspan": 1,
+                "colspan": 1,
+                "links": []
+              }
+            ]
+          ]
+        }
+      ],
+      "originalFinalVersionVerified": false
+    },
+    {
+      "id": "461093",
+      "url": "https://gamerch.com/blacksurvival/461093",
+      "nameJa": "局長の片目眼帯",
+      "englishName": "Chirf's Eyepatch",
+      "bilingualName": "局長の片目眼帯 ／ Chirf's Eyepatch",
+      "updatedAt": "2022/10/21 20:12",
+      "tables": [
+        {
+          "context": [
+            "アイテム情報"
+          ],
+          "rows": [
+            [
+              {
+                "text": "防具種",
+                "rowspan": 1,
+                "colspan": 1,
+                "links": []
+              },
+              {
+                "text": "防御力",
+                "rowspan": 1,
+                "colspan": 1,
+                "links": []
+              },
+              {
+                "text": "等級",
+                "rowspan": 1,
+                "colspan": 1,
+                "links": []
+              }
+            ],
+            [
+              {
+                "text": "頭",
+                "rowspan": 1,
+                "colspan": 1,
+                "links": []
+              },
+              {
+                "text": "28",
+                "rowspan": 1,
+                "colspan": 1,
+                "links": []
+              },
+              {
+                "text": "貴重",
+                "rowspan": 1,
+                "colspan": 1,
+                "links": []
+              }
+            ]
+          ]
+        },
+        {
+          "context": [
+            "アイテム情報"
+          ],
+          "rows": [
+            [
+              {
+                "text": "オプション",
+                "rowspan": 1,
+                "colspan": 1,
+                "links": []
+              }
+            ],
+            [
+              {
+                "text": "被害軽減 -2",
+                "rowspan": 1,
+                "colspan": 1,
+                "links": []
+              }
+            ]
+          ]
+        },
+        {
+          "context": [
+            "必要材料（削除前の配置）"
+          ],
+          "rows": [
+            [
+              {
+                "text": "",
+                "rowspan": 1,
+                "colspan": 1,
+                "links": []
+              },
+              {
+                "text": "入手方法（ 配置数 ）",
+                "rowspan": 1,
+                "colspan": 1,
+                "links": []
+              }
+            ],
+            [
+              {
+                "text": "/ ゴム",
+                "rowspan": 1,
+                "colspan": 1,
+                "links": [
+                  {
+                    "url": "https://gamerch.com/blacksurvival/461638",
+                    "title": "ゴム"
+                  }
+                ]
+              },
+              {
+                "text": "浜辺（5）, 学校 （3）, 墓場（2）",
+                "rowspan": 1,
+                "colspan": 1,
+                "links": [
+                  {
+                    "url": "https://gamerch.com/blacksurvival/460844",
+                    "title": "浜辺"
+                  },
+                  {
+                    "url": "https://gamerch.com/blacksurvival/460835",
+                    "title": "学校"
+                  },
+                  {
+                    "url": "https://gamerch.com/blacksurvival/460837",
+                    "title": "墓場"
+                  }
+                ]
+              }
+            ],
+            [
+              {
+                "text": "/ 皮",
+                "rowspan": 1,
+                "colspan": 1,
+                "links": [
+                  {
+                    "url": "https://gamerch.com/blacksurvival/461639",
+                    "title": "皮"
+                  }
+                ]
+              },
+              {
+                "text": "森（6）, 洋弓場（3）, 寺（2）, 猟犬（野生動物）",
+                "rowspan": 1,
+                "colspan": 1,
+                "links": [
+                  {
+                    "url": "https://gamerch.com/blacksurvival/460843",
+                    "title": "森"
+                  },
+                  {
+                    "url": "https://gamerch.com/blacksurvival/460841",
+                    "title": "洋弓場"
+                  },
+                  {
+                    "url": "https://gamerch.com/blacksurvival/460839",
+                    "title": "寺"
+                  },
+                  {
+                    "url": "https://gamerch.com/blacksurvival/460777",
+                    "title": "猟犬"
+                  }
+                ]
+              }
+            ],
+            [
+              {
+                "text": "/ はさみ",
+                "rowspan": 1,
+                "colspan": 1,
+                "links": [
+                  {
+                    "url": "https://gamerch.com/blacksurvival/460918",
+                    "title": "はさみ"
+                  }
+                ]
+              },
+              {
+                "text": "病院（5）, 学校（5）, 路地裏（4）",
+                "rowspan": 1,
+                "colspan": 1,
+                "links": [
+                  {
+                    "url": "https://gamerch.com/blacksurvival/460842",
+                    "title": "病院"
+                  },
+                  {
+                    "url": "https://gamerch.com/blacksurvival/460835",
+                    "title": "学校"
+                  },
+                  {
+                    "url": "https://gamerch.com/blacksurvival/460828",
+                    "title": "路地裏"
+                  }
+                ]
+              }
+            ]
+          ]
+        },
+        {
+          "context": [
+            "進級・製作（削除前の仕様）"
+          ],
+          "rows": [
+            [
+              {
+                "text": "⇒ 製作図",
+                "rowspan": 1,
+                "colspan": 3,
+                "links": []
+              }
+            ],
+            [
+              {
+                "text": "/ 局長の片目眼帯",
+                "rowspan": 3,
+                "colspan": 1,
+                "links": []
+              },
+              {
+                "text": "/ 眼帯",
+                "rowspan": 2,
+                "colspan": 1,
+                "links": []
+              },
+              {
+                "text": "/ ゴム",
+                "rowspan": 1,
+                "colspan": 1,
+                "links": []
+              }
+            ],
+            [
+              {
+                "text": "/ 皮",
+                "rowspan": 1,
+                "colspan": 1,
+                "links": []
+              }
+            ],
+            [
+              {
+                "text": "/ はさみ",
+                "rowspan": 1,
+                "colspan": 1,
+                "links": []
+              }
+            ]
+          ]
+        }
+      ],
+      "originalFinalVersionVerified": false
+    },
+    {
+      "id": "461189",
+      "url": "https://gamerch.com/blacksurvival/461189",
+      "nameJa": "電気鞭",
+      "englishName": "Electric Whip",
+      "bilingualName": "電気鞭 ／ Electric Whip",
+      "updatedAt": "2022/10/21 20:12",
+      "tables": [
+        {
+          "context": [
+            "アイテム情報"
+          ],
+          "rows": [
+            [
+              {
+                "text": "武器種",
+                "rowspan": 1,
+                "colspan": 1,
+                "links": []
+              },
+              {
+                "text": "攻撃力",
+                "rowspan": 1,
+                "colspan": 1,
+                "links": []
+              },
+              {
+                "text": "等級",
+                "rowspan": 1,
+                "colspan": 1,
+                "links": []
+              }
+            ],
+            [
+              {
+                "text": "鈍器",
+                "rowspan": 1,
+                "colspan": 1,
+                "links": []
+              },
+              {
+                "text": "34",
+                "rowspan": 1,
+                "colspan": 1,
+                "links": []
+              },
+              {
+                "text": "貴重",
+                "rowspan": 1,
+                "colspan": 1,
+                "links": []
+              }
+            ]
+          ]
+        },
+        {
+          "context": [
+            "必要材料（削除前の配置）"
+          ],
+          "rows": [
+            [
+              {
+                "text": "",
+                "rowspan": 1,
+                "colspan": 1,
+                "links": []
+              },
+              {
+                "text": "入手方法（ 配置数 ）",
+                "rowspan": 1,
+                "colspan": 1,
+                "links": []
+              }
+            ],
+            [
+              {
+                "text": "/ バッテリー",
+                "rowspan": 1,
+                "colspan": 1,
+                "links": [
+                  {
+                    "url": "https://gamerch.com/blacksurvival/461645",
+                    "title": "バッテリー"
+                  }
+                ]
+              },
+              {
+                "text": "消防署（8）, 灯台（4）",
+                "rowspan": 1,
+                "colspan": 1,
+                "links": [
+                  {
+                    "url": "https://gamerch.com/blacksurvival/460830",
+                    "title": "消防署"
+                  },
+                  {
+                    "url": "https://gamerch.com/blacksurvival/460840",
+                    "title": "灯台"
+                  }
+                ]
+              }
+            ],
+            [
+              {
+                "text": "/ 水",
+                "rowspan": 1,
+                "colspan": 1,
+                "links": [
+                  {
+                    "url": "https://gamerch.com/blacksurvival/461470",
+                    "title": "水"
+                  }
+                ]
+              },
+              {
+                "text": "基本提供 , 池（17）, 消防署（16）, 井戸（15）, 浜辺 （8）, 森（7）, 港（6）, ランダム地域（30）, コウモリ（野生動物）",
+                "rowspan": 1,
+                "colspan": 1,
+                "links": [
+                  {
+                    "url": "https://gamerch.com/blacksurvival/460833",
+                    "title": "池"
+                  },
+                  {
+                    "url": "https://gamerch.com/blacksurvival/460830",
+                    "title": "消防署"
+                  },
+                  {
+                    "url": "https://gamerch.com/blacksurvival/460845",
+                    "title": "井戸"
+                  },
+                  {
+                    "url": "https://gamerch.com/blacksurvival/460844",
+                    "title": "浜辺"
+                  },
+                  {
+                    "url": "https://gamerch.com/blacksurvival/460843",
+                    "title": "森"
+                  },
+                  {
+                    "url": "https://gamerch.com/blacksurvival/460823",
+                    "title": "港"
+                  },
+                  {
+                    "url": "https://gamerch.com/blacksurvival/460817",
+                    "title": "ランダム地域"
+                  },
+                  {
+                    "url": "https://gamerch.com/blacksurvival/460776",
+                    "title": "コウモリ"
+                  }
+                ]
+              }
+            ],
+            [
+              {
+                "text": "/ 鉄糸",
+                "rowspan": 1,
+                "colspan": 1,
+                "links": [
+                  {
+                    "url": "https://gamerch.com/blacksurvival/461640",
+                    "title": "鉄糸"
+                  }
+                ]
+              },
+              {
+                "text": "トンネル（6）, 工場（5）",
+                "rowspan": 1,
+                "colspan": 1,
+                "links": [
+                  {
+                    "url": "https://gamerch.com/blacksurvival/460838",
+                    "title": "トンネル"
+                  },
+                  {
+                    "url": "https://gamerch.com/blacksurvival/460824",
+                    "title": "工場"
+                  }
+                ]
+              }
+            ],
+            [
+              {
+                "text": "/ 鞭",
+                "rowspan": 1,
+                "colspan": 1,
+                "links": [
+                  {
+                    "url": "https://gamerch.com/blacksurvival/461217",
+                    "title": "鞭"
+                  }
+                ]
+              },
+              {
+                "text": "墓場（4）, ホテル（4）, 灯台（3）",
+                "rowspan": 1,
+                "colspan": 1,
+                "links": [
+                  {
+                    "url": "https://gamerch.com/blacksurvival/460837",
+                    "title": "墓場"
+                  },
+                  {
+                    "url": "https://gamerch.com/blacksurvival/460826",
+                    "title": "ホテル"
+                  },
+                  {
+                    "url": "https://gamerch.com/blacksurvival/460840",
+                    "title": "灯台"
+                  }
+                ]
+              }
+            ]
+          ]
+        },
+        {
+          "context": [
+            "進級・製作（削除前の仕様）"
+          ],
+          "rows": [
+            [
+              {
+                "text": "⇒ 製作図",
+                "rowspan": 1,
+                "colspan": 4,
+                "links": []
+              }
+            ],
+            [
+              {
+                "text": "/ 電気鞭",
+                "rowspan": 4,
+                "colspan": 1,
+                "links": []
+              },
+              {
+                "text": "/ 高圧電線",
+                "rowspan": 3,
+                "colspan": 1,
+                "links": []
+              },
+              {
+                "text": "/ 放電電池",
+                "rowspan": 2,
+                "colspan": 1,
+                "links": []
+              },
+              {
+                "text": "/ バッテリー",
+                "rowspan": 1,
+                "colspan": 1,
+                "links": []
+              }
+            ],
+            [
+              {
+                "text": "/ 水（3）",
+                "rowspan": 1,
+                "colspan": 1,
+                "links": []
+              }
+            ],
+            [
+              {
+                "text": "/ 鉄糸",
+                "rowspan": 1,
+                "colspan": 1,
+                "links": []
+              }
+            ],
+            [
+              {
+                "text": "/ 鞭",
+                "rowspan": 1,
+                "colspan": 1,
+                "links": []
+              }
+            ]
+          ]
+        },
+        {
+          "context": [
+            "進級・製作（削除前の仕様）"
+          ],
+          "rows": [
+            [
+              {
+                "text": "製作から得る経験値/熟練度",
+                "rowspan": 1,
+                "colspan": 2,
+                "links": []
+              }
+            ],
+            [
+              {
+                "text": "EXP",
+                "rowspan": 1,
+                "colspan": 1,
+                "links": []
+              },
+              {
+                "text": "計 +4",
+                "rowspan": 1,
+                "colspan": 1,
+                "links": []
+              }
+            ],
+            [
+              {
+                "text": "熟練",
+                "rowspan": 1,
+                "colspan": 1,
+                "links": []
+              },
+              {
+                "text": "鈍器 +1.5 / 投げ +0.5",
+                "rowspan": 1,
+                "colspan": 1,
+                "links": []
+              }
+            ]
+          ]
+        },
+        {
+          "context": [
+            "進級・製作（削除前の仕様）",
+            "進級先"
+          ],
+          "rows": [
+            [
+              {
+                "text": "鈍器",
+                "rowspan": 1,
+                "colspan": 1,
+                "links": []
+              },
+              {
+                "text": "ATK",
+                "rowspan": 1,
+                "colspan": 1,
+                "links": []
+              },
+              {
+                "text": "等級",
+                "rowspan": 1,
+                "colspan": 1,
+                "links": []
+              },
+              {
+                "text": "追加材料",
+                "rowspan": 1,
+                "colspan": 1,
+                "links": []
+              }
+            ],
+            [
+              {
+                "text": "/ プラズマ鞭",
+                "rowspan": 1,
+                "colspan": 1,
+                "links": [
+                  {
+                    "url": "https://gamerch.com/blacksurvival/460946",
+                    "title": "プラズマ鞭"
+                  }
+                ]
+              },
+              {
+                "text": "46",
+                "rowspan": 1,
+                "colspan": 1,
+                "links": []
+              },
+              {
+                "text": "英雄",
+                "rowspan": 1,
+                "colspan": 1,
+                "links": []
+              },
+              {
+                "text": "霹靂鞭",
+                "rowspan": 1,
+                "colspan": 1,
+                "links": [
+                  {
+                    "url": "https://gamerch.com/blacksurvival/461193",
+                    "title": "霹靂鞭"
+                  }
+                ]
+              }
+            ]
+          ]
+        }
+      ],
+      "originalFinalVersionVerified": false
+    },
+    {
+      "id": "461225",
+      "url": "https://gamerch.com/blacksurvival/461225",
+      "nameJa": "粗末なバット",
+      "englishName": "Crude Bat",
+      "bilingualName": "粗末なバット ／ Crude Bat",
+      "updatedAt": "2022/10/21 20:12",
+      "tables": [
+        {
+          "context": [
+            "アイテム情報"
+          ],
+          "rows": [
+            [
+              {
+                "text": "武器種",
+                "rowspan": 1,
+                "colspan": 1,
+                "links": []
+              },
+              {
+                "text": "攻撃力",
+                "rowspan": 1,
+                "colspan": 1,
+                "links": []
+              },
+              {
+                "text": "等級",
+                "rowspan": 1,
+                "colspan": 1,
+                "links": []
+              }
+            ],
+            [
+              {
+                "text": "鈍器",
+                "rowspan": 1,
+                "colspan": 1,
+                "links": []
+              },
+              {
+                "text": "６",
+                "rowspan": 1,
+                "colspan": 1,
+                "links": []
+              },
+              {
+                "text": "一般",
+                "rowspan": 1,
+                "colspan": 1,
+                "links": []
+              }
+            ]
+          ]
+        },
+        {
+          "context": [
+            "配置地域"
+          ],
+          "rows": [
+            [
+              {
+                "text": "地域",
+                "rowspan": 1,
+                "colspan": 1,
+                "links": []
+              },
+              {
+                "text": "配置数",
+                "rowspan": 1,
+                "colspan": 1,
+                "links": []
+              }
+            ],
+            [
+              {
+                "text": "/ 地下通路",
+                "rowspan": 1,
+                "colspan": 1,
+                "links": [
+                  {
+                    "url": "https://gamerch.com/blacksurvival/460822",
+                    "title": "地下通路"
+                  }
+                ]
+              },
+              {
+                "text": "１",
+                "rowspan": 1,
+                "colspan": 1,
+                "links": []
+              }
+            ]
+          ]
+        }
+      ],
+      "originalFinalVersionVerified": false
+    },
+    {
+      "id": "461270",
+      "url": "https://gamerch.com/blacksurvival/461270",
+      "nameJa": "ホーリースイーパーガン",
+      "englishName": "Holy Shotgun",
+      "bilingualName": "ホーリースイーパーガン ／ Holy Shotgun",
+      "updatedAt": "2022/10/21 20:12",
+      "tables": [
+        {
+          "context": [
+            "アイテム情報"
+          ],
+          "rows": [
+            [
+              {
+                "text": "武器種",
+                "rowspan": 1,
+                "colspan": 1,
+                "links": []
+              },
+              {
+                "text": "攻撃力",
+                "rowspan": 1,
+                "colspan": 1,
+                "links": []
+              },
+              {
+                "text": "装填",
+                "rowspan": 1,
+                "colspan": 1,
+                "links": []
+              },
+              {
+                "text": "等級",
+                "rowspan": 1,
+                "colspan": 1,
+                "links": []
+              }
+            ],
+            [
+              {
+                "text": "銃",
+                "rowspan": 1,
+                "colspan": 1,
+                "links": []
+              },
+              {
+                "text": "52",
+                "rowspan": 1,
+                "colspan": 1,
+                "links": []
+              },
+              {
+                "text": "2発",
+                "rowspan": 1,
+                "colspan": 1,
+                "links": []
+              },
+              {
+                "text": "貴重",
+                "rowspan": 1,
+                "colspan": 1,
+                "links": []
+              }
+            ]
+          ]
+        },
+        {
+          "context": [
+            "必要材料（削除前の配置）"
+          ],
+          "rows": [
+            [
+              {
+                "text": "",
+                "rowspan": 1,
+                "colspan": 1,
+                "links": []
+              },
+              {
+                "text": "入手方法（ 配置数 ）",
+                "rowspan": 1,
+                "colspan": 1,
+                "links": []
+              }
+            ],
+            [
+              {
+                "text": "/ 火縄銃",
+                "rowspan": 1,
+                "colspan": 1,
+                "links": [
+                  {
+                    "url": "https://gamerch.com/blacksurvival/461358",
+                    "title": "火縄銃"
+                  }
+                ]
+              },
+              {
+                "text": "港（5）, 浜辺（4）, 製作（竹＋火薬）",
+                "rowspan": 1,
+                "colspan": 1,
+                "links": [
+                  {
+                    "url": "https://gamerch.com/blacksurvival/460823",
+                    "title": "港"
+                  },
+                  {
+                    "url": "https://gamerch.com/blacksurvival/460844",
+                    "title": "浜辺"
+                  }
+                ]
+              }
+            ],
+            [
+              {
+                "text": "/ 鉄パイプ",
+                "rowspan": 1,
+                "colspan": 1,
+                "links": [
+                  {
+                    "url": "https://gamerch.com/blacksurvival/461219",
+                    "title": "鉄パイプ"
+                  }
+                ]
+              },
+              {
+                "text": "工場（5）",
+                "rowspan": 1,
+                "colspan": 1,
+                "links": [
+                  {
+                    "url": "https://gamerch.com/blacksurvival/460824",
+                    "title": "工場"
+                  }
+                ]
+              }
+            ],
+            [
+              {
+                "text": "/ 十字架",
+                "rowspan": 1,
+                "colspan": 1,
+                "links": [
+                  {
+                    "url": "https://gamerch.com/blacksurvival/461294",
+                    "title": "十字架"
+                  }
+                ]
+              },
+              {
+                "text": "教会（5）",
+                "rowspan": 1,
+                "colspan": 1,
+                "links": [
+                  {
+                    "url": "https://gamerch.com/blacksurvival/460827",
+                    "title": "教会"
+                  }
+                ]
+              }
+            ]
+          ]
+        },
+        {
+          "context": [
+            "必要材料（削除前の配置）"
+          ],
+          "rows": [
+            [
+              {
+                "text": "火縄銃（製作用）",
+                "rowspan": 1,
+                "colspan": 2,
+                "links": [
+                  {
+                    "url": "https://gamerch.com/blacksurvival/461358",
+                    "title": "火縄銃"
+                  }
+                ]
+              }
+            ],
+            [
+              {
+                "text": "/ 竹",
+                "rowspan": 1,
+                "colspan": 1,
+                "links": [
+                  {
+                    "url": "https://gamerch.com/blacksurvival/461221",
+                    "title": "竹"
+                  }
+                ]
+              },
+              {
+                "text": "森（6）, 墓場（5）, 山道（4）",
+                "rowspan": 1,
+                "colspan": 1,
+                "links": [
+                  {
+                    "url": "https://gamerch.com/blacksurvival/460843",
+                    "title": "森"
+                  },
+                  {
+                    "url": "https://gamerch.com/blacksurvival/460837",
+                    "title": "墓場"
+                  },
+                  {
+                    "url": "https://gamerch.com/blacksurvival/460836",
+                    "title": "山道"
+                  }
+                ]
+              }
+            ],
+            [
+              {
+                "text": "/ 火薬",
+                "rowspan": 1,
+                "colspan": 1,
+                "links": [
+                  {
+                    "url": "https://gamerch.com/blacksurvival/461643",
+                    "title": "火薬"
+                  }
+                ]
+              },
+              {
+                "text": "灯台（5）, トンネル（3）, 洋弓場（2）",
+                "rowspan": 1,
+                "colspan": 1,
+                "links": [
+                  {
+                    "url": "https://gamerch.com/blacksurvival/460840",
+                    "title": "灯台"
+                  },
+                  {
+                    "url": "https://gamerch.com/blacksurvival/460838",
+                    "title": "トンネル"
+                  },
+                  {
+                    "url": "https://gamerch.com/blacksurvival/460841",
+                    "title": "洋弓場"
+                  }
+                ]
+              }
+            ]
+          ]
+        },
+        {
+          "context": [
+            "進級・製作（削除前の仕様）"
+          ],
+          "rows": [
+            [
+              {
+                "text": "⇒ 製作図",
+                "rowspan": 1,
+                "colspan": 4,
+                "links": []
+              }
+            ],
+            [
+              {
+                "text": "/ ホーリースイーパーガン [2]",
+                "rowspan": 4,
+                "colspan": 1,
+                "links": []
+              },
+              {
+                "text": "/ 長銃 [6]",
+                "rowspan": 3,
+                "colspan": 1,
+                "links": []
+              },
+              {
+                "text": "/ 火縄銃 [6]",
+                "rowspan": 2,
+                "colspan": 1,
+                "links": []
+              },
+              {
+                "text": "/ 竹",
+                "rowspan": 1,
+                "colspan": 1,
+                "links": []
+              }
+            ],
+            [
+              {
+                "text": "/ 火薬",
+                "rowspan": 1,
+                "colspan": 1,
+                "links": []
+              }
+            ],
+            [
+              {
+                "text": "/ 鉄パイプ",
+                "rowspan": 1,
+                "colspan": 1,
+                "links": []
+              }
+            ],
+            [
+              {
+                "text": "/ 十字架",
+                "rowspan": 1,
+                "colspan": 1,
+                "links": []
+              }
+            ]
+          ]
+        }
+      ],
+      "originalFinalVersionVerified": false
+    },
+    {
+      "id": "461272",
+      "url": "https://gamerch.com/blacksurvival/461272",
+      "nameJa": "眼帯",
+      "englishName": "Eyepatch",
+      "bilingualName": "眼帯 ／ Eyepatch",
+      "updatedAt": "2022/10/21 20:12",
+      "tables": [
+        {
+          "context": [
+            "アイテム情報"
+          ],
+          "rows": [
+            [
+              {
+                "text": "防具種",
+                "rowspan": 1,
+                "colspan": 1,
+                "links": []
+              },
+              {
+                "text": "防御力",
+                "rowspan": 1,
+                "colspan": 1,
+                "links": []
+              },
+              {
+                "text": "等級",
+                "rowspan": 1,
+                "colspan": 1,
+                "links": []
+              }
+            ],
+            [
+              {
+                "text": "頭",
+                "rowspan": 1,
+                "colspan": 1,
+                "links": []
+              },
+              {
+                "text": "10",
+                "rowspan": 1,
+                "colspan": 1,
+                "links": []
+              },
+              {
+                "text": "高級",
+                "rowspan": 1,
+                "colspan": 1,
+                "links": []
+              }
+            ]
+          ]
+        },
+        {
+          "context": [
+            "アイテム情報"
+          ],
+          "rows": [
+            [
+              {
+                "text": "オプション",
+                "rowspan": 1,
+                "colspan": 1,
+                "links": []
+              }
+            ],
+            [
+              {
+                "text": "被害軽減 -1",
+                "rowspan": 1,
+                "colspan": 1,
+                "links": []
+              }
+            ]
+          ]
+        },
+        {
+          "context": [
+            "必要材料（削除前の配置）"
+          ],
+          "rows": [
+            [
+              {
+                "text": "",
+                "rowspan": 1,
+                "colspan": 1,
+                "links": []
+              },
+              {
+                "text": "入手方法（ 配置数 ）",
+                "rowspan": 1,
+                "colspan": 1,
+                "links": []
+              }
+            ],
+            [
+              {
+                "text": "/ ゴム",
+                "rowspan": 1,
+                "colspan": 1,
+                "links": [
+                  {
+                    "url": "https://gamerch.com/blacksurvival/461638",
+                    "title": "ゴム"
+                  }
+                ]
+              },
+              {
+                "text": "浜辺（5）, 学校 （3）, 墓場（2）",
+                "rowspan": 1,
+                "colspan": 1,
+                "links": [
+                  {
+                    "url": "https://gamerch.com/blacksurvival/460844",
+                    "title": "浜辺"
+                  },
+                  {
+                    "url": "https://gamerch.com/blacksurvival/460835",
+                    "title": "学校"
+                  },
+                  {
+                    "url": "https://gamerch.com/blacksurvival/460837",
+                    "title": "墓場"
+                  }
+                ]
+              }
+            ],
+            [
+              {
+                "text": "/ 皮",
+                "rowspan": 1,
+                "colspan": 1,
+                "links": [
+                  {
+                    "url": "https://gamerch.com/blacksurvival/461639",
+                    "title": "皮"
+                  }
+                ]
+              },
+              {
+                "text": "森（6）, 洋弓場（3）, 寺（2）, 猟犬（野生動物）",
+                "rowspan": 1,
+                "colspan": 1,
+                "links": [
+                  {
+                    "url": "https://gamerch.com/blacksurvival/460843",
+                    "title": "森"
+                  },
+                  {
+                    "url": "https://gamerch.com/blacksurvival/460841",
+                    "title": "洋弓場"
+                  },
+                  {
+                    "url": "https://gamerch.com/blacksurvival/460839",
+                    "title": "寺"
+                  },
+                  {
+                    "url": "https://gamerch.com/blacksurvival/460777",
+                    "title": "猟犬"
+                  }
+                ]
+              }
+            ]
+          ]
+        },
+        {
+          "context": [
+            "進級・製作（削除前の仕様）"
+          ],
+          "rows": [
+            [
+              {
+                "text": "⇒ 製作図",
+                "rowspan": 1,
+                "colspan": 2,
+                "links": []
+              }
+            ],
+            [
+              {
+                "text": "/ 眼帯",
+                "rowspan": 2,
+                "colspan": 1,
+                "links": []
+              },
+              {
+                "text": "/ ゴム",
+                "rowspan": 1,
+                "colspan": 1,
+                "links": []
+              }
+            ],
+            [
+              {
+                "text": "/ 皮",
+                "rowspan": 1,
+                "colspan": 1,
+                "links": []
+              }
+            ]
+          ]
+        },
+        {
+          "context": [
+            "進級・製作（削除前の仕様）",
+            "進級先"
+          ],
+          "rows": [
+            [
+              {
+                "text": "頭",
+                "rowspan": 1,
+                "colspan": 1,
+                "links": []
+              },
+              {
+                "text": "DEF",
+                "rowspan": 1,
+                "colspan": 1,
+                "links": []
+              },
+              {
+                "text": "等級",
+                "rowspan": 1,
+                "colspan": 1,
+                "links": []
+              },
+              {
+                "text": "追加材料",
+                "rowspan": 1,
+                "colspan": 1,
+                "links": []
+              }
+            ],
+            [
+              {
+                "text": "/ 局長の片目眼帯",
+                "rowspan": 1,
+                "colspan": 1,
+                "links": [
+                  {
+                    "url": "https://gamerch.com/blacksurvival/461093",
+                    "title": "局長の片目眼帯"
+                  }
+                ]
+              },
+              {
+                "text": "28",
+                "rowspan": 1,
+                "colspan": 1,
+                "links": []
+              },
+              {
+                "text": "貴重",
+                "rowspan": 1,
+                "colspan": 1,
+                "links": []
+              },
+              {
+                "text": "はさみ",
+                "rowspan": 1,
+                "colspan": 1,
+                "links": [
+                  {
+                    "url": "https://gamerch.com/blacksurvival/460918",
+                    "title": "はさみ"
+                  }
+                ]
+              }
+            ]
+          ]
+        }
+      ],
+      "originalFinalVersionVerified": false
+    },
+    {
+      "id": "461359",
+      "url": "https://gamerch.com/blacksurvival/461359",
+      "nameJa": "粗末な銃",
+      "englishName": "Crude Gun",
+      "bilingualName": "粗末な銃 ／ Crude Gun",
+      "updatedAt": "2022/10/21 20:12",
+      "tables": [
+        {
+          "context": [
+            "アイテム情報"
+          ],
+          "rows": [
+            [
+              {
+                "text": "武器種",
+                "rowspan": 1,
+                "colspan": 1,
+                "links": []
+              },
+              {
+                "text": "攻撃力",
+                "rowspan": 1,
+                "colspan": 1,
+                "links": []
+              },
+              {
+                "text": "装填",
+                "rowspan": 1,
+                "colspan": 1,
+                "links": []
+              },
+              {
+                "text": "等級",
+                "rowspan": 1,
+                "colspan": 1,
+                "links": []
+              }
+            ],
+            [
+              {
+                "text": "銃",
+                "rowspan": 1,
+                "colspan": 1,
+                "links": []
+              },
+              {
+                "text": "6",
+                "rowspan": 1,
+                "colspan": 1,
+                "links": []
+              },
+              {
+                "text": "20発",
+                "rowspan": 1,
+                "colspan": 1,
+                "links": []
+              },
+              {
+                "text": "一般",
+                "rowspan": 1,
+                "colspan": 1,
+                "links": []
+              }
+            ]
+          ]
+        },
+        {
+          "context": [
+            "配置地域"
+          ],
+          "rows": [
+            [
+              {
+                "text": "地域",
+                "rowspan": 1,
+                "colspan": 1,
+                "links": []
+              },
+              {
+                "text": "配置数",
+                "rowspan": 1,
+                "colspan": 1,
+                "links": []
+              }
+            ],
+            [
+              {
+                "text": "/ 地下通路",
+                "rowspan": 1,
+                "colspan": 1,
+                "links": [
+                  {
+                    "url": "https://gamerch.com/blacksurvival/460822",
+                    "title": "地下通路"
+                  }
+                ]
+              },
+              {
+                "text": "１",
+                "rowspan": 1,
+                "colspan": 1,
+                "links": []
+              }
+            ]
+          ]
+        }
+      ],
+      "originalFinalVersionVerified": false
+    },
+    {
+      "id": "461486",
+      "url": "https://gamerch.com/blacksurvival/461486",
+      "nameJa": "野球ボールセット",
+      "englishName": "Baseball set",
+      "bilingualName": "野球ボールセット ／ Baseball set",
+      "updatedAt": "2022/10/21 20:12",
+      "tables": [
+        {
+          "context": [
+            "アイテム情報"
+          ],
+          "rows": [
+            [
+              {
+                "text": "武器種",
+                "rowspan": 1,
+                "colspan": 1,
+                "links": []
+              },
+              {
+                "text": "攻撃力",
+                "rowspan": 1,
+                "colspan": 1,
+                "links": []
+              },
+              {
+                "text": "個数",
+                "rowspan": 1,
+                "colspan": 1,
+                "links": []
+              },
+              {
+                "text": "等級",
+                "rowspan": 1,
+                "colspan": 1,
+                "links": []
+              }
+            ],
+            [
+              {
+                "text": "投げ",
+                "rowspan": 1,
+                "colspan": 1,
+                "links": []
+              },
+              {
+                "text": "6",
+                "rowspan": 1,
+                "colspan": 1,
+                "links": []
+              },
+              {
+                "text": "12個",
+                "rowspan": 1,
+                "colspan": 1,
+                "links": []
+              },
+              {
+                "text": "一般",
+                "rowspan": 1,
+                "colspan": 1,
+                "links": []
+              }
+            ]
+          ]
+        },
+        {
+          "context": [
+            "配置地域（削除前の配置）"
+          ],
+          "rows": [
+            [
+              {
+                "text": "地域",
+                "rowspan": 1,
+                "colspan": 1,
+                "links": []
+              },
+              {
+                "text": "配置数",
+                "rowspan": 1,
+                "colspan": 1,
+                "links": []
+              }
+            ],
+            [
+              {
+                "text": "/ 村会館",
+                "rowspan": 1,
+                "colspan": 1,
+                "links": [
+                  {
+                    "url": "https://gamerch.com/blacksurvival/460829",
+                    "title": "村会館"
+                  }
+                ]
+              },
+              {
+                "text": "４",
+                "rowspan": 1,
+                "colspan": 1,
+                "links": []
+              }
+            ],
+            [
+              {
+                "text": "/ 学校",
+                "rowspan": 1,
+                "colspan": 1,
+                "links": [
+                  {
+                    "url": "https://gamerch.com/blacksurvival/460835",
+                    "title": "学校"
+                  }
+                ]
+              },
+              {
+                "text": "３",
+                "rowspan": 1,
+                "colspan": 1,
+                "links": []
+              }
+            ],
+            [
+              {
+                "text": "/ スラム",
+                "rowspan": 1,
+                "colspan": 1,
+                "links": [
+                  {
+                    "url": "https://gamerch.com/blacksurvival/460825",
+                    "title": "スラム"
+                  }
+                ]
+              },
+              {
+                "text": "２",
+                "rowspan": 1,
+                "colspan": 1,
+                "links": []
+              }
+            ]
+          ]
+        }
+      ],
+      "originalFinalVersionVerified": false
+    },
+    {
+      "id": "461487",
+      "url": "https://gamerch.com/blacksurvival/461487",
+      "nameJa": "粗末なボール",
+      "englishName": "Crude Ball",
+      "bilingualName": "粗末なボール ／ Crude Ball",
+      "updatedAt": "2022/10/21 20:12",
+      "tables": [
+        {
+          "context": [
+            "アイテム情報"
+          ],
+          "rows": [
+            [
+              {
+                "text": "武器種",
+                "rowspan": 1,
+                "colspan": 1,
+                "links": []
+              },
+              {
+                "text": "攻撃力",
+                "rowspan": 1,
+                "colspan": 1,
+                "links": []
+              },
+              {
+                "text": "個数",
+                "rowspan": 1,
+                "colspan": 1,
+                "links": []
+              },
+              {
+                "text": "等級",
+                "rowspan": 1,
+                "colspan": 1,
+                "links": []
+              }
+            ],
+            [
+              {
+                "text": "投げ",
+                "rowspan": 1,
+                "colspan": 1,
+                "links": []
+              },
+              {
+                "text": "6",
+                "rowspan": 1,
+                "colspan": 1,
+                "links": []
+              },
+              {
+                "text": "20個",
+                "rowspan": 1,
+                "colspan": 1,
+                "links": []
+              },
+              {
+                "text": "一般",
+                "rowspan": 1,
+                "colspan": 1,
+                "links": []
+              }
+            ]
+          ]
+        },
+        {
+          "context": [
+            "配置地域"
+          ],
+          "rows": [
+            [
+              {
+                "text": "地域",
+                "rowspan": 1,
+                "colspan": 1,
+                "links": []
+              },
+              {
+                "text": "配置数",
+                "rowspan": 1,
+                "colspan": 1,
+                "links": []
+              }
+            ],
+            [
+              {
+                "text": "/ 地下通路",
+                "rowspan": 1,
+                "colspan": 1,
+                "links": [
+                  {
+                    "url": "https://gamerch.com/blacksurvival/460822",
+                    "title": "地下通路"
+                  }
+                ]
+              },
+              {
+                "text": "１",
+                "rowspan": 1,
+                "colspan": 1,
+                "links": []
+              }
+            ]
+          ]
+        }
+      ],
+      "originalFinalVersionVerified": false
+    },
+    {
+      "id": "461498",
+      "url": "https://gamerch.com/blacksurvival/461498",
+      "nameJa": "狙撃クロスボウ",
+      "englishName": "Sniper Crossbow",
+      "bilingualName": "狙撃クロスボウ ／ Sniper Crossbow",
+      "updatedAt": "2022/10/21 20:12",
+      "tables": [
+        {
+          "context": [
+            "アイテム情報"
+          ],
+          "rows": [
+            [
+              {
+                "text": "武器種",
+                "rowspan": 1,
+                "colspan": 1,
+                "links": []
+              },
+              {
+                "text": "攻撃力",
+                "rowspan": 1,
+                "colspan": 1,
+                "links": []
+              },
+              {
+                "text": "装填",
+                "rowspan": 1,
+                "colspan": 1,
+                "links": []
+              },
+              {
+                "text": "等級",
+                "rowspan": 1,
+                "colspan": 1,
+                "links": []
+              }
+            ],
+            [
+              {
+                "text": "弓",
+                "rowspan": 1,
+                "colspan": 1,
+                "links": []
+              },
+              {
+                "text": "38",
+                "rowspan": 1,
+                "colspan": 1,
+                "links": []
+              },
+              {
+                "text": "7発",
+                "rowspan": 1,
+                "colspan": 1,
+                "links": []
+              },
+              {
+                "text": "貴重",
+                "rowspan": 1,
+                "colspan": 1,
+                "links": []
+              }
+            ]
+          ]
+        },
+        {
+          "context": [
+            "必要材料（削除前のレシピ）"
+          ],
+          "rows": [
+            [
+              {
+                "text": "",
+                "rowspan": 1,
+                "colspan": 1,
+                "links": []
+              },
+              {
+                "text": "入手方法（ 配置数 ）",
+                "rowspan": 1,
+                "colspan": 1,
+                "links": []
+              }
+            ],
+            [
+              {
+                "text": "/ ヘビークロスボウ",
+                "rowspan": 1,
+                "colspan": 1,
+                "links": [
+                  {
+                    "url": "https://gamerch.com/blacksurvival/461510",
+                    "title": "ヘビークロスボウ"
+                  }
+                ]
+              },
+              {
+                "text": "洋弓場（3）",
+                "rowspan": 1,
+                "colspan": 1,
+                "links": [
+                  {
+                    "url": "https://gamerch.com/blacksurvival/460841",
+                    "title": "洋弓場"
+                  }
+                ]
+              }
+            ],
+            [
+              {
+                "text": "/ レーザーポインタ",
+                "rowspan": 1,
+                "colspan": 1,
+                "links": [
+                  {
+                    "url": "https://gamerch.com/blacksurvival/461632",
+                    "title": "レーザーポインタ"
+                  }
+                ]
+              },
+              {
+                "text": "工場（5）, 学校（3）",
+                "rowspan": 1,
+                "colspan": 1,
+                "links": [
+                  {
+                    "url": "https://gamerch.com/blacksurvival/460824",
+                    "title": "工場"
+                  },
+                  {
+                    "url": "https://gamerch.com/blacksurvival/460835",
+                    "title": "学校"
+                  }
+                ]
+              }
+            ]
+          ]
+        },
+        {
+          "context": [
+            "進級・製作（削除前のレシピ）"
+          ],
+          "rows": [
+            [
+              {
+                "text": "⇒ 製作図",
+                "rowspan": 1,
+                "colspan": 2,
+                "links": []
+              }
+            ],
+            [
+              {
+                "text": "/ 狙撃クロスボウ [7]",
+                "rowspan": 2,
+                "colspan": 1,
+                "links": []
+              },
+              {
+                "text": "/ ヘビークロスボウ [7]",
+                "rowspan": 1,
+                "colspan": 1,
+                "links": []
+              }
+            ],
+            [
+              {
+                "text": "/ レーザーポインタ",
+                "rowspan": 1,
+                "colspan": 1,
+                "links": []
+              }
+            ]
+          ]
+        },
+        {
+          "context": [
+            "進級・製作（削除前のレシピ）"
+          ],
+          "rows": [
+            [
+              {
+                "text": "製作から得る経験値/熟練度",
+                "rowspan": 1,
+                "colspan": 2,
+                "links": []
+              }
+            ],
+            [
+              {
+                "text": "EXP",
+                "rowspan": 1,
+                "colspan": 1,
+                "links": []
+              },
+              {
+                "text": "計 +2",
+                "rowspan": 1,
+                "colspan": 1,
+                "links": []
+              }
+            ],
+            [
+              {
+                "text": "熟練",
+                "rowspan": 1,
+                "colspan": 1,
+                "links": []
+              },
+              {
+                "text": "弓 +1",
+                "rowspan": 1,
+                "colspan": 1,
+                "links": []
+              }
+            ]
+          ]
+        }
+      ],
+      "originalFinalVersionVerified": false
+    },
+    {
+      "id": "461507",
+      "url": "https://gamerch.com/blacksurvival/461507",
+      "nameJa": "霹靂弓",
+      "englishName": "Mighty Bow",
+      "bilingualName": "霹靂弓 ／ Mighty Bow",
+      "updatedAt": "2022/10/21 20:12",
+      "tables": [
+        {
+          "context": [
+            "アイテム情報"
+          ],
+          "rows": [
+            [
+              {
+                "text": "武器種",
+                "rowspan": 1,
+                "colspan": 1,
+                "links": []
+              },
+              {
+                "text": "攻撃力",
+                "rowspan": 1,
+                "colspan": 1,
+                "links": []
+              },
+              {
+                "text": "装填",
+                "rowspan": 1,
+                "colspan": 1,
+                "links": []
+              },
+              {
+                "text": "等級",
+                "rowspan": 1,
+                "colspan": 1,
+                "links": []
+              }
+            ],
+            [
+              {
+                "text": "弓",
+                "rowspan": 1,
+                "colspan": 1,
+                "links": []
+              },
+              {
+                "text": "26",
+                "rowspan": 1,
+                "colspan": 1,
+                "links": []
+              },
+              {
+                "text": "7発",
+                "rowspan": 1,
+                "colspan": 1,
+                "links": []
+              },
+              {
+                "text": "高級",
+                "rowspan": 1,
+                "colspan": 1,
+                "links": []
+              }
+            ]
+          ]
+        },
+        {
+          "context": [
+            "必要材料（削除前の配置）"
+          ],
+          "rows": [
+            [
+              {
+                "text": "",
+                "rowspan": 1,
+                "colspan": 1,
+                "links": []
+              },
+              {
+                "text": "入手方法（ 配置数 ）",
+                "rowspan": 1,
+                "colspan": 1,
+                "links": []
+              }
+            ],
+            [
+              {
+                "text": "/ 枝",
+                "rowspan": 1,
+                "colspan": 1,
+                "links": [
+                  {
+                    "url": "https://gamerch.com/blacksurvival/461227",
+                    "title": "枝"
+                  }
+                ]
+              },
+              {
+                "text": "墓場（5）, 山道（5）, 森（3）",
+                "rowspan": 1,
+                "colspan": 1,
+                "links": [
+                  {
+                    "url": "https://gamerch.com/blacksurvival/460837",
+                    "title": "墓場"
+                  },
+                  {
+                    "url": "https://gamerch.com/blacksurvival/460836",
+                    "title": "山道"
+                  },
+                  {
+                    "url": "https://gamerch.com/blacksurvival/460843",
+                    "title": "森"
+                  }
+                ]
+              }
+            ],
+            [
+              {
+                "text": "/ ピアノ線",
+                "rowspan": 1,
+                "colspan": 1,
+                "links": [
+                  {
+                    "url": "https://gamerch.com/blacksurvival/461540",
+                    "title": "ピアノ線"
+                  }
+                ]
+              },
+              {
+                "text": "洋弓場（6）, 墓場（5）, 消防署（5）, 村会館（4）",
+                "rowspan": 1,
+                "colspan": 1,
+                "links": [
+                  {
+                    "url": "https://gamerch.com/blacksurvival/460841",
+                    "title": "洋弓場"
+                  },
+                  {
+                    "url": "https://gamerch.com/blacksurvival/460837",
+                    "title": "墓場"
+                  },
+                  {
+                    "url": "https://gamerch.com/blacksurvival/460830",
+                    "title": "消防署"
+                  },
+                  {
+                    "url": "https://gamerch.com/blacksurvival/460829",
+                    "title": "村会館"
+                  }
+                ]
+              }
+            ],
+            [
+              {
+                "text": "/ 火薬",
+                "rowspan": 1,
+                "colspan": 1,
+                "links": [
+                  {
+                    "url": "https://gamerch.com/blacksurvival/461643",
+                    "title": "火薬"
+                  }
+                ]
+              },
+              {
+                "text": "灯台（5）, トンネル（3）, 洋弓場（2）",
+                "rowspan": 1,
+                "colspan": 1,
+                "links": [
+                  {
+                    "url": "https://gamerch.com/blacksurvival/460840",
+                    "title": "灯台"
+                  },
+                  {
+                    "url": "https://gamerch.com/blacksurvival/460838",
+                    "title": "トンネル"
+                  },
+                  {
+                    "url": "https://gamerch.com/blacksurvival/460841",
+                    "title": "洋弓場"
+                  }
+                ]
+              }
+            ]
+          ]
+        },
+        {
+          "context": [
+            "進級・製作（削除前の仕様）"
+          ],
+          "rows": [
+            [
+              {
+                "text": "⇒ 製作図",
+                "rowspan": 1,
+                "colspan": 3,
+                "links": []
+              }
+            ],
+            [
+              {
+                "text": "/ 霹靂弓 [7]",
+                "rowspan": 3,
+                "colspan": 1,
+                "links": []
+              },
+              {
+                "text": "/ 木弓 [7]",
+                "rowspan": 2,
+                "colspan": 1,
+                "links": []
+              },
+              {
+                "text": "/ 枝",
+                "rowspan": 1,
+                "colspan": 1,
+                "links": []
+              }
+            ],
+            [
+              {
+                "text": "/ ピアノ線",
+                "rowspan": 1,
+                "colspan": 1,
+                "links": []
+              }
+            ],
+            [
+              {
+                "text": "/ 火薬",
+                "rowspan": 1,
+                "colspan": 1,
+                "links": []
+              }
+            ]
+          ]
+        },
+        {
+          "context": [
+            "進級・製作（削除前の仕様）"
+          ],
+          "rows": [
+            [
+              {
+                "text": "製作から得る経験値/熟練度",
+                "rowspan": 1,
+                "colspan": 2,
+                "links": []
+              }
+            ],
+            [
+              {
+                "text": "EXP",
+                "rowspan": 1,
+                "colspan": 1,
+                "links": []
+              },
+              {
+                "text": "計 +2",
+                "rowspan": 1,
+                "colspan": 1,
+                "links": []
+              }
+            ],
+            [
+              {
+                "text": "熟練",
+                "rowspan": 1,
+                "colspan": 1,
+                "links": []
+              },
+              {
+                "text": "弓 +1",
+                "rowspan": 1,
+                "colspan": 1,
+                "links": []
+              }
+            ]
+          ]
+        },
+        {
+          "context": [
+            "進級・製作（削除前の仕様）",
+            "進級先"
+          ],
+          "rows": [
+            [
+              {
+                "text": "弓",
+                "rowspan": 1,
+                "colspan": 1,
+                "links": []
+              },
+              {
+                "text": "ATK",
+                "rowspan": 1,
+                "colspan": 1,
+                "links": []
+              },
+              {
+                "text": "等級",
+                "rowspan": 1,
+                "colspan": 1,
+                "links": []
+              },
+              {
+                "text": "装填",
+                "rowspan": 1,
+                "colspan": 1,
+                "links": []
+              },
+              {
+                "text": "追加材料",
+                "rowspan": 1,
+                "colspan": 1,
+                "links": []
+              }
+            ],
+            [
+              {
+                "text": "/ エレメンタルボウ",
+                "rowspan": 1,
+                "colspan": 1,
+                "links": [
+                  {
+                    "url": "https://gamerch.com/blacksurvival/460980",
+                    "title": "エレメンタルボウ"
+                  }
+                ]
+              },
+              {
+                "text": "48",
+                "rowspan": 1,
+                "colspan": 1,
+                "links": []
+              },
+              {
+                "text": "英雄",
+                "rowspan": 1,
+                "colspan": 1,
+                "links": []
+              },
+              {
+                "text": "7発",
+                "rowspan": 1,
+                "colspan": 1,
+                "links": []
+              },
+              {
+                "text": "火矢",
+                "rowspan": 1,
+                "colspan": 1,
+                "links": [
+                  {
+                    "url": "https://gamerch.com/blacksurvival/461500",
+                    "title": "火矢"
+                  }
+                ]
+              }
+            ]
+          ]
+        }
+      ],
+      "originalFinalVersionVerified": false
+    },
+    {
+      "id": "461510",
+      "url": "https://gamerch.com/blacksurvival/461510",
+      "nameJa": "ヘビークロスボウ",
+      "englishName": "Heavy Crossbow",
+      "bilingualName": "ヘビークロスボウ ／ Heavy Crossbow",
+      "updatedAt": "2022/10/21 20:12",
+      "tables": [
+        {
+          "context": [
+            "アイテム情報"
+          ],
+          "rows": [
+            [
+              {
+                "text": "武器種",
+                "rowspan": 1,
+                "colspan": 1,
+                "links": []
+              },
+              {
+                "text": "攻撃力",
+                "rowspan": 1,
+                "colspan": 1,
+                "links": []
+              },
+              {
+                "text": "装填",
+                "rowspan": 1,
+                "colspan": 1,
+                "links": []
+              },
+              {
+                "text": "等級",
+                "rowspan": 1,
+                "colspan": 1,
+                "links": []
+              }
+            ],
+            [
+              {
+                "text": "弓",
+                "rowspan": 1,
+                "colspan": 1,
+                "links": []
+              },
+              {
+                "text": "24",
+                "rowspan": 1,
+                "colspan": 1,
+                "links": []
+              },
+              {
+                "text": "7発",
+                "rowspan": 1,
+                "colspan": 1,
+                "links": []
+              },
+              {
+                "text": "高級",
+                "rowspan": 1,
+                "colspan": 1,
+                "links": []
+              }
+            ]
+          ]
+        },
+        {
+          "context": [
+            "配置地域（削除前の配置）"
+          ],
+          "rows": [
+            [
+              {
+                "text": "地域",
+                "rowspan": 1,
+                "colspan": 1,
+                "links": []
+              },
+              {
+                "text": "配置数",
+                "rowspan": 1,
+                "colspan": 1,
+                "links": []
+              }
+            ],
+            [
+              {
+                "text": "/ 洋弓場",
+                "rowspan": 1,
+                "colspan": 1,
+                "links": [
+                  {
+                    "url": "https://gamerch.com/blacksurvival/460841",
+                    "title": "洋弓場"
+                  }
+                ]
+              },
+              {
+                "text": "３",
+                "rowspan": 1,
+                "colspan": 1,
+                "links": []
+              }
+            ]
+          ]
+        },
+        {
+          "context": [
+            "進級・製作",
+            "進級先（削除前の派生）"
+          ],
+          "rows": [
+            [
+              {
+                "text": "弓",
+                "rowspan": 1,
+                "colspan": 1,
+                "links": []
+              },
+              {
+                "text": "ATK",
+                "rowspan": 1,
+                "colspan": 1,
+                "links": []
+              },
+              {
+                "text": "等級",
+                "rowspan": 1,
+                "colspan": 1,
+                "links": []
+              },
+              {
+                "text": "装填",
+                "rowspan": 1,
+                "colspan": 1,
+                "links": []
+              },
+              {
+                "text": "追加材料",
+                "rowspan": 1,
+                "colspan": 1,
+                "links": []
+              }
+            ],
+            [
+              {
+                "text": "/ 狙撃クロスボウ",
+                "rowspan": 1,
+                "colspan": 1,
+                "links": [
+                  {
+                    "url": "https://gamerch.com/blacksurvival/461498",
+                    "title": "狙撃クロスボウ"
+                  }
+                ]
+              },
+              {
+                "text": "38",
+                "rowspan": 1,
+                "colspan": 1,
+                "links": []
+              },
+              {
+                "text": "貴重",
+                "rowspan": 1,
+                "colspan": 1,
+                "links": []
+              },
+              {
+                "text": "7発",
+                "rowspan": 1,
+                "colspan": 1,
+                "links": []
+              },
+              {
+                "text": "レーザーポインタ",
+                "rowspan": 1,
+                "colspan": 1,
+                "links": [
+                  {
+                    "url": "https://gamerch.com/blacksurvival/461632",
+                    "title": "レーザーポインタ"
+                  }
+                ]
+              }
+            ]
+          ]
+        }
+      ],
+      "originalFinalVersionVerified": false
+    },
+    {
+      "id": "461514",
+      "url": "https://gamerch.com/blacksurvival/461514",
+      "nameJa": "粗末な弓",
+      "englishName": "Crude Bow",
+      "bilingualName": "粗末な弓 ／ Crude Bow",
+      "updatedAt": "2022/10/21 20:12",
+      "tables": [
+        {
+          "context": [
+            "アイテム情報"
+          ],
+          "rows": [
+            [
+              {
+                "text": "武器種",
+                "rowspan": 1,
+                "colspan": 1,
+                "links": []
+              },
+              {
+                "text": "攻撃力",
+                "rowspan": 1,
+                "colspan": 1,
+                "links": []
+              },
+              {
+                "text": "装填",
+                "rowspan": 1,
+                "colspan": 1,
+                "links": []
+              },
+              {
+                "text": "等級",
+                "rowspan": 1,
+                "colspan": 1,
+                "links": []
+              }
+            ],
+            [
+              {
+                "text": "弓",
+                "rowspan": 1,
+                "colspan": 1,
+                "links": []
+              },
+              {
+                "text": "6",
+                "rowspan": 1,
+                "colspan": 1,
+                "links": []
+              },
+              {
+                "text": "20発",
+                "rowspan": 1,
+                "colspan": 1,
+                "links": []
+              },
+              {
+                "text": "一般",
+                "rowspan": 1,
+                "colspan": 1,
+                "links": []
+              }
+            ]
+          ]
+        },
+        {
+          "context": [
+            "配置地域"
+          ],
+          "rows": [
+            [
+              {
+                "text": "地域",
+                "rowspan": 1,
+                "colspan": 1,
+                "links": []
+              },
+              {
+                "text": "配置数",
+                "rowspan": 1,
+                "colspan": 1,
+                "links": []
+              }
+            ],
+            [
+              {
+                "text": "/ 地下通路",
+                "rowspan": 1,
+                "colspan": 1,
+                "links": [
+                  {
+                    "url": "https://gamerch.com/blacksurvival/460822",
+                    "title": "地下通路"
+                  }
+                ]
+              },
+              {
+                "text": "１",
+                "rowspan": 1,
+                "colspan": 1,
+                "links": []
+              }
+            ]
+          ]
+        }
+      ],
+      "originalFinalVersionVerified": false
+    },
+    {
+      "id": "461526",
+      "url": "https://gamerch.com/blacksurvival/461526",
+      "nameJa": "粗末なグローブ",
+      "englishName": "Crude Glove",
+      "bilingualName": "粗末なグローブ ／ Crude Glove",
+      "updatedAt": "2022/10/21 20:12",
+      "tables": [
+        {
+          "context": [
+            "アイテム情報"
+          ],
+          "rows": [
+            [
+              {
+                "text": "武器種",
+                "rowspan": 1,
+                "colspan": 1,
+                "links": []
+              },
+              {
+                "text": "攻撃力",
+                "rowspan": 1,
+                "colspan": 1,
+                "links": []
+              },
+              {
+                "text": "等級",
+                "rowspan": 1,
+                "colspan": 1,
+                "links": []
+              }
+            ],
+            [
+              {
+                "text": "拳法",
+                "rowspan": 1,
+                "colspan": 1,
+                "links": []
+              },
+              {
+                "text": "6",
+                "rowspan": 1,
+                "colspan": 1,
+                "links": []
+              },
+              {
+                "text": "一般",
+                "rowspan": 1,
+                "colspan": 1,
+                "links": []
+              }
+            ]
+          ]
+        },
+        {
+          "context": [
+            "配置地域"
+          ],
+          "rows": [
+            [
+              {
+                "text": "地域",
+                "rowspan": 1,
+                "colspan": 1,
+                "links": []
+              },
+              {
+                "text": "配置数",
+                "rowspan": 1,
+                "colspan": 1,
+                "links": []
+              }
+            ],
+            [
+              {
+                "text": "/ 地下通路",
+                "rowspan": 1,
+                "colspan": 1,
+                "links": [
+                  {
+                    "url": "https://gamerch.com/blacksurvival/460822",
+                    "title": "地下通路"
+                  }
+                ]
+              },
+              {
+                "text": "１",
+                "rowspan": 1,
+                "colspan": 1,
+                "links": []
+              }
+            ]
+          ]
+        }
+      ],
+      "originalFinalVersionVerified": false
+    },
+    {
+      "id": "461554",
+      "url": "https://gamerch.com/blacksurvival/461554",
+      "nameJa": "亀の服",
+      "englishName": "Turtle Dobok",
+      "bilingualName": "亀の服 ／ Turtle Dobok",
+      "updatedAt": "2022/10/21 20:12",
+      "tables": [
+        {
+          "context": [
+            "アイテム情報"
+          ],
+          "rows": [
+            [
+              {
+                "text": "防具種",
+                "rowspan": 1,
+                "colspan": 1,
+                "links": []
+              },
+              {
+                "text": "防御力",
+                "rowspan": 1,
+                "colspan": 1,
+                "links": []
+              },
+              {
+                "text": "等級",
+                "rowspan": 1,
+                "colspan": 1,
+                "links": []
+              }
+            ],
+            [
+              {
+                "text": "服",
+                "rowspan": 1,
+                "colspan": 1,
+                "links": []
+              },
+              {
+                "text": "15",
+                "rowspan": 1,
+                "colspan": 1,
+                "links": []
+              },
+              {
+                "text": "高級",
+                "rowspan": 1,
+                "colspan": 1,
+                "links": []
+              }
+            ]
+          ]
+        },
+        {
+          "context": [
+            "アイテム情報"
+          ],
+          "rows": [
+            [
+              {
+                "text": "オプション",
+                "rowspan": 1,
+                "colspan": 1,
+                "links": []
+              }
+            ],
+            [
+              {
+                "text": "被害軽減 -1",
+                "rowspan": 1,
+                "colspan": 1,
+                "links": []
+              }
+            ]
+          ]
+        },
+        {
+          "context": [
+            "必要材料（削除前の配置）"
+          ],
+          "rows": [
+            [
+              {
+                "text": "",
+                "rowspan": 1,
+                "colspan": 1,
+                "links": []
+              },
+              {
+                "text": "入手方法（ 配置数 ）",
+                "rowspan": 1,
+                "colspan": 1,
+                "links": []
+              }
+            ],
+            [
+              {
+                "text": "/ 僧服",
+                "rowspan": 1,
+                "colspan": 1,
+                "links": [
+                  {
+                    "url": "https://gamerch.com/blacksurvival/461559",
+                    "title": "僧服"
+                  }
+                ]
+              },
+              {
+                "text": "寺（6）",
+                "rowspan": 1,
+                "colspan": 1,
+                "links": [
+                  {
+                    "url": "https://gamerch.com/blacksurvival/460839",
+                    "title": "寺"
+                  }
+                ]
+              }
+            ],
+            [
+              {
+                "text": "/ 亀の甲羅",
+                "rowspan": 1,
+                "colspan": 1,
+                "links": [
+                  {
+                    "url": "https://gamerch.com/blacksurvival/461628",
+                    "title": "亀の甲羅"
+                  }
+                ]
+              },
+              {
+                "text": "池（5）, 浜辺（4）, 井戸（3）, 港（3）, 釣り（15%）, 神仙の釣竿（12%）",
+                "rowspan": 1,
+                "colspan": 1,
+                "links": [
+                  {
+                    "url": "https://gamerch.com/blacksurvival/460833",
+                    "title": "池"
+                  },
+                  {
+                    "url": "https://gamerch.com/blacksurvival/460844",
+                    "title": "浜辺"
+                  },
+                  {
+                    "url": "https://gamerch.com/blacksurvival/460845",
+                    "title": "井戸"
+                  },
+                  {
+                    "url": "https://gamerch.com/blacksurvival/460823",
+                    "title": "港"
+                  },
+                  {
+                    "url": "https://gamerch.com/blacksurvival/460764",
+                    "title": "釣り"
+                  },
+                  {
+                    "url": "https://gamerch.com/blacksurvival/461326",
+                    "title": "神仙の釣竿"
+                  }
+                ]
+              }
+            ]
+          ]
+        },
+        {
+          "context": [
+            "進級・製作（削除前の仕様）"
+          ],
+          "rows": [
+            [
+              {
+                "text": "⇒ 製作図",
+                "rowspan": 1,
+                "colspan": 2,
+                "links": []
+              }
+            ],
+            [
+              {
+                "text": "/ 亀の服",
+                "rowspan": 2,
+                "colspan": 1,
+                "links": []
+              },
+              {
+                "text": "/ 僧服",
+                "rowspan": 1,
+                "colspan": 1,
+                "links": []
+              }
+            ],
+            [
+              {
+                "text": "/ 亀の甲羅",
+                "rowspan": 1,
+                "colspan": 1,
+                "links": []
+              }
+            ]
+          ]
+        },
+        {
+          "context": [
+            "進級・製作（削除前の仕様）",
+            "進級先（削除前の仕様）"
+          ],
+          "rows": [
+            [
+              {
+                "text": "服",
+                "rowspan": 1,
+                "colspan": 1,
+                "links": []
+              },
+              {
+                "text": "DEF",
+                "rowspan": 1,
+                "colspan": 1,
+                "links": []
+              },
+              {
+                "text": "等級",
+                "rowspan": 1,
+                "colspan": 1,
+                "links": []
+              },
+              {
+                "text": "追加材料",
+                "rowspan": 1,
+                "colspan": 1,
+                "links": []
+              }
+            ],
+            [
+              {
+                "text": "/ 龍の道服",
+                "rowspan": 1,
+                "colspan": 1,
+                "links": [
+                  {
+                    "url": "https://gamerch.com/blacksurvival/461076",
+                    "title": "龍の道服"
+                  }
+                ]
+              },
+              {
+                "text": "55",
+                "rowspan": 1,
+                "colspan": 1,
+                "links": []
+              },
+              {
+                "text": "英雄",
+                "rowspan": 1,
+                "colspan": 1,
+                "links": []
+              },
+              {
+                "text": "チーパオ",
+                "rowspan": 1,
+                "colspan": 1,
+                "links": [
+                  {
+                    "url": "https://gamerch.com/blacksurvival/461547",
+                    "title": "チーパオ"
+                  }
+                ]
+              }
+            ]
+          ]
+        }
+      ],
+      "originalFinalVersionVerified": false
+    },
+    {
+      "id": "461567",
+      "url": "https://gamerch.com/blacksurvival/461567",
+      "nameJa": "バイクヘルメット",
+      "englishName": "Motorcycle Helmet",
+      "bilingualName": "バイクヘルメット ／ Motorcycle Helmet",
+      "updatedAt": "2022/10/21 20:12",
+      "tables": [
+        {
+          "context": [
+            "アイテム情報"
+          ],
+          "rows": [
+            [
+              {
+                "text": "防具種",
+                "rowspan": 1,
+                "colspan": 1,
+                "links": []
+              },
+              {
+                "text": "防御力",
+                "rowspan": 1,
+                "colspan": 1,
+                "links": []
+              },
+              {
+                "text": "等級",
+                "rowspan": 1,
+                "colspan": 1,
+                "links": []
+              }
+            ],
+            [
+              {
+                "text": "頭",
+                "rowspan": 1,
+                "colspan": 1,
+                "links": []
+              },
+              {
+                "text": "15",
+                "rowspan": 1,
+                "colspan": 1,
+                "links": []
+              },
+              {
+                "text": "高級",
+                "rowspan": 1,
+                "colspan": 1,
+                "links": []
+              }
+            ]
+          ]
+        },
+        {
+          "context": [
+            "アイテム情報"
+          ],
+          "rows": [
+            [
+              {
+                "text": "オプション",
+                "rowspan": 1,
+                "colspan": 1,
+                "links": []
+              }
+            ],
+            [
+              {
+                "text": "被害軽減 -1",
+                "rowspan": 1,
+                "colspan": 1,
+                "links": []
+              }
+            ]
+          ]
+        },
+        {
+          "context": [
+            "配置地域（削除前の仕様）"
+          ],
+          "rows": [
+            [
+              {
+                "text": "地域",
+                "rowspan": 1,
+                "colspan": 1,
+                "links": []
+              },
+              {
+                "text": "配置数",
+                "rowspan": 1,
+                "colspan": 1,
+                "links": []
+              }
+            ],
+            [
+              {
+                "text": "/ トンネル",
+                "rowspan": 1,
+                "colspan": 1,
+                "links": [
+                  {
+                    "url": "https://gamerch.com/blacksurvival/460838",
+                    "title": "トンネル"
+                  }
+                ]
+              },
+              {
+                "text": "２",
+                "rowspan": 1,
+                "colspan": 1,
+                "links": []
+              }
+            ]
+          ]
+        }
+      ],
+      "originalFinalVersionVerified": false
+    },
+    {
+      "id": "461568",
+      "url": "https://gamerch.com/blacksurvival/461568",
+      "nameJa": "チェーンコイフ",
+      "englishName": "Chain Coif",
+      "bilingualName": "チェーンコイフ ／ Chain Coif",
+      "updatedAt": "2022/10/21 20:12",
+      "tables": [
+        {
+          "context": [
+            "アイテム情報"
+          ],
+          "rows": [
+            [
+              {
+                "text": "防具種",
+                "rowspan": 1,
+                "colspan": 1,
+                "links": []
+              },
+              {
+                "text": "防御力",
+                "rowspan": 1,
+                "colspan": 1,
+                "links": []
+              },
+              {
+                "text": "等級",
+                "rowspan": 1,
+                "colspan": 1,
+                "links": []
+              }
+            ],
+            [
+              {
+                "text": "頭",
+                "rowspan": 1,
+                "colspan": 1,
+                "links": []
+              },
+              {
+                "text": "15",
+                "rowspan": 1,
+                "colspan": 1,
+                "links": []
+              },
+              {
+                "text": "高級",
+                "rowspan": 1,
+                "colspan": 1,
+                "links": []
+              }
+            ]
+          ]
+        },
+        {
+          "context": [
+            "アイテム情報"
+          ],
+          "rows": [
+            [
+              {
+                "text": "オプション",
+                "rowspan": 1,
+                "colspan": 1,
+                "links": []
+              }
+            ],
+            [
+              {
+                "text": "被害軽減 -1",
+                "rowspan": 1,
+                "colspan": 1,
+                "links": []
+              }
+            ]
+          ]
+        },
+        {
+          "context": [
+            "必要材料（削除前の仕様）"
+          ],
+          "rows": [
+            [
+              {
+                "text": "",
+                "rowspan": 1,
+                "colspan": 1,
+                "links": []
+              },
+              {
+                "text": "入手方法（ 配置数 ）",
+                "rowspan": 1,
+                "colspan": 1,
+                "links": []
+              }
+            ],
+            [
+              {
+                "text": "/ 帽子",
+                "rowspan": 1,
+                "colspan": 1,
+                "links": [
+                  {
+                    "url": "https://gamerch.com/blacksurvival/461579",
+                    "title": "帽子"
+                  }
+                ]
+              },
+              {
+                "text": "洋弓場（3）, 学校（2）",
+                "rowspan": 1,
+                "colspan": 1,
+                "links": [
+                  {
+                    "url": "https://gamerch.com/blacksurvival/460841",
+                    "title": "洋弓場"
+                  },
+                  {
+                    "url": "https://gamerch.com/blacksurvival/460835",
+                    "title": "学校"
+                  }
+                ]
+              }
+            ],
+            [
+              {
+                "text": "/ 鎖",
+                "rowspan": 1,
+                "colspan": 1,
+                "links": [
+                  {
+                    "url": "https://gamerch.com/blacksurvival/461218",
+                    "title": "鎖"
+                  }
+                ]
+              },
+              {
+                "text": "高級住宅街（5）, スラム（5）, ホテル（4）, 路地裏（3）",
+                "rowspan": 1,
+                "colspan": 1,
+                "links": [
+                  {
+                    "url": "https://gamerch.com/blacksurvival/460834",
+                    "title": "高級住宅街"
+                  },
+                  {
+                    "url": "https://gamerch.com/blacksurvival/460825",
+                    "title": "スラム"
+                  },
+                  {
+                    "url": "https://gamerch.com/blacksurvival/460826",
+                    "title": "ホテル"
+                  },
+                  {
+                    "url": "https://gamerch.com/blacksurvival/460828",
+                    "title": "路地裏"
+                  }
+                ]
+              }
+            ]
+          ]
+        },
+        {
+          "context": [
+            "進級・製作（削除前の仕様）"
+          ],
+          "rows": [
+            [
+              {
+                "text": "⇒ 製作図",
+                "rowspan": 1,
+                "colspan": 2,
+                "links": []
+              }
+            ],
+            [
+              {
+                "text": "/ チェーンコイフ",
+                "rowspan": 2,
+                "colspan": 1,
+                "links": []
+              },
+              {
+                "text": "/ 帽子",
+                "rowspan": 1,
+                "colspan": 1,
+                "links": []
+              }
+            ],
+            [
+              {
+                "text": "/ 鎖",
+                "rowspan": 1,
+                "colspan": 1,
+                "links": []
+              }
+            ]
+          ]
+        },
+        {
+          "context": [
+            "進級・製作（削除前の仕様）",
+            "進級先"
+          ],
+          "rows": [
+            [
+              {
+                "text": "頭",
+                "rowspan": 1,
+                "colspan": 1,
+                "links": []
+              },
+              {
+                "text": "DEF",
+                "rowspan": 1,
+                "colspan": 1,
+                "links": []
+              },
+              {
+                "text": "等級",
+                "rowspan": 1,
+                "colspan": 1,
+                "links": []
+              },
+              {
+                "text": "追加材料",
+                "rowspan": 1,
+                "colspan": 1,
+                "links": []
+              }
+            ],
+            [
+              {
+                "text": "/ 兜",
+                "rowspan": 1,
+                "colspan": 1,
+                "links": [
+                  {
+                    "url": "https://gamerch.com/blacksurvival/461091",
+                    "title": "兜"
+                  }
+                ]
+              },
+              {
+                "text": "30",
+                "rowspan": 1,
+                "colspan": 1,
+                "links": []
+              },
+              {
+                "text": "貴重",
+                "rowspan": 1,
+                "colspan": 1,
+                "links": []
+              },
+              {
+                "text": "仮面",
+                "rowspan": 1,
+                "colspan": 1,
+                "links": [
+                  {
+                    "url": "https://gamerch.com/blacksurvival/461575",
+                    "title": "仮面"
+                  }
+                ]
+              }
+            ],
+            [
+              {
+                "text": "/ ミスリルヘルム",
+                "rowspan": 1,
+                "colspan": 1,
+                "links": [
+                  {
+                    "url": "https://gamerch.com/blacksurvival/461087",
+                    "title": "ミスリルヘルム"
+                  }
+                ]
+              },
+              {
+                "text": "45",
+                "rowspan": 1,
+                "colspan": 1,
+                "links": []
+              },
+              {
+                "text": "英雄",
+                "rowspan": 1,
+                "colspan": 1,
+                "links": []
+              },
+              {
+                "text": "ミスリル",
+                "rowspan": 1,
+                "colspan": 1,
+                "links": [
+                  {
+                    "url": "https://gamerch.com/blacksurvival/461630",
+                    "title": "ミスリル"
+                  }
+                ]
+              }
+            ]
+          ]
+        }
+      ],
+      "originalFinalVersionVerified": false
+    },
+    {
+      "id": "461579",
+      "url": "https://gamerch.com/blacksurvival/461579",
+      "nameJa": "帽子",
+      "englishName": "Hat",
+      "bilingualName": "帽子 ／ Hat",
+      "updatedAt": "2022/10/21 20:12",
+      "tables": [
+        {
+          "context": [
+            "アイテム情報"
+          ],
+          "rows": [
+            [
+              {
+                "text": "防具種",
+                "rowspan": 1,
+                "colspan": 1,
+                "links": []
+              },
+              {
+                "text": "防御力",
+                "rowspan": 1,
+                "colspan": 1,
+                "links": []
+              },
+              {
+                "text": "等級",
+                "rowspan": 1,
+                "colspan": 1,
+                "links": []
+              }
+            ],
+            [
+              {
+                "text": "頭",
+                "rowspan": 1,
+                "colspan": 1,
+                "links": []
+              },
+              {
+                "text": "3",
+                "rowspan": 1,
+                "colspan": 1,
+                "links": []
+              },
+              {
+                "text": "一般",
+                "rowspan": 1,
+                "colspan": 1,
+                "links": []
+              }
+            ]
+          ]
+        },
+        {
+          "context": [
+            "配置地域（削除前の配置）"
+          ],
+          "rows": [
+            [
+              {
+                "text": "地域",
+                "rowspan": 1,
+                "colspan": 1,
+                "links": []
+              },
+              {
+                "text": "配置数",
+                "rowspan": 1,
+                "colspan": 1,
+                "links": []
+              }
+            ],
+            [
+              {
+                "text": "/ 洋弓場",
+                "rowspan": 1,
+                "colspan": 1,
+                "links": [
+                  {
+                    "url": "https://gamerch.com/blacksurvival/460841",
+                    "title": "洋弓場"
+                  }
+                ]
+              },
+              {
+                "text": "３",
+                "rowspan": 1,
+                "colspan": 1,
+                "links": []
+              }
+            ],
+            [
+              {
+                "text": "/ 学校",
+                "rowspan": 1,
+                "colspan": 1,
+                "links": [
+                  {
+                    "url": "https://gamerch.com/blacksurvival/460835",
+                    "title": "学校"
+                  }
+                ]
+              },
+              {
+                "text": "２",
+                "rowspan": 1,
+                "colspan": 1,
+                "links": []
+              }
+            ]
+          ]
+        },
+        {
+          "context": [
+            "進級・製作（削除前の仕様）",
+            "進級先"
+          ],
+          "rows": [
+            [
+              {
+                "text": "頭",
+                "rowspan": 1,
+                "colspan": 1,
+                "links": []
+              },
+              {
+                "text": "DEF",
+                "rowspan": 1,
+                "colspan": 1,
+                "links": []
+              },
+              {
+                "text": "等級",
+                "rowspan": 1,
+                "colspan": 1,
+                "links": []
+              },
+              {
+                "text": "追加材料",
+                "rowspan": 1,
+                "colspan": 1,
+                "links": []
+              }
+            ],
+            [
+              {
+                "text": "/ チェーンコイフ",
+                "rowspan": 1,
+                "colspan": 1,
+                "links": [
+                  {
+                    "url": "https://gamerch.com/blacksurvival/461568",
+                    "title": "チェーンコイフ"
+                  }
+                ]
+              },
+              {
+                "text": "15",
+                "rowspan": 1,
+                "colspan": 1,
+                "links": []
+              },
+              {
+                "text": "高級",
+                "rowspan": 1,
+                "colspan": 1,
+                "links": []
+              },
+              {
+                "text": "鎖",
+                "rowspan": 1,
+                "colspan": 1,
+                "links": [
+                  {
+                    "url": "https://gamerch.com/blacksurvival/461218",
+                    "title": "鎖"
+                  }
+                ]
+              }
+            ]
+          ]
+        }
+      ],
+      "originalFinalVersionVerified": false
+    },
+    {
+      "id": "461648",
+      "url": "https://gamerch.com/blacksurvival/461648",
+      "nameJa": "母さんがやめろって",
+      "englishName": null,
+      "bilingualName": null,
+      "updatedAt": "2022/10/21 20:12",
+      "tables": [
+        {
+          "context": [
+            "アイテム情報"
+          ],
+          "rows": [
+            [
+              {
+                "text": "武器種",
+                "rowspan": 1,
+                "colspan": 1,
+                "links": []
+              },
+              {
+                "text": "攻撃力",
+                "rowspan": 1,
+                "colspan": 1,
+                "links": []
+              },
+              {
+                "text": "個数",
+                "rowspan": 1,
+                "colspan": 1,
+                "links": []
+              },
+              {
+                "text": "等級",
+                "rowspan": 1,
+                "colspan": 1,
+                "links": []
+              }
+            ],
+            [
+              {
+                "text": "投げ",
+                "rowspan": 1,
+                "colspan": 1,
+                "links": []
+              },
+              {
+                "text": "500",
+                "rowspan": 1,
+                "colspan": 1,
+                "links": []
+              },
+              {
+                "text": "1個",
+                "rowspan": 1,
+                "colspan": 1,
+                "links": []
+              },
+              {
+                "text": "伝説",
+                "rowspan": 1,
+                "colspan": 1,
+                "links": []
+              }
+            ]
+          ]
+        },
+        {
+          "context": [
+            "必要材料（再現）"
+          ],
+          "rows": [
+            [
+              {
+                "text": "",
+                "rowspan": 1,
+                "colspan": 1,
+                "links": []
+              },
+              {
+                "text": "入手方法（ 配置数 ）",
+                "rowspan": 1,
+                "colspan": 1,
+                "links": []
+              }
+            ],
+            [
+              {
+                "text": "/ グラス",
+                "rowspan": 1,
+                "colspan": 1,
+                "links": [
+                  {
+                    "url": "https://gamerch.com/blacksurvival/461496",
+                    "title": "グラス"
+                  }
+                ]
+              },
+              {
+                "text": "路地裏（4）, 高級住宅街（4）, ホテル（4）, スラム（3）",
+                "rowspan": 1,
+                "colspan": 1,
+                "links": [
+                  {
+                    "url": "https://gamerch.com/blacksurvival/460828",
+                    "title": "路地裏"
+                  },
+                  {
+                    "url": "https://gamerch.com/blacksurvival/460834",
+                    "title": "高級住宅街"
+                  },
+                  {
+                    "url": "https://gamerch.com/blacksurvival/460826",
+                    "title": "ホテル"
+                  },
+                  {
+                    "url": "https://gamerch.com/blacksurvival/460825",
+                    "title": "スラム"
+                  }
+                ]
+              }
+            ],
+            [
+              {
+                "text": "/ 皿",
+                "rowspan": 1,
+                "colspan": 1,
+                "links": [
+                  {
+                    "url": "https://gamerch.com/blacksurvival/461495",
+                    "title": "皿"
+                  }
+                ]
+              },
+              {
+                "text": "路地裏（2）, ホテル（2）, 高級住宅街（1）",
+                "rowspan": 1,
+                "colspan": 1,
+                "links": [
+                  {
+                    "url": "https://gamerch.com/blacksurvival/460828",
+                    "title": "路地裏"
+                  },
+                  {
+                    "url": "https://gamerch.com/blacksurvival/460826",
+                    "title": "ホテル"
+                  },
+                  {
+                    "url": "https://gamerch.com/blacksurvival/460834",
+                    "title": "高級住宅街"
+                  }
+                ]
+              }
+            ],
+            [
+              {
+                "text": "/ 鍋",
+                "rowspan": 1,
+                "colspan": 1,
+                "links": [
+                  {
+                    "url": "https://gamerch.com/blacksurvival/461481",
+                    "title": "鍋"
+                  }
+                ]
+              },
+              {
+                "text": "スラム（4）, 高級住宅街（2）, 路地裏（2）, ホテル（2）",
+                "rowspan": 1,
+                "colspan": 1,
+                "links": [
+                  {
+                    "url": "https://gamerch.com/blacksurvival/460825",
+                    "title": "スラム"
+                  },
+                  {
+                    "url": "https://gamerch.com/blacksurvival/460834",
+                    "title": "高級住宅街"
+                  },
+                  {
+                    "url": "https://gamerch.com/blacksurvival/460828",
+                    "title": "路地裏"
+                  },
+                  {
+                    "url": "https://gamerch.com/blacksurvival/460826",
+                    "title": "ホテル"
+                  }
+                ]
+              }
+            ],
+            [
+              {
+                "text": "/ フライパン",
+                "rowspan": 1,
+                "colspan": 1,
+                "links": [
+                  {
+                    "url": "https://gamerch.com/blacksurvival/461222",
+                    "title": "フライパン"
+                  }
+                ]
+              },
+              {
+                "text": "スラム（3）, ホテル（2）",
+                "rowspan": 1,
+                "colspan": 1,
+                "links": [
+                  {
+                    "url": "https://gamerch.com/blacksurvival/460825",
+                    "title": "スラム"
+                  },
+                  {
+                    "url": "https://gamerch.com/blacksurvival/460826",
+                    "title": "ホテル"
+                  }
+                ]
+              }
+            ],
+            [
+              {
+                "text": "/ 包丁",
+                "rowspan": 1,
+                "colspan": 1,
+                "links": [
+                  {
+                    "url": "https://gamerch.com/blacksurvival/460916",
+                    "title": "包丁"
+                  }
+                ]
+              },
+              {
+                "text": "高級住宅街（4）, 路地裏（3）, スラム（3）, ホテル（3）",
+                "rowspan": 1,
+                "colspan": 1,
+                "links": [
+                  {
+                    "url": "https://gamerch.com/blacksurvival/460834",
+                    "title": "高級住宅街"
+                  },
+                  {
+                    "url": "https://gamerch.com/blacksurvival/460828",
+                    "title": "路地裏"
+                  },
+                  {
+                    "url": "https://gamerch.com/blacksurvival/460825",
+                    "title": "スラム"
+                  },
+                  {
+                    "url": "https://gamerch.com/blacksurvival/460826",
+                    "title": "ホテル"
+                  }
+                ]
+              }
+            ],
+            [
+              {
+                "text": "/ ダンボール",
+                "rowspan": 1,
+                "colspan": 1,
+                "links": [
+                  {
+                    "url": "https://gamerch.com/blacksurvival/461295",
+                    "title": "ダンボール"
+                  }
+                ]
+              },
+              {
+                "text": "トンネル（4）, 学校（3）, 池（3）",
+                "rowspan": 1,
+                "colspan": 1,
+                "links": [
+                  {
+                    "url": "https://gamerch.com/blacksurvival/460838",
+                    "title": "トンネル"
+                  },
+                  {
+                    "url": "https://gamerch.com/blacksurvival/460835",
+                    "title": "学校"
+                  },
+                  {
+                    "url": "https://gamerch.com/blacksurvival/460833",
+                    "title": "池"
+                  }
+                ]
+              }
+            ],
+            [
+              {
+                "text": "/ 厚い紙",
+                "rowspan": 1,
+                "colspan": 1,
+                "links": [
+                  {
+                    "url": "https://gamerch.com/blacksurvival/461633",
+                    "title": "厚い紙"
+                  }
+                ]
+              },
+              {
+                "text": "寺（4）, 洋弓場（4）, 村会館（3）",
+                "rowspan": 1,
+                "colspan": 1,
+                "links": [
+                  {
+                    "url": "https://gamerch.com/blacksurvival/460839",
+                    "title": "寺"
+                  },
+                  {
+                    "url": "https://gamerch.com/blacksurvival/460841",
+                    "title": "洋弓場"
+                  },
+                  {
+                    "url": "https://gamerch.com/blacksurvival/460829",
+                    "title": "村会館"
+                  }
+                ]
+              }
+            ],
+            [
+              {
+                "text": "/ 砥石",
+                "rowspan": 1,
+                "colspan": 1,
+                "links": [
+                  {
+                    "url": "https://gamerch.com/blacksurvival/461320",
+                    "title": "砥石"
+                  }
+                ]
+              },
+              {
+                "text": "トンネル（6）, 高級住宅街（5）, ホテル（5）, 港（4）",
+                "rowspan": 1,
+                "colspan": 1,
+                "links": [
+                  {
+                    "url": "https://gamerch.com/blacksurvival/460838",
+                    "title": "トンネル"
+                  },
+                  {
+                    "url": "https://gamerch.com/blacksurvival/460834",
+                    "title": "高級住宅街"
+                  },
+                  {
+                    "url": "https://gamerch.com/blacksurvival/460826",
+                    "title": "ホテル"
+                  },
+                  {
+                    "url": "https://gamerch.com/blacksurvival/460823",
+                    "title": "港"
+                  }
+                ]
+              }
+            ],
+            [
+              {
+                "text": "/ 軍手",
+                "rowspan": 1,
+                "colspan": 1,
+                "links": [
+                  {
+                    "url": "https://gamerch.com/blacksurvival/461315",
+                    "title": "軍手"
+                  }
+                ]
+              },
+              {
+                "text": "トンネル（7）, 路地裏（7）",
+                "rowspan": 1,
+                "colspan": 1,
+                "links": [
+                  {
+                    "url": "https://gamerch.com/blacksurvival/460838",
+                    "title": "トンネル"
+                  },
+                  {
+                    "url": "https://gamerch.com/blacksurvival/460828",
+                    "title": "路地裏"
+                  }
+                ]
+              }
+            ],
+            [
+              {
+                "text": "/ ゴム",
+                "rowspan": 1,
+                "colspan": 1,
+                "links": [
+                  {
+                    "url": "https://gamerch.com/blacksurvival/461638",
+                    "title": "ゴム"
+                  }
+                ]
+              },
+              {
+                "text": "浜辺（5）, 学校 （3）, 墓場（2）",
+                "rowspan": 1,
+                "colspan": 1,
+                "links": [
+                  {
+                    "url": "https://gamerch.com/blacksurvival/460844",
+                    "title": "浜辺"
+                  },
+                  {
+                    "url": "https://gamerch.com/blacksurvival/460835",
+                    "title": "学校"
+                  },
+                  {
+                    "url": "https://gamerch.com/blacksurvival/460837",
+                    "title": "墓場"
+                  }
+                ]
+              }
+            ]
+          ]
+        },
+        {
+          "context": [
+            "進級・製作（再現）"
+          ],
+          "rows": [
+            [
+              {
+                "text": "⇒ 製作図",
+                "rowspan": 1,
+                "colspan": 6,
+                "links": []
+              }
+            ],
+            [
+              {
+                "text": "/ 母さんがやめろって",
+                "rowspan": 10,
+                "colspan": 1,
+                "links": []
+              },
+              {
+                "text": "キッチン用品フルセット",
+                "rowspan": 6,
+                "colspan": 1,
+                "links": []
+              },
+              {
+                "text": "豊かな晩餐セット",
+                "rowspan": 4,
+                "colspan": 1,
+                "links": []
+              },
+              {
+                "text": "清潔な昼食セット",
+                "rowspan": 3,
+                "colspan": 1,
+                "links": []
+              },
+              {
+                "text": "簡単な朝食セット",
+                "rowspan": 2,
+                "colspan": 1,
+                "links": []
+              },
+              {
+                "text": "/ グラス",
+                "rowspan": 1,
+                "colspan": 1,
+                "links": []
+              }
+            ],
+            [
+              {
+                "text": "/ 皿（2）",
+                "rowspan": 1,
+                "colspan": 1,
+                "links": []
+              }
+            ],
+            [
+              {
+                "text": "/ 鍋",
+                "rowspan": 1,
+                "colspan": 1,
+                "links": []
+              }
+            ],
+            [
+              {
+                "text": "/ フライパン",
+                "rowspan": 1,
+                "colspan": 1,
+                "links": []
+              }
+            ],
+            [
+              {
+                "text": "厚手の箱",
+                "rowspan": 2,
+                "colspan": 1,
+                "links": []
+              },
+              {
+                "text": "/ ダンボール",
+                "rowspan": 1,
+                "colspan": 1,
+                "links": []
+              }
+            ],
+            [
+              {
+                "text": "/ 厚い紙",
+                "rowspan": 1,
+                "colspan": 1,
+                "links": []
+              }
+            ],
+            [
+              {
+                "text": "材料手入れ道具",
+                "rowspan": 4,
+                "colspan": 1,
+                "links": []
+              },
+              {
+                "text": "/ 切れ味のいい包丁",
+                "rowspan": 2,
+                "colspan": 1,
+                "links": []
+              },
+              {
+                "text": "/ 包丁",
+                "rowspan": 1,
+                "colspan": 1,
+                "links": []
+              }
+            ],
+            [
+              {
+                "text": "/ 砥石",
+                "rowspan": 1,
+                "colspan": 1,
+                "links": []
+              }
+            ],
+            [
+              {
+                "text": "/ ゴム手袋",
+                "rowspan": 2,
+                "colspan": 1,
+                "links": []
+              },
+              {
+                "text": "/ 軍手",
+                "rowspan": 1,
+                "colspan": 1,
+                "links": []
+              }
+            ],
+            [
+              {
+                "text": "/ ゴム",
+                "rowspan": 1,
+                "colspan": 1,
+                "links": []
+              }
+            ]
+          ]
+        }
+      ],
+      "originalFinalVersionVerified": false
+    }
+  ]
+}

@@ -1,0 +1,323 @@
+{
+  "categoryReports": [
+    {
+      "category": "Blade_Weapons",
+      "rows": 58,
+      "url": "https://blacksurvival.fandom.com/wiki/Blade_Weapons",
+      "access": "search_index_body"
+    },
+    {
+      "category": "Stab_Weapons",
+      "rows": 53,
+      "url": "https://blacksurvival.fandom.com/wiki/Stab_Weapons",
+      "access": "search_index_body"
+    },
+    {
+      "category": "Blunt_Weapons",
+      "rows": 63,
+      "url": "https://blacksurvival.fandom.com/wiki/Blunt_Weapons",
+      "access": "search_index_body"
+    },
+    {
+      "category": "Hand_Weapons",
+      "rows": 37,
+      "url": "https://blacksurvival.fandom.com/wiki/Hand_Weapons",
+      "access": "search_index_body"
+    },
+    {
+      "category": "Gun_Weapons",
+      "rows": 36,
+      "url": "https://blacksurvival.fandom.com/wiki/Gun_Weapons",
+      "access": "search_index_body"
+    },
+    {
+      "category": "Bow_Weapons",
+      "rows": 26,
+      "url": "https://blacksurvival.fandom.com/wiki/Bow_Weapons",
+      "access": "search_index_body"
+    },
+    {
+      "category": "Thrown_Weapons",
+      "rows": 59,
+      "url": "https://blacksurvival.fandom.com/wiki/Thrown_Weapons",
+      "access": "search_index_body"
+    },
+    {
+      "category": "Traps",
+      "rows": 26,
+      "url": "https://blacksurvival.fandom.com/wiki/Traps",
+      "access": "search_index_body"
+    },
+    {
+      "category": "Head_Armor",
+      "rows": 24,
+      "url": "https://blacksurvival.fandom.com/wiki/Head_Armor",
+      "access": "search_index_body"
+    },
+    {
+      "category": "Clothes",
+      "rows": 45,
+      "url": "https://blacksurvival.fandom.com/wiki/Clothes",
+      "access": "search_index_body"
+    },
+    {
+      "category": "Arm_Armor",
+      "rows": 28,
+      "url": "https://blacksurvival.fandom.com/wiki/Arm_Armor",
+      "access": "search_index_body"
+    },
+    {
+      "category": "Leg_Armor",
+      "rows": 21,
+      "url": "https://blacksurvival.fandom.com/wiki/Leg_Armor",
+      "access": "search_index_body"
+    },
+    {
+      "category": "Accessories",
+      "rows": 36,
+      "url": "https://blacksurvival.fandom.com/wiki/Accessories",
+      "access": "search_index_body"
+    },
+    {
+      "category": "Health_Foods",
+      "rows": 68,
+      "url": "https://blacksurvival.fandom.com/wiki/Health_Foods",
+      "access": "search_index_body"
+    },
+    {
+      "category": "Stamina_Foods",
+      "rows": 34,
+      "url": "https://blacksurvival.fandom.com/wiki/Stamina_Foods",
+      "access": "search_index_body"
+    },
+    {
+      "category": "Enhance_Items",
+      "rows": 4,
+      "url": "https://blacksurvival.fandom.com/wiki/Enhance_Items",
+      "access": "search_index_body"
+    },
+    {
+      "category": "Special_Items",
+      "rows": 12,
+      "url": "https://blacksurvival.fandom.com/wiki/Special_Items",
+      "access": "search_index_body"
+    },
+    {
+      "category": "Ingredients",
+      "rows": 47,
+      "url": "https://blacksurvival.fandom.com/wiki/Ingredients",
+      "access": "search_index_body"
+    }
+  ],
+  "uniqueItems": 644,
+  "itemRows": 677,
+  "parserErrors": [
+    {
+      "type": "column_count",
+      "category": "Thrown_Weapons",
+      "name": "White Chalk",
+      "actual": 7,
+      "expected": 8
+    },
+    {
+      "type": "column_count",
+      "category": "Head_Armor",
+      "name": "Hiking Hat",
+      "actual": 7,
+      "expected": 8
+    }
+  ],
+  "unresolvedIngredientReferences": [
+    {
+      "name": "Stone Ax",
+      "usedBy": "Iron Mace",
+      "source": "https://blacksurvival.fandom.com/wiki/Blunt_Weapons"
+    },
+    {
+      "name": "Bat",
+      "usedBy": "Spiked Bat",
+      "source": "https://blacksurvival.fandom.com/wiki/Blunt_Weapons"
+    },
+    {
+      "name": "Spear Handle,",
+      "usedBy": "Warhammer",
+      "source": "https://blacksurvival.fandom.com/wiki/Blunt_Weapons"
+    },
+    {
+      "name": "N/A",
+      "usedBy": "Nail",
+      "source": "https://blacksurvival.fandom.com/wiki/Enhance_Items"
+    },
+    {
+      "name": "N/A",
+      "usedBy": "Oil",
+      "source": "https://blacksurvival.fandom.com/wiki/Enhance_Items"
+    },
+    {
+      "name": "N/A",
+      "usedBy": "Whetstone",
+      "source": "https://blacksurvival.fandom.com/wiki/Enhance_Items"
+    },
+    {
+      "name": "Ammo Supply Aptitude",
+      "usedBy": "Crude Silencer",
+      "source": "https://blacksurvival.fandom.com/wiki/Special_Items"
+    }
+  ],
+  "characters": 53,
+  "charactersWithRestorationDiscrepancies": [
+    {
+      "name": "Celine",
+      "discrepancies": [
+        {
+          "stat": "DEF",
+          "field": "level18",
+          "indexed": 51.1,
+          "restoration": 54.5
+        }
+      ]
+    },
+    {
+      "name": "Elena",
+      "discrepancies": [
+        {
+          "stat": "ATK",
+          "field": "level1",
+          "indexed": 15,
+          "restoration": 11
+        },
+        {
+          "stat": "DEF",
+          "field": "level1",
+          "indexed": 14,
+          "restoration": 12
+        },
+        {
+          "stat": "HP",
+          "field": "level1",
+          "indexed": 118,
+          "restoration": 115
+        }
+      ]
+    },
+    {
+      "name": "Felix",
+      "discrepancies": [
+        {
+          "stat": "ATK",
+          "field": "level18",
+          "indexed": 58.8,
+          "restoration": 52.7
+        },
+        {
+          "stat": "DEF",
+          "field": "level18",
+          "indexed": 42.6,
+          "restoration": 44.8
+        }
+      ]
+    },
+    {
+      "name": "Fiora",
+      "discrepancies": [
+        {
+          "stat": "ATK",
+          "field": "level1",
+          "indexed": 14,
+          "restoration": 18
+        },
+        {
+          "stat": "DEF",
+          "field": "level1",
+          "indexed": 14,
+          "restoration": 12
+        }
+      ]
+    },
+    {
+      "name": "Jenny",
+      "discrepancies": [
+        {
+          "stat": "ATK",
+          "field": "level1",
+          "indexed": 14,
+          "restoration": 12
+        },
+        {
+          "stat": "ATK",
+          "field": "level18",
+          "indexed": 51.4,
+          "restoration": 49.4
+        }
+      ]
+    },
+    {
+      "name": "Lenox",
+      "discrepancies": [
+        {
+          "stat": "HP",
+          "field": "level18",
+          "indexed": 243,
+          "restoration": 226
+        }
+      ]
+    },
+    {
+      "name": "Li Dailin",
+      "discrepancies": [
+        {
+          "stat": "ATK",
+          "field": "level18",
+          "indexed": 55.1,
+          "restoration": 53.4
+        }
+      ]
+    },
+    {
+      "name": "Luke",
+      "discrepancies": [
+        {
+          "stat": "ATK",
+          "field": "level1",
+          "indexed": 16,
+          "restoration": 14
+        },
+        {
+          "stat": "ATK",
+          "field": "level18",
+          "indexed": 56.8,
+          "restoration": 54.8
+        }
+      ]
+    },
+    {
+      "name": "Magnus",
+      "discrepancies": [
+        {
+          "stat": "ATK",
+          "field": "level18",
+          "indexed": 56.8,
+          "restoration": 55.1
+        },
+        {
+          "stat": "DEF",
+          "field": "level18",
+          "indexed": 51.4,
+          "restoration": 48
+        }
+      ]
+    },
+    {
+      "name": "Nadine",
+      "discrepancies": [
+        {
+          "stat": "DEF",
+          "field": "level18",
+          "indexed": 47.7,
+          "restoration": 51.1
+        }
+      ]
+    }
+  ],
+  "missingMastery": []
+}

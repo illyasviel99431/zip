@@ -1,0 +1,347 @@
+{
+  "retrievedAt": "2026-11-01",
+  "characters": 53,
+  "skills": 106,
+  "charactersWith4Stats": 53,
+  "charactersWithLowerStarTables": 53,
+  "charactersWithStartingMastery": 53,
+  "characterStatDifferences": [
+    {
+      "name": "William",
+      "stat": "HP",
+      "indexed": [
+        128,
+        230
+      ],
+      "japanese": [
+        128,
+        213
+      ],
+      "indexedSource": "https://blacksurvival.fandom.com/wiki/Character_Stats",
+      "japaneseSource": "https://gamerch.com/blacksurvival/460736"
+    },
+    {
+      "name": "Jenny",
+      "stat": "ATK",
+      "indexed": [
+        14,
+        51.4
+      ],
+      "japanese": [
+        12,
+        49.4
+      ],
+      "indexedSource": "https://blacksurvival.fandom.com/wiki/Character_Stats",
+      "japaneseSource": "https://gamerch.com/blacksurvival/460738"
+    },
+    {
+      "name": "Nadine",
+      "stat": "DEF",
+      "indexed": [
+        12,
+        47.7
+      ],
+      "japanese": [
+        12,
+        51.1
+      ],
+      "indexedSource": "https://blacksurvival.fandom.com/wiki/Character_Stats",
+      "japaneseSource": "https://gamerch.com/blacksurvival/460742"
+    },
+    {
+      "name": "Magnus",
+      "stat": "ATK",
+      "indexed": [
+        16,
+        56.8
+      ],
+      "japanese": [
+        16,
+        55.1
+      ],
+      "indexedSource": "https://blacksurvival.fandom.com/wiki/Character_Stats",
+      "japaneseSource": "https://gamerch.com/blacksurvival/460750"
+    },
+    {
+      "name": "Magnus",
+      "stat": "DEF",
+      "indexed": [
+        14,
+        51.4
+      ],
+      "japanese": [
+        14,
+        48
+      ],
+      "indexedSource": "https://blacksurvival.fandom.com/wiki/Character_Stats",
+      "japaneseSource": "https://gamerch.com/blacksurvival/460750"
+    },
+    {
+      "name": "Li Dailin",
+      "stat": "ATK",
+      "indexed": [
+        16,
+        55.1
+      ],
+      "japanese": [
+        16,
+        53.4
+      ],
+      "indexedSource": "https://blacksurvival.fandom.com/wiki/Character_Stats",
+      "japaneseSource": "https://gamerch.com/blacksurvival/460752"
+    },
+    {
+      "name": "Lenox",
+      "stat": "HP",
+      "indexed": [
+        124,
+        243
+      ],
+      "japanese": [
+        124,
+        226
+      ],
+      "indexedSource": "https://blacksurvival.fandom.com/wiki/Character_Stats",
+      "japaneseSource": "https://gamerch.com/blacksurvival/460764"
+    },
+    {
+      "name": "Luke",
+      "stat": "ATK",
+      "indexed": [
+        16,
+        56.8
+      ],
+      "japanese": [
+        14,
+        54.8
+      ],
+      "indexedSource": "https://blacksurvival.fandom.com/wiki/Character_Stats",
+      "japaneseSource": "https://gamerch.com/blacksurvival/461174"
+    },
+    {
+      "name": "Rozzi",
+      "stat": "HP",
+      "indexed": [
+        124,
+        226
+      ],
+      "japanese": [
+        134,
+        236
+      ],
+      "indexedSource": "https://blacksurvival.fandom.com/wiki/Character_Stats",
+      "japaneseSource": "https://gamerch.com/blacksurvival/461259"
+    },
+    {
+      "name": "Celine",
+      "stat": "DEF",
+      "indexed": [
+        12,
+        51.1
+      ],
+      "japanese": [
+        12,
+        54.5
+      ],
+      "indexedSource": "https://blacksurvival.fandom.com/wiki/Character_Stats",
+      "japaneseSource": "https://gamerch.com/blacksurvival/462111"
+    }
+  ],
+  "growthErrors": [
+    {
+      "name": "Arda",
+      "stat": "ATK",
+      "level": 9,
+      "observed": 31.5,
+      "expectedFromPublishedGrowth": 31.6,
+      "source": "https://gamerch.com/blacksurvival/460756"
+    },
+    {
+      "name": "Adriana",
+      "stat": "ATK",
+      "level": 9,
+      "observed": 35.4,
+      "expectedFromPublishedGrowth": 34.6,
+      "source": "https://gamerch.com/blacksurvival/460761"
+    },
+    {
+      "name": "Adriana",
+      "stat": "ATK",
+      "level": 18,
+      "observed": 56.1,
+      "expectedFromPublishedGrowth": 54.4,
+      "source": "https://gamerch.com/blacksurvival/460761"
+    },
+    {
+      "name": "Bianca",
+      "stat": "ATK",
+      "level": 9,
+      "observed": 22.2,
+      "expectedFromPublishedGrowth": 29.6,
+      "source": "https://gamerch.com/blacksurvival/461848"
+    }
+  ],
+  "items": 662,
+  "currentCategorySnapshotItems": 641,
+  "deletedCategoryItems": 21,
+  "japaneseItemPagesRead": 662,
+  "nonItemLinksExcluded": [
+    {
+      "id": "461822",
+      "title": "エキオン"
+    }
+  ],
+  "indexedItems": 644,
+  "unmappedIndexedItems": [],
+  "itemsWithRarity": 662,
+  "itemsWithRecipeTrees": 467,
+  "itemsWithRequiredMaterialLocations": 461,
+  "itemsWithDirectLocationTables": 170,
+  "itemsWithEffectTables": 308,
+  "itemsWithCraftRewardTables": 468,
+  "itemsWithNumericDifferences": 52,
+  "unresolvedRecipeNames": [],
+  "finalOriginalPatchVerified": false,
+  "lowerStarGrowthErrors": [
+    {
+      "name": "Fiora",
+      "stat": "ATK",
+      "stars": 3,
+      "observedLevel18": 50.4,
+      "level1": 10,
+      "publishedGrowth": 2.4,
+      "expectedLevel18": 50.8,
+      "source": "https://gamerch.com/blacksurvival/460733"
+    },
+    {
+      "name": "Fiora",
+      "stat": "ATK",
+      "stars": 4,
+      "observedLevel18": 52.4,
+      "level1": 12,
+      "publishedGrowth": 2.4,
+      "expectedLevel18": 52.8,
+      "source": "https://gamerch.com/blacksurvival/460733"
+    },
+    {
+      "name": "XiuKai",
+      "stat": "ATK",
+      "stars": 4,
+      "observedLevel18": 58.4,
+      "level1": 11,
+      "publishedGrowth": 2.2,
+      "expectedLevel18": 48.4,
+      "source": "https://gamerch.com/blacksurvival/460741"
+    },
+    {
+      "name": "Aya",
+      "stat": "STA",
+      "stars": 1,
+      "observedLevel18": 204,
+      "level1": 104,
+      "publishedGrowth": 6,
+      "expectedLevel18": 206,
+      "source": "https://gamerch.com/blacksurvival/460743"
+    },
+    {
+      "name": "Leon",
+      "stat": "HP",
+      "stars": 4,
+      "observedLevel18": 233,
+      "level1": 146,
+      "publishedGrowth": 5,
+      "expectedLevel18": 231,
+      "source": "https://gamerch.com/blacksurvival/460749"
+    },
+    {
+      "name": "Shoichi",
+      "stat": "STA",
+      "stars": 1,
+      "observedLevel18": 184,
+      "level1": 112,
+      "publishedGrowth": 4,
+      "expectedLevel18": 180,
+      "source": "https://gamerch.com/blacksurvival/460755"
+    },
+    {
+      "name": "Arda",
+      "stat": "ATK",
+      "stars": 3,
+      "observedLevel18": 57.4,
+      "level1": 10,
+      "publishedGrowth": 2.2,
+      "expectedLevel18": 47.4,
+      "source": "https://gamerch.com/blacksurvival/460756"
+    },
+    {
+      "name": "Mai",
+      "stat": "ATK",
+      "stars": 1,
+      "observedLevel18": 43.4,
+      "level1": 6,
+      "publishedGrowth": 2.3,
+      "expectedLevel18": 45.1,
+      "source": "https://gamerch.com/blacksurvival/461009"
+    },
+    {
+      "name": "Mai",
+      "stat": "ATK",
+      "stars": 2,
+      "observedLevel18": 45.4,
+      "level1": 8,
+      "publishedGrowth": 2.3,
+      "expectedLevel18": 47.1,
+      "source": "https://gamerch.com/blacksurvival/461009"
+    },
+    {
+      "name": "Mai",
+      "stat": "ATK",
+      "stars": 3,
+      "observedLevel18": 47.4,
+      "level1": 10,
+      "publishedGrowth": 2.3,
+      "expectedLevel18": 49.1,
+      "source": "https://gamerch.com/blacksurvival/461009"
+    },
+    {
+      "name": "Mai",
+      "stat": "ATK",
+      "stars": 4,
+      "observedLevel18": 49.4,
+      "level1": 12,
+      "publishedGrowth": 2.3,
+      "expectedLevel18": 51.1,
+      "source": "https://gamerch.com/blacksurvival/461009"
+    },
+    {
+      "name": "Elena",
+      "stat": "DEF",
+      "stars": 2,
+      "observedLevel18": 42,
+      "level1": 6,
+      "publishedGrowth": 2,
+      "expectedLevel18": 40,
+      "source": "https://gamerch.com/blacksurvival/462224"
+    },
+    {
+      "name": "Elena",
+      "stat": "DEF",
+      "stars": 3,
+      "observedLevel18": 44,
+      "level1": 8,
+      "publishedGrowth": 2,
+      "expectedLevel18": 42,
+      "source": "https://gamerch.com/blacksurvival/462224"
+    },
+    {
+      "name": "Elena",
+      "stat": "DEF",
+      "stars": 4,
+      "observedLevel18": 46,
+      "level1": 10,
+      "publishedGrowth": 2,
+      "expectedLevel18": 44,
+      "source": "https://gamerch.com/blacksurvival/462224"
+    }
+  ]
+}

@@ -1,0 +1,3714 @@
+{
+  "scope": "53 original characters; restoration wiki snapshot, not final original verification",
+  "characters": [
+    {
+      "name": "Jackie",
+      "url": "https://wiki.projectlumia.com/characters/jackie.md",
+      "slug": "jackie",
+      "sourceKind": "restoration_wiki",
+      "retrievedAt": "2026-11-01T08:41:38.224Z",
+      "originalFinalVersionVerified": false,
+      "stats": {
+        "ATK": {
+          "level1": 18,
+          "level18": 55.4,
+          "growth": 2.2
+        },
+        "DEF": {
+          "level1": 12,
+          "level18": 49.4,
+          "growth": 2.2
+        },
+        "HP": {
+          "level1": 116,
+          "level18": 235,
+          "growth": 7
+        },
+        "STA": {
+          "level1": 116,
+          "level18": 201,
+          "growth": 5
+        }
+      },
+      "mastery": {
+        "Blunt": "D",
+        "Stab": "D",
+        "Blade": "D",
+        "Hand": "F",
+        "Bow": "F",
+        "Gun": "F",
+        "Throw": "F"
+      },
+      "skills": [
+        {
+          "type": "Passive Skill",
+          "name": "Bloodfest",
+          "cooldownSeconds": [],
+          "numericEvidence": [
+            "2 ",
+            "35 ",
+            "22 "
+          ],
+          "sourceTextCache": ".research-cache\\characters\\jackie-classic.txt"
+        },
+        {
+          "type": "Combat Skill",
+          "name": "Hide and Seek",
+          "cooldownSeconds": [
+            40
+          ],
+          "numericEvidence": [
+            "40 ",
+            "15 ",
+            "2 ",
+            "1 "
+          ],
+          "sourceTextCache": ".research-cache\\characters\\jackie-classic.txt"
+        }
+      ],
+      "issues": []
+    },
+    {
+      "name": "Fiora",
+      "url": "https://wiki.projectlumia.com/characters/fiora.md",
+      "slug": "fiora",
+      "sourceKind": "restoration_wiki",
+      "retrievedAt": "2026-11-01T08:41:38.225Z",
+      "originalFinalVersionVerified": false,
+      "stats": {
+        "ATK": {
+          "level1": 18,
+          "level18": 54.8,
+          "growth": 2.4
+        },
+        "DEF": {
+          "level1": 12,
+          "level18": 51.4,
+          "growth": 2.2
+        },
+        "HP": {
+          "level1": 116,
+          "level18": 235,
+          "growth": 7
+        },
+        "STA": {
+          "level1": 132,
+          "level18": 200,
+          "growth": 4
+        }
+      },
+      "mastery": {
+        "Blunt": "F",
+        "Stab": "D+",
+        "Blade": "F",
+        "Hand": "F",
+        "Bow": "F",
+        "Gun": "F",
+        "Throw": "F"
+      },
+      "skills": [
+        {
+          "type": "Passive Skill",
+          "name": "Weapon Polishing",
+          "cooldownSeconds": [],
+          "numericEvidence": [
+            "2 "
+          ],
+          "sourceTextCache": ".research-cache\\characters\\fiora-classic.txt"
+        },
+        {
+          "type": "Field Skill",
+          "name": "Contre-attaque",
+          "cooldownSeconds": [
+            70
+          ],
+          "numericEvidence": [
+            "70 ",
+            "1 ",
+            "12 ",
+            "8%",
+            "8 "
+          ],
+          "sourceTextCache": ".research-cache\\characters\\fiora-classic.txt"
+        }
+      ],
+      "issues": [
+        {
+          "type": "growth_mismatch",
+          "stat": "ATK",
+          "level1": 18,
+          "level18": 54.8,
+          "growth": 2.4
+        },
+        {
+          "type": "growth_mismatch",
+          "stat": "DEF",
+          "level1": 12,
+          "level18": 51.4,
+          "growth": 2.2
+        }
+      ]
+    },
+    {
+      "name": "Zahir",
+      "url": "https://wiki.projectlumia.com/characters/zahir.md",
+      "slug": "zahir",
+      "sourceKind": "restoration_wiki",
+      "retrievedAt": "2026-11-01T08:41:38.225Z",
+      "originalFinalVersionVerified": false,
+      "stats": {
+        "ATK": {
+          "level1": 12,
+          "level18": 52.8,
+          "growth": 2.4
+        },
+        "DEF": {
+          "level1": 18,
+          "level18": 55.4,
+          "growth": 2.2
+        },
+        "HP": {
+          "level1": 131,
+          "level18": 233,
+          "growth": 6
+        },
+        "STA": {
+          "level1": 112,
+          "level18": 214,
+          "growth": 6
+        }
+      },
+      "mastery": {
+        "Blunt": "F",
+        "Stab": "F",
+        "Blade": "E+",
+        "Hand": "F",
+        "Bow": "F",
+        "Gun": "F",
+        "Throw": "D+"
+      },
+      "skills": [
+        {
+          "type": "Passive Skill",
+          "name": "Damnation",
+          "cooldownSeconds": [],
+          "numericEvidence": [
+            "4 ",
+            "1",
+            "15"
+          ],
+          "sourceTextCache": ".research-cache\\characters\\zahir-classic.txt"
+        },
+        {
+          "type": "Field Skill",
+          "name": "Eye of Azrael",
+          "cooldownSeconds": [
+            60
+          ],
+          "numericEvidence": [
+            "60 ",
+            "20 ",
+            "100%"
+          ],
+          "sourceTextCache": ".research-cache\\characters\\zahir-classic.txt"
+        }
+      ],
+      "issues": []
+    },
+    {
+      "name": "HyunWoo",
+      "url": "https://wiki.projectlumia.com/characters/hyunwoo.md",
+      "slug": "hyunwoo",
+      "sourceKind": "restoration_wiki",
+      "retrievedAt": "2026-11-01T08:41:38.226Z",
+      "originalFinalVersionVerified": false,
+      "stats": {
+        "ATK": {
+          "level1": 12,
+          "level18": 46,
+          "growth": 2
+        },
+        "DEF": {
+          "level1": 14,
+          "level18": 58.2,
+          "growth": 2.6
+        },
+        "HP": {
+          "level1": 120,
+          "level18": 222,
+          "growth": 6
+        },
+        "STA": {
+          "level1": 100,
+          "level18": 168,
+          "growth": 4
+        }
+      },
+      "mastery": {
+        "Blunt": "F",
+        "Stab": "F",
+        "Blade": "F",
+        "Hand": "D",
+        "Bow": "F",
+        "Gun": "F",
+        "Throw": "F"
+      },
+      "skills": [
+        {
+          "type": "Passive Skill",
+          "name": "Brawler",
+          "cooldownSeconds": [
+            40
+          ],
+          "numericEvidence": [
+            "40 ",
+            "2 "
+          ],
+          "sourceTextCache": ".research-cache\\characters\\hyunwoo-classic.txt"
+        },
+        {
+          "type": "Combat Skill",
+          "name": "Dogfight",
+          "cooldownSeconds": [
+            15
+          ],
+          "numericEvidence": [
+            "15 ",
+            "110%",
+            "50%"
+          ],
+          "sourceTextCache": ".research-cache\\characters\\hyunwoo-classic.txt"
+        }
+      ],
+      "issues": []
+    },
+    {
+      "name": "William",
+      "url": "https://wiki.projectlumia.com/characters/william.md",
+      "slug": "william",
+      "sourceKind": "restoration_wiki",
+      "retrievedAt": "2026-11-01T08:41:38.227Z",
+      "originalFinalVersionVerified": false,
+      "stats": {
+        "ATK": {
+          "level1": 14,
+          "level18": 49.7,
+          "growth": 2.1
+        },
+        "DEF": {
+          "level1": 14,
+          "level18": 54.8,
+          "growth": 2.4
+        },
+        "HP": {
+          "level1": 128,
+          "level18": 230,
+          "growth": 6
+        },
+        "STA": {
+          "level1": 140,
+          "level18": 259,
+          "growth": 7
+        }
+      },
+      "mastery": {
+        "Blunt": "F",
+        "Stab": "F",
+        "Blade": "F",
+        "Hand": "F",
+        "Bow": "F",
+        "Gun": "F",
+        "Throw": "D+"
+      },
+      "skills": [
+        {
+          "type": "Passive Skill",
+          "name": "Inning Eater",
+          "cooldownSeconds": [],
+          "numericEvidence": [
+            "7 ",
+            "9"
+          ],
+          "sourceTextCache": ".research-cache\\characters\\william-classic.txt"
+        },
+        {
+          "type": "Combat Skill",
+          "name": "Breaking Ball",
+          "cooldownSeconds": [
+            40
+          ],
+          "numericEvidence": [
+            "40 ",
+            "100",
+            "15 ",
+            "101 ",
+            "150",
+            "7 ",
+            "151 ",
+            "200",
+            "15%",
+            "201"
+          ],
+          "sourceTextCache": ".research-cache\\characters\\william-classic.txt"
+        }
+      ],
+      "issues": []
+    },
+    {
+      "name": "Rosalio",
+      "url": "https://wiki.projectlumia.com/characters/rosalio.md",
+      "slug": "rosalio",
+      "sourceKind": "restoration_wiki",
+      "retrievedAt": "2026-11-01T08:41:38.227Z",
+      "originalFinalVersionVerified": false,
+      "stats": {
+        "ATK": {
+          "level1": 14,
+          "level18": 53.1,
+          "growth": 2.3
+        },
+        "DEF": {
+          "level1": 12,
+          "level18": 52.8,
+          "growth": 2.4
+        },
+        "HP": {
+          "level1": 132,
+          "level18": 217,
+          "growth": 5
+        },
+        "STA": {
+          "level1": 100,
+          "level18": 185,
+          "growth": 5
+        }
+      },
+      "mastery": {
+        "Blunt": "D+",
+        "Stab": "F",
+        "Blade": "F",
+        "Hand": "F",
+        "Bow": "F",
+        "Gun": "F",
+        "Throw": "F"
+      },
+      "skills": [
+        {
+          "type": "Passive Skill",
+          "name": "Home Run",
+          "cooldownSeconds": [],
+          "numericEvidence": [
+            "180%"
+          ],
+          "sourceTextCache": ".research-cache\\characters\\rosalio-classic.txt"
+        },
+        {
+          "type": "Combat Skill",
+          "name": "Clutch Hitter",
+          "cooldownSeconds": [
+            90
+          ],
+          "numericEvidence": [
+            "90 "
+          ],
+          "sourceTextCache": ".research-cache\\characters\\rosalio-classic.txt"
+        }
+      ],
+      "issues": []
+    },
+    {
+      "name": "Jenny",
+      "url": "https://wiki.projectlumia.com/characters/jenny.md",
+      "slug": "jenny",
+      "sourceKind": "restoration_wiki",
+      "retrievedAt": "2026-11-01T08:41:38.229Z",
+      "originalFinalVersionVerified": false,
+      "stats": {
+        "ATK": {
+          "level1": 12,
+          "level18": 49.4,
+          "growth": 2.2
+        },
+        "DEF": {
+          "level1": 16,
+          "level18": 53.4,
+          "growth": 2.2
+        },
+        "HP": {
+          "level1": 120,
+          "level18": 205,
+          "growth": 5
+        },
+        "STA": {
+          "level1": 104,
+          "level18": 189,
+          "growth": 5
+        }
+      },
+      "mastery": {
+        "Blunt": "F",
+        "Stab": "D",
+        "Blade": "F",
+        "Hand": "F",
+        "Bow": "F",
+        "Gun": "D",
+        "Throw": "F"
+      },
+      "skills": [
+        {
+          "type": "Passive Skill",
+          "name": "Play Dead",
+          "cooldownSeconds": [
+            540,
+            3
+          ],
+          "numericEvidence": [
+            "540 ",
+            "50 ",
+            "3 ",
+            "0%",
+            "70%"
+          ],
+          "sourceTextCache": ".research-cache\\characters\\jenny-classic.txt"
+        },
+        {
+          "type": "Combat Skill",
+          "name": "Revenge Play",
+          "cooldownSeconds": [
+            70
+          ],
+          "numericEvidence": [
+            "70 ",
+            "10%",
+            "50%"
+          ],
+          "sourceTextCache": ".research-cache\\characters\\jenny-classic.txt"
+        }
+      ],
+      "issues": []
+    },
+    {
+      "name": "JP",
+      "url": "https://wiki.projectlumia.com/characters/jp.md",
+      "slug": "jp",
+      "sourceKind": "restoration_wiki",
+      "retrievedAt": "2026-11-01T08:41:38.229Z",
+      "originalFinalVersionVerified": false,
+      "stats": {
+        "ATK": {
+          "level1": 14,
+          "level18": 54.8,
+          "growth": 2.4
+        },
+        "DEF": {
+          "level1": 12,
+          "level18": 46,
+          "growth": 2
+        },
+        "HP": {
+          "level1": 116,
+          "level18": 218,
+          "growth": 6
+        },
+        "STA": {
+          "level1": 116,
+          "level18": 184,
+          "growth": 4
+        }
+      },
+      "mastery": {
+        "Blunt": "D",
+        "Stab": "E",
+        "Blade": "E",
+        "Hand": "D",
+        "Bow": "E",
+        "Gun": "E",
+        "Throw": "E"
+      },
+      "skills": [
+        {
+          "type": "Passive Skill",
+          "name": "Hacking",
+          "cooldownSeconds": [],
+          "numericEvidence": [],
+          "sourceTextCache": ".research-cache\\characters\\jp-classic.txt"
+        },
+        {
+          "type": "Field Skill",
+          "name": "Infrared Vision",
+          "cooldownSeconds": [
+            80
+          ],
+          "numericEvidence": [
+            "80 ",
+            "18 ",
+            "30%"
+          ],
+          "sourceTextCache": ".research-cache\\characters\\jp-classic.txt"
+        }
+      ],
+      "issues": []
+    },
+    {
+      "name": "XiuKai",
+      "url": "https://wiki.projectlumia.com/characters/xiukai.md",
+      "slug": "xiukai",
+      "sourceKind": "restoration_wiki",
+      "retrievedAt": "2026-11-01T08:41:38.229Z",
+      "originalFinalVersionVerified": false,
+      "stats": {
+        "ATK": {
+          "level1": 13,
+          "level18": 50.4,
+          "growth": 2.2
+        },
+        "DEF": {
+          "level1": 14,
+          "level18": 51.4,
+          "growth": 2.2
+        },
+        "HP": {
+          "level1": 136,
+          "level18": 238,
+          "growth": 6
+        },
+        "STA": {
+          "level1": 104,
+          "level18": 172,
+          "growth": 4
+        }
+      },
+      "mastery": {
+        "Blunt": "F",
+        "Stab": "F",
+        "Blade": "D+",
+        "Hand": "F",
+        "Bow": "F",
+        "Gun": "F",
+        "Throw": "F"
+      },
+      "skills": [
+        {
+          "type": "Passive Skill",
+          "name": "Gourmand",
+          "cooldownSeconds": [],
+          "numericEvidence": [
+            "15%"
+          ],
+          "sourceTextCache": ".research-cache\\characters\\xiukai-classic.txt"
+        },
+        {
+          "type": "Field Skill",
+          "name": "Feeling Hot!",
+          "cooldownSeconds": [
+            70
+          ],
+          "numericEvidence": [
+            "70 ",
+            "2 ",
+            "10%",
+            "30 ",
+            "20%"
+          ],
+          "sourceTextCache": ".research-cache\\characters\\xiukai-classic.txt"
+        }
+      ],
+      "issues": []
+    },
+    {
+      "name": "Nadine",
+      "url": "https://wiki.projectlumia.com/characters/nadine.md",
+      "slug": "nadine",
+      "sourceKind": "restoration_wiki",
+      "retrievedAt": "2026-11-01T08:41:38.231Z",
+      "originalFinalVersionVerified": false,
+      "stats": {
+        "ATK": {
+          "level1": 16,
+          "level18": 43.2,
+          "growth": 1.6
+        },
+        "DEF": {
+          "level1": 12,
+          "level18": 51.1,
+          "growth": 2.3
+        },
+        "HP": {
+          "level1": 124,
+          "level18": 226,
+          "growth": 6
+        },
+        "STA": {
+          "level1": 120,
+          "level18": 222,
+          "growth": 6
+        }
+      },
+      "mastery": {
+        "Blunt": "F",
+        "Stab": "F",
+        "Blade": "F",
+        "Hand": "F",
+        "Bow": "D+",
+        "Gun": "F",
+        "Throw": "F"
+      },
+      "skills": [
+        {
+          "type": "Field Skill",
+          "name": "Hunter's Sight",
+          "cooldownSeconds": [
+            15
+          ],
+          "numericEvidence": [
+            "15 ",
+            "10 ",
+            "1 ",
+            "0.7"
+          ],
+          "sourceTextCache": ".research-cache\\characters\\nadine-classic.txt"
+        },
+        {
+          "type": "Combat Skill",
+          "name": "Bullseye",
+          "cooldownSeconds": [
+            40
+          ],
+          "numericEvidence": [
+            "40 ",
+            "110 "
+          ],
+          "sourceTextCache": ".research-cache\\characters\\nadine-classic.txt"
+        }
+      ],
+      "issues": []
+    },
+    {
+      "name": "Aya",
+      "url": "https://wiki.projectlumia.com/characters/aya.md",
+      "slug": "aya",
+      "sourceKind": "restoration_wiki",
+      "retrievedAt": "2026-11-01T08:41:38.231Z",
+      "originalFinalVersionVerified": false,
+      "stats": {
+        "ATK": {
+          "level1": 14,
+          "level18": 49.7,
+          "growth": 2.1
+        },
+        "DEF": {
+          "level1": 14,
+          "level18": 51.4,
+          "growth": 2.2
+        },
+        "HP": {
+          "level1": 128,
+          "level18": 230,
+          "growth": 6
+        },
+        "STA": {
+          "level1": 120,
+          "level18": 222,
+          "growth": 6
+        }
+      },
+      "mastery": {
+        "Blunt": "F",
+        "Stab": "F",
+        "Blade": "F",
+        "Hand": "F",
+        "Bow": "F",
+        "Gun": "D+",
+        "Throw": "F"
+      },
+      "skills": [
+        {
+          "type": "Field Skill",
+          "name": "Justice",
+          "cooldownSeconds": [
+            90
+          ],
+          "numericEvidence": [
+            "90 ",
+            "7",
+            "5 "
+          ],
+          "sourceTextCache": ".research-cache\\characters\\aya-classic.txt"
+        },
+        {
+          "type": "Combat Skill",
+          "name": "Bullseye",
+          "cooldownSeconds": [
+            50
+          ],
+          "numericEvidence": [
+            "50 ",
+            "2 ",
+            "50%"
+          ],
+          "sourceTextCache": ".research-cache\\characters\\aya-classic.txt"
+        }
+      ],
+      "issues": []
+    },
+    {
+      "name": "Hyejin",
+      "url": "https://wiki.projectlumia.com/characters/hyejin.md",
+      "slug": "hyejin",
+      "sourceKind": "restoration_wiki",
+      "retrievedAt": "2026-11-01T08:41:38.231Z",
+      "originalFinalVersionVerified": false,
+      "stats": {
+        "ATK": {
+          "level1": 12,
+          "level18": 54.5,
+          "growth": 2.5
+        },
+        "DEF": {
+          "level1": 12,
+          "level18": 52.8,
+          "growth": 2.4
+        },
+        "HP": {
+          "level1": 136,
+          "level18": 238,
+          "growth": 6
+        },
+        "STA": {
+          "level1": 112,
+          "level18": 214,
+          "growth": 6
+        }
+      },
+      "mastery": {
+        "Blunt": "F",
+        "Stab": "F",
+        "Blade": "F",
+        "Hand": "D",
+        "Bow": "D",
+        "Gun": "F",
+        "Throw": "F"
+      },
+      "skills": [
+        {
+          "type": "Passive Skill",
+          "name": "Tit for Tat",
+          "cooldownSeconds": [],
+          "numericEvidence": [
+            "20%",
+            "3"
+          ],
+          "sourceTextCache": ".research-cache\\characters\\hyejin-classic.txt"
+        },
+        {
+          "type": "Field Skill",
+          "name": "Omen",
+          "cooldownSeconds": [
+            80
+          ],
+          "numericEvidence": [
+            "80 ",
+            "1 ",
+            "20 ",
+            "10 ",
+            "2 ",
+            "100%"
+          ],
+          "sourceTextCache": ".research-cache\\characters\\hyejin-classic.txt"
+        }
+      ],
+      "issues": []
+    },
+    {
+      "name": "Alex",
+      "url": "https://wiki.projectlumia.com/characters/alex.md",
+      "slug": "alex",
+      "sourceKind": "restoration_wiki",
+      "retrievedAt": "2026-11-01T08:41:38.232Z",
+      "originalFinalVersionVerified": false,
+      "stats": {
+        "ATK": {
+          "level1": 16,
+          "level18": 53.4,
+          "growth": 2.2
+        },
+        "DEF": {
+          "level1": 16,
+          "level18": 53.4,
+          "growth": 2.2
+        },
+        "HP": {
+          "level1": 124,
+          "level18": 243,
+          "growth": 7
+        },
+        "STA": {
+          "level1": 124,
+          "level18": 192,
+          "growth": 4
+        }
+      },
+      "mastery": {
+        "Blunt": "D",
+        "Stab": "D",
+        "Blade": "D",
+        "Hand": "D",
+        "Bow": "D",
+        "Gun": "D",
+        "Throw": "D"
+      },
+      "skills": [
+        {
+          "type": "Field Skill",
+          "name": "Stealth",
+          "cooldownSeconds": [
+            60
+          ],
+          "numericEvidence": [
+            "60 ",
+            "1 ",
+            "10 ",
+            "90%"
+          ],
+          "sourceTextCache": ".research-cache\\characters\\alex-classic.txt"
+        },
+        {
+          "type": "Combat Skill",
+          "name": "Desperate Throw",
+          "cooldownSeconds": [
+            40
+          ],
+          "numericEvidence": [
+            "40 ",
+            "15 ",
+            "20 ",
+            "25 ",
+            "35 ",
+            "45",
+            "50%"
+          ],
+          "sourceTextCache": ".research-cache\\characters\\alex-classic.txt"
+        }
+      ],
+      "issues": []
+    },
+    {
+      "name": "Cathy",
+      "url": "https://wiki.projectlumia.com/characters/cathy.md",
+      "slug": "cathy",
+      "sourceKind": "restoration_wiki",
+      "retrievedAt": "2026-11-01T08:41:38.232Z",
+      "originalFinalVersionVerified": false,
+      "stats": {
+        "ATK": {
+          "level1": 12,
+          "level18": 52.8,
+          "growth": 2.4
+        },
+        "DEF": {
+          "level1": 12,
+          "level18": 49.4,
+          "growth": 2.2
+        },
+        "HP": {
+          "level1": 128,
+          "level18": 247,
+          "growth": 7
+        },
+        "STA": {
+          "level1": 116,
+          "level18": 201,
+          "growth": 5
+        }
+      },
+      "mastery": {
+        "Blunt": "F~D+",
+        "Stab": "F~D+",
+        "Blade": "F~D+",
+        "Hand": "F~D+",
+        "Bow": "F~D+",
+        "Gun": "F~D+",
+        "Throw": "F~D+"
+      },
+      "skills": [
+        {
+          "type": "Passive Skill",
+          "name": "Speedy Recovery",
+          "cooldownSeconds": [],
+          "numericEvidence": [
+            "1.5 ",
+            "10 "
+          ],
+          "sourceTextCache": ".research-cache\\characters\\cathy-classic.txt"
+        },
+        {
+          "type": "Combat Skill",
+          "name": "Arteriotomy",
+          "cooldownSeconds": [
+            90
+          ],
+          "numericEvidence": [
+            "90 ",
+            "6 ",
+            "8 ",
+            "5 "
+          ],
+          "sourceTextCache": ".research-cache\\characters\\cathy-classic.txt"
+        }
+      ],
+      "issues": []
+    },
+    {
+      "name": "Barbara",
+      "url": "https://wiki.projectlumia.com/characters/barbara.md",
+      "slug": "barbara",
+      "sourceKind": "restoration_wiki",
+      "retrievedAt": "2026-11-01T08:41:38.233Z",
+      "originalFinalVersionVerified": false,
+      "stats": {
+        "ATK": {
+          "level1": 12,
+          "level18": 40.9,
+          "growth": 1.7
+        },
+        "DEF": {
+          "level1": 12,
+          "level18": 40.9,
+          "growth": 1.7
+        },
+        "HP": {
+          "level1": 140,
+          "level18": 225,
+          "growth": 5
+        },
+        "STA": {
+          "level1": 132,
+          "level18": 251,
+          "growth": 7
+        }
+      },
+      "mastery": {
+        "Blunt": "D",
+        "Stab": "F",
+        "Blade": "E",
+        "Hand": "F",
+        "Bow": "F",
+        "Gun": "F",
+        "Throw": "F"
+      },
+      "skills": [
+        {
+          "type": "Field Skill",
+          "name": "Turret Drone",
+          "cooldownSeconds": [],
+          "numericEvidence": [],
+          "sourceTextCache": ".research-cache\\characters\\barbara-classic.txt"
+        },
+        {
+          "type": "Passive Skill",
+          "name": "Body Modification",
+          "cooldownSeconds": [],
+          "numericEvidence": [
+            "1",
+            "3",
+            "6",
+            "11",
+            "15"
+          ],
+          "sourceTextCache": ".research-cache\\characters\\barbara-classic.txt"
+        }
+      ],
+      "issues": []
+    },
+    {
+      "name": "Isol",
+      "url": "https://wiki.projectlumia.com/characters/isol.md",
+      "slug": "isol",
+      "sourceKind": "restoration_wiki",
+      "retrievedAt": "2026-11-01T08:41:38.234Z",
+      "originalFinalVersionVerified": false,
+      "stats": {
+        "ATK": {
+          "level1": 14,
+          "level18": 58.2,
+          "growth": 2.6
+        },
+        "DEF": {
+          "level1": 16,
+          "level18": 53.4,
+          "growth": 2.2
+        },
+        "HP": {
+          "level1": 136,
+          "level18": 221,
+          "growth": 5
+        },
+        "STA": {
+          "level1": 131,
+          "level18": 250,
+          "growth": 7
+        }
+      },
+      "mastery": {
+        "Blunt": "F",
+        "Stab": "D",
+        "Blade": "F",
+        "Hand": "F",
+        "Bow": "D",
+        "Gun": "D",
+        "Throw": "F"
+      },
+      "skills": [
+        {
+          "type": "Passive Skill",
+          "name": "Guerrilla Warfare",
+          "cooldownSeconds": [],
+          "numericEvidence": [
+            "1%",
+            "3%",
+            "5%",
+            "7%",
+            "9%"
+          ],
+          "sourceTextCache": ".research-cache\\characters\\isol-classic.txt"
+        },
+        {
+          "type": "Field Skill",
+          "name": "Recollection",
+          "cooldownSeconds": [
+            30
+          ],
+          "numericEvidence": [
+            "30 ",
+            "15 ",
+            "10 "
+          ],
+          "sourceTextCache": ".research-cache\\characters\\isol-classic.txt"
+        }
+      ],
+      "issues": []
+    },
+    {
+      "name": "Leon",
+      "url": "https://wiki.projectlumia.com/characters/leon.md",
+      "slug": "leon",
+      "sourceKind": "restoration_wiki",
+      "retrievedAt": "2026-11-01T08:41:38.235Z",
+      "originalFinalVersionVerified": false,
+      "stats": {
+        "ATK": {
+          "level1": 14,
+          "level18": 48,
+          "growth": 2
+        },
+        "DEF": {
+          "level1": 16,
+          "level18": 50,
+          "growth": 2
+        },
+        "HP": {
+          "level1": 152,
+          "level18": 237,
+          "growth": 5
+        },
+        "STA": {
+          "level1": 130,
+          "level18": 232,
+          "growth": 6
+        }
+      },
+      "mastery": {
+        "Blunt": "F",
+        "Stab": "F",
+        "Blade": "F",
+        "Hand": "D",
+        "Bow": "F",
+        "Gun": "F",
+        "Throw": "E+"
+      },
+      "skills": [
+        {
+          "type": "Combat Skill",
+          "name": "Human Torpedo",
+          "cooldownSeconds": [
+            80,
+            50
+          ],
+          "numericEvidence": [
+            "80 ",
+            "8 ",
+            "5%",
+            "50%"
+          ],
+          "sourceTextCache": ".research-cache\\characters\\leon-classic.txt"
+        },
+        {
+          "type": "Field Skill",
+          "name": "Rapacious Collecting",
+          "cooldownSeconds": [
+            40
+          ],
+          "numericEvidence": [
+            "40 ",
+            "3 "
+          ],
+          "sourceTextCache": ".research-cache\\characters\\leon-classic.txt"
+        }
+      ],
+      "issues": []
+    },
+    {
+      "name": "Magnus",
+      "url": "https://wiki.projectlumia.com/characters/magnus.md",
+      "slug": "magnus",
+      "sourceKind": "restoration_wiki",
+      "retrievedAt": "2026-11-01T08:41:38.235Z",
+      "originalFinalVersionVerified": false,
+      "stats": {
+        "ATK": {
+          "level1": 16,
+          "level18": 55.1,
+          "growth": 2.3
+        },
+        "DEF": {
+          "level1": 14,
+          "level18": 48,
+          "growth": 2
+        },
+        "HP": {
+          "level1": 120,
+          "level18": 239,
+          "growth": 7
+        },
+        "STA": {
+          "level1": 112,
+          "level18": 197,
+          "growth": 5
+        }
+      },
+      "mastery": {
+        "Blunt": "D",
+        "Stab": "F",
+        "Blade": "F",
+        "Hand": "E",
+        "Bow": "F",
+        "Gun": "F",
+        "Throw": "F"
+      },
+      "skills": [
+        {
+          "type": "Field Skill",
+          "name": "1vs17",
+          "cooldownSeconds": [
+            70,
+            1
+          ],
+          "numericEvidence": [
+            "1",
+            "17\n",
+            "70 ",
+            "1 ",
+            "15",
+            "3",
+            "15%",
+            "2 ",
+            "10 "
+          ],
+          "sourceTextCache": ".research-cache\\characters\\magnus-classic.txt"
+        },
+        {
+          "type": "Passive Skill",
+          "name": "Tough Body",
+          "cooldownSeconds": [],
+          "numericEvidence": [
+            "1",
+            "17 ",
+            "2 ",
+            "5"
+          ],
+          "sourceTextCache": ".research-cache\\characters\\magnus-classic.txt"
+        }
+      ],
+      "issues": []
+    },
+    {
+      "name": "Silvia",
+      "url": "https://wiki.projectlumia.com/characters/silvia.md",
+      "slug": "silvia",
+      "sourceKind": "restoration_wiki",
+      "retrievedAt": "2026-11-01T08:41:38.236Z",
+      "originalFinalVersionVerified": false,
+      "stats": {
+        "ATK": {
+          "level1": 17,
+          "level18": 52.7,
+          "growth": 2.1
+        },
+        "DEF": {
+          "level1": 14,
+          "level18": 51.4,
+          "growth": 2.2
+        },
+        "HP": {
+          "level1": 136,
+          "level18": 221,
+          "growth": 5
+        },
+        "STA": {
+          "level1": 152,
+          "level18": 237,
+          "growth": 5
+        }
+      },
+      "mastery": {
+        "Blunt": "D",
+        "Stab": "F",
+        "Blade": "F",
+        "Hand": "D",
+        "Bow": "F",
+        "Gun": "D",
+        "Throw": "F"
+      },
+      "skills": [
+        {
+          "type": "Passive Skill",
+          "name": "Rush",
+          "cooldownSeconds": [
+            40
+          ],
+          "numericEvidence": [
+            "40 ",
+            "3 ",
+            "2 ",
+            "1\n",
+            "1 "
+          ],
+          "sourceTextCache": ".research-cache\\characters\\silvia-classic.txt"
+        },
+        {
+          "type": "Combat Skill",
+          "name": "Blitz",
+          "cooldownSeconds": [
+            20
+          ],
+          "numericEvidence": [
+            "20 ",
+            "110%",
+            "23%",
+            "4%"
+          ],
+          "sourceTextCache": ".research-cache\\characters\\silvia-classic.txt"
+        }
+      ],
+      "issues": []
+    },
+    {
+      "name": "Li Dailin",
+      "url": "https://wiki.projectlumia.com/characters/li-dailin.md",
+      "slug": "li-dailin",
+      "sourceKind": "restoration_wiki",
+      "retrievedAt": "2026-11-01T08:41:38.236Z",
+      "originalFinalVersionVerified": false,
+      "stats": {
+        "ATK": {
+          "level1": 16,
+          "level18": 53.4,
+          "growth": 2.2
+        },
+        "DEF": {
+          "level1": 14,
+          "level18": 44.6,
+          "growth": 1.8
+        },
+        "HP": {
+          "level1": 120,
+          "level18": 222,
+          "growth": 6
+        },
+        "STA": {
+          "level1": 124,
+          "level18": 175,
+          "growth": 3
+        }
+      },
+      "mastery": {
+        "Blunt": "F",
+        "Stab": "F",
+        "Blade": "D",
+        "Hand": "D",
+        "Bow": "F",
+        "Gun": "D",
+        "Throw": "F"
+      },
+      "skills": [
+        {
+          "type": "Field Skill",
+          "name": "Drunken Master",
+          "cooldownSeconds": [],
+          "numericEvidence": [
+            "4 ",
+            "3 ",
+            "1 ",
+            "50%"
+          ],
+          "sourceTextCache": ".research-cache\\characters\\li-dailin-classic.txt"
+        },
+        {
+          "type": "Combat Skill",
+          "name": "Lee Huazi",
+          "cooldownSeconds": [
+            60
+          ],
+          "numericEvidence": [
+            "60 ",
+            "1 ",
+            "110%",
+            "20%",
+            "3 "
+          ],
+          "sourceTextCache": ".research-cache\\characters\\li-dailin-classic.txt"
+        }
+      ],
+      "issues": []
+    },
+    {
+      "name": "Chiara",
+      "url": "https://wiki.projectlumia.com/characters/chiara.md",
+      "slug": "chiara",
+      "sourceKind": "restoration_wiki",
+      "retrievedAt": "2026-11-01T08:41:38.236Z",
+      "originalFinalVersionVerified": false,
+      "stats": {
+        "ATK": {
+          "level1": 12,
+          "level18": 52.8,
+          "growth": 2.4
+        },
+        "DEF": {
+          "level1": 12,
+          "level18": 52.8,
+          "growth": 2.4
+        },
+        "HP": {
+          "level1": 120,
+          "level18": 222,
+          "growth": 6
+        },
+        "STA": {
+          "level1": 108,
+          "level18": 210,
+          "growth": 6
+        }
+      },
+      "mastery": {
+        "Blunt": "F",
+        "Stab": "F",
+        "Blade": "D+",
+        "Hand": "F",
+        "Bow": "F",
+        "Gun": "F",
+        "Throw": "F"
+      },
+      "skills": [
+        {
+          "type": "Passive Skill",
+          "name": "Stigma",
+          "cooldownSeconds": [],
+          "numericEvidence": [
+            "6 "
+          ],
+          "sourceTextCache": ".research-cache\\characters\\chiara-classic.txt"
+        },
+        {
+          "type": "Combat Skill",
+          "name": "Judgment",
+          "cooldownSeconds": [
+            90
+          ],
+          "numericEvidence": [
+            "90 ",
+            "3 ",
+            "9 ",
+            "20 ",
+            "0",
+            "50%"
+          ],
+          "sourceTextCache": ".research-cache\\characters\\chiara-classic.txt"
+        }
+      ],
+      "issues": []
+    },
+    {
+      "name": "Hart",
+      "url": "https://wiki.projectlumia.com/characters/hart.md",
+      "slug": "hart",
+      "sourceKind": "restoration_wiki",
+      "retrievedAt": "2026-11-01T08:41:38.238Z",
+      "originalFinalVersionVerified": false,
+      "stats": {
+        "ATK": {
+          "level1": 12,
+          "level18": 51.1,
+          "growth": 2.3
+        },
+        "DEF": {
+          "level1": 16,
+          "level18": 50,
+          "growth": 2
+        },
+        "HP": {
+          "level1": 132,
+          "level18": 234,
+          "growth": 6
+        },
+        "STA": {
+          "level1": 124,
+          "level18": 243,
+          "growth": 7
+        }
+      },
+      "mastery": {
+        "Blunt": "D+",
+        "Stab": "F",
+        "Blade": "F",
+        "Hand": "F",
+        "Bow": "F",
+        "Gun": "F",
+        "Throw": "F"
+      },
+      "skills": [
+        {
+          "type": "Field Skill",
+          "name": "Peace Zone",
+          "cooldownSeconds": [
+            90
+          ],
+          "numericEvidence": [
+            "90 ",
+            "2 ",
+            "20 "
+          ],
+          "sourceTextCache": ".research-cache\\characters\\hart-classic.txt"
+        },
+        {
+          "type": "Combat Skill",
+          "name": "Dissonance",
+          "cooldownSeconds": [
+            70
+          ],
+          "numericEvidence": [
+            "70 ",
+            "40%",
+            "1",
+            "3 ",
+            "2",
+            "6 "
+          ],
+          "sourceTextCache": ".research-cache\\characters\\hart-classic.txt"
+        }
+      ],
+      "issues": []
+    },
+    {
+      "name": "Shoichi",
+      "url": "https://wiki.projectlumia.com/characters/shoichi.md",
+      "slug": "shoichi",
+      "sourceKind": "restoration_wiki",
+      "retrievedAt": "2026-11-01T08:41:38.238Z",
+      "originalFinalVersionVerified": false,
+      "stats": {
+        "ATK": {
+          "level1": 16,
+          "level18": 50,
+          "growth": 2
+        },
+        "DEF": {
+          "level1": 12,
+          "level18": 46,
+          "growth": 2
+        },
+        "HP": {
+          "level1": 124,
+          "level18": 226,
+          "growth": 6
+        },
+        "STA": {
+          "level1": 128,
+          "level18": 196,
+          "growth": 4
+        }
+      },
+      "mastery": {
+        "Blunt": "F",
+        "Stab": "D+",
+        "Blade": "F",
+        "Hand": "F",
+        "Bow": "F",
+        "Gun": "F",
+        "Throw": "F"
+      },
+      "skills": [
+        {
+          "type": "Passive Skill",
+          "name": "No Mercy",
+          "cooldownSeconds": [],
+          "numericEvidence": [
+            "125%",
+            "5"
+          ],
+          "sourceTextCache": ".research-cache\\characters\\shoichi-classic.txt"
+        },
+        {
+          "type": "Combat Skill",
+          "name": "Phony Deal",
+          "cooldownSeconds": [
+            80
+          ],
+          "numericEvidence": [
+            "80 ",
+            "10 ",
+            "9 "
+          ],
+          "sourceTextCache": ".research-cache\\characters\\shoichi-classic.txt"
+        }
+      ],
+      "issues": []
+    },
+    {
+      "name": "Arda",
+      "url": "https://wiki.projectlumia.com/characters/arda.md",
+      "slug": "arda",
+      "sourceKind": "restoration_wiki",
+      "retrievedAt": "2026-11-01T08:41:38.238Z",
+      "originalFinalVersionVerified": false,
+      "stats": {
+        "ATK": {
+          "level1": 14,
+          "level18": 51.4,
+          "growth": 2.2
+        },
+        "DEF": {
+          "level1": 14,
+          "level18": 54.8,
+          "growth": 2.4
+        },
+        "HP": {
+          "level1": 125,
+          "level18": 244,
+          "growth": 7
+        },
+        "STA": {
+          "level1": 112,
+          "level18": 163,
+          "growth": 3
+        }
+      },
+      "mastery": {
+        "Blunt": "F",
+        "Stab": "F",
+        "Blade": "D",
+        "Hand": "F",
+        "Bow": "D+",
+        "Gun": "F",
+        "Throw": "F"
+      },
+      "skills": [
+        {
+          "type": "Passive Skill",
+          "name": "Artifact Analysis",
+          "cooldownSeconds": [
+            6
+          ],
+          "numericEvidence": [
+            "6 ",
+            "3 "
+          ],
+          "sourceTextCache": ".research-cache\\characters\\arda-classic.txt"
+        },
+        {
+          "type": "Field Skill",
+          "name": "NO Digging",
+          "cooldownSeconds": [
+            70
+          ],
+          "numericEvidence": [
+            "70 ",
+            "1 ",
+            "20 ",
+            "0.3 ",
+            "3",
+            "50%"
+          ],
+          "sourceTextCache": ".research-cache\\characters\\arda-classic.txt"
+        }
+      ],
+      "issues": []
+    },
+    {
+      "name": "Camilo",
+      "url": "https://wiki.projectlumia.com/characters/camilo.md",
+      "slug": "camilo",
+      "sourceKind": "restoration_wiki",
+      "retrievedAt": "2026-11-01T08:41:38.239Z",
+      "originalFinalVersionVerified": false,
+      "stats": {
+        "ATK": {
+          "level1": 16,
+          "level18": 53.4,
+          "growth": 2.2
+        },
+        "DEF": {
+          "level1": 14,
+          "level18": 51.4,
+          "growth": 2.2
+        },
+        "HP": {
+          "level1": 128,
+          "level18": 247,
+          "growth": 7
+        },
+        "STA": {
+          "level1": 112,
+          "level18": 214,
+          "growth": 6
+        }
+      },
+      "mastery": {
+        "Blunt": "F",
+        "Stab": "D",
+        "Blade": "D",
+        "Hand": "F",
+        "Bow": "F",
+        "Gun": "F",
+        "Throw": "D"
+      },
+      "skills": [
+        {
+          "type": "Combat Skill",
+          "name": "Anima Ladrón",
+          "cooldownSeconds": [
+            60
+          ],
+          "numericEvidence": [
+            "60 ",
+            "110%",
+            "10%",
+            "10 "
+          ],
+          "sourceTextCache": ".research-cache\\characters\\camilo-classic.txt"
+        },
+        {
+          "type": "Field Skill",
+          "name": "Duende",
+          "cooldownSeconds": [
+            60
+          ],
+          "numericEvidence": [
+            "60 ",
+            "1 ",
+            "23 ",
+            "5 ",
+            "18 ",
+            "14 "
+          ],
+          "sourceTextCache": ".research-cache\\characters\\camilo-classic.txt"
+        }
+      ],
+      "issues": []
+    },
+    {
+      "name": "Bernice",
+      "url": "https://wiki.projectlumia.com/characters/bernice.md",
+      "slug": "bernice",
+      "sourceKind": "restoration_wiki",
+      "retrievedAt": "2026-11-01T08:41:38.239Z",
+      "originalFinalVersionVerified": false,
+      "stats": {
+        "ATK": {
+          "level1": 14,
+          "level18": 53.1,
+          "growth": 2.3
+        },
+        "DEF": {
+          "level1": 22,
+          "level18": 56,
+          "growth": 2
+        },
+        "HP": {
+          "level1": 132,
+          "level18": 251,
+          "growth": 7
+        },
+        "STA": {
+          "level1": 112,
+          "level18": 214,
+          "growth": 6
+        }
+      },
+      "mastery": {
+        "Blunt": "F",
+        "Stab": "F",
+        "Blade": "F",
+        "Hand": "F",
+        "Bow": "F",
+        "Gun": "D+",
+        "Throw": "F"
+      },
+      "skills": [
+        {
+          "type": "Combat Skill",
+          "name": "Leg Shot",
+          "cooldownSeconds": [
+            50
+          ],
+          "numericEvidence": [
+            "50 ",
+            "110%",
+            "8 ",
+            "15%"
+          ],
+          "sourceTextCache": ".research-cache\\characters\\bernice-classic.txt"
+        },
+        {
+          "type": "Field Skill",
+          "name": "Hunting Trap",
+          "cooldownSeconds": [
+            50
+          ],
+          "numericEvidence": [
+            "50 ",
+            "30 "
+          ],
+          "sourceTextCache": ".research-cache\\characters\\bernice-classic.txt"
+        }
+      ],
+      "issues": []
+    },
+    {
+      "name": "Sissela",
+      "url": "https://wiki.projectlumia.com/characters/sissela.md",
+      "slug": "sissela",
+      "sourceKind": "restoration_wiki",
+      "retrievedAt": "2026-11-01T08:41:38.239Z",
+      "originalFinalVersionVerified": false,
+      "stats": {
+        "ATK": {
+          "level1": 12,
+          "level18": 51.1,
+          "growth": 2.3
+        },
+        "DEF": {
+          "level1": 12,
+          "level18": 52.8,
+          "growth": 2.4
+        },
+        "HP": {
+          "level1": 114,
+          "level18": 148,
+          "growth": 2
+        },
+        "STA": {
+          "level1": 116,
+          "level18": 201,
+          "growth": 5
+        }
+      },
+      "mastery": {
+        "Blunt": "F",
+        "Stab": "F",
+        "Blade": "F",
+        "Hand": "F",
+        "Bow": "F",
+        "Gun": "E+",
+        "Throw": "D"
+      },
+      "skills": [
+        {
+          "type": "Passive Skill",
+          "name": "Agony-Bearer",
+          "cooldownSeconds": [],
+          "numericEvidence": [
+            "6",
+            "40 ",
+            "2%"
+          ],
+          "sourceTextCache": ".research-cache\\characters\\sissela-classic.txt"
+        },
+        {
+          "type": "Field Skill",
+          "name": "Unshackled",
+          "cooldownSeconds": [
+            70
+          ],
+          "numericEvidence": [
+            "70 ",
+            "3 "
+          ],
+          "sourceTextCache": ".research-cache\\characters\\sissela-classic.txt"
+        }
+      ],
+      "issues": []
+    },
+    {
+      "name": "Adela",
+      "url": "https://wiki.projectlumia.com/characters/adela.md",
+      "slug": "adela",
+      "sourceKind": "restoration_wiki",
+      "retrievedAt": "2026-11-01T08:41:38.241Z",
+      "originalFinalVersionVerified": false,
+      "stats": {
+        "ATK": {
+          "level1": 12,
+          "level18": 54.5,
+          "growth": 2.5
+        },
+        "DEF": {
+          "level1": 16,
+          "level18": 50,
+          "growth": 2
+        },
+        "HP": {
+          "level1": 124,
+          "level18": 226,
+          "growth": 6
+        },
+        "STA": {
+          "level1": 112,
+          "level18": 248,
+          "growth": 8
+        }
+      },
+      "mastery": {
+        "Blunt": "F",
+        "Stab": "F",
+        "Blade": "F",
+        "Hand": "F",
+        "Bow": "F",
+        "Gun": "E+",
+        "Throw": "D"
+      },
+      "skills": [
+        {
+          "type": "Field Skill",
+          "name": "Promotion",
+          "cooldownSeconds": [],
+          "numericEvidence": [
+            "1 ",
+            "3",
+            "8",
+            "30",
+            "90 "
+          ],
+          "sourceTextCache": ".research-cache\\characters\\adela-classic.txt"
+        },
+        {
+          "type": "Combat Skill",
+          "name": "Check",
+          "cooldownSeconds": [
+            80,
+            100
+          ],
+          "numericEvidence": [
+            "80 ",
+            "5%",
+            "1 ",
+            "50%",
+            "100%"
+          ],
+          "sourceTextCache": ".research-cache\\characters\\adela-classic.txt"
+        }
+      ],
+      "issues": []
+    },
+    {
+      "name": "Adriana",
+      "url": "https://wiki.projectlumia.com/characters/adriana.md",
+      "slug": "adriana",
+      "sourceKind": "restoration_wiki",
+      "retrievedAt": "2026-11-01T08:41:38.241Z",
+      "originalFinalVersionVerified": false,
+      "stats": {
+        "ATK": {
+          "level1": 17,
+          "level18": 56.1,
+          "growth": 2.3
+        },
+        "DEF": {
+          "level1": 12,
+          "level18": 46,
+          "growth": 2
+        },
+        "HP": {
+          "level1": 120,
+          "level18": 239,
+          "growth": 7
+        },
+        "STA": {
+          "level1": 132,
+          "level18": 200,
+          "growth": 4
+        }
+      },
+      "mastery": {
+        "Blunt": "F",
+        "Stab": "F",
+        "Blade": "F",
+        "Hand": "F",
+        "Bow": "E+",
+        "Gun": "F",
+        "Throw": "D+"
+      },
+      "skills": [
+        {
+          "type": "Field Skill",
+          "name": "Arson",
+          "cooldownSeconds": [],
+          "numericEvidence": [
+            "2 ",
+            "20 ",
+            "3%"
+          ],
+          "sourceTextCache": ".research-cache\\characters\\adriana-classic.txt"
+        },
+        {
+          "type": "Combat Skill",
+          "name": "Blaze",
+          "cooldownSeconds": [
+            80
+          ],
+          "numericEvidence": [
+            "80 ",
+            "5 ",
+            "9 ",
+            "20%"
+          ],
+          "sourceTextCache": ".research-cache\\characters\\adriana-classic.txt"
+        }
+      ],
+      "issues": []
+    },
+    {
+      "name": "Nathapon",
+      "url": "https://wiki.projectlumia.com/characters/nathapon.md",
+      "slug": "nathapon",
+      "sourceKind": "restoration_wiki",
+      "retrievedAt": "2026-11-01T08:41:38.241Z",
+      "originalFinalVersionVerified": false,
+      "stats": {
+        "ATK": {
+          "level1": 14,
+          "level18": 53.1,
+          "growth": 2.3
+        },
+        "DEF": {
+          "level1": 14,
+          "level18": 48,
+          "growth": 2
+        },
+        "HP": {
+          "level1": 136,
+          "level18": 238,
+          "growth": 6
+        },
+        "STA": {
+          "level1": 116,
+          "level18": 218,
+          "growth": 6
+        }
+      },
+      "mastery": {
+        "Blunt": "F",
+        "Stab": "F",
+        "Blade": "F",
+        "Hand": "D",
+        "Bow": "F",
+        "Gun": "D",
+        "Throw": "F"
+      },
+      "skills": [
+        {
+          "type": "Field Skill",
+          "name": "Time Trail",
+          "cooldownSeconds": [],
+          "numericEvidence": [
+            "2 ",
+            "90 ",
+            "3 ",
+            "15%"
+          ],
+          "sourceTextCache": ".research-cache\\characters\\nathapon-classic.txt"
+        },
+        {
+          "type": "Combat Skill",
+          "name": "Framing",
+          "cooldownSeconds": [
+            80
+          ],
+          "numericEvidence": [
+            "80 ",
+            "10 ",
+            "2"
+          ],
+          "sourceTextCache": ".research-cache\\characters\\nathapon-classic.txt"
+        }
+      ],
+      "issues": []
+    },
+    {
+      "name": "Yuki",
+      "url": "https://wiki.projectlumia.com/characters/yuki.md",
+      "slug": "yuki",
+      "sourceKind": "restoration_wiki",
+      "retrievedAt": "2026-11-01T08:41:38.243Z",
+      "originalFinalVersionVerified": false,
+      "stats": {
+        "ATK": {
+          "level1": 12,
+          "level18": 52.8,
+          "growth": 2.4
+        },
+        "DEF": {
+          "level1": 12,
+          "level18": 49.4,
+          "growth": 2.2
+        },
+        "HP": {
+          "level1": 116,
+          "level18": 235,
+          "growth": 7
+        },
+        "STA": {
+          "level1": 101,
+          "level18": 203,
+          "growth": 6
+        }
+      },
+      "mastery": {
+        "Blunt": "F",
+        "Stab": "F",
+        "Blade": "D+",
+        "Hand": "F",
+        "Bow": "F",
+        "Gun": "F",
+        "Throw": "F"
+      },
+      "skills": [
+        {
+          "type": "Passive Skill",
+          "name": "Perfect Fit",
+          "cooldownSeconds": [],
+          "numericEvidence": [
+            "8%",
+            "80%"
+          ],
+          "sourceTextCache": ".research-cache\\characters\\yuki-classic.txt"
+        },
+        {
+          "type": "Combat Skill",
+          "name": "Uchi-Otoshi",
+          "cooldownSeconds": [
+            60
+          ],
+          "numericEvidence": [
+            "60 ",
+            "8 ",
+            "10 "
+          ],
+          "sourceTextCache": ".research-cache\\characters\\yuki-classic.txt"
+        }
+      ],
+      "issues": []
+    },
+    {
+      "name": "Lenox",
+      "url": "https://wiki.projectlumia.com/characters/lenox.md",
+      "slug": "lenox",
+      "sourceKind": "restoration_wiki",
+      "retrievedAt": "2026-11-01T08:41:38.243Z",
+      "originalFinalVersionVerified": false,
+      "stats": {
+        "ATK": {
+          "level1": 14,
+          "level18": 54.8,
+          "growth": 2.4
+        },
+        "DEF": {
+          "level1": 16,
+          "level18": 53.4,
+          "growth": 2.2
+        },
+        "HP": {
+          "level1": 124,
+          "level18": 226,
+          "growth": 6
+        },
+        "STA": {
+          "level1": 108,
+          "level18": 193,
+          "growth": 5
+        }
+      },
+      "mastery": {
+        "Blunt": "D",
+        "Stab": "F",
+        "Blade": "F",
+        "Hand": "F",
+        "Bow": "F",
+        "Gun": "E+",
+        "Throw": "F"
+      },
+      "skills": [
+        {
+          "type": "Field Skill",
+          "name": "Fishing",
+          "cooldownSeconds": [],
+          "numericEvidence": [
+            "3 "
+          ],
+          "sourceTextCache": ".research-cache\\characters\\lenox-classic.txt"
+        },
+        {
+          "type": "Combat Skill",
+          "name": "Bluesnake",
+          "cooldownSeconds": [
+            60
+          ],
+          "numericEvidence": [
+            "60 ",
+            "10 ",
+            "10%",
+            "14 "
+          ],
+          "sourceTextCache": ".research-cache\\characters\\lenox-classic.txt"
+        }
+      ],
+      "issues": []
+    },
+    {
+      "name": "Sua",
+      "url": "https://wiki.projectlumia.com/characters/sua.md",
+      "slug": "sua",
+      "sourceKind": "restoration_wiki",
+      "retrievedAt": "2026-11-01T08:41:38.243Z",
+      "originalFinalVersionVerified": false,
+      "stats": {
+        "ATK": {
+          "level1": 12,
+          "level18": 49.4,
+          "growth": 2.2
+        },
+        "DEF": {
+          "level1": 16,
+          "level18": 56.8,
+          "growth": 2.4
+        },
+        "HP": {
+          "level1": 124,
+          "level18": 226,
+          "growth": 6
+        },
+        "STA": {
+          "level1": 104,
+          "level18": 206,
+          "growth": 6
+        }
+      },
+      "mastery": {
+        "Blunt": "D+",
+        "Stab": "F",
+        "Blade": "F",
+        "Hand": "F",
+        "Bow": "F",
+        "Gun": "F",
+        "Throw": "F"
+      },
+      "skills": [
+        {
+          "type": "Field Skill",
+          "name": "Reading",
+          "cooldownSeconds": [],
+          "numericEvidence": [
+            "10%",
+            "2 ",
+            "1 ",
+            "9%",
+            "12 "
+          ],
+          "sourceTextCache": ".research-cache\\characters\\sua-classic.txt"
+        },
+        {
+          "type": "Passive Skill",
+          "name": "Pabulum",
+          "cooldownSeconds": [],
+          "numericEvidence": [
+            "11 ",
+            "4 "
+          ],
+          "sourceTextCache": ".research-cache\\characters\\sua-classic.txt"
+        }
+      ],
+      "issues": []
+    },
+    {
+      "name": "Mai",
+      "url": "https://wiki.projectlumia.com/characters/mai.md",
+      "slug": "mai",
+      "sourceKind": "restoration_wiki",
+      "retrievedAt": "2026-11-01T08:41:38.244Z",
+      "originalFinalVersionVerified": false,
+      "stats": {
+        "ATK": {
+          "level1": 14,
+          "level18": 53.1,
+          "growth": 2.3
+        },
+        "DEF": {
+          "level1": 18,
+          "level18": 45.2,
+          "growth": 1.6
+        },
+        "HP": {
+          "level1": 132,
+          "level18": 234,
+          "growth": 6
+        },
+        "STA": {
+          "level1": 108,
+          "level18": 193,
+          "growth": 5
+        }
+      },
+      "mastery": {
+        "Blunt": "F",
+        "Stab": "D",
+        "Blade": "E+",
+        "Hand": "F",
+        "Bow": "F",
+        "Gun": "F",
+        "Throw": "F"
+      },
+      "skills": [
+        {
+          "type": "Combat Skill",
+          "name": "Pattern Collection",
+          "cooldownSeconds": [
+            40
+          ],
+          "numericEvidence": [
+            "40 ",
+            "2 ",
+            "5%",
+            "10%"
+          ],
+          "sourceTextCache": ".research-cache\\characters\\mai-classic.txt"
+        },
+        {
+          "type": "Field Skill",
+          "name": "Haute Couture",
+          "cooldownSeconds": [
+            10
+          ],
+          "numericEvidence": [
+            "10 ",
+            "40%"
+          ],
+          "sourceTextCache": ".research-cache\\characters\\mai-classic.txt"
+        }
+      ],
+      "issues": []
+    },
+    {
+      "name": "Jan",
+      "url": "https://wiki.projectlumia.com/characters/jan.md",
+      "slug": "jan",
+      "sourceKind": "restoration_wiki",
+      "retrievedAt": "2026-11-01T08:41:38.245Z",
+      "originalFinalVersionVerified": false,
+      "stats": {
+        "ATK": {
+          "level1": 16,
+          "level18": 51.7,
+          "growth": 2.1
+        },
+        "DEF": {
+          "level1": 14,
+          "level18": 49.7,
+          "growth": 2.1
+        },
+        "HP": {
+          "level1": 140,
+          "level18": 225,
+          "growth": 5
+        },
+        "STA": {
+          "level1": 116,
+          "level18": 235,
+          "growth": 7
+        }
+      },
+      "mastery": {
+        "Blunt": "F",
+        "Stab": "F",
+        "Blade": "F",
+        "Hand": "D+",
+        "Bow": "F",
+        "Gun": "F",
+        "Throw": "F"
+      },
+      "skills": [
+        {
+          "type": "Field Skill",
+          "name": "Octagon Fever",
+          "cooldownSeconds": [
+            20
+          ],
+          "numericEvidence": [
+            "20 ",
+            "10 ",
+            "2 ",
+            "12 ",
+            "5 ",
+            "1\n",
+            "2",
+            "10%",
+            "10\n\n"
+          ],
+          "sourceTextCache": ".research-cache\\characters\\jan-classic.txt"
+        },
+        {
+          "type": "Combat Skill",
+          "name": "Hot-blooded Combo",
+          "cooldownSeconds": [],
+          "numericEvidence": [
+            "1 ",
+            "4 ",
+            "2\n",
+            "8",
+            "3 ",
+            "15%"
+          ],
+          "sourceTextCache": ".research-cache\\characters\\jan-classic.txt"
+        }
+      ],
+      "issues": []
+    },
+    {
+      "name": "Luke",
+      "url": "https://wiki.projectlumia.com/characters/luke.md",
+      "slug": "luke",
+      "sourceKind": "restoration_wiki",
+      "retrievedAt": "2026-11-01T08:41:38.245Z",
+      "originalFinalVersionVerified": false,
+      "stats": {
+        "ATK": {
+          "level1": 14,
+          "level18": 54.8,
+          "growth": 2.4
+        },
+        "DEF": {
+          "level1": 12,
+          "level18": 51.1,
+          "growth": 2.3
+        },
+        "HP": {
+          "level1": 128,
+          "level18": 230,
+          "growth": 6
+        },
+        "STA": {
+          "level1": 116,
+          "level18": 218,
+          "growth": 6
+        }
+      },
+      "mastery": {
+        "Blunt": "F",
+        "Stab": "D",
+        "Blade": "F",
+        "Hand": "F",
+        "Bow": "F",
+        "Gun": "D",
+        "Throw": "F"
+      },
+      "skills": [
+        {
+          "type": "Passive Skill",
+          "name": "Silent Cleaner",
+          "cooldownSeconds": [
+            30
+          ],
+          "numericEvidence": [
+            "30 ",
+            "1 ",
+            "8 ",
+            "10%"
+          ],
+          "sourceTextCache": ".research-cache\\characters\\luke-classic.txt"
+        },
+        {
+          "type": "Combat Skill",
+          "name": "Cleaning Service",
+          "cooldownSeconds": [
+            40
+          ],
+          "numericEvidence": [
+            "40 ",
+            "110%",
+            "1 ",
+            "10 ",
+            "600 ",
+            "3 "
+          ],
+          "sourceTextCache": ".research-cache\\characters\\luke-classic.txt"
+        }
+      ],
+      "issues": []
+    },
+    {
+      "name": "Rozzi",
+      "url": "https://wiki.projectlumia.com/characters/rozzi.md",
+      "slug": "rozzi",
+      "sourceKind": "restoration_wiki",
+      "retrievedAt": "2026-11-01T08:41:38.246Z",
+      "originalFinalVersionVerified": false,
+      "stats": {
+        "ATK": {
+          "level1": 16,
+          "level18": 55.1,
+          "growth": 2.3
+        },
+        "DEF": {
+          "level1": 12,
+          "level18": 51.1,
+          "growth": 2.3
+        },
+        "HP": {
+          "level1": 124,
+          "level18": 226,
+          "growth": 6
+        },
+        "STA": {
+          "level1": 104,
+          "level18": 223,
+          "growth": 7
+        }
+      },
+      "mastery": {
+        "Blunt": "F",
+        "Stab": "F",
+        "Blade": "F",
+        "Hand": "F",
+        "Bow": "F",
+        "Gun": "D+",
+        "Throw": "F"
+      },
+      "skills": [
+        {
+          "type": "Field Skill",
+          "name": "Distorted Malice",
+          "cooldownSeconds": [
+            60
+          ],
+          "numericEvidence": [
+            "60 ",
+            "1 ",
+            "30 ",
+            "12",
+            "2",
+            "6%"
+          ],
+          "sourceTextCache": ".research-cache\\characters\\rozzi-classic.txt"
+        },
+        {
+          "type": "Combat Skill",
+          "name": "Easy Shot",
+          "cooldownSeconds": [
+            30
+          ],
+          "numericEvidence": [
+            "30 ",
+            "5 ",
+            "100%",
+            "400%"
+          ],
+          "sourceTextCache": ".research-cache\\characters\\rozzi-classic.txt"
+        }
+      ],
+      "issues": []
+    },
+    {
+      "name": "Emma",
+      "url": "https://wiki.projectlumia.com/characters/emma.md",
+      "slug": "emma",
+      "sourceKind": "restoration_wiki",
+      "retrievedAt": "2026-11-01T08:41:38.246Z",
+      "originalFinalVersionVerified": false,
+      "stats": {
+        "ATK": {
+          "level1": 12,
+          "level18": 49.4,
+          "growth": 2.3
+        },
+        "DEF": {
+          "level1": 16,
+          "level18": 55.1,
+          "growth": 2.3
+        },
+        "HP": {
+          "level1": 120,
+          "level18": 239,
+          "growth": 7
+        },
+        "STA": {
+          "level1": 100,
+          "level18": 100,
+          "growth": 0
+        }
+      },
+      "mastery": {
+        "Blunt": "D",
+        "Stab": "F",
+        "Blade": "F",
+        "Hand": "F",
+        "Bow": "F",
+        "Gun": "F",
+        "Throw": "D"
+      },
+      "skills": [
+        {
+          "type": "Field Skill",
+          "name": "Change★",
+          "cooldownSeconds": [
+            90
+          ],
+          "numericEvidence": [
+            "90 ",
+            "2 "
+          ],
+          "sourceTextCache": ".research-cache\\characters\\emma-classic.txt"
+        },
+        {
+          "type": "Combat Skill",
+          "name": "CheerUP♥",
+          "cooldownSeconds": [
+            40
+          ],
+          "numericEvidence": [
+            "40 ",
+            "20%"
+          ],
+          "sourceTextCache": ".research-cache\\characters\\emma-classic.txt"
+        }
+      ],
+      "issues": [
+        {
+          "type": "growth_mismatch",
+          "stat": "ATK",
+          "level1": 12,
+          "level18": 49.4,
+          "growth": 2.3
+        }
+      ]
+    },
+    {
+      "name": "Eleven",
+      "url": "https://wiki.projectlumia.com/characters/eleven.md",
+      "slug": "eleven",
+      "sourceKind": "restoration_wiki",
+      "retrievedAt": "2026-11-01T08:41:38.247Z",
+      "originalFinalVersionVerified": false,
+      "stats": {
+        "ATK": {
+          "level1": 12,
+          "level18": 46,
+          "growth": 2
+        },
+        "DEF": {
+          "level1": 20,
+          "level18": 37,
+          "growth": 1
+        },
+        "HP": {
+          "level1": 128,
+          "level18": 230,
+          "growth": 6
+        },
+        "STA": {
+          "level1": 120,
+          "level18": 222,
+          "growth": 6
+        }
+      },
+      "mastery": {
+        "Blunt": "D+",
+        "Stab": "F",
+        "Blade": "F",
+        "Hand": "F",
+        "Bow": "F",
+        "Gun": "F",
+        "Throw": "F"
+      },
+      "skills": [
+        {
+          "type": "Field Skill",
+          "name": "MUKBANG",
+          "cooldownSeconds": [
+            30,
+            2
+          ],
+          "numericEvidence": [
+            "30 ",
+            "1 ",
+            "10 ",
+            "5",
+            "2 ",
+            "5 ",
+            "50%"
+          ],
+          "sourceTextCache": ".research-cache\\characters\\eleven-classic.txt"
+        },
+        {
+          "type": "Combat Skill",
+          "name": "Donation",
+          "cooldownSeconds": [
+            40
+          ],
+          "numericEvidence": [
+            "40 ",
+            "1 ",
+            "50%"
+          ],
+          "sourceTextCache": ".research-cache\\characters\\eleven-classic.txt"
+        }
+      ],
+      "issues": []
+    },
+    {
+      "name": "Daniel",
+      "url": "https://wiki.projectlumia.com/characters/daniel.md",
+      "slug": "daniel",
+      "sourceKind": "restoration_wiki",
+      "retrievedAt": "2026-11-01T08:41:38.248Z",
+      "originalFinalVersionVerified": false,
+      "stats": {
+        "ATK": {
+          "level1": 12,
+          "level18": 49.4,
+          "growth": 2.2
+        },
+        "DEF": {
+          "level1": 17,
+          "level18": 56.1,
+          "growth": 2.3
+        },
+        "HP": {
+          "level1": 132,
+          "level18": 234,
+          "growth": 6
+        },
+        "STA": {
+          "level1": 116,
+          "level18": 235,
+          "growth": 7
+        }
+      },
+      "mastery": {
+        "Blunt": "F",
+        "Stab": "D+",
+        "Blade": "F",
+        "Hand": "F",
+        "Bow": "F",
+        "Gun": "F",
+        "Throw": "F"
+      },
+      "skills": [
+        {
+          "type": "Passive Skill",
+          "name": "Solitary Artist",
+          "cooldownSeconds": [],
+          "numericEvidence": [
+            "100",
+            "3",
+            "10%",
+            "10 "
+          ],
+          "sourceTextCache": ".research-cache\\characters\\daniel-classic.txt"
+        },
+        {
+          "type": "Combat Skill",
+          "name": "Scapegoat",
+          "cooldownSeconds": [
+            60
+          ],
+          "numericEvidence": [
+            "60 ",
+            "10 ",
+            "10"
+          ],
+          "sourceTextCache": ".research-cache\\characters\\daniel-classic.txt"
+        }
+      ],
+      "issues": []
+    },
+    {
+      "name": "Rio",
+      "url": "https://wiki.projectlumia.com/characters/rio.md",
+      "slug": "rio",
+      "sourceKind": "restoration_wiki",
+      "retrievedAt": "2026-11-01T08:41:38.249Z",
+      "originalFinalVersionVerified": false,
+      "stats": {
+        "ATK": {
+          "level1": 16,
+          "level18": 44.9,
+          "growth": 1.7
+        },
+        "DEF": {
+          "level1": 14,
+          "level18": 53.1,
+          "growth": 2.3
+        },
+        "HP": {
+          "level1": 136,
+          "level18": 238,
+          "growth": 6
+        },
+        "STA": {
+          "level1": 120,
+          "level18": 222,
+          "growth": 6
+        }
+      },
+      "mastery": {
+        "Blunt": "F",
+        "Stab": "F",
+        "Blade": "F",
+        "Hand": "F",
+        "Bow": "D+",
+        "Gun": "F",
+        "Throw": "F"
+      },
+      "skills": [
+        {
+          "type": "Passive Skill",
+          "name": "Anchor Point",
+          "cooldownSeconds": [],
+          "numericEvidence": [
+            "100%",
+            "1",
+            "5 ",
+            "11%",
+            "6",
+            "11 ",
+            "15%",
+            "12",
+            "18 ",
+            "18%"
+          ],
+          "sourceTextCache": ".research-cache\\characters\\rio-classic.txt"
+        },
+        {
+          "type": "Combat Skill",
+          "name": "Release",
+          "cooldownSeconds": [
+            50
+          ],
+          "numericEvidence": [
+            "50 ",
+            "10"
+          ],
+          "sourceTextCache": ".research-cache\\characters\\rio-classic.txt"
+        }
+      ],
+      "issues": []
+    },
+    {
+      "name": "Eva",
+      "url": "https://wiki.projectlumia.com/characters/eva.md",
+      "slug": "eva",
+      "sourceKind": "restoration_wiki",
+      "retrievedAt": "2026-11-01T08:41:38.249Z",
+      "originalFinalVersionVerified": false,
+      "stats": {
+        "ATK": {
+          "level1": 14,
+          "level18": 54.8,
+          "growth": 2.4
+        },
+        "DEF": {
+          "level1": 13,
+          "level18": 50.4,
+          "growth": 2.2
+        },
+        "HP": {
+          "level1": 148,
+          "level18": 233,
+          "growth": 5
+        },
+        "STA": {
+          "level1": 140,
+          "level18": 208,
+          "growth": 4
+        }
+      },
+      "mastery": {
+        "Blunt": "F",
+        "Stab": "F",
+        "Blade": "F",
+        "Hand": "F",
+        "Bow": "F",
+        "Gun": "F",
+        "Throw": "D"
+      },
+      "skills": [
+        {
+          "type": "Passive Skill",
+          "name": "Kinesis",
+          "cooldownSeconds": [],
+          "numericEvidence": [],
+          "sourceTextCache": ".research-cache\\characters\\eva-classic.txt"
+        },
+        {
+          "type": "Field Skill",
+          "name": "Vital Crash",
+          "cooldownSeconds": [
+            20
+          ],
+          "numericEvidence": [
+            "20 ",
+            "10%",
+            "40%",
+            "105%"
+          ],
+          "sourceTextCache": ".research-cache\\characters\\eva-classic.txt"
+        }
+      ],
+      "issues": []
+    },
+    {
+      "name": "Nicky",
+      "url": "https://wiki.projectlumia.com/characters/nicky.md",
+      "slug": "nicky",
+      "sourceKind": "restoration_wiki",
+      "retrievedAt": "2026-11-01T08:41:38.250Z",
+      "originalFinalVersionVerified": false,
+      "stats": {
+        "ATK": {
+          "level1": 14,
+          "level18": 49.7,
+          "growth": 2.1
+        },
+        "DEF": {
+          "level1": 12,
+          "level18": 51.1,
+          "growth": 2.3
+        },
+        "HP": {
+          "level1": 130,
+          "level18": 232,
+          "growth": 6
+        },
+        "STA": {
+          "level1": 124,
+          "level18": 243,
+          "growth": 7
+        }
+      },
+      "mastery": {
+        "Blunt": "D+",
+        "Stab": "F",
+        "Blade": "F",
+        "Hand": "F",
+        "Bow": "F",
+        "Gun": "F",
+        "Throw": "F"
+      },
+      "skills": [
+        {
+          "type": "Field Skill",
+          "name": "Stunt Action",
+          "cooldownSeconds": [],
+          "numericEvidence": [
+            "4 ",
+            "20 ",
+            "6 ",
+            "7 ",
+            "30%"
+          ],
+          "sourceTextCache": ".research-cache\\characters\\nicky-classic.txt"
+        },
+        {
+          "type": "Combat Skill",
+          "name": "Liver Blow",
+          "cooldownSeconds": [
+            50
+          ],
+          "numericEvidence": [
+            "50 ",
+            "3 ",
+            "12 ",
+            "10%"
+          ],
+          "sourceTextCache": ".research-cache\\characters\\nicky-classic.txt"
+        }
+      ],
+      "issues": []
+    },
+    {
+      "name": "Echion",
+      "url": "https://wiki.projectlumia.com/characters/echion.md",
+      "slug": "echion",
+      "sourceKind": "restoration_wiki",
+      "retrievedAt": "2026-11-01T08:41:38.250Z",
+      "originalFinalVersionVerified": false,
+      "stats": {
+        "ATK": {
+          "level1": 8,
+          "level18": 8,
+          "growth": 0
+        },
+        "DEF": {
+          "level1": 16,
+          "level18": 55.1,
+          "growth": 2.3
+        },
+        "HP": {
+          "level1": 120,
+          "level18": 239,
+          "growth": 7
+        },
+        "STA": {
+          "level1": 120,
+          "level18": 205,
+          "growth": 5
+        }
+      },
+      "mastery": {
+        "Blunt": "F",
+        "Stab": "F",
+        "Blade": "D+",
+        "Hand": "F",
+        "Bow": "F",
+        "Gun": "F",
+        "Throw": "F"
+      },
+      "skills": [
+        {
+          "type": "Field Skill",
+          "name": "Call of Cadmus",
+          "cooldownSeconds": [],
+          "numericEvidence": [
+            "2 ",
+            "7",
+            "14"
+          ],
+          "sourceTextCache": ".research-cache\\characters\\echion-classic.txt"
+        },
+        {
+          "type": "Combat Skill",
+          "name": "Venomous Tooth",
+          "cooldownSeconds": [
+            70
+          ],
+          "numericEvidence": [
+            "70 ",
+            "5%",
+            "12 "
+          ],
+          "sourceTextCache": ".research-cache\\characters\\echion-classic.txt"
+        }
+      ],
+      "issues": []
+    },
+    {
+      "name": "Bianca",
+      "url": "https://wiki.projectlumia.com/characters/bianca.md",
+      "slug": "bianca",
+      "sourceKind": "restoration_wiki",
+      "retrievedAt": "2026-11-01T08:41:38.251Z",
+      "originalFinalVersionVerified": false,
+      "stats": {
+        "ATK": {
+          "level1": 12,
+          "level18": 49.4,
+          "growth": 2.2
+        },
+        "DEF": {
+          "level1": 20,
+          "level18": 54,
+          "growth": 2
+        },
+        "HP": {
+          "level1": 120,
+          "level18": 222,
+          "growth": 6
+        },
+        "STA": {
+          "level1": 120,
+          "level18": 239,
+          "growth": 7
+        }
+      },
+      "mastery": {
+        "Blunt": "D",
+        "Stab": "D",
+        "Blade": "F",
+        "Hand": "F",
+        "Bow": "F",
+        "Gun": "F",
+        "Throw": "F"
+      },
+      "skills": [
+        {
+          "type": "Field Skill",
+          "name": "Blood Transfusion",
+          "cooldownSeconds": [
+            50
+          ],
+          "numericEvidence": [
+            "50 ",
+            "1 ",
+            "8 ",
+            "70%",
+            "50",
+            "15"
+          ],
+          "sourceTextCache": ".research-cache\\characters\\bianca-classic.txt"
+        },
+        {
+          "type": "Combat Skill",
+          "name": "Bloody Hands",
+          "cooldownSeconds": [],
+          "numericEvidence": [
+            "2 ",
+            "12 ",
+            "3 ",
+            "1 ",
+            "8 "
+          ],
+          "sourceTextCache": ".research-cache\\characters\\bianca-classic.txt"
+        }
+      ],
+      "issues": []
+    },
+    {
+      "name": "Chloe",
+      "url": "https://wiki.projectlumia.com/characters/chloe.md",
+      "slug": "chloe",
+      "sourceKind": "restoration_wiki",
+      "retrievedAt": "2026-11-01T08:41:38.252Z",
+      "originalFinalVersionVerified": false,
+      "stats": {
+        "ATK": {
+          "level1": 12,
+          "level18": 47.7,
+          "growth": 2.1
+        },
+        "DEF": {
+          "level1": 16,
+          "level18": 58.5,
+          "growth": 2.5
+        },
+        "HP": {
+          "level1": 120,
+          "level18": 222,
+          "growth": 6
+        },
+        "STA": {
+          "level1": 120,
+          "level18": 239,
+          "growth": 7
+        }
+      },
+      "mastery": {
+        "Blunt": "F",
+        "Stab": "D+",
+        "Blade": "F",
+        "Hand": "F",
+        "Bow": "F",
+        "Gun": "F",
+        "Throw": "F"
+      },
+      "skills": [
+        {
+          "type": "Field Skill",
+          "name": "Marionette",
+          "cooldownSeconds": [
+            60
+          ],
+          "numericEvidence": [
+            "60 ",
+            "1 ",
+            "40 ",
+            "4 ",
+            "5 "
+          ],
+          "sourceTextCache": ".research-cache\\characters\\chloe-classic.txt"
+        },
+        {
+          "type": "Combat Skill",
+          "name": "Pulling Strings",
+          "cooldownSeconds": [
+            60
+          ],
+          "numericEvidence": [
+            "60 ",
+            "110%",
+            "5 ",
+            "20%",
+            "40%"
+          ],
+          "sourceTextCache": ".research-cache\\characters\\chloe-classic.txt"
+        }
+      ],
+      "issues": []
+    },
+    {
+      "name": "Johann",
+      "url": "https://wiki.projectlumia.com/characters/johann.md",
+      "slug": "johann",
+      "sourceKind": "restoration_wiki",
+      "retrievedAt": "2026-11-01T08:41:38.252Z",
+      "originalFinalVersionVerified": false,
+      "stats": {
+        "ATK": {
+          "level1": 14,
+          "level18": 51.4,
+          "growth": 2.2
+        },
+        "DEF": {
+          "level1": 16,
+          "level18": 55.1,
+          "growth": 2.3
+        },
+        "HP": {
+          "level1": 116,
+          "level18": 218,
+          "growth": 6
+        },
+        "STA": {
+          "level1": 130,
+          "level18": 249,
+          "growth": 7
+        }
+      },
+      "mastery": {
+        "Blunt": "F",
+        "Stab": "F",
+        "Blade": "F",
+        "Hand": "D+",
+        "Bow": "F",
+        "Gun": "F",
+        "Throw": "F"
+      },
+      "skills": [
+        {
+          "type": "Field Skill",
+          "name": "Consecration",
+          "cooldownSeconds": [
+            60
+          ],
+          "numericEvidence": [
+            "60 ",
+            "2 ",
+            "80",
+            "0.5%",
+            "1%",
+            "2%",
+            "5%",
+            "80%",
+            "80 ",
+            "1",
+            "3",
+            "5",
+            "8",
+            "12"
+          ],
+          "sourceTextCache": ".research-cache\\characters\\johann-classic.txt"
+        },
+        {
+          "type": "Combat Skill",
+          "name": "Sermon",
+          "cooldownSeconds": [],
+          "numericEvidence": [
+            "5 ",
+            "3 "
+          ],
+          "sourceTextCache": ".research-cache\\characters\\johann-classic.txt"
+        }
+      ],
+      "issues": []
+    },
+    {
+      "name": "Celine",
+      "url": "https://wiki.projectlumia.com/characters/celine.md",
+      "slug": "celine",
+      "sourceKind": "restoration_wiki",
+      "retrievedAt": "2026-11-01T08:41:38.253Z",
+      "originalFinalVersionVerified": false,
+      "stats": {
+        "ATK": {
+          "level1": 10,
+          "level18": 47.4,
+          "growth": 2.2
+        },
+        "DEF": {
+          "level1": 12,
+          "level18": 54.5,
+          "growth": 2.5
+        },
+        "HP": {
+          "level1": 124,
+          "level18": 243,
+          "growth": 7
+        },
+        "STA": {
+          "level1": 120,
+          "level18": 239,
+          "growth": 7
+        }
+      },
+      "mastery": {
+        "Blunt": "F",
+        "Stab": "F",
+        "Blade": "F",
+        "Hand": "F",
+        "Bow": "F",
+        "Gun": "D+",
+        "Throw": "F"
+      },
+      "skills": [
+        {
+          "type": "Field Skill",
+          "name": "Reshaping",
+          "cooldownSeconds": [
+            30
+          ],
+          "numericEvidence": [
+            "2 ",
+            "30",
+            "40",
+            "50",
+            "80",
+            "1 ",
+            "1\n",
+            "5 ",
+            "2\n",
+            "10 ",
+            "4",
+            "8%",
+            "16 ",
+            "25%"
+          ],
+          "sourceTextCache": ".research-cache\\characters\\celine-classic.txt"
+        },
+        {
+          "type": "Combat Skill",
+          "name": "Sticky Bomb",
+          "cooldownSeconds": [
+            50
+          ],
+          "numericEvidence": [
+            "50 ",
+            "1 ",
+            "50%",
+            "3 ",
+            "10 ",
+            "20 ",
+            "35 "
+          ],
+          "sourceTextCache": ".research-cache\\characters\\celine-classic.txt"
+        }
+      ],
+      "issues": []
+    },
+    {
+      "name": "Laura",
+      "url": "https://wiki.projectlumia.com/characters/laura.md",
+      "slug": "laura",
+      "sourceKind": "restoration_wiki",
+      "retrievedAt": "2026-11-01T08:41:38.254Z",
+      "originalFinalVersionVerified": false,
+      "stats": {
+        "ATK": {
+          "level1": 18,
+          "level18": 55.4,
+          "growth": 2.2
+        },
+        "DEF": {
+          "level1": 12,
+          "level18": 46,
+          "growth": 2
+        },
+        "HP": {
+          "level1": 128,
+          "level18": 213,
+          "growth": 5
+        },
+        "STA": {
+          "level1": 136,
+          "level18": 238,
+          "growth": 6
+        }
+      },
+      "mastery": {
+        "Blunt": "D",
+        "Stab": "F",
+        "Blade": "F",
+        "Hand": "F",
+        "Bow": "F",
+        "Gun": "F",
+        "Throw": "D"
+      },
+      "skills": [
+        {
+          "type": "Passive Skill",
+          "name": "Burglar Chic",
+          "cooldownSeconds": [],
+          "numericEvidence": [
+            "0",
+            "2 ",
+            "10%",
+            "5%",
+            "3",
+            "6 "
+          ],
+          "sourceTextCache": ".research-cache\\characters\\laura-classic.txt"
+        },
+        {
+          "type": "Combat Skill",
+          "name": "Casing the Joint",
+          "cooldownSeconds": [
+            30
+          ],
+          "numericEvidence": [
+            "30 ",
+            "1",
+            "2",
+            "3",
+            "5",
+            "7 "
+          ],
+          "sourceTextCache": ".research-cache\\characters\\laura-classic.txt"
+        }
+      ],
+      "issues": []
+    },
+    {
+      "name": "Aiden",
+      "url": "https://wiki.projectlumia.com/characters/aiden.md",
+      "slug": "aiden",
+      "sourceKind": "restoration_wiki",
+      "retrievedAt": "2026-11-01T08:41:38.254Z",
+      "originalFinalVersionVerified": false,
+      "stats": {
+        "ATK": {
+          "level1": 14,
+          "level18": 51.4,
+          "growth": 2.2
+        },
+        "DEF": {
+          "level1": 16,
+          "level18": 55.1,
+          "growth": 2.3
+        },
+        "HP": {
+          "level1": 138,
+          "level18": 223,
+          "growth": 5
+        },
+        "STA": {
+          "level1": 128,
+          "level18": 213,
+          "growth": 5
+        }
+      },
+      "mastery": {
+        "Blunt": "F",
+        "Stab": "F",
+        "Blade": "D",
+        "Hand": "F",
+        "Bow": "F",
+        "Gun": "D",
+        "Throw": "F"
+      },
+      "skills": [
+        {
+          "type": "Passive Skill",
+          "name": "Energy Burn",
+          "cooldownSeconds": [],
+          "numericEvidence": [
+            "5",
+            "15%"
+          ],
+          "sourceTextCache": ".research-cache\\characters\\aiden-classic.txt"
+        },
+        {
+          "type": "Combat Skill",
+          "name": "Overload",
+          "cooldownSeconds": [
+            60
+          ],
+          "numericEvidence": [
+            "60 ",
+            "110%",
+            "5",
+            "15",
+            "15 ",
+            "50%"
+          ],
+          "sourceTextCache": ".research-cache\\characters\\aiden-classic.txt"
+        }
+      ],
+      "issues": []
+    },
+    {
+      "name": "Tia",
+      "url": "https://wiki.projectlumia.com/characters/tia.md",
+      "slug": "tia",
+      "sourceKind": "restoration_wiki",
+      "retrievedAt": "2026-11-01T08:41:38.255Z",
+      "originalFinalVersionVerified": false,
+      "stats": {
+        "ATK": {
+          "level1": 11,
+          "level18": 50.1,
+          "growth": 2.3
+        },
+        "DEF": {
+          "level1": 12,
+          "level18": 47.7,
+          "growth": 2.1
+        },
+        "HP": {
+          "level1": 115,
+          "level18": 217,
+          "growth": 6
+        },
+        "STA": {
+          "level1": 132,
+          "level18": 234,
+          "growth": 6
+        }
+      },
+      "mastery": {
+        "Blunt": "D+",
+        "Stab": "F",
+        "Blade": "F",
+        "Hand": "F",
+        "Bow": "F",
+        "Gun": "F",
+        "Throw": "F"
+      },
+      "skills": [
+        {
+          "type": "Field Skill",
+          "name": "GO! Squirrel!",
+          "cooldownSeconds": [],
+          "numericEvidence": [
+            "15 "
+          ],
+          "sourceTextCache": ".research-cache\\characters\\tia-classic.txt"
+        },
+        {
+          "type": "Combat Skill",
+          "name": "Paintwork",
+          "cooldownSeconds": [
+            60
+          ],
+          "numericEvidence": [
+            "60 ",
+            "3 ",
+            "3%",
+            "10%",
+            "8%"
+          ],
+          "sourceTextCache": ".research-cache\\characters\\tia-classic.txt"
+        }
+      ],
+      "issues": []
+    },
+    {
+      "name": "Elena",
+      "url": "https://wiki.projectlumia.com/characters/elena.md",
+      "slug": "elena",
+      "sourceKind": "restoration_wiki",
+      "retrievedAt": "2026-11-01T08:41:38.256Z",
+      "originalFinalVersionVerified": false,
+      "stats": {
+        "ATK": {
+          "level1": 11,
+          "level18": 49,
+          "growth": 2.3
+        },
+        "DEF": {
+          "level1": 12,
+          "level18": 48,
+          "growth": 2.1
+        },
+        "HP": {
+          "level1": 115,
+          "level18": 220,
+          "growth": 6
+        },
+        "STA": {
+          "level1": 132,
+          "level18": 217,
+          "growth": 6
+        }
+      },
+      "mastery": {
+        "Blunt": "F",
+        "Stab": "F",
+        "Blade": "D+",
+        "Hand": "F",
+        "Bow": "F",
+        "Gun": "F",
+        "Throw": "F"
+      },
+      "skills": [
+        {
+          "type": "Passive Skill",
+          "name": "Ice Rink Creation",
+          "cooldownSeconds": [],
+          "numericEvidence": [
+            "1 ",
+            "11 ",
+            "22 ",
+            "15%",
+            "5",
+            "1",
+            "11",
+            "2",
+            "3"
+          ],
+          "sourceTextCache": ".research-cache\\characters\\elena-classic.txt"
+        },
+        {
+          "type": "Combat Skill",
+          "name": "Danse Macabre",
+          "cooldownSeconds": [
+            10
+          ],
+          "numericEvidence": [
+            "10 ",
+            "1.4%",
+            "10%",
+            "15%"
+          ],
+          "sourceTextCache": ".research-cache\\characters\\elena-classic.txt"
+        }
+      ],
+      "issues": [
+        {
+          "type": "growth_mismatch",
+          "stat": "ATK",
+          "level1": 11,
+          "level18": 49,
+          "growth": 2.3
+        },
+        {
+          "type": "growth_mismatch",
+          "stat": "DEF",
+          "level1": 12,
+          "level18": 48,
+          "growth": 2.1
+        },
+        {
+          "type": "growth_mismatch",
+          "stat": "HP",
+          "level1": 115,
+          "level18": 220,
+          "growth": 6
+        },
+        {
+          "type": "growth_mismatch",
+          "stat": "STA",
+          "level1": 132,
+          "level18": 217,
+          "growth": 6
+        }
+      ]
+    },
+    {
+      "name": "Felix",
+      "url": "https://wiki.projectlumia.com/characters/felix.md",
+      "slug": "felix",
+      "sourceKind": "restoration_wiki",
+      "retrievedAt": "2026-11-01T08:41:38.256Z",
+      "originalFinalVersionVerified": false,
+      "stats": {
+        "ATK": {
+          "level1": 18,
+          "level18": 52.7,
+          "growth": 2.3
+        },
+        "DEF": {
+          "level1": 12,
+          "level18": 44.8,
+          "growth": 1.93
+        },
+        "HP": {
+          "level1": 125,
+          "level18": 210,
+          "growth": 5
+        },
+        "STA": {
+          "level1": 130,
+          "level18": 232,
+          "growth": 6
+        }
+      },
+      "mastery": {
+        "Blunt": "F",
+        "Stab": "D+",
+        "Blade": "F",
+        "Hand": "F",
+        "Bow": "F",
+        "Gun": "F",
+        "Throw": "F"
+      },
+      "skills": [
+        {
+          "type": "Field Skill",
+          "name": "Dancing Flower",
+          "cooldownSeconds": [
+            60
+          ],
+          "numericEvidence": [
+            "60 ",
+            "15%",
+            "7 "
+          ],
+          "sourceTextCache": ".research-cache\\characters\\felix-classic.txt"
+        },
+        {
+          "type": "Combat Skill",
+          "name": "Polearm Mastery",
+          "cooldownSeconds": [
+            40
+          ],
+          "numericEvidence": [
+            "40 ",
+            "110%",
+            "12 ",
+            "8",
+            "10%",
+            "100 ",
+            "1%"
+          ],
+          "sourceTextCache": ".research-cache\\characters\\felix-classic.txt"
+        }
+      ],
+      "issues": [
+        {
+          "type": "growth_mismatch",
+          "stat": "ATK",
+          "level1": 18,
+          "level18": 52.7,
+          "growth": 2.3
+        }
+      ]
+    }
+  ]
+}

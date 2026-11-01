@@ -1,0 +1,2026 @@
+{
+  "retrievedAt": "2026-11-01",
+  "scope": "original 5-star PvP indexed wiki snapshot; source date unknown",
+  "characters": [
+    {
+      "name": "Adela",
+      "stars": 5,
+      "stats": {
+        "ATK": {
+          "level1": 12,
+          "level18": 54.5,
+          "growthDerived": 2.5,
+          "growthStatus": "derived_from_endpoints_not_direct_growth_evidence"
+        },
+        "DEF": {
+          "level1": 16,
+          "level18": 50,
+          "growthDerived": 2,
+          "growthStatus": "derived_from_endpoints_not_direct_growth_evidence"
+        },
+        "HP": {
+          "level1": 124,
+          "level18": 226,
+          "growthDerived": 6,
+          "growthStatus": "derived_from_endpoints_not_direct_growth_evidence"
+        },
+        "STA": {
+          "level1": 112,
+          "level18": 248,
+          "growthDerived": 8,
+          "growthStatus": "derived_from_endpoints_not_direct_growth_evidence"
+        }
+      },
+      "source": "https://blacksurvival.fandom.com/wiki/Character_Stats",
+      "sourceAccess": "search_index_body",
+      "restorationSource": "https://wiki.projectlumia.com/characters/adela.md",
+      "discrepancies": [],
+      "finalVersionVerified": false,
+      "startingMasteryFromList": "Blunt (D), Gun (E+)"
+    },
+    {
+      "name": "Adriana",
+      "stars": 5,
+      "stats": {
+        "ATK": {
+          "level1": 17,
+          "level18": 56.1,
+          "growthDerived": 2.3,
+          "growthStatus": "derived_from_endpoints_not_direct_growth_evidence"
+        },
+        "DEF": {
+          "level1": 12,
+          "level18": 46,
+          "growthDerived": 2,
+          "growthStatus": "derived_from_endpoints_not_direct_growth_evidence"
+        },
+        "HP": {
+          "level1": 120,
+          "level18": 239,
+          "growthDerived": 7,
+          "growthStatus": "derived_from_endpoints_not_direct_growth_evidence"
+        },
+        "STA": {
+          "level1": 132,
+          "level18": 200,
+          "growthDerived": 4,
+          "growthStatus": "derived_from_endpoints_not_direct_growth_evidence"
+        }
+      },
+      "source": "https://blacksurvival.fandom.com/wiki/Character_Stats",
+      "sourceAccess": "search_index_body",
+      "restorationSource": "https://wiki.projectlumia.com/characters/adriana.md",
+      "discrepancies": [],
+      "finalVersionVerified": false,
+      "startingMasteryFromList": "Thrown (D+), Bow (E+)"
+    },
+    {
+      "name": "Aiden",
+      "stars": 5,
+      "stats": {
+        "ATK": {
+          "level1": 14,
+          "level18": 51.4,
+          "growthDerived": 2.2,
+          "growthStatus": "derived_from_endpoints_not_direct_growth_evidence"
+        },
+        "DEF": {
+          "level1": 16,
+          "level18": 55.1,
+          "growthDerived": 2.3,
+          "growthStatus": "derived_from_endpoints_not_direct_growth_evidence"
+        },
+        "HP": {
+          "level1": 138,
+          "level18": 223,
+          "growthDerived": 5,
+          "growthStatus": "derived_from_endpoints_not_direct_growth_evidence"
+        },
+        "STA": {
+          "level1": 128,
+          "level18": 213,
+          "growthDerived": 5,
+          "growthStatus": "derived_from_endpoints_not_direct_growth_evidence"
+        }
+      },
+      "source": "https://blacksurvival.fandom.com/wiki/Character_Stats",
+      "sourceAccess": "search_index_body",
+      "restorationSource": "https://wiki.projectlumia.com/characters/aiden.md",
+      "discrepancies": [],
+      "finalVersionVerified": false,
+      "startingMasteryFromList": "Blade (D), Gun (D)"
+    },
+    {
+      "name": "Alex",
+      "stars": 5,
+      "stats": {
+        "ATK": {
+          "level1": 16,
+          "level18": 53.4,
+          "growthDerived": 2.2,
+          "growthStatus": "derived_from_endpoints_not_direct_growth_evidence"
+        },
+        "DEF": {
+          "level1": 16,
+          "level18": 53.4,
+          "growthDerived": 2.2,
+          "growthStatus": "derived_from_endpoints_not_direct_growth_evidence"
+        },
+        "HP": {
+          "level1": 124,
+          "level18": 243,
+          "growthDerived": 7,
+          "growthStatus": "derived_from_endpoints_not_direct_growth_evidence"
+        },
+        "STA": {
+          "level1": 124,
+          "level18": 192,
+          "growthDerived": 4,
+          "growthStatus": "derived_from_endpoints_not_direct_growth_evidence"
+        }
+      },
+      "source": "https://blacksurvival.fandom.com/wiki/Character_Stats",
+      "sourceAccess": "search_index_body",
+      "restorationSource": "https://wiki.projectlumia.com/characters/alex.md",
+      "discrepancies": [],
+      "finalVersionVerified": false,
+      "startingMasteryFromList": "All (D)"
+    },
+    {
+      "name": "Arda",
+      "stars": 5,
+      "stats": {
+        "ATK": {
+          "level1": 14,
+          "level18": 51.4,
+          "growthDerived": 2.2,
+          "growthStatus": "derived_from_endpoints_not_direct_growth_evidence"
+        },
+        "DEF": {
+          "level1": 14,
+          "level18": 54.8,
+          "growthDerived": 2.4,
+          "growthStatus": "derived_from_endpoints_not_direct_growth_evidence"
+        },
+        "HP": {
+          "level1": 125,
+          "level18": 244,
+          "growthDerived": 7,
+          "growthStatus": "derived_from_endpoints_not_direct_growth_evidence"
+        },
+        "STA": {
+          "level1": 112,
+          "level18": 163,
+          "growthDerived": 3,
+          "growthStatus": "derived_from_endpoints_not_direct_growth_evidence"
+        }
+      },
+      "source": "https://blacksurvival.fandom.com/wiki/Character_Stats",
+      "sourceAccess": "search_index_body",
+      "restorationSource": "https://wiki.projectlumia.com/characters/arda.md",
+      "discrepancies": [],
+      "finalVersionVerified": false,
+      "startingMasteryFromList": "Bow (D+)"
+    },
+    {
+      "name": "Aya",
+      "stars": 5,
+      "stats": {
+        "ATK": {
+          "level1": 14,
+          "level18": 49.7,
+          "growthDerived": 2.1,
+          "growthStatus": "derived_from_endpoints_not_direct_growth_evidence"
+        },
+        "DEF": {
+          "level1": 14,
+          "level18": 51.4,
+          "growthDerived": 2.2,
+          "growthStatus": "derived_from_endpoints_not_direct_growth_evidence"
+        },
+        "HP": {
+          "level1": 128,
+          "level18": 230,
+          "growthDerived": 6,
+          "growthStatus": "derived_from_endpoints_not_direct_growth_evidence"
+        },
+        "STA": {
+          "level1": 120,
+          "level18": 222,
+          "growthDerived": 6,
+          "growthStatus": "derived_from_endpoints_not_direct_growth_evidence"
+        }
+      },
+      "source": "https://blacksurvival.fandom.com/wiki/Character_Stats",
+      "sourceAccess": "search_index_body",
+      "restorationSource": "https://wiki.projectlumia.com/characters/aya.md",
+      "discrepancies": [],
+      "finalVersionVerified": false,
+      "startingMasteryFromList": "Gun (D+)"
+    },
+    {
+      "name": "Barbara",
+      "stars": 5,
+      "stats": {
+        "ATK": {
+          "level1": 12,
+          "level18": 40.9,
+          "growthDerived": 1.7,
+          "growthStatus": "derived_from_endpoints_not_direct_growth_evidence"
+        },
+        "DEF": {
+          "level1": 12,
+          "level18": 40.9,
+          "growthDerived": 1.7,
+          "growthStatus": "derived_from_endpoints_not_direct_growth_evidence"
+        },
+        "HP": {
+          "level1": 140,
+          "level18": 225,
+          "growthDerived": 5,
+          "growthStatus": "derived_from_endpoints_not_direct_growth_evidence"
+        },
+        "STA": {
+          "level1": 132,
+          "level18": 251,
+          "growthDerived": 7,
+          "growthStatus": "derived_from_endpoints_not_direct_growth_evidence"
+        }
+      },
+      "source": "https://blacksurvival.fandom.com/wiki/Character_Stats",
+      "sourceAccess": "search_index_body",
+      "restorationSource": "https://wiki.projectlumia.com/characters/barbara.md",
+      "discrepancies": [],
+      "finalVersionVerified": false,
+      "startingMasteryFromList": "Blunt (D), Blade (E)"
+    },
+    {
+      "name": "Bernice",
+      "stars": 5,
+      "stats": {
+        "ATK": {
+          "level1": 14,
+          "level18": 53.1,
+          "growthDerived": 2.3,
+          "growthStatus": "derived_from_endpoints_not_direct_growth_evidence"
+        },
+        "DEF": {
+          "level1": 22,
+          "level18": 56,
+          "growthDerived": 2,
+          "growthStatus": "derived_from_endpoints_not_direct_growth_evidence"
+        },
+        "HP": {
+          "level1": 132,
+          "level18": 251,
+          "growthDerived": 7,
+          "growthStatus": "derived_from_endpoints_not_direct_growth_evidence"
+        },
+        "STA": {
+          "level1": 112,
+          "level18": 214,
+          "growthDerived": 6,
+          "growthStatus": "derived_from_endpoints_not_direct_growth_evidence"
+        }
+      },
+      "source": "https://blacksurvival.fandom.com/wiki/Character_Stats",
+      "sourceAccess": "search_index_body",
+      "restorationSource": "https://wiki.projectlumia.com/characters/bernice.md",
+      "discrepancies": [],
+      "finalVersionVerified": false,
+      "startingMasteryFromList": "Gun (D+)"
+    },
+    {
+      "name": "Bianca",
+      "stars": 5,
+      "stats": {
+        "ATK": {
+          "level1": 12,
+          "level18": 49.4,
+          "growthDerived": 2.2,
+          "growthStatus": "derived_from_endpoints_not_direct_growth_evidence"
+        },
+        "DEF": {
+          "level1": 20,
+          "level18": 54,
+          "growthDerived": 2,
+          "growthStatus": "derived_from_endpoints_not_direct_growth_evidence"
+        },
+        "HP": {
+          "level1": 120,
+          "level18": 222,
+          "growthDerived": 6,
+          "growthStatus": "derived_from_endpoints_not_direct_growth_evidence"
+        },
+        "STA": {
+          "level1": 120,
+          "level18": 239,
+          "growthDerived": 7,
+          "growthStatus": "derived_from_endpoints_not_direct_growth_evidence"
+        }
+      },
+      "source": "https://blacksurvival.fandom.com/wiki/Character_Stats",
+      "sourceAccess": "search_index_body",
+      "restorationSource": "https://wiki.projectlumia.com/characters/bianca.md",
+      "discrepancies": [],
+      "finalVersionVerified": false,
+      "startingMasteryFromList": "Blunt (D), Stab (D)"
+    },
+    {
+      "name": "Camilo",
+      "stars": 5,
+      "stats": {
+        "ATK": {
+          "level1": 16,
+          "level18": 53.4,
+          "growthDerived": 2.2,
+          "growthStatus": "derived_from_endpoints_not_direct_growth_evidence"
+        },
+        "DEF": {
+          "level1": 14,
+          "level18": 51.4,
+          "growthDerived": 2.2,
+          "growthStatus": "derived_from_endpoints_not_direct_growth_evidence"
+        },
+        "HP": {
+          "level1": 128,
+          "level18": 247,
+          "growthDerived": 7,
+          "growthStatus": "derived_from_endpoints_not_direct_growth_evidence"
+        },
+        "STA": {
+          "level1": 112,
+          "level18": 214,
+          "growthDerived": 6,
+          "growthStatus": "derived_from_endpoints_not_direct_growth_evidence"
+        }
+      },
+      "source": "https://blacksurvival.fandom.com/wiki/Character_Stats",
+      "sourceAccess": "search_index_body",
+      "restorationSource": "https://wiki.projectlumia.com/characters/camilo.md",
+      "discrepancies": [],
+      "finalVersionVerified": false,
+      "startingMasteryFromList": "Thrown (D), Stab (D)"
+    },
+    {
+      "name": "Cathy",
+      "stars": 5,
+      "stats": {
+        "ATK": {
+          "level1": 12,
+          "level18": 52.8,
+          "growthDerived": 2.4,
+          "growthStatus": "derived_from_endpoints_not_direct_growth_evidence"
+        },
+        "DEF": {
+          "level1": 12,
+          "level18": 49.4,
+          "growthDerived": 2.2,
+          "growthStatus": "derived_from_endpoints_not_direct_growth_evidence"
+        },
+        "HP": {
+          "level1": 128,
+          "level18": 247,
+          "growthDerived": 7,
+          "growthStatus": "derived_from_endpoints_not_direct_growth_evidence"
+        },
+        "STA": {
+          "level1": 116,
+          "level18": 201,
+          "growthDerived": 5,
+          "growthStatus": "derived_from_endpoints_not_direct_growth_evidence"
+        }
+      },
+      "source": "https://blacksurvival.fandom.com/wiki/Character_Stats",
+      "sourceAccess": "search_index_body",
+      "restorationSource": "https://wiki.projectlumia.com/characters/cathy.md",
+      "discrepancies": [],
+      "finalVersionVerified": false,
+      "startingMasteryFromList": "Random (D+ or F)"
+    },
+    {
+      "name": "Celine",
+      "stars": 5,
+      "stats": {
+        "ATK": {
+          "level1": 10,
+          "level18": 47.4,
+          "growthDerived": 2.2,
+          "growthStatus": "derived_from_endpoints_not_direct_growth_evidence"
+        },
+        "DEF": {
+          "level1": 12,
+          "level18": 51.1,
+          "growthDerived": 2.3,
+          "growthStatus": "derived_from_endpoints_not_direct_growth_evidence"
+        },
+        "HP": {
+          "level1": 124,
+          "level18": 243,
+          "growthDerived": 7,
+          "growthStatus": "derived_from_endpoints_not_direct_growth_evidence"
+        },
+        "STA": {
+          "level1": 120,
+          "level18": 239,
+          "growthDerived": 7,
+          "growthStatus": "derived_from_endpoints_not_direct_growth_evidence"
+        }
+      },
+      "source": "https://blacksurvival.fandom.com/wiki/Character_Stats",
+      "sourceAccess": "search_index_body",
+      "restorationSource": "https://wiki.projectlumia.com/characters/celine.md",
+      "discrepancies": [
+        {
+          "stat": "DEF",
+          "field": "level18",
+          "indexed": 51.1,
+          "restoration": 54.5
+        }
+      ],
+      "finalVersionVerified": false,
+      "startingMasteryFromList": "Gun (D+)"
+    },
+    {
+      "name": "Chiara",
+      "stars": 5,
+      "stats": {
+        "ATK": {
+          "level1": 12,
+          "level18": 52.8,
+          "growthDerived": 2.4,
+          "growthStatus": "derived_from_endpoints_not_direct_growth_evidence"
+        },
+        "DEF": {
+          "level1": 12,
+          "level18": 52.8,
+          "growthDerived": 2.4,
+          "growthStatus": "derived_from_endpoints_not_direct_growth_evidence"
+        },
+        "HP": {
+          "level1": 120,
+          "level18": 222,
+          "growthDerived": 6,
+          "growthStatus": "derived_from_endpoints_not_direct_growth_evidence"
+        },
+        "STA": {
+          "level1": 108,
+          "level18": 210,
+          "growthDerived": 6,
+          "growthStatus": "derived_from_endpoints_not_direct_growth_evidence"
+        }
+      },
+      "source": "https://blacksurvival.fandom.com/wiki/Character_Stats",
+      "sourceAccess": "search_index_body",
+      "restorationSource": "https://wiki.projectlumia.com/characters/chiara.md",
+      "discrepancies": [],
+      "finalVersionVerified": false,
+      "startingMasteryFromList": "Blade (D+)"
+    },
+    {
+      "name": "Chloe",
+      "stars": 5,
+      "stats": {
+        "ATK": {
+          "level1": 12,
+          "level18": 47.7,
+          "growthDerived": 2.1,
+          "growthStatus": "derived_from_endpoints_not_direct_growth_evidence"
+        },
+        "DEF": {
+          "level1": 16,
+          "level18": 58.5,
+          "growthDerived": 2.5,
+          "growthStatus": "derived_from_endpoints_not_direct_growth_evidence"
+        },
+        "HP": {
+          "level1": 120,
+          "level18": 222,
+          "growthDerived": 6,
+          "growthStatus": "derived_from_endpoints_not_direct_growth_evidence"
+        },
+        "STA": {
+          "level1": 120,
+          "level18": 239,
+          "growthDerived": 7,
+          "growthStatus": "derived_from_endpoints_not_direct_growth_evidence"
+        }
+      },
+      "source": "https://blacksurvival.fandom.com/wiki/Character_Stats",
+      "sourceAccess": "search_index_body",
+      "restorationSource": "https://wiki.projectlumia.com/characters/chloe.md",
+      "discrepancies": [],
+      "finalVersionVerified": false,
+      "startingMasteryFromList": "Stab (D+)"
+    },
+    {
+      "name": "Daniel",
+      "stars": 5,
+      "stats": {
+        "ATK": {
+          "level1": 12,
+          "level18": 49.4,
+          "growthDerived": 2.2,
+          "growthStatus": "derived_from_endpoints_not_direct_growth_evidence"
+        },
+        "DEF": {
+          "level1": 17,
+          "level18": 56.1,
+          "growthDerived": 2.3,
+          "growthStatus": "derived_from_endpoints_not_direct_growth_evidence"
+        },
+        "HP": {
+          "level1": 132,
+          "level18": 234,
+          "growthDerived": 6,
+          "growthStatus": "derived_from_endpoints_not_direct_growth_evidence"
+        },
+        "STA": {
+          "level1": 116,
+          "level18": 235,
+          "growthDerived": 7,
+          "growthStatus": "derived_from_endpoints_not_direct_growth_evidence"
+        }
+      },
+      "source": "https://blacksurvival.fandom.com/wiki/Character_Stats",
+      "sourceAccess": "search_index_body",
+      "restorationSource": "https://wiki.projectlumia.com/characters/daniel.md",
+      "discrepancies": [],
+      "finalVersionVerified": false,
+      "startingMasteryFromList": "Stab (D+)"
+    },
+    {
+      "name": "Echion",
+      "stars": 5,
+      "stats": {
+        "ATK": {
+          "level1": 8,
+          "level18": 8,
+          "growthDerived": 0,
+          "growthStatus": "derived_from_endpoints_not_direct_growth_evidence"
+        },
+        "DEF": {
+          "level1": 16,
+          "level18": 55.1,
+          "growthDerived": 2.3,
+          "growthStatus": "derived_from_endpoints_not_direct_growth_evidence"
+        },
+        "HP": {
+          "level1": 120,
+          "level18": 239,
+          "growthDerived": 7,
+          "growthStatus": "derived_from_endpoints_not_direct_growth_evidence"
+        },
+        "STA": {
+          "level1": 120,
+          "level18": 205,
+          "growthDerived": 5,
+          "growthStatus": "derived_from_endpoints_not_direct_growth_evidence"
+        }
+      },
+      "source": "https://blacksurvival.fandom.com/wiki/Character_Stats",
+      "sourceAccess": "search_index_body",
+      "restorationSource": "https://wiki.projectlumia.com/characters/echion.md",
+      "discrepancies": [],
+      "finalVersionVerified": false,
+      "startingMasteryFromList": "Blade (D+)"
+    },
+    {
+      "name": "Elena",
+      "stars": 5,
+      "stats": {
+        "ATK": {
+          "level1": 15,
+          "level18": 49,
+          "growthDerived": 2,
+          "growthStatus": "derived_from_endpoints_not_direct_growth_evidence"
+        },
+        "DEF": {
+          "level1": 14,
+          "level18": 48,
+          "growthDerived": 2,
+          "growthStatus": "derived_from_endpoints_not_direct_growth_evidence"
+        },
+        "HP": {
+          "level1": 118,
+          "level18": 220,
+          "growthDerived": 6,
+          "growthStatus": "derived_from_endpoints_not_direct_growth_evidence"
+        },
+        "STA": {
+          "level1": 132,
+          "level18": 217,
+          "growthDerived": 5,
+          "growthStatus": "derived_from_endpoints_not_direct_growth_evidence"
+        }
+      },
+      "source": "https://blacksurvival.fandom.com/wiki/Character_Stats",
+      "sourceAccess": "search_index_body",
+      "restorationSource": "https://wiki.projectlumia.com/characters/elena.md",
+      "discrepancies": [
+        {
+          "stat": "ATK",
+          "field": "level1",
+          "indexed": 15,
+          "restoration": 11
+        },
+        {
+          "stat": "DEF",
+          "field": "level1",
+          "indexed": 14,
+          "restoration": 12
+        },
+        {
+          "stat": "HP",
+          "field": "level1",
+          "indexed": 118,
+          "restoration": 115
+        }
+      ],
+      "finalVersionVerified": false,
+      "startingMasteryFromList": "Blade (D+)"
+    },
+    {
+      "name": "Eleven",
+      "stars": 5,
+      "stats": {
+        "ATK": {
+          "level1": 12,
+          "level18": 46,
+          "growthDerived": 2,
+          "growthStatus": "derived_from_endpoints_not_direct_growth_evidence"
+        },
+        "DEF": {
+          "level1": 20,
+          "level18": 37,
+          "growthDerived": 1,
+          "growthStatus": "derived_from_endpoints_not_direct_growth_evidence"
+        },
+        "HP": {
+          "level1": 128,
+          "level18": 230,
+          "growthDerived": 6,
+          "growthStatus": "derived_from_endpoints_not_direct_growth_evidence"
+        },
+        "STA": {
+          "level1": 120,
+          "level18": 222,
+          "growthDerived": 6,
+          "growthStatus": "derived_from_endpoints_not_direct_growth_evidence"
+        }
+      },
+      "source": "https://blacksurvival.fandom.com/wiki/Character_Stats",
+      "sourceAccess": "search_index_body",
+      "restorationSource": "https://wiki.projectlumia.com/characters/eleven.md",
+      "discrepancies": [],
+      "finalVersionVerified": false,
+      "startingMasteryFromList": "Blunt (D+)"
+    },
+    {
+      "name": "Emma",
+      "stars": 5,
+      "stats": {
+        "ATK": {
+          "level1": 12,
+          "level18": 49.4,
+          "growthDerived": 2.2,
+          "growthStatus": "derived_from_endpoints_not_direct_growth_evidence"
+        },
+        "DEF": {
+          "level1": 16,
+          "level18": 55.1,
+          "growthDerived": 2.3,
+          "growthStatus": "derived_from_endpoints_not_direct_growth_evidence"
+        },
+        "HP": {
+          "level1": 120,
+          "level18": 239,
+          "growthDerived": 7,
+          "growthStatus": "derived_from_endpoints_not_direct_growth_evidence"
+        },
+        "STA": {
+          "level1": 100,
+          "level18": 100,
+          "growthDerived": 0,
+          "growthStatus": "derived_from_endpoints_not_direct_growth_evidence"
+        }
+      },
+      "source": "https://blacksurvival.fandom.com/wiki/Character_Stats",
+      "sourceAccess": "search_index_body",
+      "restorationSource": "https://wiki.projectlumia.com/characters/emma.md",
+      "discrepancies": [],
+      "finalVersionVerified": false,
+      "startingMasteryFromList": "Thrown (D), Blunt (D)"
+    },
+    {
+      "name": "Eva",
+      "stars": 5,
+      "stats": {
+        "ATK": {
+          "level1": 14,
+          "level18": 54.8,
+          "growthDerived": 2.4,
+          "growthStatus": "derived_from_endpoints_not_direct_growth_evidence"
+        },
+        "DEF": {
+          "level1": 13,
+          "level18": 50.4,
+          "growthDerived": 2.2,
+          "growthStatus": "derived_from_endpoints_not_direct_growth_evidence"
+        },
+        "HP": {
+          "level1": 148,
+          "level18": 233,
+          "growthDerived": 5,
+          "growthStatus": "derived_from_endpoints_not_direct_growth_evidence"
+        },
+        "STA": {
+          "level1": 140,
+          "level18": 208,
+          "growthDerived": 4,
+          "growthStatus": "derived_from_endpoints_not_direct_growth_evidence"
+        }
+      },
+      "source": "https://blacksurvival.fandom.com/wiki/Character_Stats",
+      "sourceAccess": "search_index_body",
+      "restorationSource": "https://wiki.projectlumia.com/characters/eva.md",
+      "discrepancies": [],
+      "finalVersionVerified": false,
+      "startingMasteryFromList": "Thrown (D)"
+    },
+    {
+      "name": "Felix",
+      "stars": 5,
+      "stats": {
+        "ATK": {
+          "level1": 18,
+          "level18": 58.8,
+          "growthDerived": 2.4,
+          "growthStatus": "derived_from_endpoints_not_direct_growth_evidence"
+        },
+        "DEF": {
+          "level1": 12,
+          "level18": 42.6,
+          "growthDerived": 1.8,
+          "growthStatus": "derived_from_endpoints_not_direct_growth_evidence"
+        },
+        "HP": {
+          "level1": 125,
+          "level18": 210,
+          "growthDerived": 5,
+          "growthStatus": "derived_from_endpoints_not_direct_growth_evidence"
+        },
+        "STA": {
+          "level1": 130,
+          "level18": 232,
+          "growthDerived": 6,
+          "growthStatus": "derived_from_endpoints_not_direct_growth_evidence"
+        }
+      },
+      "source": "https://blacksurvival.fandom.com/wiki/Character_Stats",
+      "sourceAccess": "search_index_body",
+      "restorationSource": "https://wiki.projectlumia.com/characters/felix.md",
+      "discrepancies": [
+        {
+          "stat": "ATK",
+          "field": "level18",
+          "indexed": 58.8,
+          "restoration": 52.7
+        },
+        {
+          "stat": "DEF",
+          "field": "level18",
+          "indexed": 42.6,
+          "restoration": 44.8
+        }
+      ],
+      "finalVersionVerified": false,
+      "startingMasteryFromList": "Stab (D+)"
+    },
+    {
+      "name": "Fiora",
+      "stars": 5,
+      "stats": {
+        "ATK": {
+          "level1": 14,
+          "level18": 54.8,
+          "growthDerived": 2.4,
+          "growthStatus": "derived_from_endpoints_not_direct_growth_evidence"
+        },
+        "DEF": {
+          "level1": 14,
+          "level18": 51.4,
+          "growthDerived": 2.2,
+          "growthStatus": "derived_from_endpoints_not_direct_growth_evidence"
+        },
+        "HP": {
+          "level1": 116,
+          "level18": 235,
+          "growthDerived": 7,
+          "growthStatus": "derived_from_endpoints_not_direct_growth_evidence"
+        },
+        "STA": {
+          "level1": 132,
+          "level18": 200,
+          "growthDerived": 4,
+          "growthStatus": "derived_from_endpoints_not_direct_growth_evidence"
+        }
+      },
+      "source": "https://blacksurvival.fandom.com/wiki/Character_Stats",
+      "sourceAccess": "search_index_body",
+      "restorationSource": "https://wiki.projectlumia.com/characters/fiora.md",
+      "discrepancies": [
+        {
+          "stat": "ATK",
+          "field": "level1",
+          "indexed": 14,
+          "restoration": 18
+        },
+        {
+          "stat": "DEF",
+          "field": "level1",
+          "indexed": 14,
+          "restoration": 12
+        }
+      ],
+      "finalVersionVerified": false,
+      "startingMasteryFromList": "Stab (D+)"
+    },
+    {
+      "name": "Hart",
+      "stars": 5,
+      "stats": {
+        "ATK": {
+          "level1": 12,
+          "level18": 51.1,
+          "growthDerived": 2.3,
+          "growthStatus": "derived_from_endpoints_not_direct_growth_evidence"
+        },
+        "DEF": {
+          "level1": 16,
+          "level18": 50,
+          "growthDerived": 2,
+          "growthStatus": "derived_from_endpoints_not_direct_growth_evidence"
+        },
+        "HP": {
+          "level1": 132,
+          "level18": 234,
+          "growthDerived": 6,
+          "growthStatus": "derived_from_endpoints_not_direct_growth_evidence"
+        },
+        "STA": {
+          "level1": 124,
+          "level18": 243,
+          "growthDerived": 7,
+          "growthStatus": "derived_from_endpoints_not_direct_growth_evidence"
+        }
+      },
+      "source": "https://blacksurvival.fandom.com/wiki/Character_Stats",
+      "sourceAccess": "search_index_body",
+      "restorationSource": "https://wiki.projectlumia.com/characters/hart.md",
+      "discrepancies": [],
+      "finalVersionVerified": false,
+      "startingMasteryFromList": "Blunt (D+)"
+    },
+    {
+      "name": "Hyejin",
+      "stars": 5,
+      "stats": {
+        "ATK": {
+          "level1": 12,
+          "level18": 54.5,
+          "growthDerived": 2.5,
+          "growthStatus": "derived_from_endpoints_not_direct_growth_evidence"
+        },
+        "DEF": {
+          "level1": 12,
+          "level18": 52.8,
+          "growthDerived": 2.4,
+          "growthStatus": "derived_from_endpoints_not_direct_growth_evidence"
+        },
+        "HP": {
+          "level1": 136,
+          "level18": 238,
+          "growthDerived": 6,
+          "growthStatus": "derived_from_endpoints_not_direct_growth_evidence"
+        },
+        "STA": {
+          "level1": 112,
+          "level18": 214,
+          "growthDerived": 6,
+          "growthStatus": "derived_from_endpoints_not_direct_growth_evidence"
+        }
+      },
+      "source": "https://blacksurvival.fandom.com/wiki/Character_Stats",
+      "sourceAccess": "search_index_body",
+      "restorationSource": "https://wiki.projectlumia.com/characters/hyejin.md",
+      "discrepancies": [],
+      "finalVersionVerified": false,
+      "startingMasteryFromList": "Hand (D), Bow (D)"
+    },
+    {
+      "name": "Hyunwoo",
+      "stars": 5,
+      "stats": {
+        "ATK": {
+          "level1": 12,
+          "level18": 46,
+          "growthDerived": 2,
+          "growthStatus": "derived_from_endpoints_not_direct_growth_evidence"
+        },
+        "DEF": {
+          "level1": 14,
+          "level18": 58.2,
+          "growthDerived": 2.6,
+          "growthStatus": "derived_from_endpoints_not_direct_growth_evidence"
+        },
+        "HP": {
+          "level1": 120,
+          "level18": 222,
+          "growthDerived": 6,
+          "growthStatus": "derived_from_endpoints_not_direct_growth_evidence"
+        },
+        "STA": {
+          "level1": 100,
+          "level18": 168,
+          "growthDerived": 4,
+          "growthStatus": "derived_from_endpoints_not_direct_growth_evidence"
+        }
+      },
+      "source": "https://blacksurvival.fandom.com/wiki/Character_Stats",
+      "sourceAccess": "search_index_body",
+      "restorationSource": "https://wiki.projectlumia.com/characters/hyunwoo.md",
+      "discrepancies": [],
+      "finalVersionVerified": false,
+      "startingMasteryFromList": "Hand (D)"
+    },
+    {
+      "name": "Isol",
+      "stars": 5,
+      "stats": {
+        "ATK": {
+          "level1": 14,
+          "level18": 58.2,
+          "growthDerived": 2.6,
+          "growthStatus": "derived_from_endpoints_not_direct_growth_evidence"
+        },
+        "DEF": {
+          "level1": 16,
+          "level18": 53.4,
+          "growthDerived": 2.2,
+          "growthStatus": "derived_from_endpoints_not_direct_growth_evidence"
+        },
+        "HP": {
+          "level1": 136,
+          "level18": 221,
+          "growthDerived": 5,
+          "growthStatus": "derived_from_endpoints_not_direct_growth_evidence"
+        },
+        "STA": {
+          "level1": 131,
+          "level18": 250,
+          "growthDerived": 7,
+          "growthStatus": "derived_from_endpoints_not_direct_growth_evidence"
+        }
+      },
+      "source": "https://blacksurvival.fandom.com/wiki/Character_Stats",
+      "sourceAccess": "search_index_body",
+      "restorationSource": "https://wiki.projectlumia.com/characters/isol.md",
+      "discrepancies": [],
+      "finalVersionVerified": false,
+      "startingMasteryFromList": "Gun (D), Bow (D), Stab (D)"
+    },
+    {
+      "name": "Jackie",
+      "stars": 5,
+      "stats": {
+        "ATK": {
+          "level1": 18,
+          "level18": 55.4,
+          "growthDerived": 2.2,
+          "growthStatus": "derived_from_endpoints_not_direct_growth_evidence"
+        },
+        "DEF": {
+          "level1": 12,
+          "level18": 49.4,
+          "growthDerived": 2.2,
+          "growthStatus": "derived_from_endpoints_not_direct_growth_evidence"
+        },
+        "HP": {
+          "level1": 116,
+          "level18": 235,
+          "growthDerived": 7,
+          "growthStatus": "derived_from_endpoints_not_direct_growth_evidence"
+        },
+        "STA": {
+          "level1": 116,
+          "level18": 201,
+          "growthDerived": 5,
+          "growthStatus": "derived_from_endpoints_not_direct_growth_evidence"
+        }
+      },
+      "source": "https://blacksurvival.fandom.com/wiki/Character_Stats",
+      "sourceAccess": "search_index_body",
+      "restorationSource": "https://wiki.projectlumia.com/characters/jackie.md",
+      "discrepancies": [],
+      "finalVersionVerified": false,
+      "startingMasteryFromList": "Blade (D), Blunt (D), Stab (D)"
+    },
+    {
+      "name": "Jan",
+      "stars": 5,
+      "stats": {
+        "ATK": {
+          "level1": 16,
+          "level18": 51.7,
+          "growthDerived": 2.1,
+          "growthStatus": "derived_from_endpoints_not_direct_growth_evidence"
+        },
+        "DEF": {
+          "level1": 14,
+          "level18": 49.7,
+          "growthDerived": 2.1,
+          "growthStatus": "derived_from_endpoints_not_direct_growth_evidence"
+        },
+        "HP": {
+          "level1": 140,
+          "level18": 225,
+          "growthDerived": 5,
+          "growthStatus": "derived_from_endpoints_not_direct_growth_evidence"
+        },
+        "STA": {
+          "level1": 116,
+          "level18": 235,
+          "growthDerived": 7,
+          "growthStatus": "derived_from_endpoints_not_direct_growth_evidence"
+        }
+      },
+      "source": "https://blacksurvival.fandom.com/wiki/Character_Stats",
+      "sourceAccess": "search_index_body",
+      "restorationSource": "https://wiki.projectlumia.com/characters/jan.md",
+      "discrepancies": [],
+      "finalVersionVerified": false,
+      "startingMasteryFromList": "Hand (D+)"
+    },
+    {
+      "name": "Jenny",
+      "stars": 5,
+      "stats": {
+        "ATK": {
+          "level1": 14,
+          "level18": 51.4,
+          "growthDerived": 2.2,
+          "growthStatus": "derived_from_endpoints_not_direct_growth_evidence"
+        },
+        "DEF": {
+          "level1": 16,
+          "level18": 53.4,
+          "growthDerived": 2.2,
+          "growthStatus": "derived_from_endpoints_not_direct_growth_evidence"
+        },
+        "HP": {
+          "level1": 120,
+          "level18": 205,
+          "growthDerived": 5,
+          "growthStatus": "derived_from_endpoints_not_direct_growth_evidence"
+        },
+        "STA": {
+          "level1": 104,
+          "level18": 189,
+          "growthDerived": 5,
+          "growthStatus": "derived_from_endpoints_not_direct_growth_evidence"
+        }
+      },
+      "source": "https://blacksurvival.fandom.com/wiki/Character_Stats",
+      "sourceAccess": "search_index_body",
+      "restorationSource": "https://wiki.projectlumia.com/characters/jenny.md",
+      "discrepancies": [
+        {
+          "stat": "ATK",
+          "field": "level1",
+          "indexed": 14,
+          "restoration": 12
+        },
+        {
+          "stat": "ATK",
+          "field": "level18",
+          "indexed": 51.4,
+          "restoration": 49.4
+        }
+      ],
+      "finalVersionVerified": false,
+      "startingMasteryFromList": "Gun (D), Stab (D)"
+    },
+    {
+      "name": "Johann",
+      "stars": 5,
+      "stats": {
+        "ATK": {
+          "level1": 14,
+          "level18": 51.4,
+          "growthDerived": 2.2,
+          "growthStatus": "derived_from_endpoints_not_direct_growth_evidence"
+        },
+        "DEF": {
+          "level1": 16,
+          "level18": 55.1,
+          "growthDerived": 2.3,
+          "growthStatus": "derived_from_endpoints_not_direct_growth_evidence"
+        },
+        "HP": {
+          "level1": 116,
+          "level18": 218,
+          "growthDerived": 6,
+          "growthStatus": "derived_from_endpoints_not_direct_growth_evidence"
+        },
+        "STA": {
+          "level1": 130,
+          "level18": 249,
+          "growthDerived": 7,
+          "growthStatus": "derived_from_endpoints_not_direct_growth_evidence"
+        }
+      },
+      "source": "https://blacksurvival.fandom.com/wiki/Character_Stats",
+      "sourceAccess": "search_index_body",
+      "restorationSource": "https://wiki.projectlumia.com/characters/johann.md",
+      "discrepancies": [],
+      "finalVersionVerified": false,
+      "startingMasteryFromList": "Hand (D+)"
+    },
+    {
+      "name": "JP",
+      "stars": 5,
+      "stats": {
+        "ATK": {
+          "level1": 14,
+          "level18": 54.8,
+          "growthDerived": 2.4,
+          "growthStatus": "derived_from_endpoints_not_direct_growth_evidence"
+        },
+        "DEF": {
+          "level1": 12,
+          "level18": 46,
+          "growthDerived": 2,
+          "growthStatus": "derived_from_endpoints_not_direct_growth_evidence"
+        },
+        "HP": {
+          "level1": 116,
+          "level18": 218,
+          "growthDerived": 6,
+          "growthStatus": "derived_from_endpoints_not_direct_growth_evidence"
+        },
+        "STA": {
+          "level1": 116,
+          "level18": 184,
+          "growthDerived": 4,
+          "growthStatus": "derived_from_endpoints_not_direct_growth_evidence"
+        }
+      },
+      "source": "https://blacksurvival.fandom.com/wiki/Character_Stats",
+      "sourceAccess": "search_index_body",
+      "restorationSource": "https://wiki.projectlumia.com/characters/jp.md",
+      "discrepancies": [],
+      "finalVersionVerified": false,
+      "startingMasteryFromList": "Random (D or E)"
+    },
+    {
+      "name": "Laura",
+      "stars": 5,
+      "stats": {
+        "ATK": {
+          "level1": 18,
+          "level18": 55.4,
+          "growthDerived": 2.2,
+          "growthStatus": "derived_from_endpoints_not_direct_growth_evidence"
+        },
+        "DEF": {
+          "level1": 12,
+          "level18": 46,
+          "growthDerived": 2,
+          "growthStatus": "derived_from_endpoints_not_direct_growth_evidence"
+        },
+        "HP": {
+          "level1": 128,
+          "level18": 213,
+          "growthDerived": 5,
+          "growthStatus": "derived_from_endpoints_not_direct_growth_evidence"
+        },
+        "STA": {
+          "level1": 136,
+          "level18": 238,
+          "growthDerived": 6,
+          "growthStatus": "derived_from_endpoints_not_direct_growth_evidence"
+        }
+      },
+      "source": "https://blacksurvival.fandom.com/wiki/Character_Stats",
+      "sourceAccess": "search_index_body",
+      "restorationSource": "https://wiki.projectlumia.com/characters/laura.md",
+      "discrepancies": [],
+      "finalVersionVerified": false,
+      "startingMasteryFromList": "Blunt (D), Thrown (D)"
+    },
+    {
+      "name": "Lenox",
+      "stars": 5,
+      "stats": {
+        "ATK": {
+          "level1": 14,
+          "level18": 54.8,
+          "growthDerived": 2.4,
+          "growthStatus": "derived_from_endpoints_not_direct_growth_evidence"
+        },
+        "DEF": {
+          "level1": 16,
+          "level18": 53.4,
+          "growthDerived": 2.2,
+          "growthStatus": "derived_from_endpoints_not_direct_growth_evidence"
+        },
+        "HP": {
+          "level1": 124,
+          "level18": 243,
+          "growthDerived": 7,
+          "growthStatus": "derived_from_endpoints_not_direct_growth_evidence"
+        },
+        "STA": {
+          "level1": 108,
+          "level18": 193,
+          "growthDerived": 5,
+          "growthStatus": "derived_from_endpoints_not_direct_growth_evidence"
+        }
+      },
+      "source": "https://blacksurvival.fandom.com/wiki/Character_Stats",
+      "sourceAccess": "search_index_body",
+      "restorationSource": "https://wiki.projectlumia.com/characters/lenox.md",
+      "discrepancies": [
+        {
+          "stat": "HP",
+          "field": "level18",
+          "indexed": 243,
+          "restoration": 226
+        }
+      ],
+      "finalVersionVerified": false,
+      "startingMasteryFromList": "Blunt (D), Gun (E+)"
+    },
+    {
+      "name": "Leon",
+      "stars": 5,
+      "stats": {
+        "ATK": {
+          "level1": 14,
+          "level18": 48,
+          "growthDerived": 2,
+          "growthStatus": "derived_from_endpoints_not_direct_growth_evidence"
+        },
+        "DEF": {
+          "level1": 16,
+          "level18": 50,
+          "growthDerived": 2,
+          "growthStatus": "derived_from_endpoints_not_direct_growth_evidence"
+        },
+        "HP": {
+          "level1": 152,
+          "level18": 237,
+          "growthDerived": 5,
+          "growthStatus": "derived_from_endpoints_not_direct_growth_evidence"
+        },
+        "STA": {
+          "level1": 130,
+          "level18": 232,
+          "growthDerived": 6,
+          "growthStatus": "derived_from_endpoints_not_direct_growth_evidence"
+        }
+      },
+      "source": "https://blacksurvival.fandom.com/wiki/Character_Stats",
+      "sourceAccess": "search_index_body",
+      "restorationSource": "https://wiki.projectlumia.com/characters/leon.md",
+      "discrepancies": [],
+      "finalVersionVerified": false,
+      "startingMasteryFromList": "Hand (D), Thrown (E+)"
+    },
+    {
+      "name": "Li Dailin",
+      "stars": 5,
+      "stats": {
+        "ATK": {
+          "level1": 16,
+          "level18": 55.1,
+          "growthDerived": 2.3,
+          "growthStatus": "derived_from_endpoints_not_direct_growth_evidence"
+        },
+        "DEF": {
+          "level1": 14,
+          "level18": 44.6,
+          "growthDerived": 1.8,
+          "growthStatus": "derived_from_endpoints_not_direct_growth_evidence"
+        },
+        "HP": {
+          "level1": 120,
+          "level18": 222,
+          "growthDerived": 6,
+          "growthStatus": "derived_from_endpoints_not_direct_growth_evidence"
+        },
+        "STA": {
+          "level1": 124,
+          "level18": 175,
+          "growthDerived": 3,
+          "growthStatus": "derived_from_endpoints_not_direct_growth_evidence"
+        }
+      },
+      "source": "https://blacksurvival.fandom.com/wiki/Character_Stats",
+      "sourceAccess": "search_index_body",
+      "restorationSource": "https://wiki.projectlumia.com/characters/li-dailin.md",
+      "discrepancies": [
+        {
+          "stat": "ATK",
+          "field": "level18",
+          "indexed": 55.1,
+          "restoration": 53.4
+        }
+      ],
+      "finalVersionVerified": false,
+      "startingMasteryFromList": "Hand (D), Blade (D), Blunt (D)"
+    },
+    {
+      "name": "Luke",
+      "stars": 5,
+      "stats": {
+        "ATK": {
+          "level1": 16,
+          "level18": 56.8,
+          "growthDerived": 2.4,
+          "growthStatus": "derived_from_endpoints_not_direct_growth_evidence"
+        },
+        "DEF": {
+          "level1": 12,
+          "level18": 51.1,
+          "growthDerived": 2.3,
+          "growthStatus": "derived_from_endpoints_not_direct_growth_evidence"
+        },
+        "HP": {
+          "level1": 128,
+          "level18": 230,
+          "growthDerived": 6,
+          "growthStatus": "derived_from_endpoints_not_direct_growth_evidence"
+        },
+        "STA": {
+          "level1": 116,
+          "level18": 218,
+          "growthDerived": 6,
+          "growthStatus": "derived_from_endpoints_not_direct_growth_evidence"
+        }
+      },
+      "source": "https://blacksurvival.fandom.com/wiki/Character_Stats",
+      "sourceAccess": "search_index_body",
+      "restorationSource": "https://wiki.projectlumia.com/characters/luke.md",
+      "discrepancies": [
+        {
+          "stat": "ATK",
+          "field": "level1",
+          "indexed": 16,
+          "restoration": 14
+        },
+        {
+          "stat": "ATK",
+          "field": "level18",
+          "indexed": 56.8,
+          "restoration": 54.8
+        }
+      ],
+      "finalVersionVerified": false,
+      "startingMasteryFromList": "Stab (D), Gun (D)"
+    },
+    {
+      "name": "Magnus",
+      "stars": 5,
+      "stats": {
+        "ATK": {
+          "level1": 16,
+          "level18": 56.8,
+          "growthDerived": 2.4,
+          "growthStatus": "derived_from_endpoints_not_direct_growth_evidence"
+        },
+        "DEF": {
+          "level1": 14,
+          "level18": 51.4,
+          "growthDerived": 2.2,
+          "growthStatus": "derived_from_endpoints_not_direct_growth_evidence"
+        },
+        "HP": {
+          "level1": 120,
+          "level18": 239,
+          "growthDerived": 7,
+          "growthStatus": "derived_from_endpoints_not_direct_growth_evidence"
+        },
+        "STA": {
+          "level1": 112,
+          "level18": 197,
+          "growthDerived": 5,
+          "growthStatus": "derived_from_endpoints_not_direct_growth_evidence"
+        }
+      },
+      "source": "https://blacksurvival.fandom.com/wiki/Character_Stats",
+      "sourceAccess": "search_index_body",
+      "restorationSource": "https://wiki.projectlumia.com/characters/magnus.md",
+      "discrepancies": [
+        {
+          "stat": "ATK",
+          "field": "level18",
+          "indexed": 56.8,
+          "restoration": 55.1
+        },
+        {
+          "stat": "DEF",
+          "field": "level18",
+          "indexed": 51.4,
+          "restoration": 48
+        }
+      ],
+      "finalVersionVerified": false,
+      "startingMasteryFromList": "Blunt (D), Hand (E)"
+    },
+    {
+      "name": "Mai",
+      "stars": 5,
+      "stats": {
+        "ATK": {
+          "level1": 14,
+          "level18": 53.1,
+          "growthDerived": 2.3,
+          "growthStatus": "derived_from_endpoints_not_direct_growth_evidence"
+        },
+        "DEF": {
+          "level1": 18,
+          "level18": 45.2,
+          "growthDerived": 1.6,
+          "growthStatus": "derived_from_endpoints_not_direct_growth_evidence"
+        },
+        "HP": {
+          "level1": 132,
+          "level18": 234,
+          "growthDerived": 6,
+          "growthStatus": "derived_from_endpoints_not_direct_growth_evidence"
+        },
+        "STA": {
+          "level1": 108,
+          "level18": 193,
+          "growthDerived": 5,
+          "growthStatus": "derived_from_endpoints_not_direct_growth_evidence"
+        }
+      },
+      "source": "https://blacksurvival.fandom.com/wiki/Character_Stats",
+      "sourceAccess": "search_index_body",
+      "restorationSource": "https://wiki.projectlumia.com/characters/mai.md",
+      "discrepancies": [],
+      "finalVersionVerified": false,
+      "startingMasteryFromList": "Stab (D), Blade (E+)"
+    },
+    {
+      "name": "Nadine",
+      "stars": 5,
+      "stats": {
+        "ATK": {
+          "level1": 16,
+          "level18": 43.2,
+          "growthDerived": 1.6,
+          "growthStatus": "derived_from_endpoints_not_direct_growth_evidence"
+        },
+        "DEF": {
+          "level1": 12,
+          "level18": 47.7,
+          "growthDerived": 2.1,
+          "growthStatus": "derived_from_endpoints_not_direct_growth_evidence"
+        },
+        "HP": {
+          "level1": 124,
+          "level18": 226,
+          "growthDerived": 6,
+          "growthStatus": "derived_from_endpoints_not_direct_growth_evidence"
+        },
+        "STA": {
+          "level1": 120,
+          "level18": 222,
+          "growthDerived": 6,
+          "growthStatus": "derived_from_endpoints_not_direct_growth_evidence"
+        }
+      },
+      "source": "https://blacksurvival.fandom.com/wiki/Character_Stats",
+      "sourceAccess": "search_index_body",
+      "restorationSource": "https://wiki.projectlumia.com/characters/nadine.md",
+      "discrepancies": [
+        {
+          "stat": "DEF",
+          "field": "level18",
+          "indexed": 47.7,
+          "restoration": 51.1
+        }
+      ],
+      "finalVersionVerified": false,
+      "startingMasteryFromList": "Bow (D+)"
+    },
+    {
+      "name": "Nathapon",
+      "stars": 5,
+      "stats": {
+        "ATK": {
+          "level1": 14,
+          "level18": 53.1,
+          "growthDerived": 2.3,
+          "growthStatus": "derived_from_endpoints_not_direct_growth_evidence"
+        },
+        "DEF": {
+          "level1": 14,
+          "level18": 48,
+          "growthDerived": 2,
+          "growthStatus": "derived_from_endpoints_not_direct_growth_evidence"
+        },
+        "HP": {
+          "level1": 136,
+          "level18": 238,
+          "growthDerived": 6,
+          "growthStatus": "derived_from_endpoints_not_direct_growth_evidence"
+        },
+        "STA": {
+          "level1": 116,
+          "level18": 218,
+          "growthDerived": 6,
+          "growthStatus": "derived_from_endpoints_not_direct_growth_evidence"
+        }
+      },
+      "source": "https://blacksurvival.fandom.com/wiki/Character_Stats",
+      "sourceAccess": "search_index_body",
+      "restorationSource": "https://wiki.projectlumia.com/characters/nathapon.md",
+      "discrepancies": [],
+      "finalVersionVerified": false,
+      "startingMasteryFromList": "Gun (D), Hand (D)"
+    },
+    {
+      "name": "Nicky",
+      "stars": 5,
+      "stats": {
+        "ATK": {
+          "level1": 14,
+          "level18": 49.7,
+          "growthDerived": 2.1,
+          "growthStatus": "derived_from_endpoints_not_direct_growth_evidence"
+        },
+        "DEF": {
+          "level1": 12,
+          "level18": 51.1,
+          "growthDerived": 2.3,
+          "growthStatus": "derived_from_endpoints_not_direct_growth_evidence"
+        },
+        "HP": {
+          "level1": 130,
+          "level18": 232,
+          "growthDerived": 6,
+          "growthStatus": "derived_from_endpoints_not_direct_growth_evidence"
+        },
+        "STA": {
+          "level1": 124,
+          "level18": 243,
+          "growthDerived": 7,
+          "growthStatus": "derived_from_endpoints_not_direct_growth_evidence"
+        }
+      },
+      "source": "https://blacksurvival.fandom.com/wiki/Character_Stats",
+      "sourceAccess": "search_index_body",
+      "restorationSource": "https://wiki.projectlumia.com/characters/nicky.md",
+      "discrepancies": [],
+      "finalVersionVerified": false,
+      "startingMasteryFromList": "Hand (D+)"
+    },
+    {
+      "name": "Rio",
+      "stars": 5,
+      "stats": {
+        "ATK": {
+          "level1": 16,
+          "level18": 44.9,
+          "growthDerived": 1.7,
+          "growthStatus": "derived_from_endpoints_not_direct_growth_evidence"
+        },
+        "DEF": {
+          "level1": 14,
+          "level18": 53.1,
+          "growthDerived": 2.3,
+          "growthStatus": "derived_from_endpoints_not_direct_growth_evidence"
+        },
+        "HP": {
+          "level1": 136,
+          "level18": 238,
+          "growthDerived": 6,
+          "growthStatus": "derived_from_endpoints_not_direct_growth_evidence"
+        },
+        "STA": {
+          "level1": 120,
+          "level18": 222,
+          "growthDerived": 6,
+          "growthStatus": "derived_from_endpoints_not_direct_growth_evidence"
+        }
+      },
+      "source": "https://blacksurvival.fandom.com/wiki/Character_Stats",
+      "sourceAccess": "search_index_body",
+      "restorationSource": "https://wiki.projectlumia.com/characters/rio.md",
+      "discrepancies": [],
+      "finalVersionVerified": false,
+      "startingMasteryFromList": "Bow (D+)"
+    },
+    {
+      "name": "Rosalio",
+      "stars": 5,
+      "stats": {
+        "ATK": {
+          "level1": 14,
+          "level18": 53.1,
+          "growthDerived": 2.3,
+          "growthStatus": "derived_from_endpoints_not_direct_growth_evidence"
+        },
+        "DEF": {
+          "level1": 12,
+          "level18": 52.8,
+          "growthDerived": 2.4,
+          "growthStatus": "derived_from_endpoints_not_direct_growth_evidence"
+        },
+        "HP": {
+          "level1": 132,
+          "level18": 217,
+          "growthDerived": 5,
+          "growthStatus": "derived_from_endpoints_not_direct_growth_evidence"
+        },
+        "STA": {
+          "level1": 100,
+          "level18": 185,
+          "growthDerived": 5,
+          "growthStatus": "derived_from_endpoints_not_direct_growth_evidence"
+        }
+      },
+      "source": "https://blacksurvival.fandom.com/wiki/Character_Stats",
+      "sourceAccess": "search_index_body",
+      "restorationSource": "https://wiki.projectlumia.com/characters/rosalio.md",
+      "discrepancies": [],
+      "finalVersionVerified": false,
+      "startingMasteryFromList": "Blunt (D+)"
+    },
+    {
+      "name": "Rozzi",
+      "stars": 5,
+      "stats": {
+        "ATK": {
+          "level1": 16,
+          "level18": 55.1,
+          "growthDerived": 2.3,
+          "growthStatus": "derived_from_endpoints_not_direct_growth_evidence"
+        },
+        "DEF": {
+          "level1": 12,
+          "level18": 51.1,
+          "growthDerived": 2.3,
+          "growthStatus": "derived_from_endpoints_not_direct_growth_evidence"
+        },
+        "HP": {
+          "level1": 124,
+          "level18": 226,
+          "growthDerived": 6,
+          "growthStatus": "derived_from_endpoints_not_direct_growth_evidence"
+        },
+        "STA": {
+          "level1": 104,
+          "level18": 223,
+          "growthDerived": 7,
+          "growthStatus": "derived_from_endpoints_not_direct_growth_evidence"
+        }
+      },
+      "source": "https://blacksurvival.fandom.com/wiki/Character_Stats",
+      "sourceAccess": "search_index_body",
+      "restorationSource": "https://wiki.projectlumia.com/characters/rozzi.md",
+      "discrepancies": [],
+      "finalVersionVerified": false,
+      "startingMasteryFromList": "Gun (D+)"
+    },
+    {
+      "name": "Shoichi",
+      "stars": 5,
+      "stats": {
+        "ATK": {
+          "level1": 16,
+          "level18": 50,
+          "growthDerived": 2,
+          "growthStatus": "derived_from_endpoints_not_direct_growth_evidence"
+        },
+        "DEF": {
+          "level1": 12,
+          "level18": 46,
+          "growthDerived": 2,
+          "growthStatus": "derived_from_endpoints_not_direct_growth_evidence"
+        },
+        "HP": {
+          "level1": 124,
+          "level18": 226,
+          "growthDerived": 6,
+          "growthStatus": "derived_from_endpoints_not_direct_growth_evidence"
+        },
+        "STA": {
+          "level1": 128,
+          "level18": 196,
+          "growthDerived": 4,
+          "growthStatus": "derived_from_endpoints_not_direct_growth_evidence"
+        }
+      },
+      "source": "https://blacksurvival.fandom.com/wiki/Character_Stats",
+      "sourceAccess": "search_index_body",
+      "restorationSource": "https://wiki.projectlumia.com/characters/shoichi.md",
+      "discrepancies": [],
+      "finalVersionVerified": false,
+      "startingMasteryFromList": "Stab (D+)"
+    },
+    {
+      "name": "Silvia",
+      "stars": 5,
+      "stats": {
+        "ATK": {
+          "level1": 17,
+          "level18": 52.7,
+          "growthDerived": 2.1,
+          "growthStatus": "derived_from_endpoints_not_direct_growth_evidence"
+        },
+        "DEF": {
+          "level1": 14,
+          "level18": 51.4,
+          "growthDerived": 2.2,
+          "growthStatus": "derived_from_endpoints_not_direct_growth_evidence"
+        },
+        "HP": {
+          "level1": 136,
+          "level18": 221,
+          "growthDerived": 5,
+          "growthStatus": "derived_from_endpoints_not_direct_growth_evidence"
+        },
+        "STA": {
+          "level1": 152,
+          "level18": 237,
+          "growthDerived": 5,
+          "growthStatus": "derived_from_endpoints_not_direct_growth_evidence"
+        }
+      },
+      "source": "https://blacksurvival.fandom.com/wiki/Character_Stats",
+      "sourceAccess": "search_index_body",
+      "restorationSource": "https://wiki.projectlumia.com/characters/silvia.md",
+      "discrepancies": [],
+      "finalVersionVerified": false,
+      "startingMasteryFromList": "Blunt (D), Gun (D), Hand (D)"
+    },
+    {
+      "name": "Sissela",
+      "stars": 5,
+      "stats": {
+        "ATK": {
+          "level1": 12,
+          "level18": 51.1,
+          "growthDerived": 2.3,
+          "growthStatus": "derived_from_endpoints_not_direct_growth_evidence"
+        },
+        "DEF": {
+          "level1": 12,
+          "level18": 52.8,
+          "growthDerived": 2.4,
+          "growthStatus": "derived_from_endpoints_not_direct_growth_evidence"
+        },
+        "HP": {
+          "level1": 114,
+          "level18": 148,
+          "growthDerived": 2,
+          "growthStatus": "derived_from_endpoints_not_direct_growth_evidence"
+        },
+        "STA": {
+          "level1": 116,
+          "level18": 201,
+          "growthDerived": 5,
+          "growthStatus": "derived_from_endpoints_not_direct_growth_evidence"
+        }
+      },
+      "source": "https://blacksurvival.fandom.com/wiki/Character_Stats",
+      "sourceAccess": "search_index_body",
+      "restorationSource": "https://wiki.projectlumia.com/characters/sissela.md",
+      "discrepancies": [],
+      "finalVersionVerified": false,
+      "startingMasteryFromList": "Thrown (D), Gun (E+)"
+    },
+    {
+      "name": "Sua",
+      "stars": 5,
+      "stats": {
+        "ATK": {
+          "level1": 12,
+          "level18": 49.4,
+          "growthDerived": 2.2,
+          "growthStatus": "derived_from_endpoints_not_direct_growth_evidence"
+        },
+        "DEF": {
+          "level1": 16,
+          "level18": 56.8,
+          "growthDerived": 2.4,
+          "growthStatus": "derived_from_endpoints_not_direct_growth_evidence"
+        },
+        "HP": {
+          "level1": 124,
+          "level18": 226,
+          "growthDerived": 6,
+          "growthStatus": "derived_from_endpoints_not_direct_growth_evidence"
+        },
+        "STA": {
+          "level1": 104,
+          "level18": 206,
+          "growthDerived": 6,
+          "growthStatus": "derived_from_endpoints_not_direct_growth_evidence"
+        }
+      },
+      "source": "https://blacksurvival.fandom.com/wiki/Character_Stats",
+      "sourceAccess": "search_index_body",
+      "restorationSource": "https://wiki.projectlumia.com/characters/sua.md",
+      "discrepancies": [],
+      "finalVersionVerified": false,
+      "startingMasteryFromList": "Blunt (D+), Stab (E)"
+    },
+    {
+      "name": "Tia",
+      "stars": 5,
+      "stats": {
+        "ATK": {
+          "level1": 11,
+          "level18": 50.1,
+          "growthDerived": 2.3,
+          "growthStatus": "derived_from_endpoints_not_direct_growth_evidence"
+        },
+        "DEF": {
+          "level1": 12,
+          "level18": 47.7,
+          "growthDerived": 2.1,
+          "growthStatus": "derived_from_endpoints_not_direct_growth_evidence"
+        },
+        "HP": {
+          "level1": 115,
+          "level18": 217,
+          "growthDerived": 6,
+          "growthStatus": "derived_from_endpoints_not_direct_growth_evidence"
+        },
+        "STA": {
+          "level1": 132,
+          "level18": 234,
+          "growthDerived": 6,
+          "growthStatus": "derived_from_endpoints_not_direct_growth_evidence"
+        }
+      },
+      "source": "https://blacksurvival.fandom.com/wiki/Character_Stats",
+      "sourceAccess": "search_index_body",
+      "restorationSource": "https://wiki.projectlumia.com/characters/tia.md",
+      "discrepancies": [],
+      "finalVersionVerified": false,
+      "startingMasteryFromList": "Blunt (D+)"
+    },
+    {
+      "name": "William",
+      "stars": 5,
+      "stats": {
+        "ATK": {
+          "level1": 14,
+          "level18": 49.7,
+          "growthDerived": 2.1,
+          "growthStatus": "derived_from_endpoints_not_direct_growth_evidence"
+        },
+        "DEF": {
+          "level1": 14,
+          "level18": 54.8,
+          "growthDerived": 2.4,
+          "growthStatus": "derived_from_endpoints_not_direct_growth_evidence"
+        },
+        "HP": {
+          "level1": 128,
+          "level18": 230,
+          "growthDerived": 6,
+          "growthStatus": "derived_from_endpoints_not_direct_growth_evidence"
+        },
+        "STA": {
+          "level1": 140,
+          "level18": 259,
+          "growthDerived": 7,
+          "growthStatus": "derived_from_endpoints_not_direct_growth_evidence"
+        }
+      },
+      "source": "https://blacksurvival.fandom.com/wiki/Character_Stats",
+      "sourceAccess": "search_index_body",
+      "restorationSource": "https://wiki.projectlumia.com/characters/william.md",
+      "discrepancies": [],
+      "finalVersionVerified": false,
+      "startingMasteryFromList": "Thrown (D+)"
+    },
+    {
+      "name": "XiuKai",
+      "stars": 5,
+      "stats": {
+        "ATK": {
+          "level1": 13,
+          "level18": 50.4,
+          "growthDerived": 2.2,
+          "growthStatus": "derived_from_endpoints_not_direct_growth_evidence"
+        },
+        "DEF": {
+          "level1": 14,
+          "level18": 51.4,
+          "growthDerived": 2.2,
+          "growthStatus": "derived_from_endpoints_not_direct_growth_evidence"
+        },
+        "HP": {
+          "level1": 136,
+          "level18": 238,
+          "growthDerived": 6,
+          "growthStatus": "derived_from_endpoints_not_direct_growth_evidence"
+        },
+        "STA": {
+          "level1": 104,
+          "level18": 172,
+          "growthDerived": 4,
+          "growthStatus": "derived_from_endpoints_not_direct_growth_evidence"
+        }
+      },
+      "source": "https://blacksurvival.fandom.com/wiki/Character_Stats",
+      "sourceAccess": "search_index_body",
+      "restorationSource": "https://wiki.projectlumia.com/characters/xiukai.md",
+      "discrepancies": [],
+      "finalVersionVerified": false,
+      "startingMasteryFromList": "Blade (D)"
+    },
+    {
+      "name": "Yuki",
+      "stars": 5,
+      "stats": {
+        "ATK": {
+          "level1": 12,
+          "level18": 52.8,
+          "growthDerived": 2.4,
+          "growthStatus": "derived_from_endpoints_not_direct_growth_evidence"
+        },
+        "DEF": {
+          "level1": 12,
+          "level18": 49.4,
+          "growthDerived": 2.2,
+          "growthStatus": "derived_from_endpoints_not_direct_growth_evidence"
+        },
+        "HP": {
+          "level1": 116,
+          "level18": 235,
+          "growthDerived": 7,
+          "growthStatus": "derived_from_endpoints_not_direct_growth_evidence"
+        },
+        "STA": {
+          "level1": 101,
+          "level18": 203,
+          "growthDerived": 6,
+          "growthStatus": "derived_from_endpoints_not_direct_growth_evidence"
+        }
+      },
+      "source": "https://blacksurvival.fandom.com/wiki/Character_Stats",
+      "sourceAccess": "search_index_body",
+      "restorationSource": "https://wiki.projectlumia.com/characters/yuki.md",
+      "discrepancies": [],
+      "finalVersionVerified": false,
+      "startingMasteryFromList": "Blade (D+)"
+    },
+    {
+      "name": "Zahir",
+      "stars": 5,
+      "stats": {
+        "ATK": {
+          "level1": 12,
+          "level18": 52.8,
+          "growthDerived": 2.4,
+          "growthStatus": "derived_from_endpoints_not_direct_growth_evidence"
+        },
+        "DEF": {
+          "level1": 18,
+          "level18": 55.4,
+          "growthDerived": 2.2,
+          "growthStatus": "derived_from_endpoints_not_direct_growth_evidence"
+        },
+        "HP": {
+          "level1": 131,
+          "level18": 233,
+          "growthDerived": 6,
+          "growthStatus": "derived_from_endpoints_not_direct_growth_evidence"
+        },
+        "STA": {
+          "level1": 112,
+          "level18": 214,
+          "growthDerived": 6,
+          "growthStatus": "derived_from_endpoints_not_direct_growth_evidence"
+        }
+      },
+      "source": "https://blacksurvival.fandom.com/wiki/Character_Stats",
+      "sourceAccess": "search_index_body",
+      "restorationSource": "https://wiki.projectlumia.com/characters/zahir.md",
+      "discrepancies": [],
+      "finalVersionVerified": false,
+      "startingMasteryFromList": "Thrown (D+), Blade (E+)"
+    }
+  ]
+}

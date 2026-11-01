@@ -1,0 +1,44 @@
+{
+  "itemCount": 644,
+  "rarityKnown": 639,
+  "rarityMissing": [
+    "Reserve Armband",
+    "Whetstone"
+  ],
+  "rarityConflicts": [
+    {
+      "name": "AKR98",
+      "rarities": [
+        "Uncommon",
+        "Rare"
+      ]
+    },
+    {
+      "name": "Double Revolver SP",
+      "rarities": [
+        "Rare",
+        "Uncommon"
+      ]
+    },
+    {
+      "name": "Hand Cannon",
+      "rarities": [
+        "Uncommon",
+        "Rare"
+      ]
+    }
+  ],
+  "unresolvedRecipes": [],
+  "navigationNamesNotInCategoryTables": [
+    {
+      "name": "Full Body Suimsuit",
+      "rarity": "Common",
+      "source": "https://blacksurvival.fandom.com/wiki/Arcane_Stone"
+    },
+    {
+      "name": "Reserver Armband",
+      "rarity": "Common",
+      "source": "https://blacksurvival.fandom.com/wiki/Arcane_Stone"
+    }
+  ]
+}
