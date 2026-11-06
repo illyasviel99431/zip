@@ -1,0 +1,15 @@
+/* Art and local text contrast only; preserve the established panels/buttons. */
+.battlefield>.regional-art{position:absolute;inset:0;width:100%;height:100%;max-width:none;object-fit:cover;opacity:1;z-index:-2;pointer-events:none;user-select:none;filter:none}
+.battlefield>.scene-gradient{z-index:-1;background:linear-gradient(180deg,rgba(12,24,29,.66) 0%,rgba(12,24,29,.2) 14%,transparent 35%,rgba(12,24,29,.07) 63%,rgba(12,24,29,.87) 100%);pointer-events:none}
+.battlefield>.scene-noise{display:none}
+.battlefield .scene-top{color:#f1f2e7;text-shadow:0 1px 4px #000b}
+.battlefield .location-name,.battlefield .location-coords{color:#f2ead2}
+.battlefield .scene-menu{color:#fff4d4;background:#14242acc;border-color:#e6d5a14d;text-shadow:none}
+.battlefield .scene-bottom{color:#e9eee8;text-shadow:0 1px 3px #000b}
+.battlefield .logs .log-line,.battlefield .log-head,.battlefield .activity{opacity:1}
+.battlefield .scene-bottom .small-btn{color:#dbe7df}
+.battlefield .stage:not(:has(.event-card)) .rune{background:#14242a70;backdrop-filter:blur(3px);border-radius:50%;box-shadow:0 0 45px #12202745}
+.battlefield .stage-title,.battlefield .stage-caption,.battlefield .stage-flavor{color:#f5edda;text-shadow:0 2px 9px #071519,0 0 22px #071519}
+.battlefield .stage-caption{background:#13272cb8;padding:10px 16px;border:1px solid #d7d5ae25;border-radius:4px;line-height:1.8;word-break:keep-all;overflow-wrap:break-word}
+.battlefield .event-card{background:#183440ed;box-shadow:0 12px 45px #07131766;border:1px solid #d2d4b64d;backdrop-filter:blur(8px)}
+@media(max-width:520px){.battlefield>.scene-gradient{background:linear-gradient(180deg,#10212db3,transparent 38%,#10212d1a 62%,#10212de6)}.battlefield .stage-caption{padding:8px 11px}}

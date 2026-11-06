@@ -1,0 +1,2991 @@
+{
+  "retrievedAt": "2026-11-02T19:42:55.081Z",
+  "basis": "22 original Lumia areas. Fixed item rows: Gamerch region tables dated 2022-10-21 (after rollback), per-item bundle size. Random waves: 2022-12-27 summary, 0/180 seconds. Counts are discoveries; stockUnits multiplies by bundle. Explicit rows override stale summary totals. Project combat, existing recipes and animal balance are retained.",
+  "regions": [
+    {
+      "id": 1,
+      "name": "고급주택가",
+      "referenceNameJa": "高級住宅街",
+      "icon": "building",
+      "type": "주거 지구",
+      "restricted": false,
+      "animal": "dog",
+      "source": "https://gamerch.com/blacksurvival/460834",
+      "loot": [
+        {
+          "itemId": "steel_chain",
+          "stockDiscoveries": 5,
+          "quantityPerDiscovery": 1,
+          "stockUnits": 5,
+          "source": "https://gamerch.com/blacksurvival/461218",
+          "name": "쇠사슬"
+        },
+        {
+          "itemId": "kitchen_knife",
+          "stockDiscoveries": 4,
+          "quantityPerDiscovery": 1,
+          "stockUnits": 4,
+          "source": "https://gamerch.com/blacksurvival/460916",
+          "name": "식칼"
+        },
+        {
+          "itemId": "glass_cup",
+          "stockDiscoveries": 4,
+          "quantityPerDiscovery": 1,
+          "stockUnits": 4,
+          "source": "https://gamerch.com/blacksurvival/461496",
+          "name": "유리잔"
+        },
+        {
+          "itemId": "needle",
+          "stockDiscoveries": 3,
+          "quantityPerDiscovery": 1,
+          "stockUnits": 3,
+          "source": "https://gamerch.com/blacksurvival/460939",
+          "name": "바늘"
+        },
+        {
+          "itemId": "katana",
+          "stockDiscoveries": 2,
+          "quantityPerDiscovery": 1,
+          "stockUnits": 2,
+          "source": "https://gamerch.com/blacksurvival/460908",
+          "name": "카타나"
+        },
+        {
+          "itemId": "cooking_pot",
+          "stockDiscoveries": 2,
+          "quantityPerDiscovery": 1,
+          "stockUnits": 2,
+          "source": "https://gamerch.com/blacksurvival/461481",
+          "name": "냄비"
+        },
+        {
+          "itemId": "plate",
+          "stockDiscoveries": 1,
+          "quantityPerDiscovery": 2,
+          "stockUnits": 2,
+          "source": "https://gamerch.com/blacksurvival/461495",
+          "name": "접시"
+        },
+        {
+          "itemId": "tv",
+          "stockDiscoveries": 1,
+          "quantityPerDiscovery": 1,
+          "stockUnits": 1,
+          "source": "https://gamerch.com/blacksurvival/461249",
+          "name": "텔레비전"
+        },
+        {
+          "itemId": "laptop_broken_screen",
+          "stockDiscoveries": 1,
+          "quantityPerDiscovery": 1,
+          "stockUnits": 1,
+          "source": "https://gamerch.com/blacksurvival/461480",
+          "name": "고장난 노트북"
+        },
+        {
+          "itemId": "windbreaker",
+          "stockDiscoveries": 4,
+          "quantityPerDiscovery": 1,
+          "stockUnits": 4,
+          "source": "https://gamerch.com/blacksurvival/461563",
+          "name": "바람막이"
+        },
+        {
+          "itemId": "running_shoes",
+          "stockDiscoveries": 3,
+          "quantityPerDiscovery": 1,
+          "stockUnits": 3,
+          "source": "https://gamerch.com/blacksurvival/461599",
+          "name": "운동화"
+        },
+        {
+          "itemId": "ribbon",
+          "stockDiscoveries": 3,
+          "quantityPerDiscovery": 1,
+          "stockUnits": 3,
+          "source": "https://gamerch.com/blacksurvival/461291",
+          "name": "리본"
+        },
+        {
+          "itemId": "watch",
+          "stockDiscoveries": 3,
+          "quantityPerDiscovery": 1,
+          "stockUnits": 3,
+          "source": "https://gamerch.com/blacksurvival/461586",
+          "name": "손목시계"
+        },
+        {
+          "itemId": "bracelet",
+          "stockDiscoveries": 2,
+          "quantityPerDiscovery": 1,
+          "stockUnits": 2,
+          "source": "https://gamerch.com/blacksurvival/461588",
+          "name": "팔찌"
+        },
+        {
+          "itemId": "arm_warmers",
+          "stockDiscoveries": 1,
+          "quantityPerDiscovery": 1,
+          "stockUnits": 1,
+          "source": "https://gamerch.com/blacksurvival/461585",
+          "name": "토시"
+        },
+        {
+          "itemId": "soy_sauce",
+          "stockDiscoveries": 3,
+          "quantityPerDiscovery": 1,
+          "stockUnits": 3,
+          "source": "https://gamerch.com/blacksurvival/461430",
+          "name": "간장"
+        },
+        {
+          "itemId": "chocolate",
+          "stockDiscoveries": 3,
+          "quantityPerDiscovery": 1,
+          "stockUnits": 3,
+          "source": "https://gamerch.com/blacksurvival/461404",
+          "name": "초콜릿"
+        },
+        {
+          "itemId": "orange",
+          "stockDiscoveries": 2,
+          "quantityPerDiscovery": 2,
+          "stockUnits": 4,
+          "source": "https://gamerch.com/blacksurvival/461409",
+          "name": "오렌지"
+        },
+        {
+          "itemId": "curry_powder",
+          "stockDiscoveries": 2,
+          "quantityPerDiscovery": 1,
+          "stockUnits": 2,
+          "source": "https://gamerch.com/blacksurvival/461431",
+          "name": "카레 가루"
+        },
+        {
+          "itemId": "coffee",
+          "stockDiscoveries": 3,
+          "quantityPerDiscovery": 1,
+          "stockUnits": 3,
+          "source": "https://gamerch.com/blacksurvival/461464",
+          "name": "커피콩"
+        },
+        {
+          "itemId": "whetstone",
+          "stockDiscoveries": 5,
+          "quantityPerDiscovery": 1,
+          "stockUnits": 5,
+          "source": "https://gamerch.com/blacksurvival/461320",
+          "name": "숫돌"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "name": "학교",
+      "referenceNameJa": "学校",
+      "icon": "book",
+      "type": "교육 지구",
+      "restricted": false,
+      "animal": "crow",
+      "source": "https://gamerch.com/blacksurvival/460835",
+      "loot": [
+        {
+          "itemId": "razor",
+          "stockDiscoveries": 6,
+          "quantityPerDiscovery": 1,
+          "stockUnits": 6,
+          "source": "https://gamerch.com/blacksurvival/460920",
+          "name": "면도칼"
+        },
+        {
+          "itemId": "scissors",
+          "stockDiscoveries": 6,
+          "quantityPerDiscovery": 1,
+          "stockUnits": 6,
+          "source": "https://gamerch.com/blacksurvival/460918",
+          "name": "가위"
+        },
+        {
+          "itemId": "white_chalk",
+          "stockDiscoveries": 3,
+          "quantityPerDiscovery": 1,
+          "stockUnits": 3,
+          "source": "https://gamerch.com/blacksurvival/461491",
+          "name": "분필"
+        },
+        {
+          "itemId": "fountain_pen",
+          "stockDiscoveries": 3,
+          "quantityPerDiscovery": 1,
+          "stockUnits": 3,
+          "source": "https://gamerch.com/blacksurvival/460938",
+          "name": "만년필"
+        },
+        {
+          "itemId": "bat_weapon",
+          "stockDiscoveries": 2,
+          "quantityPerDiscovery": 1,
+          "stockUnits": 2,
+          "source": "https://gamerch.com/blacksurvival/461216",
+          "name": "야구방망이"
+        },
+        {
+          "itemId": "anatomy_model",
+          "stockDiscoveries": 1,
+          "quantityPerDiscovery": 1,
+          "stockUnits": 1,
+          "source": "https://gamerch.com/blacksurvival/461230",
+          "name": "인체 모형"
+        },
+        {
+          "itemId": "windbreaker",
+          "stockDiscoveries": 6,
+          "quantityPerDiscovery": 1,
+          "stockUnits": 6,
+          "source": "https://gamerch.com/blacksurvival/461563",
+          "name": "바람막이"
+        },
+        {
+          "itemId": "bike_helmet",
+          "stockDiscoveries": 4,
+          "quantityPerDiscovery": 1,
+          "stockUnits": 4,
+          "source": "https://gamerch.com/blacksurvival/461576",
+          "name": "자전거 헬멧"
+        },
+        {
+          "itemId": "reserve_armband",
+          "stockDiscoveries": 4,
+          "quantityPerDiscovery": 1,
+          "stockUnits": 4,
+          "source": "https://gamerch.com/blacksurvival/461587",
+          "name": "예비군 완장"
+        },
+        {
+          "itemId": "box",
+          "stockDiscoveries": 4,
+          "quantityPerDiscovery": 1,
+          "stockUnits": 4,
+          "source": "https://gamerch.com/blacksurvival/461295",
+          "name": "상자"
+        },
+        {
+          "itemId": "arm_warmers",
+          "stockDiscoveries": 3,
+          "quantityPerDiscovery": 1,
+          "stockUnits": 3,
+          "source": "https://gamerch.com/blacksurvival/461585",
+          "name": "토시"
+        },
+        {
+          "itemId": "ribbon",
+          "stockDiscoveries": 2,
+          "quantityPerDiscovery": 1,
+          "stockUnits": 2,
+          "source": "https://gamerch.com/blacksurvival/461291",
+          "name": "리본"
+        },
+        {
+          "itemId": "lighter",
+          "stockDiscoveries": 5,
+          "quantityPerDiscovery": 3,
+          "stockUnits": 15,
+          "source": "https://gamerch.com/blacksurvival/461635",
+          "name": "라이터"
+        },
+        {
+          "itemId": "alcohol",
+          "stockDiscoveries": 5,
+          "quantityPerDiscovery": 1,
+          "stockUnits": 5,
+          "source": "https://gamerch.com/blacksurvival/461647",
+          "name": "알코올"
+        },
+        {
+          "itemId": "rubber",
+          "stockDiscoveries": 3,
+          "quantityPerDiscovery": 1,
+          "stockUnits": 3,
+          "source": "https://gamerch.com/blacksurvival/461638",
+          "name": "고무"
+        },
+        {
+          "itemId": "laser_pointer",
+          "stockDiscoveries": 3,
+          "quantityPerDiscovery": 1,
+          "stockUnits": 3,
+          "source": "https://gamerch.com/blacksurvival/461632",
+          "name": "레이저 포인터"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "name": "공장",
+      "referenceNameJa": "工場",
+      "icon": "factory",
+      "type": "산업 지구",
+      "restricted": false,
+      "animal": "dog",
+      "source": "https://gamerch.com/blacksurvival/460824",
+      "loot": [
+        {
+          "itemId": "steel_pipe",
+          "stockDiscoveries": 5,
+          "quantityPerDiscovery": 1,
+          "stockUnits": 5,
+          "source": "https://gamerch.com/blacksurvival/461219",
+          "name": "쇠파이프"
+        },
+        {
+          "itemId": "short_crossbow",
+          "stockDiscoveries": 4,
+          "quantityPerDiscovery": 1,
+          "stockUnits": 4,
+          "source": "https://gamerch.com/blacksurvival/461511",
+          "name": "석궁"
+        },
+        {
+          "itemId": "glass_marble",
+          "stockDiscoveries": 3,
+          "quantityPerDiscovery": 2,
+          "stockUnits": 6,
+          "source": "https://gamerch.com/blacksurvival/461493",
+          "name": "유리구슬"
+        },
+        {
+          "itemId": "scissors",
+          "stockDiscoveries": 2,
+          "quantityPerDiscovery": 1,
+          "stockUnits": 2,
+          "source": "https://gamerch.com/blacksurvival/460918",
+          "name": "가위"
+        },
+        {
+          "itemId": "glasses",
+          "stockDiscoveries": 4,
+          "quantityPerDiscovery": 1,
+          "stockUnits": 4,
+          "source": "https://gamerch.com/blacksurvival/461580",
+          "name": "안경"
+        },
+        {
+          "itemId": "reserve_armband",
+          "stockDiscoveries": 3,
+          "quantityPerDiscovery": 1,
+          "stockUnits": 3,
+          "source": "https://gamerch.com/blacksurvival/461587",
+          "name": "예비군 완장"
+        },
+        {
+          "itemId": "soy_sauce",
+          "stockDiscoveries": 2,
+          "quantityPerDiscovery": 1,
+          "stockUnits": 2,
+          "source": "https://gamerch.com/blacksurvival/461430",
+          "name": "간장"
+        },
+        {
+          "itemId": "scrap_metal",
+          "stockDiscoveries": 8,
+          "quantityPerDiscovery": 1,
+          "stockUnits": 8,
+          "source": "https://gamerch.com/blacksurvival/461637",
+          "name": "고철"
+        },
+        {
+          "itemId": "wire",
+          "stockDiscoveries": 5,
+          "quantityPerDiscovery": 1,
+          "stockUnits": 5,
+          "source": "https://gamerch.com/blacksurvival/461640",
+          "name": "철사"
+        },
+        {
+          "itemId": "nail",
+          "stockDiscoveries": 4,
+          "quantityPerDiscovery": 1,
+          "stockUnits": 4,
+          "source": "https://gamerch.com/blacksurvival/461321",
+          "name": "못"
+        },
+        {
+          "itemId": "glue",
+          "stockDiscoveries": 5,
+          "quantityPerDiscovery": 1,
+          "stockUnits": 5,
+          "source": "https://gamerch.com/blacksurvival/461335",
+          "name": "접착제"
+        },
+        {
+          "itemId": "laser_pointer",
+          "stockDiscoveries": 5,
+          "quantityPerDiscovery": 1,
+          "stockUnits": 5,
+          "source": "https://gamerch.com/blacksurvival/461632",
+          "name": "레이저 포인터"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "name": "성당",
+      "referenceNameJa": "教会",
+      "icon": "church",
+      "type": "종교 지구",
+      "restricted": false,
+      "animal": "bat",
+      "source": "https://gamerch.com/blacksurvival/460827",
+      "loot": [
+        {
+          "itemId": "short_rod",
+          "stockDiscoveries": 4,
+          "quantityPerDiscovery": 1,
+          "stockUnits": 4,
+          "source": "https://gamerch.com/blacksurvival/461224",
+          "name": "단봉"
+        },
+        {
+          "itemId": "throwing_dagger",
+          "stockDiscoveries": 4,
+          "quantityPerDiscovery": 15,
+          "stockUnits": 60,
+          "source": "https://gamerch.com/blacksurvival/461479",
+          "name": "투척용 단검"
+        },
+        {
+          "itemId": "f92s",
+          "stockDiscoveries": 4,
+          "quantityPerDiscovery": 1,
+          "stockUnits": 4,
+          "source": "https://gamerch.com/blacksurvival/461354",
+          "name": "F92S"
+        },
+        {
+          "itemId": "bow",
+          "stockDiscoveries": 4,
+          "quantityPerDiscovery": 1,
+          "stockUnits": 4,
+          "source": "https://gamerch.com/blacksurvival/461512",
+          "name": "양궁"
+        },
+        {
+          "itemId": "long_sword",
+          "stockDiscoveries": 3,
+          "quantityPerDiscovery": 1,
+          "stockUnits": 3,
+          "source": "https://gamerch.com/blacksurvival/460910",
+          "name": "장검"
+        },
+        {
+          "itemId": "cd",
+          "stockDiscoveries": 3,
+          "quantityPerDiscovery": 1,
+          "stockUnits": 3,
+          "source": "https://gamerch.com/blacksurvival/461490",
+          "name": "CD"
+        },
+        {
+          "itemId": "southern_revolver",
+          "stockDiscoveries": 3,
+          "quantityPerDiscovery": 1,
+          "stockUnits": 3,
+          "source": "https://gamerch.com/blacksurvival/461357",
+          "name": "서던 리볼버"
+        },
+        {
+          "itemId": "short_crossbow",
+          "stockDiscoveries": 3,
+          "quantityPerDiscovery": 1,
+          "stockUnits": 3,
+          "source": "https://gamerch.com/blacksurvival/461511",
+          "name": "석궁"
+        },
+        {
+          "itemId": "snare",
+          "stockDiscoveries": 3,
+          "quantityPerDiscovery": 2,
+          "stockUnits": 6,
+          "source": "https://gamerch.com/blacksurvival/461541",
+          "name": "올가미"
+        },
+        {
+          "itemId": "white_chalk",
+          "stockDiscoveries": 3,
+          "quantityPerDiscovery": 1,
+          "stockUnits": 3,
+          "source": "https://gamerch.com/blacksurvival/461491",
+          "name": "분필"
+        },
+        {
+          "itemId": "glass_marble",
+          "stockDiscoveries": 2,
+          "quantityPerDiscovery": 2,
+          "stockUnits": 4,
+          "source": "https://gamerch.com/blacksurvival/461493",
+          "name": "유리구슬"
+        },
+        {
+          "itemId": "northern_revolver",
+          "stockDiscoveries": 1,
+          "quantityPerDiscovery": 1,
+          "stockUnits": 1,
+          "source": "https://gamerch.com/blacksurvival/461356",
+          "name": "노던 리볼버"
+        },
+        {
+          "itemId": "holy_grail",
+          "stockDiscoveries": 1,
+          "quantityPerDiscovery": 1,
+          "stockUnits": 1,
+          "source": "https://gamerch.com/blacksurvival/461483",
+          "name": "성배"
+        },
+        {
+          "itemId": "cassock",
+          "stockDiscoveries": 5,
+          "quantityPerDiscovery": 1,
+          "stockUnits": 5,
+          "source": "https://gamerch.com/blacksurvival/461565",
+          "name": "사제복"
+        },
+        {
+          "itemId": "cross",
+          "stockDiscoveries": 5,
+          "quantityPerDiscovery": 1,
+          "stockUnits": 5,
+          "source": "https://gamerch.com/blacksurvival/461294",
+          "name": "십자가"
+        },
+        {
+          "itemId": "wooden_shoes",
+          "stockDiscoveries": 2,
+          "quantityPerDiscovery": 1,
+          "stockUnits": 2,
+          "source": "https://gamerch.com/blacksurvival/461597",
+          "name": "나막신"
+        },
+        {
+          "itemId": "holy_water",
+          "stockDiscoveries": 3,
+          "quantityPerDiscovery": 1,
+          "stockUnits": 3,
+          "source": "https://gamerch.com/blacksurvival/461386",
+          "name": "성수"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "name": "숲",
+      "referenceNameJa": "森",
+      "icon": "tree",
+      "type": "삼림 지대",
+      "restricted": false,
+      "animal": "crow",
+      "source": "https://gamerch.com/blacksurvival/460843",
+      "loot": [
+        {
+          "itemId": "bamboo",
+          "stockDiscoveries": 6,
+          "quantityPerDiscovery": 1,
+          "stockUnits": 6,
+          "source": "https://gamerch.com/blacksurvival/461221",
+          "name": "대나무"
+        },
+        {
+          "itemId": "harpoon",
+          "stockDiscoveries": 5,
+          "quantityPerDiscovery": 1,
+          "stockUnits": 5,
+          "source": "https://gamerch.com/blacksurvival/460935",
+          "name": "작살"
+        },
+        {
+          "itemId": "claw",
+          "stockDiscoveries": 4,
+          "quantityPerDiscovery": 1,
+          "stockUnits": 4,
+          "source": "https://gamerch.com/blacksurvival/461524",
+          "name": "손톱"
+        },
+        {
+          "itemId": "hatchet",
+          "stockDiscoveries": 4,
+          "quantityPerDiscovery": 1,
+          "stockUnits": 4,
+          "source": "https://gamerch.com/blacksurvival/460912",
+          "name": "손도끼"
+        },
+        {
+          "itemId": "short_spear",
+          "stockDiscoveries": 4,
+          "quantityPerDiscovery": 1,
+          "stockUnits": 4,
+          "source": "https://gamerch.com/blacksurvival/460936",
+          "name": "단창"
+        },
+        {
+          "itemId": "tomahawk",
+          "stockDiscoveries": 3,
+          "quantityPerDiscovery": 14,
+          "stockUnits": 42,
+          "source": "https://gamerch.com/blacksurvival/461245",
+          "name": "토마호크"
+        },
+        {
+          "itemId": "branch",
+          "stockDiscoveries": 3,
+          "quantityPerDiscovery": 1,
+          "stockUnits": 3,
+          "source": "https://gamerch.com/blacksurvival/461227",
+          "name": "나뭇가지"
+        },
+        {
+          "itemId": "sickle",
+          "stockDiscoveries": 2,
+          "quantityPerDiscovery": 1,
+          "stockUnits": 2,
+          "source": "https://gamerch.com/blacksurvival/460914",
+          "name": "낫"
+        },
+        {
+          "itemId": "snare",
+          "stockDiscoveries": 2,
+          "quantityPerDiscovery": 2,
+          "stockUnits": 4,
+          "source": "https://gamerch.com/blacksurvival/461541",
+          "name": "올가미"
+        },
+        {
+          "itemId": "hiking_hat",
+          "stockDiscoveries": 2,
+          "quantityPerDiscovery": 1,
+          "stockUnits": 2,
+          "source": "https://gamerch.com/blacksurvival/461578",
+          "name": "등산모"
+        },
+        {
+          "itemId": "flower",
+          "stockDiscoveries": 2,
+          "quantityPerDiscovery": 1,
+          "stockUnits": 2,
+          "source": "https://gamerch.com/blacksurvival/461292",
+          "name": "꽃"
+        },
+        {
+          "itemId": "oriental_grass",
+          "stockDiscoveries": 7,
+          "quantityPerDiscovery": 1,
+          "stockUnits": 7,
+          "source": "https://gamerch.com/blacksurvival/461429",
+          "name": "약초 잎"
+        },
+        {
+          "itemId": "water",
+          "stockDiscoveries": 7,
+          "quantityPerDiscovery": 3,
+          "stockUnits": 21,
+          "source": "https://gamerch.com/blacksurvival/461470",
+          "name": "물"
+        },
+        {
+          "itemId": "leather",
+          "stockDiscoveries": 6,
+          "quantityPerDiscovery": 1,
+          "stockUnits": 6,
+          "source": "https://gamerch.com/blacksurvival/461639",
+          "name": "가죽"
+        },
+        {
+          "itemId": "iron_ore",
+          "stockDiscoveries": 4,
+          "quantityPerDiscovery": 3,
+          "stockUnits": 12,
+          "source": "https://gamerch.com/blacksurvival/461641",
+          "name": "철광석"
+        },
+        {
+          "itemId": "feather",
+          "stockDiscoveries": 3,
+          "quantityPerDiscovery": 1,
+          "stockUnits": 3,
+          "source": "https://gamerch.com/blacksurvival/461634",
+          "name": "깃털"
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "name": "연못",
+      "referenceNameJa": "池",
+      "icon": "waves",
+      "type": "수변 지대",
+      "restricted": false,
+      "animal": "crow",
+      "source": "https://gamerch.com/blacksurvival/460833",
+      "loot": [
+        {
+          "itemId": "plastic_bottle",
+          "stockDiscoveries": 5,
+          "quantityPerDiscovery": 1,
+          "stockUnits": 5,
+          "source": "https://gamerch.com/blacksurvival/461489",
+          "name": "페트병"
+        },
+        {
+          "itemId": "knife",
+          "stockDiscoveries": 4,
+          "quantityPerDiscovery": 1,
+          "stockUnits": 4,
+          "source": "https://gamerch.com/blacksurvival/460913",
+          "name": "나이프"
+        },
+        {
+          "itemId": "short_rod",
+          "stockDiscoveries": 4,
+          "quantityPerDiscovery": 1,
+          "stockUnits": 4,
+          "source": "https://gamerch.com/blacksurvival/461224",
+          "name": "단봉"
+        },
+        {
+          "itemId": "long_rod",
+          "stockDiscoveries": 4,
+          "quantityPerDiscovery": 1,
+          "stockUnits": 4,
+          "source": "https://gamerch.com/blacksurvival/461212",
+          "name": "장봉"
+        },
+        {
+          "itemId": "mouse_trap",
+          "stockDiscoveries": 4,
+          "quantityPerDiscovery": 1,
+          "stockUnits": 4,
+          "source": "https://gamerch.com/blacksurvival/461539",
+          "name": "쥐덫"
+        },
+        {
+          "itemId": "carp",
+          "stockDiscoveries": 3,
+          "quantityPerDiscovery": 1,
+          "stockUnits": 3,
+          "source": "https://gamerch.com/blacksurvival/461304",
+          "name": "붕어"
+        },
+        {
+          "itemId": "snare",
+          "stockDiscoveries": 3,
+          "quantityPerDiscovery": 2,
+          "stockUnits": 6,
+          "source": "https://gamerch.com/blacksurvival/461541",
+          "name": "올가미"
+        },
+        {
+          "itemId": "gemstone",
+          "stockDiscoveries": 2,
+          "quantityPerDiscovery": 1,
+          "stockUnits": 2,
+          "source": "https://gamerch.com/blacksurvival/461485",
+          "name": "원석"
+        },
+        {
+          "itemId": "tights",
+          "stockDiscoveries": 3,
+          "quantityPerDiscovery": 1,
+          "stockUnits": 3,
+          "source": "https://gamerch.com/blacksurvival/461598",
+          "name": "타이즈"
+        },
+        {
+          "itemId": "flower",
+          "stockDiscoveries": 3,
+          "quantityPerDiscovery": 1,
+          "stockUnits": 3,
+          "source": "https://gamerch.com/blacksurvival/461292",
+          "name": "꽃"
+        },
+        {
+          "itemId": "water",
+          "stockDiscoveries": 17,
+          "quantityPerDiscovery": 3,
+          "stockUnits": 51,
+          "source": "https://gamerch.com/blacksurvival/461470",
+          "name": "물"
+        },
+        {
+          "itemId": "fertilizer",
+          "stockDiscoveries": 7,
+          "quantityPerDiscovery": 1,
+          "stockUnits": 7,
+          "source": "https://gamerch.com/blacksurvival/461644",
+          "name": "비료"
+        },
+        {
+          "itemId": "turtle_shell",
+          "stockDiscoveries": 5,
+          "quantityPerDiscovery": 1,
+          "stockUnits": 5,
+          "source": "https://gamerch.com/blacksurvival/461628",
+          "name": "거북이 등딱지"
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "name": "항구",
+      "referenceNameJa": "港",
+      "icon": "anchor",
+      "type": "항만 지구",
+      "restricted": false,
+      "animal": "crow",
+      "source": "https://gamerch.com/blacksurvival/460823",
+      "loot": [
+        {
+          "itemId": "hammer",
+          "stockDiscoveries": 5,
+          "quantityPerDiscovery": 1,
+          "stockUnits": 5,
+          "source": "https://gamerch.com/blacksurvival/461215",
+          "name": "망치"
+        },
+        {
+          "itemId": "long_rifle",
+          "stockDiscoveries": 5,
+          "quantityPerDiscovery": 1,
+          "stockUnits": 5,
+          "source": "https://gamerch.com/blacksurvival/461358",
+          "name": "화승총"
+        },
+        {
+          "itemId": "northern_revolver",
+          "stockDiscoveries": 4,
+          "quantityPerDiscovery": 1,
+          "stockUnits": 4,
+          "source": "https://gamerch.com/blacksurvival/461356",
+          "name": "노던 리볼버"
+        },
+        {
+          "itemId": "v_pp",
+          "stockDiscoveries": 3,
+          "quantityPerDiscovery": 1,
+          "stockUnits": 3,
+          "source": "https://gamerch.com/blacksurvival/461355",
+          "name": "V-PP"
+        },
+        {
+          "itemId": "snare",
+          "stockDiscoveries": 3,
+          "quantityPerDiscovery": 2,
+          "stockUnits": 6,
+          "source": "https://gamerch.com/blacksurvival/461541",
+          "name": "올가미"
+        },
+        {
+          "itemId": "southern_revolver",
+          "stockDiscoveries": 2,
+          "quantityPerDiscovery": 1,
+          "stockUnits": 2,
+          "source": "https://gamerch.com/blacksurvival/461357",
+          "name": "서던 리볼버"
+        },
+        {
+          "itemId": "f92s",
+          "stockDiscoveries": 2,
+          "quantityPerDiscovery": 1,
+          "stockUnits": 2,
+          "source": "https://gamerch.com/blacksurvival/461354",
+          "name": "F92S"
+        },
+        {
+          "itemId": "sgoty870",
+          "stockDiscoveries": 2,
+          "quantityPerDiscovery": 1,
+          "stockUnits": 2,
+          "source": "https://gamerch.com/blacksurvival/461353",
+          "name": "SGOTY870"
+        },
+        {
+          "itemId": "full_body_swimsuit",
+          "stockDiscoveries": 4,
+          "quantityPerDiscovery": 1,
+          "stockUnits": 4,
+          "source": "https://gamerch.com/blacksurvival/461562",
+          "name": "전신 수영복"
+        },
+        {
+          "itemId": "magazine",
+          "stockDiscoveries": 4,
+          "quantityPerDiscovery": 1,
+          "stockUnits": 4,
+          "source": "https://gamerch.com/blacksurvival/461290",
+          "name": "탄창"
+        },
+        {
+          "itemId": "tuna",
+          "stockDiscoveries": 3,
+          "quantityPerDiscovery": 1,
+          "stockUnits": 3,
+          "source": "https://gamerch.com/blacksurvival/461426",
+          "name": "참치"
+        },
+        {
+          "itemId": "fresh_sashimi",
+          "stockDiscoveries": 1,
+          "quantityPerDiscovery": 1,
+          "stockUnits": 1,
+          "source": "https://gamerch.com/blacksurvival/461385",
+          "name": "생선회"
+        },
+        {
+          "itemId": "water",
+          "stockDiscoveries": 6,
+          "quantityPerDiscovery": 3,
+          "stockUnits": 18,
+          "source": "https://gamerch.com/blacksurvival/461470",
+          "name": "물"
+        },
+        {
+          "itemId": "bullets",
+          "stockDiscoveries": 9,
+          "quantityPerDiscovery": 20,
+          "stockUnits": 180,
+          "source": "https://gamerch.com/blacksurvival/461602",
+          "name": "총알"
+        },
+        {
+          "itemId": "whetstone",
+          "stockDiscoveries": 4,
+          "quantityPerDiscovery": 1,
+          "stockUnits": 4,
+          "source": "https://gamerch.com/blacksurvival/461320",
+          "name": "숫돌"
+        },
+        {
+          "itemId": "turtle_shell",
+          "stockDiscoveries": 3,
+          "quantityPerDiscovery": 1,
+          "stockUnits": 3,
+          "source": "https://gamerch.com/blacksurvival/461628",
+          "name": "거북이 등딱지"
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "name": "호텔",
+      "referenceNameJa": "ホテル",
+      "icon": "building",
+      "type": "숙박 지구",
+      "restricted": false,
+      "animal": "dog",
+      "source": "https://gamerch.com/blacksurvival/460826",
+      "loot": [
+        {
+          "itemId": "whip",
+          "stockDiscoveries": 4,
+          "quantityPerDiscovery": 1,
+          "stockUnits": 4,
+          "source": "https://gamerch.com/blacksurvival/461217",
+          "name": "채찍"
+        },
+        {
+          "itemId": "razor",
+          "stockDiscoveries": 4,
+          "quantityPerDiscovery": 1,
+          "stockUnits": 4,
+          "source": "https://gamerch.com/blacksurvival/460920",
+          "name": "면도칼"
+        },
+        {
+          "itemId": "steel_chain",
+          "stockDiscoveries": 4,
+          "quantityPerDiscovery": 1,
+          "stockUnits": 4,
+          "source": "https://gamerch.com/blacksurvival/461218",
+          "name": "쇠사슬"
+        },
+        {
+          "itemId": "glass_cup",
+          "stockDiscoveries": 4,
+          "quantityPerDiscovery": 1,
+          "stockUnits": 4,
+          "source": "https://gamerch.com/blacksurvival/461496",
+          "name": "유리잔"
+        },
+        {
+          "itemId": "kitchen_knife",
+          "stockDiscoveries": 3,
+          "quantityPerDiscovery": 1,
+          "stockUnits": 3,
+          "source": "https://gamerch.com/blacksurvival/460916",
+          "name": "식칼"
+        },
+        {
+          "itemId": "stone",
+          "stockDiscoveries": 3,
+          "quantityPerDiscovery": 3,
+          "stockUnits": 9,
+          "source": "https://gamerch.com/blacksurvival/461482",
+          "name": "돌멩이"
+        },
+        {
+          "itemId": "frying_pan",
+          "stockDiscoveries": 2,
+          "quantityPerDiscovery": 1,
+          "stockUnits": 2,
+          "source": "https://gamerch.com/blacksurvival/461222",
+          "name": "프라이팬"
+        },
+        {
+          "itemId": "box_cutter",
+          "stockDiscoveries": 2,
+          "quantityPerDiscovery": 1,
+          "stockUnits": 2,
+          "source": "https://gamerch.com/blacksurvival/460919",
+          "name": "커터칼"
+        },
+        {
+          "itemId": "cooking_pot",
+          "stockDiscoveries": 2,
+          "quantityPerDiscovery": 1,
+          "stockUnits": 2,
+          "source": "https://gamerch.com/blacksurvival/461481",
+          "name": "냄비"
+        },
+        {
+          "itemId": "plate",
+          "stockDiscoveries": 2,
+          "quantityPerDiscovery": 2,
+          "stockUnits": 4,
+          "source": "https://gamerch.com/blacksurvival/461495",
+          "name": "접시"
+        },
+        {
+          "itemId": "ripped_scroll_2",
+          "stockDiscoveries": 1,
+          "quantityPerDiscovery": 1,
+          "stockUnits": 1,
+          "source": "https://gamerch.com/blacksurvival/461228",
+          "name": "찢어진 무공비급 하권"
+        },
+        {
+          "itemId": "laptop_broken_screen",
+          "stockDiscoveries": 1,
+          "quantityPerDiscovery": 1,
+          "stockUnits": 1,
+          "source": "https://gamerch.com/blacksurvival/461480",
+          "name": "고장난 노트북"
+        },
+        {
+          "itemId": "thimble",
+          "stockDiscoveries": 4,
+          "quantityPerDiscovery": 1,
+          "stockUnits": 4,
+          "source": "https://gamerch.com/blacksurvival/461589",
+          "name": "골무"
+        },
+        {
+          "itemId": "watch",
+          "stockDiscoveries": 2,
+          "quantityPerDiscovery": 1,
+          "stockUnits": 2,
+          "source": "https://gamerch.com/blacksurvival/461586",
+          "name": "손목시계"
+        },
+        {
+          "itemId": "garlic",
+          "stockDiscoveries": 2,
+          "quantityPerDiscovery": 1,
+          "stockUnits": 2,
+          "source": "https://gamerch.com/blacksurvival/461425",
+          "name": "마늘"
+        },
+        {
+          "itemId": "burdock",
+          "stockDiscoveries": 1,
+          "quantityPerDiscovery": 1,
+          "stockUnits": 1,
+          "source": "https://gamerch.com/blacksurvival/461427",
+          "name": "우엉"
+        },
+        {
+          "itemId": "potato",
+          "stockDiscoveries": 1,
+          "quantityPerDiscovery": 1,
+          "stockUnits": 1,
+          "source": "https://gamerch.com/blacksurvival/461424",
+          "name": "감자"
+        },
+        {
+          "itemId": "cookie",
+          "stockDiscoveries": 1,
+          "quantityPerDiscovery": 3,
+          "stockUnits": 3,
+          "source": "https://gamerch.com/blacksurvival/461405",
+          "name": "쿠키"
+        },
+        {
+          "itemId": "honey",
+          "stockDiscoveries": 3,
+          "quantityPerDiscovery": 1,
+          "stockUnits": 3,
+          "source": "https://gamerch.com/blacksurvival/461463",
+          "name": "꿀"
+        },
+        {
+          "itemId": "ice",
+          "stockDiscoveries": 2,
+          "quantityPerDiscovery": 1,
+          "stockUnits": 2,
+          "source": "https://gamerch.com/blacksurvival/461467",
+          "name": "얼음"
+        },
+        {
+          "itemId": "whetstone",
+          "stockDiscoveries": 5,
+          "quantityPerDiscovery": 1,
+          "stockUnits": 5,
+          "source": "https://gamerch.com/blacksurvival/461320",
+          "name": "숫돌"
+        },
+        {
+          "itemId": "fertilizer",
+          "stockDiscoveries": 3,
+          "quantityPerDiscovery": 1,
+          "stockUnits": 3,
+          "source": "https://gamerch.com/blacksurvival/461644",
+          "name": "비료"
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "name": "골목길",
+      "referenceNameJa": "路地裏",
+      "icon": "building",
+      "type": "주거 지구",
+      "restricted": false,
+      "animal": "dog",
+      "source": "https://gamerch.com/blacksurvival/460828",
+      "loot": [
+        {
+          "itemId": "cotton_work_glove",
+          "stockDiscoveries": 7,
+          "quantityPerDiscovery": 1,
+          "stockUnits": 7,
+          "source": "https://gamerch.com/blacksurvival/461315",
+          "name": "목장갑"
+        },
+        {
+          "itemId": "box_cutter",
+          "stockDiscoveries": 6,
+          "quantityPerDiscovery": 1,
+          "stockUnits": 6,
+          "source": "https://gamerch.com/blacksurvival/460919",
+          "name": "커터칼"
+        },
+        {
+          "itemId": "needle",
+          "stockDiscoveries": 5,
+          "quantityPerDiscovery": 1,
+          "stockUnits": 5,
+          "source": "https://gamerch.com/blacksurvival/460939",
+          "name": "바늘"
+        },
+        {
+          "itemId": "glass_cup",
+          "stockDiscoveries": 4,
+          "quantityPerDiscovery": 1,
+          "stockUnits": 4,
+          "source": "https://gamerch.com/blacksurvival/461496",
+          "name": "유리잔"
+        },
+        {
+          "itemId": "kitchen_knife",
+          "stockDiscoveries": 3,
+          "quantityPerDiscovery": 1,
+          "stockUnits": 3,
+          "source": "https://gamerch.com/blacksurvival/460916",
+          "name": "식칼"
+        },
+        {
+          "itemId": "steel_chain",
+          "stockDiscoveries": 3,
+          "quantityPerDiscovery": 1,
+          "stockUnits": 3,
+          "source": "https://gamerch.com/blacksurvival/461218",
+          "name": "쇠사슬"
+        },
+        {
+          "itemId": "tv",
+          "stockDiscoveries": 2,
+          "quantityPerDiscovery": 1,
+          "stockUnits": 2,
+          "source": "https://gamerch.com/blacksurvival/461249",
+          "name": "텔레비전"
+        },
+        {
+          "itemId": "cooking_pot",
+          "stockDiscoveries": 2,
+          "quantityPerDiscovery": 1,
+          "stockUnits": 2,
+          "source": "https://gamerch.com/blacksurvival/461481",
+          "name": "냄비"
+        },
+        {
+          "itemId": "plate",
+          "stockDiscoveries": 2,
+          "quantityPerDiscovery": 2,
+          "stockUnits": 4,
+          "source": "https://gamerch.com/blacksurvival/461495",
+          "name": "접시"
+        },
+        {
+          "itemId": "running_shoes",
+          "stockDiscoveries": 3,
+          "quantityPerDiscovery": 1,
+          "stockUnits": 3,
+          "source": "https://gamerch.com/blacksurvival/461599",
+          "name": "운동화"
+        },
+        {
+          "itemId": "bracelet",
+          "stockDiscoveries": 3,
+          "quantityPerDiscovery": 1,
+          "stockUnits": 3,
+          "source": "https://gamerch.com/blacksurvival/461588",
+          "name": "팔찌"
+        },
+        {
+          "itemId": "ramen",
+          "stockDiscoveries": 2,
+          "quantityPerDiscovery": 1,
+          "stockUnits": 2,
+          "source": "https://gamerch.com/blacksurvival/461408",
+          "name": "라면"
+        },
+        {
+          "itemId": "cloth",
+          "stockDiscoveries": 3,
+          "quantityPerDiscovery": 1,
+          "stockUnits": 3,
+          "source": "https://gamerch.com/blacksurvival/461646",
+          "name": "천"
+        },
+        {
+          "itemId": "scrap_metal",
+          "stockDiscoveries": 2,
+          "quantityPerDiscovery": 1,
+          "stockUnits": 2,
+          "source": "https://gamerch.com/blacksurvival/461637",
+          "name": "고철"
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "name": "마을회관",
+      "referenceNameJa": "村会館",
+      "icon": "building",
+      "type": "공공 지구",
+      "restricted": false,
+      "animal": "bat",
+      "source": "https://gamerch.com/blacksurvival/460829",
+      "loot": [
+        {
+          "itemId": "hammer",
+          "stockDiscoveries": 6,
+          "quantityPerDiscovery": 1,
+          "stockUnits": 6,
+          "source": "https://gamerch.com/blacksurvival/461215",
+          "name": "망치"
+        },
+        {
+          "itemId": "fan",
+          "stockDiscoveries": 4,
+          "quantityPerDiscovery": 1,
+          "stockUnits": 4,
+          "source": "https://gamerch.com/blacksurvival/461233",
+          "name": "부채"
+        },
+        {
+          "itemId": "piano_wire",
+          "stockDiscoveries": 4,
+          "quantityPerDiscovery": 1,
+          "stockUnits": 4,
+          "source": "https://gamerch.com/blacksurvival/461540",
+          "name": "피아노선"
+        },
+        {
+          "itemId": "dice",
+          "stockDiscoveries": 3,
+          "quantityPerDiscovery": 1,
+          "stockUnits": 3,
+          "source": "https://gamerch.com/blacksurvival/461492",
+          "name": "주사위"
+        },
+        {
+          "itemId": "tv",
+          "stockDiscoveries": 1,
+          "quantityPerDiscovery": 1,
+          "stockUnits": 1,
+          "source": "https://gamerch.com/blacksurvival/461249",
+          "name": "텔레비전"
+        },
+        {
+          "itemId": "playing_cards",
+          "stockDiscoveries": 1,
+          "quantityPerDiscovery": 52,
+          "stockUnits": 52,
+          "source": "https://gamerch.com/blacksurvival/461317",
+          "name": "트럼프 카드"
+        },
+        {
+          "itemId": "hairband",
+          "stockDiscoveries": 4,
+          "quantityPerDiscovery": 1,
+          "stockUnits": 4,
+          "source": "https://gamerch.com/blacksurvival/461577",
+          "name": "머리띠"
+        },
+        {
+          "itemId": "slippers",
+          "stockDiscoveries": 3,
+          "quantityPerDiscovery": 1,
+          "stockUnits": 3,
+          "source": "https://gamerch.com/blacksurvival/461600",
+          "name": "슬리퍼"
+        },
+        {
+          "itemId": "relief_patch",
+          "stockDiscoveries": 3,
+          "quantityPerDiscovery": 2,
+          "stockUnits": 6,
+          "source": "https://gamerch.com/blacksurvival/461423",
+          "name": "파스"
+        },
+        {
+          "itemId": "bird_meat",
+          "stockDiscoveries": 2,
+          "quantityPerDiscovery": 1,
+          "stockUnits": 2,
+          "source": "https://gamerch.com/blacksurvival/461402",
+          "name": "새고기"
+        },
+        {
+          "itemId": "honey",
+          "stockDiscoveries": 6,
+          "quantityPerDiscovery": 1,
+          "stockUnits": 6,
+          "source": "https://gamerch.com/blacksurvival/461463",
+          "name": "꿀"
+        },
+        {
+          "itemId": "arrows",
+          "stockDiscoveries": 10,
+          "quantityPerDiscovery": 20,
+          "stockUnits": 200,
+          "source": "https://gamerch.com/blacksurvival/461601",
+          "name": "화살"
+        },
+        {
+          "itemId": "cloth",
+          "stockDiscoveries": 5,
+          "quantityPerDiscovery": 1,
+          "stockUnits": 5,
+          "source": "https://gamerch.com/blacksurvival/461646",
+          "name": "천"
+        },
+        {
+          "itemId": "thick_paper",
+          "stockDiscoveries": 3,
+          "quantityPerDiscovery": 1,
+          "stockUnits": 3,
+          "source": "https://gamerch.com/blacksurvival/461633",
+          "name": "두꺼운 종이"
+        },
+        {
+          "itemId": "fertilizer",
+          "stockDiscoveries": 2,
+          "quantityPerDiscovery": 1,
+          "stockUnits": 2,
+          "source": "https://gamerch.com/blacksurvival/461644",
+          "name": "비료"
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "name": "소방서",
+      "referenceNameJa": "消防署",
+      "icon": "building",
+      "type": "공공 지구",
+      "restricted": false,
+      "animal": "dog",
+      "source": "https://gamerch.com/blacksurvival/460830",
+      "loot": [
+        {
+          "itemId": "hammer",
+          "stockDiscoveries": 6,
+          "quantityPerDiscovery": 1,
+          "stockUnits": 6,
+          "source": "https://gamerch.com/blacksurvival/461215",
+          "name": "망치"
+        },
+        {
+          "itemId": "mouse_trap",
+          "stockDiscoveries": 6,
+          "quantityPerDiscovery": 1,
+          "stockUnits": 6,
+          "source": "https://gamerch.com/blacksurvival/461539",
+          "name": "쥐덫"
+        },
+        {
+          "itemId": "hatchet",
+          "stockDiscoveries": 3,
+          "quantityPerDiscovery": 1,
+          "stockUnits": 3,
+          "source": "https://gamerch.com/blacksurvival/460912",
+          "name": "손도끼"
+        },
+        {
+          "itemId": "tomahawk",
+          "stockDiscoveries": 3,
+          "quantityPerDiscovery": 14,
+          "stockUnits": 42,
+          "source": "https://gamerch.com/blacksurvival/461245",
+          "name": "토마호크"
+        },
+        {
+          "itemId": "boots",
+          "stockDiscoveries": 4,
+          "quantityPerDiscovery": 1,
+          "stockUnits": 4,
+          "source": "https://gamerch.com/blacksurvival/461595",
+          "name": "부츠"
+        },
+        {
+          "itemId": "watch",
+          "stockDiscoveries": 3,
+          "quantityPerDiscovery": 1,
+          "stockUnits": 3,
+          "source": "https://gamerch.com/blacksurvival/461586",
+          "name": "손목시계"
+        },
+        {
+          "itemId": "bunker_jacket",
+          "stockDiscoveries": 3,
+          "quantityPerDiscovery": 1,
+          "stockUnits": 3,
+          "source": "https://gamerch.com/blacksurvival/461560",
+          "name": "방화복"
+        },
+        {
+          "itemId": "pill",
+          "stockDiscoveries": 3,
+          "quantityPerDiscovery": 1,
+          "stockUnits": 3,
+          "source": "https://gamerch.com/blacksurvival/461400",
+          "name": "알약"
+        },
+        {
+          "itemId": "bandage",
+          "stockDiscoveries": 3,
+          "quantityPerDiscovery": 2,
+          "stockUnits": 6,
+          "source": "https://gamerch.com/blacksurvival/461401",
+          "name": "붕대"
+        },
+        {
+          "itemId": "water",
+          "stockDiscoveries": 16,
+          "quantityPerDiscovery": 3,
+          "stockUnits": 48,
+          "source": "https://gamerch.com/blacksurvival/461470",
+          "name": "물"
+        },
+        {
+          "itemId": "battery",
+          "stockDiscoveries": 8,
+          "quantityPerDiscovery": 1,
+          "stockUnits": 8,
+          "source": "https://gamerch.com/blacksurvival/461645",
+          "name": "배터리"
+        },
+        {
+          "itemId": "oil",
+          "stockDiscoveries": 5,
+          "quantityPerDiscovery": 1,
+          "stockUnits": 5,
+          "source": "https://gamerch.com/blacksurvival/461642",
+          "name": "기름"
+        },
+        {
+          "itemId": "nail",
+          "stockDiscoveries": 3,
+          "quantityPerDiscovery": 1,
+          "stockUnits": 3,
+          "source": "https://gamerch.com/blacksurvival/461321",
+          "name": "못"
+        },
+        {
+          "itemId": "leather",
+          "stockDiscoveries": 3,
+          "quantityPerDiscovery": 1,
+          "stockUnits": 3,
+          "source": "https://gamerch.com/blacksurvival/461639",
+          "name": "가죽"
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "name": "산길",
+      "referenceNameJa": "山道",
+      "icon": "tree",
+      "type": "산악 지대",
+      "restricted": false,
+      "animal": "crow",
+      "source": "https://gamerch.com/blacksurvival/460836",
+      "loot": [
+        {
+          "itemId": "stone",
+          "stockDiscoveries": 7,
+          "quantityPerDiscovery": 3,
+          "stockUnits": 21,
+          "source": "https://gamerch.com/blacksurvival/461482",
+          "name": "돌멩이"
+        },
+        {
+          "itemId": "gemstone",
+          "stockDiscoveries": 5,
+          "quantityPerDiscovery": 1,
+          "stockUnits": 5,
+          "source": "https://gamerch.com/blacksurvival/461485",
+          "name": "원석"
+        },
+        {
+          "itemId": "long_rod",
+          "stockDiscoveries": 5,
+          "quantityPerDiscovery": 1,
+          "stockUnits": 5,
+          "source": "https://gamerch.com/blacksurvival/461212",
+          "name": "장봉"
+        },
+        {
+          "itemId": "branch",
+          "stockDiscoveries": 5,
+          "quantityPerDiscovery": 1,
+          "stockUnits": 5,
+          "source": "https://gamerch.com/blacksurvival/461227",
+          "name": "나뭇가지"
+        },
+        {
+          "itemId": "shamshir",
+          "stockDiscoveries": 4,
+          "quantityPerDiscovery": 1,
+          "stockUnits": 4,
+          "source": "https://gamerch.com/blacksurvival/460911",
+          "name": "샴시르"
+        },
+        {
+          "itemId": "bamboo",
+          "stockDiscoveries": 4,
+          "quantityPerDiscovery": 1,
+          "stockUnits": 4,
+          "source": "https://gamerch.com/blacksurvival/461221",
+          "name": "대나무"
+        },
+        {
+          "itemId": "tomahawk",
+          "stockDiscoveries": 2,
+          "quantityPerDiscovery": 14,
+          "stockUnits": 28,
+          "source": "https://gamerch.com/blacksurvival/461245",
+          "name": "토마호크"
+        },
+        {
+          "itemId": "hatchet",
+          "stockDiscoveries": 2,
+          "quantityPerDiscovery": 1,
+          "stockUnits": 2,
+          "source": "https://gamerch.com/blacksurvival/460912",
+          "name": "손도끼"
+        },
+        {
+          "itemId": "scarf",
+          "stockDiscoveries": 2,
+          "quantityPerDiscovery": 1,
+          "stockUnits": 2,
+          "source": "https://gamerch.com/blacksurvival/461231",
+          "name": "스카프"
+        },
+        {
+          "itemId": "boots",
+          "stockDiscoveries": 3,
+          "quantityPerDiscovery": 1,
+          "stockUnits": 3,
+          "source": "https://gamerch.com/blacksurvival/461595",
+          "name": "부츠"
+        },
+        {
+          "itemId": "hiking_shoes",
+          "stockDiscoveries": 2,
+          "quantityPerDiscovery": 1,
+          "stockUnits": 2,
+          "source": "https://gamerch.com/blacksurvival/461596",
+          "name": "등산화"
+        },
+        {
+          "itemId": "bike_helmet",
+          "stockDiscoveries": 2,
+          "quantityPerDiscovery": 1,
+          "stockUnits": 2,
+          "source": "https://gamerch.com/blacksurvival/461576",
+          "name": "자전거 헬멧"
+        },
+        {
+          "itemId": "hiking_hat",
+          "stockDiscoveries": 2,
+          "quantityPerDiscovery": 1,
+          "stockUnits": 2,
+          "source": "https://gamerch.com/blacksurvival/461578",
+          "name": "등산모"
+        },
+        {
+          "itemId": "oriental_grass",
+          "stockDiscoveries": 10,
+          "quantityPerDiscovery": 1,
+          "stockUnits": 10,
+          "source": "https://gamerch.com/blacksurvival/461429",
+          "name": "약초 잎"
+        },
+        {
+          "itemId": "iron_ore",
+          "stockDiscoveries": 7,
+          "quantityPerDiscovery": 3,
+          "stockUnits": 21,
+          "source": "https://gamerch.com/blacksurvival/461641",
+          "name": "철광석"
+        },
+        {
+          "itemId": "feather",
+          "stockDiscoveries": 2,
+          "quantityPerDiscovery": 1,
+          "stockUnits": 2,
+          "source": "https://gamerch.com/blacksurvival/461634",
+          "name": "깃털"
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "name": "묘지",
+      "referenceNameJa": "墓場",
+      "icon": "cross",
+      "type": "추모 지구",
+      "restricted": false,
+      "animal": "bear",
+      "source": "https://gamerch.com/blacksurvival/460837",
+      "loot": [
+        {
+          "itemId": "pickaxe",
+          "stockDiscoveries": 6,
+          "quantityPerDiscovery": 1,
+          "stockUnits": 6,
+          "source": "https://gamerch.com/blacksurvival/460915",
+          "name": "곡괭이"
+        },
+        {
+          "itemId": "bamboo",
+          "stockDiscoveries": 5,
+          "quantityPerDiscovery": 1,
+          "stockUnits": 5,
+          "source": "https://gamerch.com/blacksurvival/461221",
+          "name": "대나무"
+        },
+        {
+          "itemId": "piano_wire",
+          "stockDiscoveries": 5,
+          "quantityPerDiscovery": 1,
+          "stockUnits": 5,
+          "source": "https://gamerch.com/blacksurvival/461540",
+          "name": "피아노선"
+        },
+        {
+          "itemId": "branch",
+          "stockDiscoveries": 5,
+          "quantityPerDiscovery": 1,
+          "stockUnits": 5,
+          "source": "https://gamerch.com/blacksurvival/461227",
+          "name": "나뭇가지"
+        },
+        {
+          "itemId": "throwing_dagger",
+          "stockDiscoveries": 5,
+          "quantityPerDiscovery": 15,
+          "stockUnits": 75,
+          "source": "https://gamerch.com/blacksurvival/461479",
+          "name": "투척용 단검"
+        },
+        {
+          "itemId": "whip",
+          "stockDiscoveries": 4,
+          "quantityPerDiscovery": 1,
+          "stockUnits": 4,
+          "source": "https://gamerch.com/blacksurvival/461217",
+          "name": "채찍"
+        },
+        {
+          "itemId": "shamshir",
+          "stockDiscoveries": 4,
+          "quantityPerDiscovery": 1,
+          "stockUnits": 4,
+          "source": "https://gamerch.com/blacksurvival/460911",
+          "name": "샴시르"
+        },
+        {
+          "itemId": "stone",
+          "stockDiscoveries": 4,
+          "quantityPerDiscovery": 3,
+          "stockUnits": 12,
+          "source": "https://gamerch.com/blacksurvival/461482",
+          "name": "돌멩이"
+        },
+        {
+          "itemId": "long_sword",
+          "stockDiscoveries": 2,
+          "quantityPerDiscovery": 1,
+          "stockUnits": 2,
+          "source": "https://gamerch.com/blacksurvival/460910",
+          "name": "장검"
+        },
+        {
+          "itemId": "hairband",
+          "stockDiscoveries": 4,
+          "quantityPerDiscovery": 1,
+          "stockUnits": 4,
+          "source": "https://gamerch.com/blacksurvival/461577",
+          "name": "머리띠"
+        },
+        {
+          "itemId": "flower",
+          "stockDiscoveries": 2,
+          "quantityPerDiscovery": 1,
+          "stockUnits": 2,
+          "source": "https://gamerch.com/blacksurvival/461292",
+          "name": "꽃"
+        },
+        {
+          "itemId": "cross",
+          "stockDiscoveries": 2,
+          "quantityPerDiscovery": 1,
+          "stockUnits": 2,
+          "source": "https://gamerch.com/blacksurvival/461294",
+          "name": "십자가"
+        },
+        {
+          "itemId": "potato",
+          "stockDiscoveries": 2,
+          "quantityPerDiscovery": 1,
+          "stockUnits": 2,
+          "source": "https://gamerch.com/blacksurvival/461424",
+          "name": "감자"
+        },
+        {
+          "itemId": "bird_egg",
+          "stockDiscoveries": 2,
+          "quantityPerDiscovery": 2,
+          "stockUnits": 4,
+          "source": "https://gamerch.com/blacksurvival/461422",
+          "name": "새알"
+        },
+        {
+          "itemId": "arrows",
+          "stockDiscoveries": 7,
+          "quantityPerDiscovery": 20,
+          "stockUnits": 140,
+          "source": "https://gamerch.com/blacksurvival/461601",
+          "name": "화살"
+        },
+        {
+          "itemId": "iron_ore",
+          "stockDiscoveries": 5,
+          "quantityPerDiscovery": 3,
+          "stockUnits": 15,
+          "source": "https://gamerch.com/blacksurvival/461641",
+          "name": "철광석"
+        },
+        {
+          "itemId": "feather",
+          "stockDiscoveries": 4,
+          "quantityPerDiscovery": 1,
+          "stockUnits": 4,
+          "source": "https://gamerch.com/blacksurvival/461634",
+          "name": "깃털"
+        },
+        {
+          "itemId": "rubber",
+          "stockDiscoveries": 2,
+          "quantityPerDiscovery": 1,
+          "stockUnits": 2,
+          "source": "https://gamerch.com/blacksurvival/461638",
+          "name": "고무"
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "name": "터널",
+      "referenceNameJa": "トンネル",
+      "icon": "building",
+      "type": "지하 통로",
+      "restricted": false,
+      "animal": "bat",
+      "source": "https://gamerch.com/blacksurvival/460838",
+      "loot": [
+        {
+          "itemId": "stone",
+          "stockDiscoveries": 8,
+          "quantityPerDiscovery": 3,
+          "stockUnits": 24,
+          "source": "https://gamerch.com/blacksurvival/461482",
+          "name": "돌멩이"
+        },
+        {
+          "itemId": "cotton_work_glove",
+          "stockDiscoveries": 7,
+          "quantityPerDiscovery": 1,
+          "stockUnits": 7,
+          "source": "https://gamerch.com/blacksurvival/461315",
+          "name": "목장갑"
+        },
+        {
+          "itemId": "can",
+          "stockDiscoveries": 5,
+          "quantityPerDiscovery": 1,
+          "stockUnits": 5,
+          "source": "https://gamerch.com/blacksurvival/461306",
+          "name": "캔"
+        },
+        {
+          "itemId": "glass_bottle",
+          "stockDiscoveries": 5,
+          "quantityPerDiscovery": 1,
+          "stockUnits": 5,
+          "source": "https://gamerch.com/blacksurvival/461494",
+          "name": "유리병"
+        },
+        {
+          "itemId": "gemstone",
+          "stockDiscoveries": 4,
+          "quantityPerDiscovery": 1,
+          "stockUnits": 4,
+          "source": "https://gamerch.com/blacksurvival/461485",
+          "name": "원석"
+        },
+        {
+          "itemId": "iron_ball",
+          "stockDiscoveries": 3,
+          "quantityPerDiscovery": 20,
+          "stockUnits": 60,
+          "source": "https://gamerch.com/blacksurvival/461484",
+          "name": "쇠구슬"
+        },
+        {
+          "itemId": "pickaxe",
+          "stockDiscoveries": 2,
+          "quantityPerDiscovery": 1,
+          "stockUnits": 2,
+          "source": "https://gamerch.com/blacksurvival/460915",
+          "name": "곡괭이"
+        },
+        {
+          "itemId": "box",
+          "stockDiscoveries": 5,
+          "quantityPerDiscovery": 1,
+          "stockUnits": 5,
+          "source": "https://gamerch.com/blacksurvival/461295",
+          "name": "상자"
+        },
+        {
+          "itemId": "tights",
+          "stockDiscoveries": 3,
+          "quantityPerDiscovery": 1,
+          "stockUnits": 3,
+          "source": "https://gamerch.com/blacksurvival/461598",
+          "name": "타이즈"
+        },
+        {
+          "itemId": "sweet_potato",
+          "stockDiscoveries": 2,
+          "quantityPerDiscovery": 1,
+          "stockUnits": 2,
+          "source": "https://gamerch.com/blacksurvival/461432",
+          "name": "고구마"
+        },
+        {
+          "itemId": "wire",
+          "stockDiscoveries": 6,
+          "quantityPerDiscovery": 1,
+          "stockUnits": 6,
+          "source": "https://gamerch.com/blacksurvival/461640",
+          "name": "철사"
+        },
+        {
+          "itemId": "nail",
+          "stockDiscoveries": 5,
+          "quantityPerDiscovery": 1,
+          "stockUnits": 5,
+          "source": "https://gamerch.com/blacksurvival/461321",
+          "name": "못"
+        },
+        {
+          "itemId": "whetstone",
+          "stockDiscoveries": 6,
+          "quantityPerDiscovery": 1,
+          "stockUnits": 6,
+          "source": "https://gamerch.com/blacksurvival/461320",
+          "name": "숫돌"
+        },
+        {
+          "itemId": "gunpowder",
+          "stockDiscoveries": 3,
+          "quantityPerDiscovery": 1,
+          "stockUnits": 3,
+          "source": "https://gamerch.com/blacksurvival/461643",
+          "name": "화약"
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "name": "절",
+      "referenceNameJa": "寺",
+      "icon": "church",
+      "type": "종교 지구",
+      "restricted": false,
+      "animal": "dog",
+      "source": "https://gamerch.com/blacksurvival/460839",
+      "loot": [
+        {
+          "itemId": "short_spear",
+          "stockDiscoveries": 6,
+          "quantityPerDiscovery": 1,
+          "stockUnits": 6,
+          "source": "https://gamerch.com/blacksurvival/460936",
+          "name": "단창"
+        },
+        {
+          "itemId": "yumi_bow",
+          "stockDiscoveries": 6,
+          "quantityPerDiscovery": 1,
+          "stockUnits": 6,
+          "source": "https://gamerch.com/blacksurvival/461513",
+          "name": "국궁"
+        },
+        {
+          "itemId": "katana",
+          "stockDiscoveries": 5,
+          "quantityPerDiscovery": 1,
+          "stockUnits": 5,
+          "source": "https://gamerch.com/blacksurvival/460908",
+          "name": "카타나"
+        },
+        {
+          "itemId": "stone",
+          "stockDiscoveries": 5,
+          "quantityPerDiscovery": 3,
+          "stockUnits": 15,
+          "source": "https://gamerch.com/blacksurvival/461482",
+          "name": "돌멩이"
+        },
+        {
+          "itemId": "knuckle",
+          "stockDiscoveries": 4,
+          "quantityPerDiscovery": 1,
+          "stockUnits": 4,
+          "source": "https://gamerch.com/blacksurvival/461525",
+          "name": "너클"
+        },
+        {
+          "itemId": "spear_handle",
+          "stockDiscoveries": 4,
+          "quantityPerDiscovery": 1,
+          "stockUnits": 4,
+          "source": "https://gamerch.com/blacksurvival/461223",
+          "name": "창자루"
+        },
+        {
+          "itemId": "stallion_medal",
+          "stockDiscoveries": 2,
+          "quantityPerDiscovery": 1,
+          "stockUnits": 2,
+          "source": "https://gamerch.com/blacksurvival/461477",
+          "name": "마패"
+        },
+        {
+          "itemId": "masamune",
+          "stockDiscoveries": 1,
+          "quantityPerDiscovery": 1,
+          "stockUnits": 1,
+          "source": "https://gamerch.com/blacksurvival/460894",
+          "name": "마사무네"
+        },
+        {
+          "itemId": "monk_s_robe",
+          "stockDiscoveries": 6,
+          "quantityPerDiscovery": 1,
+          "stockUnits": 6,
+          "source": "https://gamerch.com/blacksurvival/461559",
+          "name": "승복"
+        },
+        {
+          "itemId": "fabric_armor",
+          "stockDiscoveries": 4,
+          "quantityPerDiscovery": 1,
+          "stockUnits": 4,
+          "source": "https://gamerch.com/blacksurvival/461561",
+          "name": "천 갑옷"
+        },
+        {
+          "itemId": "wooden_fish",
+          "stockDiscoveries": 3,
+          "quantityPerDiscovery": 1,
+          "stockUnits": 3,
+          "source": "https://gamerch.com/blacksurvival/461220",
+          "name": "목탁"
+        },
+        {
+          "itemId": "buddhist_scripture",
+          "stockDiscoveries": 3,
+          "quantityPerDiscovery": 1,
+          "stockUnits": 3,
+          "source": "https://gamerch.com/blacksurvival/461234",
+          "name": "불경"
+        },
+        {
+          "itemId": "hairband",
+          "stockDiscoveries": 2,
+          "quantityPerDiscovery": 1,
+          "stockUnits": 2,
+          "source": "https://gamerch.com/blacksurvival/461577",
+          "name": "머리띠"
+        },
+        {
+          "itemId": "thick_paper",
+          "stockDiscoveries": 4,
+          "quantityPerDiscovery": 1,
+          "stockUnits": 4,
+          "source": "https://gamerch.com/blacksurvival/461633",
+          "name": "두꺼운 종이"
+        },
+        {
+          "itemId": "cloth",
+          "stockDiscoveries": 4,
+          "quantityPerDiscovery": 1,
+          "stockUnits": 4,
+          "source": "https://gamerch.com/blacksurvival/461646",
+          "name": "천"
+        }
+      ]
+    },
+    {
+      "id": 16,
+      "name": "등대",
+      "referenceNameJa": "灯台",
+      "icon": "anchor",
+      "type": "해안 지대",
+      "restricted": false,
+      "animal": "crow",
+      "source": "https://gamerch.com/blacksurvival/460840",
+      "loot": [
+        {
+          "itemId": "knuckle",
+          "stockDiscoveries": 6,
+          "quantityPerDiscovery": 1,
+          "stockUnits": 6,
+          "source": "https://gamerch.com/blacksurvival/461525",
+          "name": "너클"
+        },
+        {
+          "itemId": "spear_handle",
+          "stockDiscoveries": 4,
+          "quantityPerDiscovery": 1,
+          "stockUnits": 4,
+          "source": "https://gamerch.com/blacksurvival/461223",
+          "name": "창자루"
+        },
+        {
+          "itemId": "whip",
+          "stockDiscoveries": 3,
+          "quantityPerDiscovery": 1,
+          "stockUnits": 3,
+          "source": "https://gamerch.com/blacksurvival/461217",
+          "name": "채찍"
+        },
+        {
+          "itemId": "sickle",
+          "stockDiscoveries": 2,
+          "quantityPerDiscovery": 1,
+          "stockUnits": 2,
+          "source": "https://gamerch.com/blacksurvival/460914",
+          "name": "낫"
+        },
+        {
+          "itemId": "binoculars",
+          "stockDiscoveries": 5,
+          "quantityPerDiscovery": 1,
+          "stockUnits": 5,
+          "source": "https://gamerch.com/blacksurvival/461293",
+          "name": "쌍안경"
+        },
+        {
+          "itemId": "boots",
+          "stockDiscoveries": 4,
+          "quantityPerDiscovery": 1,
+          "stockUnits": 4,
+          "source": "https://gamerch.com/blacksurvival/461595",
+          "name": "부츠"
+        },
+        {
+          "itemId": "glasses",
+          "stockDiscoveries": 2,
+          "quantityPerDiscovery": 1,
+          "stockUnits": 2,
+          "source": "https://gamerch.com/blacksurvival/461580",
+          "name": "안경"
+        },
+        {
+          "itemId": "burdock",
+          "stockDiscoveries": 2,
+          "quantityPerDiscovery": 1,
+          "stockUnits": 2,
+          "source": "https://gamerch.com/blacksurvival/461427",
+          "name": "우엉"
+        },
+        {
+          "itemId": "bird_egg",
+          "stockDiscoveries": 2,
+          "quantityPerDiscovery": 2,
+          "stockUnits": 4,
+          "source": "https://gamerch.com/blacksurvival/461422",
+          "name": "새알"
+        },
+        {
+          "itemId": "sports_drink",
+          "stockDiscoveries": 5,
+          "quantityPerDiscovery": 1,
+          "stockUnits": 5,
+          "source": "https://gamerch.com/blacksurvival/461279",
+          "name": "이온 음료"
+        },
+        {
+          "itemId": "bullets",
+          "stockDiscoveries": 7,
+          "quantityPerDiscovery": 20,
+          "stockUnits": 140,
+          "source": "https://gamerch.com/blacksurvival/461602",
+          "name": "총알"
+        },
+        {
+          "itemId": "lighter",
+          "stockDiscoveries": 6,
+          "quantityPerDiscovery": 3,
+          "stockUnits": 18,
+          "source": "https://gamerch.com/blacksurvival/461635",
+          "name": "라이터"
+        },
+        {
+          "itemId": "rubber",
+          "stockDiscoveries": 5,
+          "quantityPerDiscovery": 1,
+          "stockUnits": 5,
+          "source": "https://gamerch.com/blacksurvival/461638",
+          "name": "고무"
+        },
+        {
+          "itemId": "gunpowder",
+          "stockDiscoveries": 5,
+          "quantityPerDiscovery": 1,
+          "stockUnits": 5,
+          "source": "https://gamerch.com/blacksurvival/461643",
+          "name": "화약"
+        },
+        {
+          "itemId": "battery",
+          "stockDiscoveries": 4,
+          "quantityPerDiscovery": 1,
+          "stockUnits": 4,
+          "source": "https://gamerch.com/blacksurvival/461645",
+          "name": "배터리"
+        },
+        {
+          "itemId": "iron_ore",
+          "stockDiscoveries": 3,
+          "quantityPerDiscovery": 3,
+          "stockUnits": 9,
+          "source": "https://gamerch.com/blacksurvival/461641",
+          "name": "철광석"
+        }
+      ]
+    },
+    {
+      "id": 17,
+      "name": "양궁장",
+      "referenceNameJa": "洋弓場",
+      "icon": "target",
+      "type": "체육 지구",
+      "restricted": false,
+      "animal": "dog",
+      "source": "https://gamerch.com/blacksurvival/460841",
+      "loot": [
+        {
+          "itemId": "yumi_bow",
+          "stockDiscoveries": 6,
+          "quantityPerDiscovery": 1,
+          "stockUnits": 6,
+          "source": "https://gamerch.com/blacksurvival/461513",
+          "name": "국궁"
+        },
+        {
+          "itemId": "piano_wire",
+          "stockDiscoveries": 6,
+          "quantityPerDiscovery": 1,
+          "stockUnits": 6,
+          "source": "https://gamerch.com/blacksurvival/461540",
+          "name": "피아노선"
+        },
+        {
+          "itemId": "bow",
+          "stockDiscoveries": 5,
+          "quantityPerDiscovery": 1,
+          "stockUnits": 5,
+          "source": "https://gamerch.com/blacksurvival/461512",
+          "name": "양궁"
+        },
+        {
+          "itemId": "snare",
+          "stockDiscoveries": 2,
+          "quantityPerDiscovery": 2,
+          "stockUnits": 4,
+          "source": "https://gamerch.com/blacksurvival/461541",
+          "name": "올가미"
+        },
+        {
+          "itemId": "pickaxe",
+          "stockDiscoveries": 2,
+          "quantityPerDiscovery": 1,
+          "stockUnits": 2,
+          "source": "https://gamerch.com/blacksurvival/460915",
+          "name": "곡괭이"
+        },
+        {
+          "itemId": "binoculars",
+          "stockDiscoveries": 4,
+          "quantityPerDiscovery": 1,
+          "stockUnits": 4,
+          "source": "https://gamerch.com/blacksurvival/461293",
+          "name": "쌍안경"
+        },
+        {
+          "itemId": "quiver",
+          "stockDiscoveries": 4,
+          "quantityPerDiscovery": 1,
+          "stockUnits": 4,
+          "source": "https://gamerch.com/blacksurvival/461289",
+          "name": "화살통"
+        },
+        {
+          "itemId": "fabric_armor",
+          "stockDiscoveries": 3,
+          "quantityPerDiscovery": 1,
+          "stockUnits": 3,
+          "source": "https://gamerch.com/blacksurvival/461561",
+          "name": "천 갑옷"
+        },
+        {
+          "itemId": "glasses",
+          "stockDiscoveries": 3,
+          "quantityPerDiscovery": 1,
+          "stockUnits": 3,
+          "source": "https://gamerch.com/blacksurvival/461580",
+          "name": "안경"
+        },
+        {
+          "itemId": "flower",
+          "stockDiscoveries": 1,
+          "quantityPerDiscovery": 1,
+          "stockUnits": 1,
+          "source": "https://gamerch.com/blacksurvival/461292",
+          "name": "꽃"
+        },
+        {
+          "itemId": "sports_drink",
+          "stockDiscoveries": 5,
+          "quantityPerDiscovery": 1,
+          "stockUnits": 5,
+          "source": "https://gamerch.com/blacksurvival/461279",
+          "name": "이온 음료"
+        },
+        {
+          "itemId": "arrows",
+          "stockDiscoveries": 10,
+          "quantityPerDiscovery": 20,
+          "stockUnits": 200,
+          "source": "https://gamerch.com/blacksurvival/461601",
+          "name": "화살"
+        },
+        {
+          "itemId": "thick_paper",
+          "stockDiscoveries": 4,
+          "quantityPerDiscovery": 1,
+          "stockUnits": 4,
+          "source": "https://gamerch.com/blacksurvival/461633",
+          "name": "두꺼운 종이"
+        },
+        {
+          "itemId": "oil",
+          "stockDiscoveries": 5,
+          "quantityPerDiscovery": 1,
+          "stockUnits": 5,
+          "source": "https://gamerch.com/blacksurvival/461642",
+          "name": "기름"
+        },
+        {
+          "itemId": "gunpowder",
+          "stockDiscoveries": 2,
+          "quantityPerDiscovery": 1,
+          "stockUnits": 2,
+          "source": "https://gamerch.com/blacksurvival/461643",
+          "name": "화약"
+        }
+      ]
+    },
+    {
+      "id": 18,
+      "name": "병원",
+      "referenceNameJa": "病院",
+      "icon": "cross",
+      "type": "의료 지구",
+      "restricted": false,
+      "animal": "bear",
+      "source": "https://gamerch.com/blacksurvival/460842",
+      "loot": [
+        {
+          "itemId": "scissors",
+          "stockDiscoveries": 5,
+          "quantityPerDiscovery": 1,
+          "stockUnits": 5,
+          "source": "https://gamerch.com/blacksurvival/460918",
+          "name": "가위"
+        },
+        {
+          "itemId": "hammer",
+          "stockDiscoveries": 4,
+          "quantityPerDiscovery": 1,
+          "stockUnits": 4,
+          "source": "https://gamerch.com/blacksurvival/461215",
+          "name": "망치"
+        },
+        {
+          "itemId": "scrolls_of_dongyi",
+          "stockDiscoveries": 4,
+          "quantityPerDiscovery": 1,
+          "stockUnits": 4,
+          "source": "https://gamerch.com/blacksurvival/461226",
+          "name": "동의보감"
+        },
+        {
+          "itemId": "fountain_pen",
+          "stockDiscoveries": 2,
+          "quantityPerDiscovery": 1,
+          "stockUnits": 2,
+          "source": "https://gamerch.com/blacksurvival/460938",
+          "name": "만년필"
+        },
+        {
+          "itemId": "anatomy_model",
+          "stockDiscoveries": 1,
+          "quantityPerDiscovery": 1,
+          "stockUnits": 1,
+          "source": "https://gamerch.com/blacksurvival/461230",
+          "name": "인체 모형"
+        },
+        {
+          "itemId": "doctor_s_gown",
+          "stockDiscoveries": 8,
+          "quantityPerDiscovery": 1,
+          "stockUnits": 8,
+          "source": "https://gamerch.com/blacksurvival/461564",
+          "name": "의사 가운"
+        },
+        {
+          "itemId": "slippers",
+          "stockDiscoveries": 3,
+          "quantityPerDiscovery": 1,
+          "stockUnits": 3,
+          "source": "https://gamerch.com/blacksurvival/461600",
+          "name": "슬리퍼"
+        },
+        {
+          "itemId": "pill",
+          "stockDiscoveries": 5,
+          "quantityPerDiscovery": 1,
+          "stockUnits": 5,
+          "source": "https://gamerch.com/blacksurvival/461400",
+          "name": "알약"
+        },
+        {
+          "itemId": "bandage",
+          "stockDiscoveries": 4,
+          "quantityPerDiscovery": 2,
+          "stockUnits": 8,
+          "source": "https://gamerch.com/blacksurvival/461401",
+          "name": "붕대"
+        },
+        {
+          "itemId": "antiseptic",
+          "stockDiscoveries": 4,
+          "quantityPerDiscovery": 1,
+          "stockUnits": 4,
+          "source": "https://gamerch.com/blacksurvival/461406",
+          "name": "소독약"
+        },
+        {
+          "itemId": "band_aid",
+          "stockDiscoveries": 3,
+          "quantityPerDiscovery": 1,
+          "stockUnits": 3,
+          "source": "https://gamerch.com/blacksurvival/461407",
+          "name": "반창고"
+        },
+        {
+          "itemId": "liver_supplement_pill",
+          "stockDiscoveries": 2,
+          "quantityPerDiscovery": 1,
+          "stockUnits": 2,
+          "source": "https://gamerch.com/blacksurvival/461334",
+          "name": "간 기능 강화제"
+        },
+        {
+          "itemId": "glue",
+          "stockDiscoveries": 5,
+          "quantityPerDiscovery": 1,
+          "stockUnits": 5,
+          "source": "https://gamerch.com/blacksurvival/461335",
+          "name": "접착제"
+        },
+        {
+          "itemId": "alcohol",
+          "stockDiscoveries": 3,
+          "quantityPerDiscovery": 1,
+          "stockUnits": 3,
+          "source": "https://gamerch.com/blacksurvival/461647",
+          "name": "알코올"
+        }
+      ]
+    },
+    {
+      "id": 19,
+      "name": "모래사장",
+      "referenceNameJa": "浜辺",
+      "icon": "waves",
+      "type": "해안 지대",
+      "restricted": false,
+      "animal": "crow",
+      "source": "https://gamerch.com/blacksurvival/460844",
+      "loot": [
+        {
+          "itemId": "im_10",
+          "stockDiscoveries": 5,
+          "quantityPerDiscovery": 1,
+          "stockUnits": 5,
+          "source": "https://gamerch.com/blacksurvival/461351",
+          "name": "IM-10"
+        },
+        {
+          "itemId": "long_rifle",
+          "stockDiscoveries": 4,
+          "quantityPerDiscovery": 1,
+          "stockUnits": 4,
+          "source": "https://gamerch.com/blacksurvival/461358",
+          "name": "화승총"
+        },
+        {
+          "itemId": "can",
+          "stockDiscoveries": 4,
+          "quantityPerDiscovery": 1,
+          "stockUnits": 4,
+          "source": "https://gamerch.com/blacksurvival/461306",
+          "name": "캔"
+        },
+        {
+          "itemId": "mouse_trap",
+          "stockDiscoveries": 4,
+          "quantityPerDiscovery": 1,
+          "stockUnits": 4,
+          "source": "https://gamerch.com/blacksurvival/461539",
+          "name": "쥐덫"
+        },
+        {
+          "itemId": "magnum_python",
+          "stockDiscoveries": 3,
+          "quantityPerDiscovery": 1,
+          "stockUnits": 3,
+          "source": "https://gamerch.com/blacksurvival/461350",
+          "name": "매그넘 파이선"
+        },
+        {
+          "itemId": "snare",
+          "stockDiscoveries": 2,
+          "quantityPerDiscovery": 2,
+          "stockUnits": 4,
+          "source": "https://gamerch.com/blacksurvival/461541",
+          "name": "올가미"
+        },
+        {
+          "itemId": "full_body_swimsuit",
+          "stockDiscoveries": 5,
+          "quantityPerDiscovery": 1,
+          "stockUnits": 5,
+          "source": "https://gamerch.com/blacksurvival/461562",
+          "name": "전신 수영복"
+        },
+        {
+          "itemId": "bike_helmet",
+          "stockDiscoveries": 4,
+          "quantityPerDiscovery": 1,
+          "stockUnits": 4,
+          "source": "https://gamerch.com/blacksurvival/461576",
+          "name": "자전거 헬멧"
+        },
+        {
+          "itemId": "magazine",
+          "stockDiscoveries": 4,
+          "quantityPerDiscovery": 1,
+          "stockUnits": 4,
+          "source": "https://gamerch.com/blacksurvival/461290",
+          "name": "탄창"
+        },
+        {
+          "itemId": "saury",
+          "stockDiscoveries": 4,
+          "quantityPerDiscovery": 1,
+          "stockUnits": 4,
+          "source": "https://gamerch.com/blacksurvival/461428",
+          "name": "꽁치"
+        },
+        {
+          "itemId": "fresh_sashimi",
+          "stockDiscoveries": 1,
+          "quantityPerDiscovery": 1,
+          "stockUnits": 1,
+          "source": "https://gamerch.com/blacksurvival/461385",
+          "name": "생선회"
+        },
+        {
+          "itemId": "water",
+          "stockDiscoveries": 8,
+          "quantityPerDiscovery": 3,
+          "stockUnits": 24,
+          "source": "https://gamerch.com/blacksurvival/461470",
+          "name": "물"
+        },
+        {
+          "itemId": "bullets",
+          "stockDiscoveries": 8,
+          "quantityPerDiscovery": 20,
+          "stockUnits": 160,
+          "source": "https://gamerch.com/blacksurvival/461602",
+          "name": "총알"
+        },
+        {
+          "itemId": "scrap_metal",
+          "stockDiscoveries": 6,
+          "quantityPerDiscovery": 1,
+          "stockUnits": 6,
+          "source": "https://gamerch.com/blacksurvival/461637",
+          "name": "고철"
+        },
+        {
+          "itemId": "turtle_shell",
+          "stockDiscoveries": 4,
+          "quantityPerDiscovery": 1,
+          "stockUnits": 4,
+          "source": "https://gamerch.com/blacksurvival/461628",
+          "name": "거북이 등딱지"
+        }
+      ]
+    },
+    {
+      "id": 20,
+      "name": "우물",
+      "referenceNameJa": "井戸",
+      "icon": "drop",
+      "type": "수원 지대",
+      "restricted": false,
+      "animal": "bear",
+      "source": "https://gamerch.com/blacksurvival/460845",
+      "loot": [
+        {
+          "itemId": "knife",
+          "stockDiscoveries": 5,
+          "quantityPerDiscovery": 1,
+          "stockUnits": 5,
+          "source": "https://gamerch.com/blacksurvival/460913",
+          "name": "나이프"
+        },
+        {
+          "itemId": "short_crossbow",
+          "stockDiscoveries": 5,
+          "quantityPerDiscovery": 1,
+          "stockUnits": 5,
+          "source": "https://gamerch.com/blacksurvival/461511",
+          "name": "석궁"
+        },
+        {
+          "itemId": "iron_ball",
+          "stockDiscoveries": 5,
+          "quantityPerDiscovery": 20,
+          "stockUnits": 100,
+          "source": "https://gamerch.com/blacksurvival/461484",
+          "name": "쇠구슬"
+        },
+        {
+          "itemId": "knuckle",
+          "stockDiscoveries": 4,
+          "quantityPerDiscovery": 1,
+          "stockUnits": 4,
+          "source": "https://gamerch.com/blacksurvival/461525",
+          "name": "너클"
+        },
+        {
+          "itemId": "claw",
+          "stockDiscoveries": 4,
+          "quantityPerDiscovery": 1,
+          "stockUnits": 4,
+          "source": "https://gamerch.com/blacksurvival/461524",
+          "name": "손톱"
+        },
+        {
+          "itemId": "mudfish",
+          "stockDiscoveries": 3,
+          "quantityPerDiscovery": 1,
+          "stockUnits": 3,
+          "source": "https://gamerch.com/blacksurvival/461488",
+          "name": "미꾸라지"
+        },
+        {
+          "itemId": "snare",
+          "stockDiscoveries": 2,
+          "quantityPerDiscovery": 2,
+          "stockUnits": 4,
+          "source": "https://gamerch.com/blacksurvival/461541",
+          "name": "올가미"
+        },
+        {
+          "itemId": "bike_helmet",
+          "stockDiscoveries": 3,
+          "quantityPerDiscovery": 1,
+          "stockUnits": 3,
+          "source": "https://gamerch.com/blacksurvival/461576",
+          "name": "자전거 헬멧"
+        },
+        {
+          "itemId": "quiver",
+          "stockDiscoveries": 2,
+          "quantityPerDiscovery": 1,
+          "stockUnits": 2,
+          "source": "https://gamerch.com/blacksurvival/461289",
+          "name": "화살통"
+        },
+        {
+          "itemId": "water",
+          "stockDiscoveries": 15,
+          "quantityPerDiscovery": 3,
+          "stockUnits": 45,
+          "source": "https://gamerch.com/blacksurvival/461470",
+          "name": "물"
+        },
+        {
+          "itemId": "carbonated_water",
+          "stockDiscoveries": 8,
+          "quantityPerDiscovery": 1,
+          "stockUnits": 8,
+          "source": "https://gamerch.com/blacksurvival/461466",
+          "name": "탄산수"
+        },
+        {
+          "itemId": "ice",
+          "stockDiscoveries": 5,
+          "quantityPerDiscovery": 1,
+          "stockUnits": 5,
+          "source": "https://gamerch.com/blacksurvival/461467",
+          "name": "얼음"
+        },
+        {
+          "itemId": "arrows",
+          "stockDiscoveries": 5,
+          "quantityPerDiscovery": 20,
+          "stockUnits": 100,
+          "source": "https://gamerch.com/blacksurvival/461601",
+          "name": "화살"
+        },
+        {
+          "itemId": "bullets",
+          "stockDiscoveries": 5,
+          "quantityPerDiscovery": 20,
+          "stockUnits": 100,
+          "source": "https://gamerch.com/blacksurvival/461602",
+          "name": "총알"
+        },
+        {
+          "itemId": "leather",
+          "stockDiscoveries": 4,
+          "quantityPerDiscovery": 1,
+          "stockUnits": 4,
+          "source": "https://gamerch.com/blacksurvival/461639",
+          "name": "가죽"
+        },
+        {
+          "itemId": "turtle_shell",
+          "stockDiscoveries": 3,
+          "quantityPerDiscovery": 1,
+          "stockUnits": 3,
+          "source": "https://gamerch.com/blacksurvival/461628",
+          "name": "거북이 등딱지"
+        }
+      ]
+    },
+    {
+      "id": 21,
+      "name": "슬럼",
+      "referenceNameJa": "スラム",
+      "icon": "building",
+      "type": "주거 지구",
+      "restricted": false,
+      "animal": "dog",
+      "source": "https://gamerch.com/blacksurvival/460825",
+      "loot": [
+        {
+          "itemId": "steel_chain",
+          "stockDiscoveries": 5,
+          "quantityPerDiscovery": 1,
+          "stockUnits": 5,
+          "source": "https://gamerch.com/blacksurvival/461218",
+          "name": "쇠사슬"
+        },
+        {
+          "itemId": "needle",
+          "stockDiscoveries": 4,
+          "quantityPerDiscovery": 1,
+          "stockUnits": 4,
+          "source": "https://gamerch.com/blacksurvival/460939",
+          "name": "바늘"
+        },
+        {
+          "itemId": "cooking_pot",
+          "stockDiscoveries": 4,
+          "quantityPerDiscovery": 1,
+          "stockUnits": 4,
+          "source": "https://gamerch.com/blacksurvival/461481",
+          "name": "냄비"
+        },
+        {
+          "itemId": "frying_pan",
+          "stockDiscoveries": 3,
+          "quantityPerDiscovery": 1,
+          "stockUnits": 3,
+          "source": "https://gamerch.com/blacksurvival/461222",
+          "name": "프라이팬"
+        },
+        {
+          "itemId": "kitchen_knife",
+          "stockDiscoveries": 3,
+          "quantityPerDiscovery": 1,
+          "stockUnits": 3,
+          "source": "https://gamerch.com/blacksurvival/460916",
+          "name": "식칼"
+        },
+        {
+          "itemId": "glass_cup",
+          "stockDiscoveries": 3,
+          "quantityPerDiscovery": 1,
+          "stockUnits": 3,
+          "source": "https://gamerch.com/blacksurvival/461496",
+          "name": "유리잔"
+        },
+        {
+          "itemId": "cd",
+          "stockDiscoveries": 2,
+          "quantityPerDiscovery": 1,
+          "stockUnits": 2,
+          "source": "https://gamerch.com/blacksurvival/461490",
+          "name": "CD"
+        },
+        {
+          "itemId": "tv",
+          "stockDiscoveries": 2,
+          "quantityPerDiscovery": 1,
+          "stockUnits": 2,
+          "source": "https://gamerch.com/blacksurvival/461249",
+          "name": "텔레비전"
+        },
+        {
+          "itemId": "ripped_scroll_1",
+          "stockDiscoveries": 1,
+          "quantityPerDiscovery": 1,
+          "stockUnits": 1,
+          "source": "https://gamerch.com/blacksurvival/461232",
+          "name": "찢어진 무공비급 상권"
+        },
+        {
+          "itemId": "arm_warmers",
+          "stockDiscoveries": 3,
+          "quantityPerDiscovery": 1,
+          "stockUnits": 3,
+          "source": "https://gamerch.com/blacksurvival/461585",
+          "name": "토시"
+        },
+        {
+          "itemId": "bracelet",
+          "stockDiscoveries": 3,
+          "quantityPerDiscovery": 1,
+          "stockUnits": 3,
+          "source": "https://gamerch.com/blacksurvival/461588",
+          "name": "팔찌"
+        },
+        {
+          "itemId": "ramen",
+          "stockDiscoveries": 2,
+          "quantityPerDiscovery": 1,
+          "stockUnits": 2,
+          "source": "https://gamerch.com/blacksurvival/461408",
+          "name": "라면"
+        },
+        {
+          "itemId": "bacchus",
+          "stockDiscoveries": 2,
+          "quantityPerDiscovery": 1,
+          "stockUnits": 2,
+          "source": "https://gamerch.com/blacksurvival/461281",
+          "name": "박카스"
+        },
+        {
+          "itemId": "lighter",
+          "stockDiscoveries": 7,
+          "quantityPerDiscovery": 3,
+          "stockUnits": 21,
+          "source": "https://gamerch.com/blacksurvival/461635",
+          "name": "라이터"
+        },
+        {
+          "itemId": "scrap_metal",
+          "stockDiscoveries": 6,
+          "quantityPerDiscovery": 1,
+          "stockUnits": 6,
+          "source": "https://gamerch.com/blacksurvival/461637",
+          "name": "고철"
+        },
+        {
+          "itemId": "cloth",
+          "stockDiscoveries": 5,
+          "quantityPerDiscovery": 1,
+          "stockUnits": 5,
+          "source": "https://gamerch.com/blacksurvival/461646",
+          "name": "천"
+        },
+        {
+          "itemId": "oil",
+          "stockDiscoveries": 5,
+          "quantityPerDiscovery": 1,
+          "stockUnits": 5,
+          "source": "https://gamerch.com/blacksurvival/461642",
+          "name": "기름"
+        }
+      ]
+    },
+    {
+      "id": 22,
+      "name": "연구소",
+      "referenceNameJa": "研究所",
+      "icon": "flask",
+      "type": "특수 폐쇄 지구",
+      "restricted": true,
+      "animal": null,
+      "source": "https://gamerch.com/blacksurvival/460846",
+      "loot": []
+    }
+  ],
+  "randomLoot": [
+    {
+      "at": 0,
+      "source": "https://gamerch.com/blacksurvival/460817",
+      "entries": [
+        {
+          "itemId": "water",
+          "stockDiscoveries": 15,
+          "quantityPerDiscovery": 3
+        },
+        {
+          "itemId": "arrows",
+          "stockDiscoveries": 6,
+          "quantityPerDiscovery": 20
+        },
+        {
+          "itemId": "bullets",
+          "stockDiscoveries": 6,
+          "quantityPerDiscovery": 20
+        },
+        {
+          "itemId": "band_aid",
+          "stockDiscoveries": 10,
+          "quantityPerDiscovery": 1
+        }
+      ]
+    },
+    {
+      "at": 180,
+      "source": "https://gamerch.com/blacksurvival/460817",
+      "entries": [
+        {
+          "itemId": "tree_of_life",
+          "stockDiscoveries": 5,
+          "quantityPerDiscovery": 1
+        },
+        {
+          "itemId": "meteorite",
+          "stockDiscoveries": 6,
+          "quantityPerDiscovery": 1
+        },
+        {
+          "itemId": "mithril",
+          "stockDiscoveries": 6,
+          "quantityPerDiscovery": 1
+        },
+        {
+          "itemId": "ogre_skin",
+          "stockDiscoveries": 2,
+          "quantityPerDiscovery": 1
+        }
+      ]
+    }
+  ],
+  "sourceConflicts": [
+    "병원: 표제 13종/50회, 상세 행 합계 14종/53회 → 상세 행 채택.",
+    "골목길: 표제 51회, 상세 행 합계 47회 → 상세 행 채택.",
+    "절: 표제 62회/불경 개별 문서6회, 지역 상세 행 불경3회·합계59회 → 지역 상세 행 채택.",
+    "슬럼: 표제59회, 상세 행 합계60회 → 상세 행 채택.",
+    "무작위 문서의 170초 소제목과 180초 본문/요약 충돌 → 본문/요약 180초 채택. 과거 변경 이력 표는 배치에 사용하지 않음."
+  ],
+  "limitations": [
+    "종료된 게임의 서버 원본이 아닌 공개 보존 자료 기준이며 최종 서버 데이터와의 완전 일치를 보증하지 않음.",
+    "기존 제작법53개·전투 효과·회복 사용법·동물 수치/드롭은 본 게임 규칙 유지. 신규 배치 무기의 베기/찌르기 외 전투·함정·해킹은 준비 중.",
+    "연구소는 아이템 없음, 기본 폐쇄. 해킹 미구현이므로 시작/일반 이동 불가. 지하통로는22개 지역에 포함하지 않음."
+  ]
+}

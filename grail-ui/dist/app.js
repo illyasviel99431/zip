@@ -52,9 +52,16 @@ const paths = {
  feather:'M4 20 16 8M5 16c-6-9 14-17 15-11s-7 15-15 11Zm6-2h5m-5 0V9',
  cross:'M9 2h6v7h7v6h-7v7H9v-7H2V9h7V2Z'
 };
-const icon = (name, cls='') => `<svg class="${cls}" viewBox="0 0 24 24" aria-hidden="true"><path d="${paths[name] || paths.cube}"/></svg>`;
-const itemIcon = item => item.kind==='weapon' ? (item.weaponTypes.includes('stab')&&!item.weaponTypes.includes('blade')?'spear':'sword') : item.kind==='armor'?({head:'helmet',body:'armor',arm:'shield',leg:'boot',accessory:'ring'}[item.slot]||'shield') : item.kind==='food'?(item.restoreResource==='stamina'?'drop':item.id.includes('potion')?'flask':item.id.includes('herb')?'leaf':'bread') : /grass|flower|branch|bamboo/.test(item.id)?'leaf':/paper|blueprint/.test(item.id)?'paper':/feather/.test(item.id)?'feather':/lighter|gunpowder/.test(item.id)?'fire':/ice/.test(item.id)?'snow':/hammer/.test(item.id)?'hammer':'cube';
-const regionIcons = ['building','book','factory','church','tree','waves','anchor','building'];
+const icon = (name, cls='') => {
+ if(name.startsWith('item:')){
+  const id=name.slice(5),art=window.GRAIL_ITEM_ART?.[id]||window.GRAIL_ITEM_ART?.[{tactical_rifle:'sgoty870',rail_rifle:'magnum_python'}[id]];
+  if(art?.src)return `<img class="item-art ${cls}" data-item-art="${id}" src="${art.src}" width="${art.width}" height="${art.height}" alt="" aria-hidden="true" loading="lazy" decoding="async">`;
+  if(art)return `<span class="item-art ${cls}" data-item-art="${id}" aria-hidden="true" style="--item-sheet:url('assets/items/${art.sheet}-v1.png');--item-size:${art.cols*100}% ${art.rows*100}%;--item-position:${art.cols>1?art.x/(art.cols-1)*100:0}% ${art.rows>1?art.y/(art.rows-1)*100:0}%"></span>`;
+ }
+ return `<svg class="${cls}" viewBox="0 0 24 24" aria-hidden="true"><path d="${paths[name] || paths.cube}"/></svg>`;
+};
+const itemIcon = item => 'item:'+item.id;
+const regionIcons = DATA.regions.map(r=>r.icon);
 const rarityName = {Common:'일반',Uncommon:'고급',Rare:'희귀',Epic:'영웅'};
 const slotNames = {weapon:'무기',head:'머리',body:'옷',arm:'팔',leg:'다리',accessory:'장식'};
 const CHARACTERS = {
@@ -67,21 +74,21 @@ const character = () => CHARACTERS[state.character];
 const region = () => DATA.regions.find(r=>r.id===state.region);
 const remaining = until => Math.max(0,until-clock());
 const timeString = seconds => `${Math.floor(Math.max(0,seconds)/60).toString().padStart(2,'0')}:${Math.floor(Math.max(0,seconds)%60).toString().padStart(2,'0')}`;
-const elapsed = () => clock()-state.started;
-const nextClosure = () => [180,300,420,540].find(t=>t>elapsed());
-const closedRegions = () => {const n=elapsed()>=540?7:elapsed()>=420?6:elapsed()>=300?4:elapsed()>=180?2:0;return [1,2,3,4,6,7,8].slice(0,n);};
-const closurePair = () => elapsed()<180?[1,2]:elapsed()<300?[3,4]:elapsed()<420?[6,7]:[8];
+let elapsed = () => clock()-state.started;
+let nextClosure = () => state.closures?.find(c=>c.t>elapsed())?.t;
+let closedRegions = () => [...GRAIL_WORLD.restricted(DATA),...(state.closures||[]).filter(c=>c.t<=elapsed()).flatMap(c=>c.ids)];
+let closurePair = () => state.closures?.find(c=>c.t>elapsed())?.ids||[];
 const currentEncounter = () => state.enemy && state.enemy.region===state.region && state.enemy.hp>0 && remaining(state.encounterUntil)>0 ? state.enemy : null;
-const ownMaxHp = () => character().maxHp+(state.level-1)*character().hpGrowth;
+let ownMaxHp = () => character().maxHp+(state.level-1)*character().hpGrowth;
 const ownMaxSta = () => character().maxSta+(state.level-1)*character().staGrowth;
-const attack = () => character().attack+(state.level-1)*character().atkGrowth+(ITEMS[state.equipment.weapon]?.attack||0);
+const attack = () => character().attack+(state.level-1)*character().atkGrowth+(ITEMS[state.equipment.weapon]?.attack||0)+(state.weaponAttackBonus||0);
 const defense = () => character().defense+(state.level-1)*character().defGrowth+Object.values(state.equipment).reduce((sum,id)=>sum+(ITEMS[id]?.defense||0),0);
 const shortNumber = num => Number.isInteger(num)?num:num.toFixed(1);
 const countItem = (id,includeEquipped=true) => state.bag.filter(Boolean).filter(x=>x.id===id).reduce((sum,x)=>sum+x.qty,0)+(includeEquipped?Object.values(state.equipment).filter(x=>x===id).length:0);
 const canCraft = item => !!item.recipe && item.recipe.inputs.every(input=>countItem(input.itemId)>=input.quantity);
 const equippedSlot = id => Object.keys(state.equipment).find(slot=>state.equipment[slot]===id);
 const running = () => !state.dead;
-const actionBlocked = () => !!state.busy || !running();
+const actionBlocked = () => state.busy?.type==='np' || !running();
 
 function start(characterId='artoria'){
  sequence++;
@@ -92,7 +99,8 @@ function start(characterId='artoria'){
   bag:[{id:'bread',qty:2},{id:'water',qty:3},{id:'iron_ore',qty:1},{id:'scrap_metal',qty:1},null,null],
   target:characterId==='artoria'?'bastard_sword':'long_spear',tab:'bag',filter:'all',query:'',busy:null,rest:null,
   seals:3,sealUntil:0,hpFoodUntil:0,staFoodUntil:0,npUntil:0,attackUntil:0,moveUntil:0,evadeUntil:0,enemy:null,encounterUntil:0,
-  result:null,logs:[],searches:0,kills:0,dead:false,zoneStep:0,overloadPulse:0,warningDemo:false,stock:{},selected:null,guideHistory:[],guideId:null,mapFocus:null,ground:{}};
+  result:null,logs:[],searches:0,kills:0,dead:false,zoneStep:GRAIL_WORLD.restricted(DATA).length,overloadPulse:0,warningDemo:false,closures:GRAIL_WORLD.closures(DATA),releasedLoot:[],stock:GRAIL_WORLD.stock(DATA),selected:null,guideHistory:[],guideId:null,mapFocus:null,ground:{}};
+ GRAIL_WORLD.release(DATA,state,0);
  hadEncounter=false;
  log('사역 계약 성립. 숲에서 탐색을 시작합니다.','system');
  log('UI 테스트용 철광석·고철 각 1개가 지급되었습니다.','system');
@@ -106,10 +114,7 @@ function log(message,type='normal'){
 function toast(message){
  clearTimeout(toastTimer);$('#toast').textContent=message;$('#toast').classList.add('visible');toastTimer=setTimeout(()=>$('#toast').classList.remove('visible'),3000);
 }
-function forestSvg(){
- const trees=Array.from({length:20},(_,i)=>{const x=i*48-30;const h=180+(i*73%180);return `<path d="M${x} 650V${650-h}m0 12-30-65m30 85 35-70m-35 130-55-70m55 35 50-90" stroke="${i%2?'#0b1813':'#102018'}" stroke-width="${11+i%8}" fill="none"/>`;}).join('');
- return `<svg class="forest" viewBox="0 0 900 700" preserveAspectRatio="xMidYMid slice" aria-hidden="true"><defs><linearGradient id="mist" x2="0" y2="1"><stop stop-color="#3b4c3f" stop-opacity="0"/><stop offset="1" stop-color="#111e19"/></linearGradient></defs><path d="M0 700V220L65 180 110 230 180 165 240 210 320 150 400 220 470 160 540 210 620 140 720 200 790 150 900 210V700Z" fill="#203127"/><path d="M0 700V345L70 300 150 335 230 275 330 320 410 285 500 310 620 270 710 310 800 270 900 335V700Z" fill="#17281f"/>${trees}<path d="M340 700 440 420h30l100 280" fill="#51604a" opacity=".12"/><rect width="900" height="700" fill="url(#mist)"/></svg>`;
-}
+function forestSvg(){return regionScene(state.region);}
 function resourceMarkup(){
  return `<div class="resource hp"><div class="resource-label"><strong>HP <span>체력</span></strong><strong class="mono" id="hp-text"></strong></div><div class="bar"><i id="hp-bar"></i></div></div>
  <div class="resource sta"><div class="resource-label"><strong>STA <span>스태미나</span></strong><strong class="mono" id="sta-text"></strong></div><div class="bar"><i id="sta-bar"></i></div></div>
@@ -134,7 +139,7 @@ function renderStage(){
  }
  if(e){stage.innerHTML=`<div class="event-card"><div class="event-type">${e.kind==='player'?'SERVANT ENCOUNTER':'WILDLIFE ENCOUNTER'}</div><div class="event-symbol">${icon(e.kind==='player'?CHARACTERS[e.character].icon:'animal')}</div><div class="nickname">${e.kind==='player'?esc(e.nickname)+' · '+CHARACTERS[e.character].class:'야생동물'}</div><h2>${e.kind==='player'?CHARACTERS[e.character].full:esc(e.name)}</h2><div class="enemy-health"><div class="resource-label"><span>HP</span><span id="enemy-percent">${Math.ceil(e.hp/e.maxHp*100)}%</span></div><div class="bar"><i style="--width:${e.hp/e.maxHp*100}%"></i></div></div><div class="enemy-info">${e.kind==='player'?'주무기 · '+esc(ITEMS[e.weapon].name):'공격 시 살아 있으면 반격합니다'}</div><div id="enemy-mark">${remaining(e.markUntil)>0?`<span class="debuff">마력 간섭 <span id="mark-time">${remaining(e.markUntil).toFixed(1)}초</span></span>`:''}</div><div class="encounter-time">기척 유지 <span id="encounter-time">${remaining(state.encounterUntil).toFixed(1)}</span>초</div></div>`;return;}
  if(state.result){const item=ITEMS[state.result.id];stage.innerHTML=`<div class="event-card item"><div class="event-type">${state.result.full?'INVENTORY FULL':'ITEM DISCOVERED'}</div><div class="result-token rarity-${item.rarity}">${icon(itemIcon(item))}</div><h2>${esc(item.name)} <span class="muted">×${state.result.qty}</span></h2><div class="stage-caption">${state.result.full?'가방에 공간이 부족합니다.':'가방에 보관했습니다.'}<br>${esc(itemStat(item))}</div><button class="outline-button" style="width:auto;padding:9px 23px;margin-top:20px" data-action="found-detail" data-id="${item.id}">아이템 정보</button></div>`;return;}
- stage.innerHTML=`<div class="rune"><span class="rune-orbit"></span><div class="rune-inner">${icon(regionIcons[state.region-1])}</div><span class="rune-orbit"></span></div><div class="stage-eyebrow">THE FIELD OF SURVIVAL</div><h1 class="stage-title">${esc(region().name)}</h1><div class="stage-caption">아직 발견한 대상이 없습니다.<br>탐색하여 주변의 기척을 확인하세요.</div><div class="stage-flavor">${state.region===5?'나뭇잎 사이로 희미한 마력이 스며든다.':'고요한 풍경 너머, 또 다른 계약의 기척.'}</div>`;
+ stage.innerHTML=`<div class="exploration-card"><span class="field-location-icon">${icon(regionIcons[state.region-1])}</span><span class="stage-eyebrow">탐색 준비</span><h1 class="stage-title">${esc(region().name)}</h1><p class="stage-caption">탐색으로 아이템과 주변의 기척을 찾아보세요.</p></div>`;
 }
 function gainXp(amount){
  state.xp+=amount;while(state.level<18&&state.xp>=10+2*(state.level-1)){state.xp-=10+2*(state.level-1);state.level++;if(elapsed()<660)state.hp=Math.min(ownMaxHp(),state.hp+character().hpGrowth);state.sta=Math.min(ownMaxSta(),state.sta+character().staGrowth);log(`Lv.${state.level} 달성. 능력치가 상승했습니다.`);$('#level-value').textContent=state.level;}
@@ -172,9 +177,9 @@ function search(){
   // Deliberately repeatable UI scenarios, not the production encounter probability engine.
   const n=state.searches%5;
   if(n===2){spawnEnemy('player');return;}if(n===4){spawnEnemy('animal');return;}
-  const loot=region().loot;const available=loot.filter(l=>(state.stock[`${state.region}:${l.itemId}`]??l.stockUnits)>0);
+  const available=GRAIL_WORLD.available(DATA,state,state.region);
   if(!available.length){log('더 이상 발견한 물품이 없습니다.');toast('이 지역의 데모 아이템 재고를 모두 탐색했어.');render();return;}
-  const found=available[(state.searches-1)%available.length];const qty=found.quantityPerDiscovery;const put=addItem(found.itemId,qty);const stockKey=`${state.region}:${found.itemId}`;state.stock[stockKey]=(state.stock[stockKey]??found.stockUnits)-1;
+  const found=available[(state.searches-1)%available.length];const qty=Math.min(found.quantityPerDiscovery,found.stockUnits);const put=addItem(found.itemId,qty);const stockKey=`${state.region}:${found.itemId}`;state.stock[stockKey]-=put;
   state.result={id:found.itemId,qty:put||qty,full:put<qty};state.enemy=null;log(put?`${ITEMS[found.itemId].name} ×${put} 획득.${put<qty?' 일부는 가방에 들어가지 않았습니다.':''}`:`${ITEMS[found.itemId].name} 발견. 가방 공간이 부족합니다.`);render();
  });
 }
@@ -229,7 +234,7 @@ function useFood(index){
 function takeBagSlot(index,qty){const slot=state.bag[index];if(!slot)return;slot.qty-=qty;if(slot.qty<=0)state.bag[index]=null;}
 function quickFood(resource){const index=state.bag.findIndex(x=>x&&ITEMS[x.id].restoreResource===resource);if(index>=0)useFood(index);else toast('사용할 회복 아이템이 없어.');}
 function equip(index){
- const slot=state.bag[index];if(!slot||actionBlocked()){toast('진행 중인 행동을 먼저 마쳐줘.');return;}const i=ITEMS[slot.id],dest=i.kind==='weapon'?'weapon':i.slot;
+ const slot=state.bag[index];if(slot&&ITEMS[slot.id].combatPending){toast('이 무기 계열의 전투는 준비 중입니다.');return;}if(!slot||actionBlocked()){toast('진행 중인 행동을 먼저 마쳐줘.');return;}const i=ITEMS[slot.id],dest=i.kind==='weapon'?'weapon':i.slot;
  closeModal();beginAction('equip',`${i.name} 장착 중`,.5,()=>{const old=state.equipment[dest];takeBagSlot(index,1);state.equipment[dest]=i.id;if(old)addItem(old,1);log(`${i.name} 장착 완료.`);render();});
 }
 function craft(id){
@@ -252,7 +257,7 @@ function travel(id,escape=false){
  if(escape&&(state.seals<=0||remaining(state.sealUntil)>0)){toast('지금은 령주를 사용할 수 없어.');return;}
  if(state.busy)cancelAction();state.rest=null;
  if(escape){state.seals--;state.sealUntil=clock()+30;}
- spendSta(5);if(state.dead)return;state.region=id;state.moveUntil=clock()+3;state.encounterUntil=0;state.enemy=null;state.result=null;state.warningDemo=false;log(`${region().name}(으)로 ${escape?'령주 도주':'이동'} · STA -5.`);closeModal();render();toast(`${region().name}에 도착했어.`);
+ spendSta(5);if(state.dead)return;state.region=id;state.moveUntil=clock()+3;state.encounterUntil=0;state.enemy=null;state.result=null;state.warningDemo=false;state.zoneWarningPreview=null;log(`${region().name}(으)로 ${escape?'령주 도주':'이동'} · STA -5.`);closeModal();render();toast(`${region().name}에 도착했어.`);
 }
 function restDialog(){
  if(actionBlocked())return;if(state.rest){state.rest=null;log('휴식을 중지했습니다.');updateHud();return;}
@@ -262,14 +267,15 @@ function sealDialog(){
  if(!$('#seal-button')||$('#seal-button').disabled)return;showModal('령주로 명한다',`<p>남은 령주 <b class="gold">${state.seals}획</b> · 공통 대기시간 30초<br>령주는 회복과 도주에 사용됩니다.</p><div class="modal-actions"><button data-action="seal-heal" ${state.hp>=ownMaxHp()||remaining(state.hpFoodUntil)>0||elapsed()>=660?'disabled':''}>회복 · 최대 HP 15%</button><button data-action="seal-map">긴급 도주 · STA 5</button></div><p class="small">회복은 HP 회복 아이템과 5초 대기시간을 공유합니다.<br>도주는 기존 이동 대기시간을 무시합니다.</p>`,'seal');
 }
 function characterDialog(){
- showModal('서번트 선택',`<p>두 캐릭터의 HUD와 보구 동작을 확인할 수 있습니다.<br>서번트를 변경하면 현재 체험이 처음부터 시작됩니다.</p><div class="character-options">${Object.entries(CHARACTERS).map(([id,c])=>`<button class="character-option ${state.character===id?'active':''}" data-action="choose-character" data-id="${id}">${characterArtwork(id,'selection')}<div class="caps">${c.class}</div><strong>${c.full}</strong><div class="small">HP ${c.maxHp} · STA ${c.maxSta}<br>${c.passive} / ${c.np}<br>${c.passiveText}</div></button>`).join('')}</div><div class="testnote">4인 자유 생존전 · 두 캐릭터 중복 선택 가능<br>이 화면은 캐릭터 이미지 없이 구성한 UI 프로토타입입니다.</div>`,'character');
+ showModal('서번트 선택',`<p>네 캐릭터의 HUD와 보구 동작을 확인할 수 있습니다.<br>서번트를 변경하면 현재 체험이 처음부터 시작됩니다.</p><div class="character-options">${Object.entries(CHARACTERS).map(([id,c])=>`<button class="character-option ${state.character===id?'active':''}" data-action="choose-character" data-id="${id}">${characterArtwork(id,'selection')}<div class="caps">${c.class}</div><strong>${c.full}</strong><div class="small">HP ${c.maxHp} · STA ${c.maxSta}<br>${c.passive} / ${c.np}<br>${c.passiveText}</div></button>`).join('')}</div><div class="testnote">4인 자유 생존전 · 캐릭터 중복 선택 가능<br>이 화면은 캐릭터 이미지 없이 구성한 UI 프로토타입입니다.</div>`,'character');
 }
 function scenariosDialog(){
- showModal('상황 테스트',`<p>원하는 장면을 바로 확인하는 UI 전용 도구입니다.<br>탐색 결과는 화면 확인을 위해 정해진 순서로 등장합니다.</p><div class="scenario-list"><button data-action="scenario" data-kind="player">${icon('sword')}<div>서번트 조우<span class="small">3초 유지 · 공격으로 기척 갱신</span></div></button><button data-action="scenario" data-kind="animal">${icon('animal')}<div>야생동물 발견<span class="small">일반 공격 · 생존 시 반격 · 처치 후 전리품</span></div></button><button data-action="scenario" data-kind="damage">${icon('heart')}<div>피격 및 회복 확인<span class="small">HP 30 감소 · 영시 회피도 확인 가능</span></div></button><button data-action="scenario" data-kind="warning">${icon('warning')}<div>폐쇄 예고 표시<span class="small">주택가·학교 예고 및 지도 강조</span></div></button><button data-action="reset">${icon('reset')}<div>체험 초기화<span class="small">가방·장비·시간을 처음 상태로 되돌리기</span></div></button></div>`,'scenarios');
+ showModal('상황 테스트',`<p>원하는 장면을 바로 확인하는 UI 전용 도구입니다.<br>탐색 결과는 화면 확인을 위해 정해진 순서로 등장합니다.</p><div class="scenario-list"><button data-action="scenario" data-kind="player">${icon('sword')}<div>서번트 조우<span class="small">3초 유지 · 공격으로 기척 갱신</span></div></button><button data-action="scenario" data-kind="animal">${icon('animal')}<div>야생동물 발견<span class="small">일반 공격 · 생존 시 반격 · 처치 후 전리품</span></div></button><button data-action="scenario" data-kind="damage">${icon('heart')}<div>피격 및 회복 확인<span class="small">HP 30 감소 · 영시 회피도 확인 가능</span></div></button><button data-action="scenario" data-kind="warning">${icon('warning')}<div>내 지역 폐쇄 예고<span class="small">노란 경고·30초 표시 테스트</span></div></button><button data-action="scenario" data-kind="zone-closed">${icon('warning')}<div>내 지역 금지구역 경고<span class="small">폐쇄 경고 표시만 테스트 · 실제 폐쇄는 유지</span></div></button><button data-action="scenario" data-kind="zone-clear">${icon('check')}<div>지역 경고 테스트 해제<span class="small">실제 경기 상태의 경고로 돌아가기</span></div></button><button data-action="reset">${icon('reset')}<div>체험 초기화<span class="small">가방·장비·시간을 처음 상태로 되돌리기</span></div></button></div>`,'scenarios');
 }
 let previousTick=clock(),hadEncounter=false;
 setInterval(()=>{
- if(!state)return;const now=clock(),dt=Math.min(1,now-previousTick);previousTick=now;
+ if(!state||window.roomConnected||window.frontScreen||window.practiceCoreActive)return;const now=clock(),dt=Math.min(1,now-previousTick);previousTick=now;
+ for(const wave of GRAIL_WORLD.release(DATA,state,elapsed(),closedRegions()))if(wave.at>0)log('희귀 재료가 섬 곳곳에 배치되었습니다.');
  if(state.rest&&!state.dead){if(state.rest==='hp'&&elapsed()<660)state.hp=Math.min(ownMaxHp(),state.hp+dt*2);else if(state.rest==='sta')state.sta=Math.min(ownMaxSta(),state.sta+dt*4);}
  const hasEncounter=!!currentEncounter();if(hadEncounter&&!hasEncounter){log('대상의 기척을 놓쳤습니다. 다시 탐색하세요.');renderStage();}hadEncounter=hasEncounter;
  const stage=closedRegions().length;if(stage!==state.zoneStep){state.zoneStep=stage;log('금지구역이 갱신되었습니다. 지도를 확인하세요.');if(modalType==='map')mapDialog(state.mapFocus,true);}

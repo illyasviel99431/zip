@@ -1,0 +1,3656 @@
+{
+  "version": 2,
+  "policy": "Original region images; native-resolution lossless maps and individual items; no small-region source.",
+  "totals": {
+    "region": {
+      "count": 22,
+      "bytes": 12616770,
+      "pixelExact": true
+    },
+    "item": {
+      "count": 212,
+      "bytes": 7971228,
+      "pixelExact": true
+    },
+    "map": {
+      "count": 2,
+      "bytes": 4354920,
+      "pixelExact": true
+    },
+    "initialItemBytes": 136156
+  },
+  "assets": [
+    {
+      "kind": "region",
+      "source": "assets/regions/01-villas-v1.webp",
+      "src": "assets/regions/01-villas-v1.webp",
+      "width": 1672,
+      "height": 941,
+      "bytes": 618248,
+      "pixelExact": true,
+      "preview": "assets/regions/01-villas-v2-preview.webp"
+    },
+    {
+      "kind": "region",
+      "source": "assets/regions/02-school-v1.webp",
+      "src": "assets/regions/02-school-v1.webp",
+      "width": 1672,
+      "height": 941,
+      "bytes": 548338,
+      "pixelExact": true,
+      "preview": "assets/regions/02-school-v2-preview.webp"
+    },
+    {
+      "kind": "region",
+      "source": "assets/regions/03-factory-v1.webp",
+      "src": "assets/regions/03-factory-v1.webp",
+      "width": 1672,
+      "height": 941,
+      "bytes": 577470,
+      "pixelExact": true,
+      "preview": "assets/regions/03-factory-v2-preview.webp"
+    },
+    {
+      "kind": "region",
+      "source": "assets/regions/04-church-v1.webp",
+      "src": "assets/regions/04-church-v1.webp",
+      "width": 1672,
+      "height": 941,
+      "bytes": 504218,
+      "pixelExact": true,
+      "preview": "assets/regions/04-church-v2-preview.webp"
+    },
+    {
+      "kind": "region",
+      "source": "assets/regions/05-forest-v1.webp",
+      "src": "assets/regions/05-forest-v1.webp",
+      "width": 1672,
+      "height": 941,
+      "bytes": 566078,
+      "pixelExact": true,
+      "preview": "assets/regions/05-forest-v2-preview.webp"
+    },
+    {
+      "kind": "region",
+      "source": "assets/regions/06-pond-v1.webp",
+      "src": "assets/regions/06-pond-v1.webp",
+      "width": 1672,
+      "height": 941,
+      "bytes": 651914,
+      "pixelExact": true,
+      "preview": "assets/regions/06-pond-v2-preview.webp"
+    },
+    {
+      "kind": "region",
+      "source": "assets/regions/07-harbor-v1.webp",
+      "src": "assets/regions/07-harbor-v1.webp",
+      "width": 1672,
+      "height": 941,
+      "bytes": 570392,
+      "pixelExact": true,
+      "preview": "assets/regions/07-harbor-v2-preview.webp"
+    },
+    {
+      "kind": "region",
+      "source": "assets/regions/08-hotel-v1.webp",
+      "src": "assets/regions/08-hotel-v1.webp",
+      "width": 1672,
+      "height": 941,
+      "bytes": 573042,
+      "pixelExact": true,
+      "preview": "assets/regions/08-hotel-v2-preview.webp"
+    },
+    {
+      "kind": "region",
+      "source": "assets/regions/09-alley-v1.webp",
+      "src": "assets/regions/09-alley-v1.webp",
+      "width": 1672,
+      "height": 941,
+      "bytes": 632960,
+      "pixelExact": true,
+      "preview": "assets/regions/09-alley-v2-preview.webp"
+    },
+    {
+      "kind": "region",
+      "source": "assets/regions/10-town-hall-v1.webp",
+      "src": "assets/regions/10-town-hall-v1.webp",
+      "width": 1672,
+      "height": 941,
+      "bytes": 570978,
+      "pixelExact": true,
+      "preview": "assets/regions/10-town-hall-v2-preview.webp"
+    },
+    {
+      "kind": "region",
+      "source": "assets/regions/11-fire-station-v1.webp",
+      "src": "assets/regions/11-fire-station-v1.webp",
+      "width": 1672,
+      "height": 941,
+      "bytes": 543170,
+      "pixelExact": true,
+      "preview": "assets/regions/11-fire-station-v2-preview.webp"
+    },
+    {
+      "kind": "region",
+      "source": "assets/regions/12-mountain-trail-v1.webp",
+      "src": "assets/regions/12-mountain-trail-v1.webp",
+      "width": 1672,
+      "height": 941,
+      "bytes": 615990,
+      "pixelExact": true,
+      "preview": "assets/regions/12-mountain-trail-v2-preview.webp"
+    },
+    {
+      "kind": "region",
+      "source": "assets/regions/13-cemetery-v1.webp",
+      "src": "assets/regions/13-cemetery-v1.webp",
+      "width": 1672,
+      "height": 941,
+      "bytes": 592118,
+      "pixelExact": true,
+      "preview": "assets/regions/13-cemetery-v2-preview.webp"
+    },
+    {
+      "kind": "region",
+      "source": "assets/regions/14-tunnel-v1.webp",
+      "src": "assets/regions/14-tunnel-v1.webp",
+      "width": 1672,
+      "height": 941,
+      "bytes": 608608,
+      "pixelExact": true,
+      "preview": "assets/regions/14-tunnel-v2-preview.webp"
+    },
+    {
+      "kind": "region",
+      "source": "assets/regions/15-temple-v1.webp",
+      "src": "assets/regions/15-temple-v1.webp",
+      "width": 1672,
+      "height": 941,
+      "bytes": 571474,
+      "pixelExact": true,
+      "preview": "assets/regions/15-temple-v2-preview.webp"
+    },
+    {
+      "kind": "region",
+      "source": "assets/regions/16-lighthouse-v1.webp",
+      "src": "assets/regions/16-lighthouse-v1.webp",
+      "width": 1672,
+      "height": 941,
+      "bytes": 501098,
+      "pixelExact": true,
+      "preview": "assets/regions/16-lighthouse-v2-preview.webp"
+    },
+    {
+      "kind": "region",
+      "source": "assets/regions/17-archery-range-v1.webp",
+      "src": "assets/regions/17-archery-range-v1.webp",
+      "width": 1672,
+      "height": 941,
+      "bytes": 527288,
+      "pixelExact": true,
+      "preview": "assets/regions/17-archery-range-v2-preview.webp"
+    },
+    {
+      "kind": "region",
+      "source": "assets/regions/18-hospital-v1.webp",
+      "src": "assets/regions/18-hospital-v1.webp",
+      "width": 1672,
+      "height": 941,
+      "bytes": 519760,
+      "pixelExact": true,
+      "preview": "assets/regions/18-hospital-v2-preview.webp"
+    },
+    {
+      "kind": "region",
+      "source": "assets/regions/19-beach-v1.webp",
+      "src": "assets/regions/19-beach-v1.webp",
+      "width": 1672,
+      "height": 941,
+      "bytes": 579784,
+      "pixelExact": true,
+      "preview": "assets/regions/19-beach-v2-preview.webp"
+    },
+    {
+      "kind": "region",
+      "source": "assets/regions/20-well-v1.webp",
+      "src": "assets/regions/20-well-v1.webp",
+      "width": 1672,
+      "height": 941,
+      "bytes": 622834,
+      "pixelExact": true,
+      "preview": "assets/regions/20-well-v2-preview.webp"
+    },
+    {
+      "kind": "region",
+      "source": "assets/regions/21-slums-v1.webp",
+      "src": "assets/regions/21-slums-v1.webp",
+      "width": 1672,
+      "height": 941,
+      "bytes": 565992,
+      "pixelExact": true,
+      "preview": "assets/regions/21-slums-v2-preview.webp"
+    },
+    {
+      "kind": "region",
+      "source": "assets/regions/22-research-lab-v1.webp",
+      "src": "assets/regions/22-research-lab-v1.webp",
+      "width": 1672,
+      "height": 941,
+      "bytes": 555016,
+      "pixelExact": true,
+      "preview": "assets/regions/22-research-lab-v2-preview.webp"
+    },
+    {
+      "kind": "item",
+      "id": "monohoshizao",
+      "source": "assets/items/weapons-a-v1.png",
+      "crop": {
+        "left": 0,
+        "top": 0,
+        "width": 209,
+        "height": 209
+      },
+      "src": "assets/items/detail/monohoshizao-v3.webp",
+      "width": 209,
+      "height": 209,
+      "bytes": 24102,
+      "pixelExact": true
+    },
+    {
+      "kind": "item",
+      "id": "odachi",
+      "source": "assets/items/weapons-a-v1.png",
+      "crop": {
+        "left": 209,
+        "top": 0,
+        "width": 209,
+        "height": 209
+      },
+      "src": "assets/items/detail/odachi-v3.webp",
+      "width": 209,
+      "height": 209,
+      "bytes": 27772,
+      "pixelExact": true
+    },
+    {
+      "kind": "item",
+      "id": "katana",
+      "source": "assets/items/weapons-a-v1.png",
+      "crop": {
+        "left": 418,
+        "top": 0,
+        "width": 209,
+        "height": 209
+      },
+      "src": "assets/items/detail/katana-v3.webp",
+      "width": 209,
+      "height": 209,
+      "bytes": 26518,
+      "pixelExact": true
+    },
+    {
+      "kind": "item",
+      "id": "fountain_pen",
+      "source": "assets/items/weapons-a-v1.png",
+      "crop": {
+        "left": 627,
+        "top": 0,
+        "width": 209,
+        "height": 209
+      },
+      "src": "assets/items/detail/fountain_pen-v3.webp",
+      "width": 209,
+      "height": 209,
+      "bytes": 29908,
+      "pixelExact": true
+    },
+    {
+      "kind": "item",
+      "id": "hades_edge",
+      "source": "assets/items/weapons-a-v1.png",
+      "crop": {
+        "left": 836,
+        "top": 0,
+        "width": 209,
+        "height": 209
+      },
+      "src": "assets/items/detail/hades_edge-v3.webp",
+      "width": 209,
+      "height": 209,
+      "bytes": 32996,
+      "pixelExact": true
+    },
+    {
+      "kind": "item",
+      "id": "bastard_sword",
+      "source": "assets/items/weapons-a-v1.png",
+      "crop": {
+        "left": 1045,
+        "top": 0,
+        "width": 209,
+        "height": 209
+      },
+      "src": "assets/items/detail/bastard_sword-v3.webp",
+      "width": 209,
+      "height": 209,
+      "bytes": 29516,
+      "pixelExact": true
+    },
+    {
+      "kind": "item",
+      "id": "long_sword",
+      "source": "assets/items/weapons-a-v1.png",
+      "crop": {
+        "left": 0,
+        "top": 209,
+        "width": 209,
+        "height": 209
+      },
+      "src": "assets/items/detail/long_sword-v3.webp",
+      "width": 209,
+      "height": 209,
+      "bytes": 26596,
+      "pixelExact": true
+    },
+    {
+      "kind": "item",
+      "id": "rapier",
+      "source": "assets/items/weapons-a-v1.png",
+      "crop": {
+        "left": 209,
+        "top": 209,
+        "width": 209,
+        "height": 209
+      },
+      "src": "assets/items/detail/rapier-v3.webp",
+      "width": 209,
+      "height": 209,
+      "bytes": 26798,
+      "pixelExact": true
+    },
+    {
+      "kind": "item",
+      "id": "sabre",
+      "source": "assets/items/weapons-a-v1.png",
+      "crop": {
+        "left": 418,
+        "top": 209,
+        "width": 209,
+        "height": 209
+      },
+      "src": "assets/items/detail/sabre-v3.webp",
+      "width": 209,
+      "height": 209,
+      "bytes": 28846,
+      "pixelExact": true
+    },
+    {
+      "kind": "item",
+      "id": "shamshir",
+      "source": "assets/items/weapons-a-v1.png",
+      "crop": {
+        "left": 627,
+        "top": 209,
+        "width": 209,
+        "height": 209
+      },
+      "src": "assets/items/detail/shamshir-v3.webp",
+      "width": 209,
+      "height": 209,
+      "bytes": 31314,
+      "pixelExact": true
+    },
+    {
+      "kind": "item",
+      "id": "lance_of_poseidon",
+      "source": "assets/items/weapons-a-v1.png",
+      "crop": {
+        "left": 836,
+        "top": 209,
+        "width": 209,
+        "height": 209
+      },
+      "src": "assets/items/detail/lance_of_poseidon-v3.webp",
+      "width": 209,
+      "height": 209,
+      "bytes": 33704,
+      "pixelExact": true
+    },
+    {
+      "kind": "item",
+      "id": "trident",
+      "source": "assets/items/weapons-a-v1.png",
+      "crop": {
+        "left": 1045,
+        "top": 209,
+        "width": 209,
+        "height": 209
+      },
+      "src": "assets/items/detail/trident-v3.webp",
+      "width": 209,
+      "height": 209,
+      "bytes": 28398,
+      "pixelExact": true
+    },
+    {
+      "kind": "item",
+      "id": "twin_sword",
+      "source": "assets/items/weapons-a-v1.png",
+      "crop": {
+        "left": 0,
+        "top": 418,
+        "width": 209,
+        "height": 209
+      },
+      "src": "assets/items/detail/twin_sword-v3.webp",
+      "width": 209,
+      "height": 209,
+      "bytes": 32578,
+      "pixelExact": true
+    },
+    {
+      "kind": "item",
+      "id": "sharp_kitchen_knife",
+      "source": "assets/items/weapons-a-v1.png",
+      "crop": {
+        "left": 209,
+        "top": 418,
+        "width": 209,
+        "height": 209
+      },
+      "src": "assets/items/detail/sharp_kitchen_knife-v3.webp",
+      "width": 209,
+      "height": 209,
+      "bytes": 35180,
+      "pixelExact": true
+    },
+    {
+      "kind": "item",
+      "id": "kitchen_knife",
+      "source": "assets/items/weapons-a-v1.png",
+      "crop": {
+        "left": 418,
+        "top": 418,
+        "width": 209,
+        "height": 209
+      },
+      "src": "assets/items/detail/kitchen_knife-v3.webp",
+      "width": 209,
+      "height": 209,
+      "bytes": 30036,
+      "pixelExact": true
+    },
+    {
+      "kind": "item",
+      "id": "long_spear",
+      "source": "assets/items/weapons-a-v1.png",
+      "crop": {
+        "left": 627,
+        "top": 418,
+        "width": 209,
+        "height": 209
+      },
+      "src": "assets/items/detail/long_spear-v3.webp",
+      "width": 209,
+      "height": 209,
+      "bytes": 25870,
+      "pixelExact": true
+    },
+    {
+      "kind": "item",
+      "id": "short_spear",
+      "source": "assets/items/weapons-a-v1.png",
+      "crop": {
+        "left": 836,
+        "top": 418,
+        "width": 209,
+        "height": 209
+      },
+      "src": "assets/items/detail/short_spear-v3.webp",
+      "width": 209,
+      "height": 209,
+      "bytes": 24474,
+      "pixelExact": true
+    },
+    {
+      "kind": "item",
+      "id": "beam_axe",
+      "source": "assets/items/weapons-a-v1.png",
+      "crop": {
+        "left": 1045,
+        "top": 418,
+        "width": 209,
+        "height": 209
+      },
+      "src": "assets/items/detail/beam_axe-v3.webp",
+      "width": 209,
+      "height": 209,
+      "bytes": 39522,
+      "pixelExact": true
+    },
+    {
+      "kind": "item",
+      "id": "plasma_sword",
+      "source": "assets/items/weapons-a-v1.png",
+      "crop": {
+        "left": 0,
+        "top": 627,
+        "width": 209,
+        "height": 209
+      },
+      "src": "assets/items/detail/plasma_sword-v3.webp",
+      "width": 209,
+      "height": 209,
+      "bytes": 32676,
+      "pixelExact": true
+    },
+    {
+      "kind": "item",
+      "id": "battle_axe",
+      "source": "assets/items/weapons-a-v1.png",
+      "crop": {
+        "left": 209,
+        "top": 627,
+        "width": 209,
+        "height": 209
+      },
+      "src": "assets/items/detail/battle_axe-v3.webp",
+      "width": 209,
+      "height": 209,
+      "bytes": 38230,
+      "pixelExact": true
+    },
+    {
+      "kind": "item",
+      "id": "hatchet",
+      "source": "assets/items/weapons-a-v1.png",
+      "crop": {
+        "left": 418,
+        "top": 627,
+        "width": 209,
+        "height": 209
+      },
+      "src": "assets/items/detail/hatchet-v3.webp",
+      "width": 209,
+      "height": 209,
+      "bytes": 34486,
+      "pixelExact": true
+    },
+    {
+      "kind": "item",
+      "id": "needle",
+      "source": "assets/items/weapons-a-v1.png",
+      "crop": {
+        "left": 627,
+        "top": 627,
+        "width": 209,
+        "height": 209
+      },
+      "src": "assets/items/detail/needle-v3.webp",
+      "width": 209,
+      "height": 209,
+      "bytes": 22936,
+      "pixelExact": true
+    },
+    {
+      "kind": "item",
+      "id": "cooking_pot",
+      "source": "assets/items/weapons-a-v1.png",
+      "crop": {
+        "left": 836,
+        "top": 627,
+        "width": 209,
+        "height": 209
+      },
+      "src": "assets/items/detail/cooking_pot-v3.webp",
+      "width": 209,
+      "height": 209,
+      "bytes": 42490,
+      "pixelExact": true
+    },
+    {
+      "kind": "item",
+      "id": "plate",
+      "source": "assets/items/weapons-a-v1.png",
+      "crop": {
+        "left": 1045,
+        "top": 627,
+        "width": 209,
+        "height": 209
+      },
+      "src": "assets/items/detail/plate-v3.webp",
+      "width": 209,
+      "height": 209,
+      "bytes": 37790,
+      "pixelExact": true
+    },
+    {
+      "kind": "item",
+      "id": "tv",
+      "source": "assets/items/weapons-a-v1.png",
+      "crop": {
+        "left": 0,
+        "top": 836,
+        "width": 209,
+        "height": 209
+      },
+      "src": "assets/items/detail/tv-v3.webp",
+      "width": 209,
+      "height": 209,
+      "bytes": 36870,
+      "pixelExact": true
+    },
+    {
+      "kind": "item",
+      "id": "laptop_broken_screen",
+      "source": "assets/items/weapons-a-v1.png",
+      "crop": {
+        "left": 209,
+        "top": 836,
+        "width": 209,
+        "height": 209
+      },
+      "src": "assets/items/detail/laptop_broken_screen-v3.webp",
+      "width": 209,
+      "height": 209,
+      "bytes": 46784,
+      "pixelExact": true
+    },
+    {
+      "kind": "item",
+      "id": "razor",
+      "source": "assets/items/weapons-a-v1.png",
+      "crop": {
+        "left": 418,
+        "top": 836,
+        "width": 209,
+        "height": 209
+      },
+      "src": "assets/items/detail/razor-v3.webp",
+      "width": 209,
+      "height": 209,
+      "bytes": 32718,
+      "pixelExact": true
+    },
+    {
+      "kind": "item",
+      "id": "scissors",
+      "source": "assets/items/weapons-a-v1.png",
+      "crop": {
+        "left": 627,
+        "top": 836,
+        "width": 209,
+        "height": 209
+      },
+      "src": "assets/items/detail/scissors-v3.webp",
+      "width": 209,
+      "height": 209,
+      "bytes": 33036,
+      "pixelExact": true
+    },
+    {
+      "kind": "item",
+      "id": "white_chalk",
+      "source": "assets/items/weapons-a-v1.png",
+      "crop": {
+        "left": 836,
+        "top": 836,
+        "width": 209,
+        "height": 209
+      },
+      "src": "assets/items/detail/white_chalk-v3.webp",
+      "width": 209,
+      "height": 209,
+      "bytes": 28718,
+      "pixelExact": true
+    },
+    {
+      "kind": "item",
+      "id": "bat_weapon",
+      "source": "assets/items/weapons-a-v1.png",
+      "crop": {
+        "left": 1045,
+        "top": 836,
+        "width": 209,
+        "height": 209
+      },
+      "src": "assets/items/detail/bat_weapon-v3.webp",
+      "width": 209,
+      "height": 209,
+      "bytes": 30360,
+      "pixelExact": true
+    },
+    {
+      "kind": "item",
+      "id": "anatomy_model",
+      "source": "assets/items/weapons-a-v1.png",
+      "crop": {
+        "left": 0,
+        "top": 1045,
+        "width": 209,
+        "height": 209
+      },
+      "src": "assets/items/detail/anatomy_model-v3.webp",
+      "width": 209,
+      "height": 209,
+      "bytes": 40160,
+      "pixelExact": true
+    },
+    {
+      "kind": "item",
+      "id": "steel_pipe",
+      "source": "assets/items/weapons-a-v1.png",
+      "crop": {
+        "left": 209,
+        "top": 1045,
+        "width": 209,
+        "height": 209
+      },
+      "src": "assets/items/detail/steel_pipe-v3.webp",
+      "width": 209,
+      "height": 209,
+      "bytes": 32898,
+      "pixelExact": true
+    },
+    {
+      "kind": "item",
+      "id": "short_crossbow",
+      "source": "assets/items/weapons-a-v1.png",
+      "crop": {
+        "left": 418,
+        "top": 1045,
+        "width": 209,
+        "height": 209
+      },
+      "src": "assets/items/detail/short_crossbow-v3.webp",
+      "width": 209,
+      "height": 209,
+      "bytes": 38800,
+      "pixelExact": true
+    },
+    {
+      "kind": "item",
+      "id": "glass_marble",
+      "source": "assets/items/weapons-a-v1.png",
+      "crop": {
+        "left": 627,
+        "top": 1045,
+        "width": 209,
+        "height": 209
+      },
+      "src": "assets/items/detail/glass_marble-v3.webp",
+      "width": 209,
+      "height": 209,
+      "bytes": 41494,
+      "pixelExact": true
+    },
+    {
+      "kind": "item",
+      "id": "short_rod",
+      "source": "assets/items/weapons-a-v1.png",
+      "crop": {
+        "left": 836,
+        "top": 1045,
+        "width": 209,
+        "height": 209
+      },
+      "src": "assets/items/detail/short_rod-v3.webp",
+      "width": 209,
+      "height": 209,
+      "bytes": 26920,
+      "pixelExact": true
+    },
+    {
+      "kind": "item",
+      "id": "throwing_dagger",
+      "source": "assets/items/weapons-a-v1.png",
+      "crop": {
+        "left": 1045,
+        "top": 1045,
+        "width": 209,
+        "height": 209
+      },
+      "src": "assets/items/detail/throwing_dagger-v3.webp",
+      "width": 209,
+      "height": 209,
+      "bytes": 29682,
+      "pixelExact": true
+    },
+    {
+      "kind": "item",
+      "id": "f92s",
+      "source": "assets/items/weapons-b-v1.png",
+      "crop": {
+        "left": 0,
+        "top": 0,
+        "width": 194,
+        "height": 194
+      },
+      "src": "assets/items/detail/f92s-v3.webp",
+      "width": 194,
+      "height": 194,
+      "bytes": 31610,
+      "pixelExact": true
+    },
+    {
+      "kind": "item",
+      "id": "bow",
+      "source": "assets/items/weapons-b-v1.png",
+      "crop": {
+        "left": 193,
+        "top": 0,
+        "width": 194,
+        "height": 194
+      },
+      "src": "assets/items/detail/bow-v3.webp",
+      "width": 194,
+      "height": 194,
+      "bytes": 25548,
+      "pixelExact": true
+    },
+    {
+      "kind": "item",
+      "id": "cd",
+      "source": "assets/items/weapons-b-v1.png",
+      "crop": {
+        "left": 386,
+        "top": 0,
+        "width": 195,
+        "height": 194
+      },
+      "src": "assets/items/detail/cd-v3.webp",
+      "width": 195,
+      "height": 194,
+      "bytes": 31700,
+      "pixelExact": true
+    },
+    {
+      "kind": "item",
+      "id": "southern_revolver",
+      "source": "assets/items/weapons-b-v1.png",
+      "crop": {
+        "left": 580,
+        "top": 0,
+        "width": 194,
+        "height": 194
+      },
+      "src": "assets/items/detail/southern_revolver-v3.webp",
+      "width": 194,
+      "height": 194,
+      "bytes": 35624,
+      "pixelExact": true
+    },
+    {
+      "kind": "item",
+      "id": "northern_revolver",
+      "source": "assets/items/weapons-b-v1.png",
+      "crop": {
+        "left": 773,
+        "top": 0,
+        "width": 195,
+        "height": 194
+      },
+      "src": "assets/items/detail/northern_revolver-v3.webp",
+      "width": 195,
+      "height": 194,
+      "bytes": 31266,
+      "pixelExact": true
+    },
+    {
+      "kind": "item",
+      "id": "holy_grail",
+      "source": "assets/items/weapons-b-v1.png",
+      "crop": {
+        "left": 967,
+        "top": 0,
+        "width": 194,
+        "height": 194
+      },
+      "src": "assets/items/detail/holy_grail-v3.webp",
+      "width": 194,
+      "height": 194,
+      "bytes": 37776,
+      "pixelExact": true
+    },
+    {
+      "kind": "item",
+      "id": "harpoon",
+      "source": "assets/items/weapons-b-v1.png",
+      "crop": {
+        "left": 1160,
+        "top": 0,
+        "width": 194,
+        "height": 194
+      },
+      "src": "assets/items/detail/harpoon-v3.webp",
+      "width": 194,
+      "height": 194,
+      "bytes": 29724,
+      "pixelExact": true
+    },
+    {
+      "kind": "item",
+      "id": "claw",
+      "source": "assets/items/weapons-b-v1.png",
+      "crop": {
+        "left": 0,
+        "top": 193,
+        "width": 194,
+        "height": 194
+      },
+      "src": "assets/items/detail/claw-v3.webp",
+      "width": 194,
+      "height": 194,
+      "bytes": 32344,
+      "pixelExact": true
+    },
+    {
+      "kind": "item",
+      "id": "tomahawk",
+      "source": "assets/items/weapons-b-v1.png",
+      "crop": {
+        "left": 193,
+        "top": 193,
+        "width": 194,
+        "height": 194
+      },
+      "src": "assets/items/detail/tomahawk-v3.webp",
+      "width": 194,
+      "height": 194,
+      "bytes": 32954,
+      "pixelExact": true
+    },
+    {
+      "kind": "item",
+      "id": "sickle",
+      "source": "assets/items/weapons-b-v1.png",
+      "crop": {
+        "left": 386,
+        "top": 193,
+        "width": 195,
+        "height": 194
+      },
+      "src": "assets/items/detail/sickle-v3.webp",
+      "width": 195,
+      "height": 194,
+      "bytes": 29194,
+      "pixelExact": true
+    },
+    {
+      "kind": "item",
+      "id": "plastic_bottle",
+      "source": "assets/items/weapons-b-v1.png",
+      "crop": {
+        "left": 580,
+        "top": 193,
+        "width": 194,
+        "height": 194
+      },
+      "src": "assets/items/detail/plastic_bottle-v3.webp",
+      "width": 194,
+      "height": 194,
+      "bytes": 34296,
+      "pixelExact": true
+    },
+    {
+      "kind": "item",
+      "id": "knife",
+      "source": "assets/items/weapons-b-v1.png",
+      "crop": {
+        "left": 773,
+        "top": 193,
+        "width": 195,
+        "height": 194
+      },
+      "src": "assets/items/detail/knife-v3.webp",
+      "width": 195,
+      "height": 194,
+      "bytes": 26968,
+      "pixelExact": true
+    },
+    {
+      "kind": "item",
+      "id": "long_rod",
+      "source": "assets/items/weapons-b-v1.png",
+      "crop": {
+        "left": 967,
+        "top": 193,
+        "width": 194,
+        "height": 194
+      },
+      "src": "assets/items/detail/long_rod-v3.webp",
+      "width": 194,
+      "height": 194,
+      "bytes": 23082,
+      "pixelExact": true
+    },
+    {
+      "kind": "item",
+      "id": "carp",
+      "source": "assets/items/weapons-b-v1.png",
+      "crop": {
+        "left": 1160,
+        "top": 193,
+        "width": 194,
+        "height": 194
+      },
+      "src": "assets/items/detail/carp-v3.webp",
+      "width": 194,
+      "height": 194,
+      "bytes": 38340,
+      "pixelExact": true
+    },
+    {
+      "kind": "item",
+      "id": "long_rifle",
+      "source": "assets/items/weapons-b-v1.png",
+      "crop": {
+        "left": 0,
+        "top": 387,
+        "width": 194,
+        "height": 194
+      },
+      "src": "assets/items/detail/long_rifle-v3.webp",
+      "width": 194,
+      "height": 194,
+      "bytes": 26412,
+      "pixelExact": true
+    },
+    {
+      "kind": "item",
+      "id": "v_pp",
+      "source": "assets/items/weapons-b-v1.png",
+      "crop": {
+        "left": 193,
+        "top": 387,
+        "width": 194,
+        "height": 194
+      },
+      "src": "assets/items/detail/v_pp-v3.webp",
+      "width": 194,
+      "height": 194,
+      "bytes": 32550,
+      "pixelExact": true
+    },
+    {
+      "kind": "item",
+      "id": "sgoty870",
+      "source": "assets/items/weapons-b-v1.png",
+      "crop": {
+        "left": 386,
+        "top": 387,
+        "width": 195,
+        "height": 194
+      },
+      "src": "assets/items/detail/sgoty870-v3.webp",
+      "width": 195,
+      "height": 194,
+      "bytes": 28592,
+      "pixelExact": true
+    },
+    {
+      "kind": "item",
+      "id": "whip",
+      "source": "assets/items/weapons-b-v1.png",
+      "crop": {
+        "left": 580,
+        "top": 387,
+        "width": 194,
+        "height": 194
+      },
+      "src": "assets/items/detail/whip-v3.webp",
+      "width": 194,
+      "height": 194,
+      "bytes": 35472,
+      "pixelExact": true
+    },
+    {
+      "kind": "item",
+      "id": "frying_pan",
+      "source": "assets/items/weapons-b-v1.png",
+      "crop": {
+        "left": 773,
+        "top": 387,
+        "width": 195,
+        "height": 194
+      },
+      "src": "assets/items/detail/frying_pan-v3.webp",
+      "width": 195,
+      "height": 194,
+      "bytes": 35340,
+      "pixelExact": true
+    },
+    {
+      "kind": "item",
+      "id": "box_cutter",
+      "source": "assets/items/weapons-b-v1.png",
+      "crop": {
+        "left": 967,
+        "top": 387,
+        "width": 194,
+        "height": 194
+      },
+      "src": "assets/items/detail/box_cutter-v3.webp",
+      "width": 194,
+      "height": 194,
+      "bytes": 32586,
+      "pixelExact": true
+    },
+    {
+      "kind": "item",
+      "id": "ripped_scroll_2",
+      "source": "assets/items/weapons-b-v1.png",
+      "crop": {
+        "left": 1160,
+        "top": 387,
+        "width": 194,
+        "height": 194
+      },
+      "src": "assets/items/detail/ripped_scroll_2-v3.webp",
+      "width": 194,
+      "height": 194,
+      "bytes": 41984,
+      "pixelExact": true
+    },
+    {
+      "kind": "item",
+      "id": "cotton_work_glove",
+      "source": "assets/items/weapons-b-v1.png",
+      "crop": {
+        "left": 0,
+        "top": 580,
+        "width": 194,
+        "height": 194
+      },
+      "src": "assets/items/detail/cotton_work_glove-v3.webp",
+      "width": 194,
+      "height": 194,
+      "bytes": 41680,
+      "pixelExact": true
+    },
+    {
+      "kind": "item",
+      "id": "fan",
+      "source": "assets/items/weapons-b-v1.png",
+      "crop": {
+        "left": 193,
+        "top": 580,
+        "width": 194,
+        "height": 194
+      },
+      "src": "assets/items/detail/fan-v3.webp",
+      "width": 194,
+      "height": 194,
+      "bytes": 39116,
+      "pixelExact": true
+    },
+    {
+      "kind": "item",
+      "id": "dice",
+      "source": "assets/items/weapons-b-v1.png",
+      "crop": {
+        "left": 386,
+        "top": 580,
+        "width": 195,
+        "height": 194
+      },
+      "src": "assets/items/detail/dice-v3.webp",
+      "width": 195,
+      "height": 194,
+      "bytes": 30528,
+      "pixelExact": true
+    },
+    {
+      "kind": "item",
+      "id": "playing_cards",
+      "source": "assets/items/weapons-b-v1.png",
+      "crop": {
+        "left": 580,
+        "top": 580,
+        "width": 194,
+        "height": 194
+      },
+      "src": "assets/items/detail/playing_cards-v3.webp",
+      "width": 194,
+      "height": 194,
+      "bytes": 39928,
+      "pixelExact": true
+    },
+    {
+      "kind": "item",
+      "id": "scarf",
+      "source": "assets/items/weapons-b-v1.png",
+      "crop": {
+        "left": 773,
+        "top": 580,
+        "width": 195,
+        "height": 194
+      },
+      "src": "assets/items/detail/scarf-v3.webp",
+      "width": 195,
+      "height": 194,
+      "bytes": 43030,
+      "pixelExact": true
+    },
+    {
+      "kind": "item",
+      "id": "pickaxe",
+      "source": "assets/items/weapons-b-v1.png",
+      "crop": {
+        "left": 967,
+        "top": 580,
+        "width": 194,
+        "height": 194
+      },
+      "src": "assets/items/detail/pickaxe-v3.webp",
+      "width": 194,
+      "height": 194,
+      "bytes": 29142,
+      "pixelExact": true
+    },
+    {
+      "kind": "item",
+      "id": "can",
+      "source": "assets/items/weapons-b-v1.png",
+      "crop": {
+        "left": 1160,
+        "top": 580,
+        "width": 194,
+        "height": 194
+      },
+      "src": "assets/items/detail/can-v3.webp",
+      "width": 194,
+      "height": 194,
+      "bytes": 36224,
+      "pixelExact": true
+    },
+    {
+      "kind": "item",
+      "id": "yumi_bow",
+      "source": "assets/items/weapons-b-v1.png",
+      "crop": {
+        "left": 0,
+        "top": 774,
+        "width": 194,
+        "height": 194
+      },
+      "src": "assets/items/detail/yumi_bow-v3.webp",
+      "width": 194,
+      "height": 194,
+      "bytes": 24840,
+      "pixelExact": true
+    },
+    {
+      "kind": "item",
+      "id": "knuckle",
+      "source": "assets/items/weapons-b-v1.png",
+      "crop": {
+        "left": 193,
+        "top": 774,
+        "width": 194,
+        "height": 194
+      },
+      "src": "assets/items/detail/knuckle-v3.webp",
+      "width": 194,
+      "height": 194,
+      "bytes": 32852,
+      "pixelExact": true
+    },
+    {
+      "kind": "item",
+      "id": "stallion_medal",
+      "source": "assets/items/weapons-b-v1.png",
+      "crop": {
+        "left": 386,
+        "top": 774,
+        "width": 195,
+        "height": 194
+      },
+      "src": "assets/items/detail/stallion_medal-v3.webp",
+      "width": 195,
+      "height": 194,
+      "bytes": 43382,
+      "pixelExact": true
+    },
+    {
+      "kind": "item",
+      "id": "masamune",
+      "source": "assets/items/weapons-b-v1.png",
+      "crop": {
+        "left": 580,
+        "top": 774,
+        "width": 194,
+        "height": 194
+      },
+      "src": "assets/items/detail/masamune-v3.webp",
+      "width": 194,
+      "height": 194,
+      "bytes": 25436,
+      "pixelExact": true
+    },
+    {
+      "kind": "item",
+      "id": "scrolls_of_dongyi",
+      "source": "assets/items/weapons-b-v1.png",
+      "crop": {
+        "left": 773,
+        "top": 774,
+        "width": 195,
+        "height": 194
+      },
+      "src": "assets/items/detail/scrolls_of_dongyi-v3.webp",
+      "width": 195,
+      "height": 194,
+      "bytes": 40986,
+      "pixelExact": true
+    },
+    {
+      "kind": "item",
+      "id": "im_10",
+      "source": "assets/items/weapons-b-v1.png",
+      "crop": {
+        "left": 967,
+        "top": 774,
+        "width": 194,
+        "height": 194
+      },
+      "src": "assets/items/detail/im_10-v3.webp",
+      "width": 194,
+      "height": 194,
+      "bytes": 31264,
+      "pixelExact": true
+    },
+    {
+      "kind": "item",
+      "id": "magnum_python",
+      "source": "assets/items/weapons-b-v1.png",
+      "crop": {
+        "left": 1160,
+        "top": 774,
+        "width": 194,
+        "height": 194
+      },
+      "src": "assets/items/detail/magnum_python-v3.webp",
+      "width": 194,
+      "height": 194,
+      "bytes": 32406,
+      "pixelExact": true
+    },
+    {
+      "kind": "item",
+      "id": "mudfish",
+      "source": "assets/items/weapons-b-v1.png",
+      "crop": {
+        "left": 0,
+        "top": 967,
+        "width": 194,
+        "height": 194
+      },
+      "src": "assets/items/detail/mudfish-v3.webp",
+      "width": 194,
+      "height": 194,
+      "bytes": 34090,
+      "pixelExact": true
+    },
+    {
+      "kind": "item",
+      "id": "ripped_scroll_1",
+      "source": "assets/items/weapons-b-v1.png",
+      "crop": {
+        "left": 193,
+        "top": 967,
+        "width": 194,
+        "height": 194
+      },
+      "src": "assets/items/detail/ripped_scroll_1-v3.webp",
+      "width": 194,
+      "height": 194,
+      "bytes": 41428,
+      "pixelExact": true
+    },
+    {
+      "kind": "item",
+      "id": "iron_sheet",
+      "source": "assets/items/materials-v1.png",
+      "crop": {
+        "left": 0,
+        "top": 0,
+        "width": 180,
+        "height": 180
+      },
+      "src": "assets/items/detail/iron_sheet-v3.webp",
+      "width": 180,
+      "height": 180,
+      "bytes": 31456,
+      "pixelExact": true
+    },
+    {
+      "kind": "item",
+      "id": "scrap_metal",
+      "source": "assets/items/materials-v1.png",
+      "crop": {
+        "left": 179,
+        "top": 0,
+        "width": 180,
+        "height": 180
+      },
+      "src": "assets/items/detail/scrap_metal-v3.webp",
+      "width": 180,
+      "height": 180,
+      "bytes": 36676,
+      "pixelExact": true
+    },
+    {
+      "kind": "item",
+      "id": "hammer",
+      "source": "assets/items/materials-v1.png",
+      "crop": {
+        "left": 358,
+        "top": 0,
+        "width": 180,
+        "height": 180
+      },
+      "src": "assets/items/detail/hammer-v3.webp",
+      "width": 180,
+      "height": 180,
+      "bytes": 26986,
+      "pixelExact": true
+    },
+    {
+      "kind": "item",
+      "id": "blueprint",
+      "source": "assets/items/materials-v1.png",
+      "crop": {
+        "left": 537,
+        "top": 0,
+        "width": 180,
+        "height": 180
+      },
+      "src": "assets/items/detail/blueprint-v3.webp",
+      "width": 180,
+      "height": 180,
+      "bytes": 35272,
+      "pixelExact": true
+    },
+    {
+      "kind": "item",
+      "id": "thick_paper",
+      "source": "assets/items/materials-v1.png",
+      "crop": {
+        "left": 716,
+        "top": 0,
+        "width": 180,
+        "height": 180
+      },
+      "src": "assets/items/detail/thick_paper-v3.webp",
+      "width": 180,
+      "height": 180,
+      "bytes": 33084,
+      "pixelExact": true
+    },
+    {
+      "kind": "item",
+      "id": "steel",
+      "source": "assets/items/materials-v1.png",
+      "crop": {
+        "left": 895,
+        "top": 0,
+        "width": 180,
+        "height": 180
+      },
+      "src": "assets/items/detail/steel-v3.webp",
+      "width": 180,
+      "height": 180,
+      "bytes": 29744,
+      "pixelExact": true
+    },
+    {
+      "kind": "item",
+      "id": "iron_ore",
+      "source": "assets/items/materials-v1.png",
+      "crop": {
+        "left": 1074,
+        "top": 0,
+        "width": 180,
+        "height": 180
+      },
+      "src": "assets/items/detail/iron_ore-v3.webp",
+      "width": 180,
+      "height": 180,
+      "bytes": 36108,
+      "pixelExact": true
+    },
+    {
+      "kind": "item",
+      "id": "heated_whetstone",
+      "source": "assets/items/materials-v1.png",
+      "crop": {
+        "left": 0,
+        "top": 179,
+        "width": 180,
+        "height": 180
+      },
+      "src": "assets/items/detail/heated_whetstone-v3.webp",
+      "width": 180,
+      "height": 180,
+      "bytes": 29038,
+      "pixelExact": true
+    },
+    {
+      "kind": "item",
+      "id": "lighter",
+      "source": "assets/items/materials-v1.png",
+      "crop": {
+        "left": 179,
+        "top": 179,
+        "width": 180,
+        "height": 180
+      },
+      "src": "assets/items/detail/lighter-v3.webp",
+      "width": 180,
+      "height": 180,
+      "bytes": 30778,
+      "pixelExact": true
+    },
+    {
+      "kind": "item",
+      "id": "whetstone",
+      "source": "assets/items/materials-v1.png",
+      "crop": {
+        "left": 358,
+        "top": 179,
+        "width": 180,
+        "height": 180
+      },
+      "src": "assets/items/detail/whetstone-v3.webp",
+      "width": 180,
+      "height": 180,
+      "bytes": 27086,
+      "pixelExact": true
+    },
+    {
+      "kind": "item",
+      "id": "spear_handle",
+      "source": "assets/items/materials-v1.png",
+      "crop": {
+        "left": 537,
+        "top": 179,
+        "width": 180,
+        "height": 180
+      },
+      "src": "assets/items/detail/spear_handle-v3.webp",
+      "width": 180,
+      "height": 180,
+      "bytes": 21142,
+      "pixelExact": true
+    },
+    {
+      "kind": "item",
+      "id": "boiling_water",
+      "source": "assets/items/materials-v1.png",
+      "crop": {
+        "left": 716,
+        "top": 179,
+        "width": 180,
+        "height": 180
+      },
+      "src": "assets/items/detail/boiling_water-v3.webp",
+      "width": 180,
+      "height": 180,
+      "bytes": 33598,
+      "pixelExact": true
+    },
+    {
+      "kind": "item",
+      "id": "laser_pointer",
+      "source": "assets/items/materials-v1.png",
+      "crop": {
+        "left": 895,
+        "top": 179,
+        "width": 180,
+        "height": 180
+      },
+      "src": "assets/items/detail/laser_pointer-v3.webp",
+      "width": 180,
+      "height": 180,
+      "bytes": 21806,
+      "pixelExact": true
+    },
+    {
+      "kind": "item",
+      "id": "bamboo",
+      "source": "assets/items/materials-v1.png",
+      "crop": {
+        "left": 1074,
+        "top": 179,
+        "width": 180,
+        "height": 180
+      },
+      "src": "assets/items/detail/bamboo-v3.webp",
+      "width": 180,
+      "height": 180,
+      "bytes": 30902,
+      "pixelExact": true
+    },
+    {
+      "kind": "item",
+      "id": "branch",
+      "source": "assets/items/materials-v1.png",
+      "crop": {
+        "left": 0,
+        "top": 358,
+        "width": 180,
+        "height": 180
+      },
+      "src": "assets/items/detail/branch-v3.webp",
+      "width": 180,
+      "height": 180,
+      "bytes": 24588,
+      "pixelExact": true
+    },
+    {
+      "kind": "item",
+      "id": "wire",
+      "source": "assets/items/materials-v1.png",
+      "crop": {
+        "left": 179,
+        "top": 358,
+        "width": 180,
+        "height": 180
+      },
+      "src": "assets/items/detail/wire-v3.webp",
+      "width": 180,
+      "height": 180,
+      "bytes": 33462,
+      "pixelExact": true
+    },
+    {
+      "kind": "item",
+      "id": "glass_pieces",
+      "source": "assets/items/materials-v1.png",
+      "crop": {
+        "left": 358,
+        "top": 358,
+        "width": 180,
+        "height": 180
+      },
+      "src": "assets/items/detail/glass_pieces-v3.webp",
+      "width": 180,
+      "height": 180,
+      "bytes": 31910,
+      "pixelExact": true
+    },
+    {
+      "kind": "item",
+      "id": "glass_cup",
+      "source": "assets/items/materials-v1.png",
+      "crop": {
+        "left": 537,
+        "top": 358,
+        "width": 180,
+        "height": 180
+      },
+      "src": "assets/items/detail/glass_cup-v3.webp",
+      "width": 180,
+      "height": 180,
+      "bytes": 29102,
+      "pixelExact": true
+    },
+    {
+      "kind": "item",
+      "id": "stone",
+      "source": "assets/items/materials-v1.png",
+      "crop": {
+        "left": 716,
+        "top": 358,
+        "width": 180,
+        "height": 180
+      },
+      "src": "assets/items/detail/stone-v3.webp",
+      "width": 180,
+      "height": 180,
+      "bytes": 31134,
+      "pixelExact": true
+    },
+    {
+      "kind": "item",
+      "id": "feather",
+      "source": "assets/items/materials-v1.png",
+      "crop": {
+        "left": 895,
+        "top": 358,
+        "width": 180,
+        "height": 180
+      },
+      "src": "assets/items/detail/feather-v3.webp",
+      "width": 180,
+      "height": 180,
+      "bytes": 29194,
+      "pixelExact": true
+    },
+    {
+      "kind": "item",
+      "id": "steel_chain",
+      "source": "assets/items/materials-v1.png",
+      "crop": {
+        "left": 1074,
+        "top": 358,
+        "width": 180,
+        "height": 180
+      },
+      "src": "assets/items/detail/steel_chain-v3.webp",
+      "width": 180,
+      "height": 180,
+      "bytes": 26440,
+      "pixelExact": true
+    },
+    {
+      "kind": "item",
+      "id": "ruby",
+      "source": "assets/items/materials-v1.png",
+      "crop": {
+        "left": 0,
+        "top": 537,
+        "width": 180,
+        "height": 180
+      },
+      "src": "assets/items/detail/ruby-v3.webp",
+      "width": 180,
+      "height": 180,
+      "bytes": 34000,
+      "pixelExact": true
+    },
+    {
+      "kind": "item",
+      "id": "gemstone",
+      "source": "assets/items/materials-v1.png",
+      "crop": {
+        "left": 179,
+        "top": 537,
+        "width": 180,
+        "height": 180
+      },
+      "src": "assets/items/detail/gemstone-v3.webp",
+      "width": 180,
+      "height": 180,
+      "bytes": 33386,
+      "pixelExact": true
+    },
+    {
+      "kind": "item",
+      "id": "turtle_shell",
+      "source": "assets/items/materials-v1.png",
+      "crop": {
+        "left": 358,
+        "top": 537,
+        "width": 180,
+        "height": 180
+      },
+      "src": "assets/items/detail/turtle_shell-v3.webp",
+      "width": 180,
+      "height": 180,
+      "bytes": 40644,
+      "pixelExact": true
+    },
+    {
+      "kind": "item",
+      "id": "leather",
+      "source": "assets/items/materials-v1.png",
+      "crop": {
+        "left": 537,
+        "top": 537,
+        "width": 180,
+        "height": 180
+      },
+      "src": "assets/items/detail/leather-v3.webp",
+      "width": 180,
+      "height": 180,
+      "bytes": 37410,
+      "pixelExact": true
+    },
+    {
+      "kind": "item",
+      "id": "cloth",
+      "source": "assets/items/materials-v1.png",
+      "crop": {
+        "left": 716,
+        "top": 537,
+        "width": 180,
+        "height": 180
+      },
+      "src": "assets/items/detail/cloth-v3.webp",
+      "width": 180,
+      "height": 180,
+      "bytes": 36722,
+      "pixelExact": true
+    },
+    {
+      "kind": "item",
+      "id": "iron_ball",
+      "source": "assets/items/materials-v1.png",
+      "crop": {
+        "left": 895,
+        "top": 537,
+        "width": 180,
+        "height": 180
+      },
+      "src": "assets/items/detail/iron_ball-v3.webp",
+      "width": 180,
+      "height": 180,
+      "bytes": 31842,
+      "pixelExact": true
+    },
+    {
+      "kind": "item",
+      "id": "electronic_parts",
+      "source": "assets/items/materials-v1.png",
+      "crop": {
+        "left": 1074,
+        "top": 537,
+        "width": 180,
+        "height": 180
+      },
+      "src": "assets/items/detail/electronic_parts-v3.webp",
+      "width": 180,
+      "height": 180,
+      "bytes": 36244,
+      "pixelExact": true
+    },
+    {
+      "kind": "item",
+      "id": "battery",
+      "source": "assets/items/materials-v1.png",
+      "crop": {
+        "left": 0,
+        "top": 716,
+        "width": 180,
+        "height": 180
+      },
+      "src": "assets/items/detail/battery-v3.webp",
+      "width": 180,
+      "height": 180,
+      "bytes": 26616,
+      "pixelExact": true
+    },
+    {
+      "kind": "item",
+      "id": "meteorsteel",
+      "source": "assets/items/materials-v1.png",
+      "crop": {
+        "left": 179,
+        "top": 716,
+        "width": 180,
+        "height": 180
+      },
+      "src": "assets/items/detail/meteorsteel-v3.webp",
+      "width": 180,
+      "height": 180,
+      "bytes": 33198,
+      "pixelExact": true
+    },
+    {
+      "kind": "item",
+      "id": "meteorite",
+      "source": "assets/items/materials-v1.png",
+      "crop": {
+        "left": 358,
+        "top": 716,
+        "width": 180,
+        "height": 180
+      },
+      "src": "assets/items/detail/meteorite-v3.webp",
+      "width": 180,
+      "height": 180,
+      "bytes": 40656,
+      "pixelExact": true
+    },
+    {
+      "kind": "item",
+      "id": "flint",
+      "source": "assets/items/materials-v1.png",
+      "crop": {
+        "left": 537,
+        "top": 716,
+        "width": 180,
+        "height": 180
+      },
+      "src": "assets/items/detail/flint-v3.webp",
+      "width": 180,
+      "height": 180,
+      "bytes": 30856,
+      "pixelExact": true
+    },
+    {
+      "kind": "item",
+      "id": "gunpowder",
+      "source": "assets/items/materials-v1.png",
+      "crop": {
+        "left": 716,
+        "top": 716,
+        "width": 180,
+        "height": 180
+      },
+      "src": "assets/items/detail/gunpowder-v3.webp",
+      "width": 180,
+      "height": 180,
+      "bytes": 31450,
+      "pixelExact": true
+    },
+    {
+      "kind": "item",
+      "id": "piano_wire",
+      "source": "assets/items/materials-v1.png",
+      "crop": {
+        "left": 895,
+        "top": 716,
+        "width": 180,
+        "height": 180
+      },
+      "src": "assets/items/detail/piano_wire-v3.webp",
+      "width": 180,
+      "height": 180,
+      "bytes": 32302,
+      "pixelExact": true
+    },
+    {
+      "kind": "item",
+      "id": "glass_bottle",
+      "source": "assets/items/materials-v1.png",
+      "crop": {
+        "left": 1074,
+        "top": 716,
+        "width": 180,
+        "height": 180
+      },
+      "src": "assets/items/detail/glass_bottle-v3.webp",
+      "width": 180,
+      "height": 180,
+      "bytes": 26602,
+      "pixelExact": true
+    },
+    {
+      "kind": "item",
+      "id": "alcohol",
+      "source": "assets/items/materials-v1.png",
+      "crop": {
+        "left": 0,
+        "top": 895,
+        "width": 180,
+        "height": 180
+      },
+      "src": "assets/items/detail/alcohol-v3.webp",
+      "width": 180,
+      "height": 180,
+      "bytes": 26838,
+      "pixelExact": true
+    },
+    {
+      "kind": "item",
+      "id": "rubber",
+      "source": "assets/items/materials-v1.png",
+      "crop": {
+        "left": 179,
+        "top": 895,
+        "width": 180,
+        "height": 180
+      },
+      "src": "assets/items/detail/rubber-v3.webp",
+      "width": 180,
+      "height": 180,
+      "bytes": 28008,
+      "pixelExact": true
+    },
+    {
+      "kind": "item",
+      "id": "nail",
+      "source": "assets/items/materials-v1.png",
+      "crop": {
+        "left": 358,
+        "top": 895,
+        "width": 180,
+        "height": 180
+      },
+      "src": "assets/items/detail/nail-v3.webp",
+      "width": 180,
+      "height": 180,
+      "bytes": 21522,
+      "pixelExact": true
+    },
+    {
+      "kind": "item",
+      "id": "glue",
+      "source": "assets/items/materials-v1.png",
+      "crop": {
+        "left": 537,
+        "top": 895,
+        "width": 180,
+        "height": 180
+      },
+      "src": "assets/items/detail/glue-v3.webp",
+      "width": 180,
+      "height": 180,
+      "bytes": 22834,
+      "pixelExact": true
+    },
+    {
+      "kind": "item",
+      "id": "snare",
+      "source": "assets/items/materials-v1.png",
+      "crop": {
+        "left": 716,
+        "top": 895,
+        "width": 180,
+        "height": 180
+      },
+      "src": "assets/items/detail/snare-v3.webp",
+      "width": 180,
+      "height": 180,
+      "bytes": 24690,
+      "pixelExact": true
+    },
+    {
+      "kind": "item",
+      "id": "mouse_trap",
+      "source": "assets/items/materials-v1.png",
+      "crop": {
+        "left": 895,
+        "top": 895,
+        "width": 180,
+        "height": 180
+      },
+      "src": "assets/items/detail/mouse_trap-v3.webp",
+      "width": 180,
+      "height": 180,
+      "bytes": 33504,
+      "pixelExact": true
+    },
+    {
+      "kind": "item",
+      "id": "fertilizer",
+      "source": "assets/items/materials-v1.png",
+      "crop": {
+        "left": 1074,
+        "top": 895,
+        "width": 180,
+        "height": 180
+      },
+      "src": "assets/items/detail/fertilizer-v3.webp",
+      "width": 180,
+      "height": 180,
+      "bytes": 39938,
+      "pixelExact": true
+    },
+    {
+      "kind": "item",
+      "id": "bullets",
+      "source": "assets/items/materials-v1.png",
+      "crop": {
+        "left": 0,
+        "top": 1074,
+        "width": 180,
+        "height": 180
+      },
+      "src": "assets/items/detail/bullets-v3.webp",
+      "width": 180,
+      "height": 180,
+      "bytes": 30542,
+      "pixelExact": true
+    },
+    {
+      "kind": "item",
+      "id": "arrows",
+      "source": "assets/items/materials-v1.png",
+      "crop": {
+        "left": 179,
+        "top": 1074,
+        "width": 180,
+        "height": 180
+      },
+      "src": "assets/items/detail/arrows-v3.webp",
+      "width": 180,
+      "height": 180,
+      "bytes": 27664,
+      "pixelExact": true
+    },
+    {
+      "kind": "item",
+      "id": "oil",
+      "source": "assets/items/materials-v1.png",
+      "crop": {
+        "left": 358,
+        "top": 1074,
+        "width": 180,
+        "height": 180
+      },
+      "src": "assets/items/detail/oil-v3.webp",
+      "width": 180,
+      "height": 180,
+      "bytes": 28760,
+      "pixelExact": true
+    },
+    {
+      "kind": "item",
+      "id": "mithril",
+      "source": "assets/items/materials-v1.png",
+      "crop": {
+        "left": 537,
+        "top": 1074,
+        "width": 180,
+        "height": 180
+      },
+      "src": "assets/items/detail/mithril-v3.webp",
+      "width": 180,
+      "height": 180,
+      "bytes": 34244,
+      "pixelExact": true
+    },
+    {
+      "kind": "item",
+      "id": "ogre_skin",
+      "source": "assets/items/materials-v1.png",
+      "crop": {
+        "left": 716,
+        "top": 1074,
+        "width": 180,
+        "height": 180
+      },
+      "src": "assets/items/detail/ogre_skin-v3.webp",
+      "width": 180,
+      "height": 180,
+      "bytes": 31844,
+      "pixelExact": true
+    },
+    {
+      "kind": "item",
+      "id": "purified_water",
+      "source": "assets/items/supplies-v1.png",
+      "crop": {
+        "left": 0,
+        "top": 0,
+        "width": 194,
+        "height": 194
+      },
+      "src": "assets/items/detail/purified_water-v3.webp",
+      "width": 194,
+      "height": 194,
+      "bytes": 37376,
+      "pixelExact": true
+    },
+    {
+      "kind": "item",
+      "id": "water",
+      "source": "assets/items/supplies-v1.png",
+      "crop": {
+        "left": 193,
+        "top": 0,
+        "width": 194,
+        "height": 194
+      },
+      "src": "assets/items/detail/water-v3.webp",
+      "width": 194,
+      "height": 194,
+      "bytes": 34040,
+      "pixelExact": true
+    },
+    {
+      "kind": "item",
+      "id": "ice",
+      "source": "assets/items/supplies-v1.png",
+      "crop": {
+        "left": 386,
+        "top": 0,
+        "width": 195,
+        "height": 194
+      },
+      "src": "assets/items/detail/ice-v3.webp",
+      "width": 195,
+      "height": 194,
+      "bytes": 41148,
+      "pixelExact": true
+    },
+    {
+      "kind": "item",
+      "id": "herb",
+      "source": "assets/items/supplies-v1.png",
+      "crop": {
+        "left": 580,
+        "top": 0,
+        "width": 194,
+        "height": 194
+      },
+      "src": "assets/items/detail/herb-v3.webp",
+      "width": 194,
+      "height": 194,
+      "bytes": 46516,
+      "pixelExact": true
+    },
+    {
+      "kind": "item",
+      "id": "oriental_grass",
+      "source": "assets/items/supplies-v1.png",
+      "crop": {
+        "left": 773,
+        "top": 0,
+        "width": 195,
+        "height": 194
+      },
+      "src": "assets/items/detail/oriental_grass-v3.webp",
+      "width": 195,
+      "height": 194,
+      "bytes": 38434,
+      "pixelExact": true
+    },
+    {
+      "kind": "item",
+      "id": "garlic_ramen",
+      "source": "assets/items/supplies-v1.png",
+      "crop": {
+        "left": 967,
+        "top": 0,
+        "width": 194,
+        "height": 194
+      },
+      "src": "assets/items/detail/garlic_ramen-v3.webp",
+      "width": 194,
+      "height": 194,
+      "bytes": 45462,
+      "pixelExact": true
+    },
+    {
+      "kind": "item",
+      "id": "hot_ramen",
+      "source": "assets/items/supplies-v1.png",
+      "crop": {
+        "left": 1160,
+        "top": 0,
+        "width": 194,
+        "height": 194
+      },
+      "src": "assets/items/detail/hot_ramen-v3.webp",
+      "width": 194,
+      "height": 194,
+      "bytes": 44802,
+      "pixelExact": true
+    },
+    {
+      "kind": "item",
+      "id": "ramen",
+      "source": "assets/items/supplies-v1.png",
+      "crop": {
+        "left": 0,
+        "top": 193,
+        "width": 194,
+        "height": 194
+      },
+      "src": "assets/items/detail/ramen-v3.webp",
+      "width": 194,
+      "height": 194,
+      "bytes": 50354,
+      "pixelExact": true
+    },
+    {
+      "kind": "item",
+      "id": "garlic",
+      "source": "assets/items/supplies-v1.png",
+      "crop": {
+        "left": 193,
+        "top": 193,
+        "width": 194,
+        "height": 194
+      },
+      "src": "assets/items/detail/garlic-v3.webp",
+      "width": 194,
+      "height": 194,
+      "bytes": 35240,
+      "pixelExact": true
+    },
+    {
+      "kind": "item",
+      "id": "healing_potion",
+      "source": "assets/items/supplies-v1.png",
+      "crop": {
+        "left": 386,
+        "top": 193,
+        "width": 195,
+        "height": 194
+      },
+      "src": "assets/items/detail/healing_potion-v3.webp",
+      "width": 195,
+      "height": 194,
+      "bytes": 37274,
+      "pixelExact": true
+    },
+    {
+      "kind": "item",
+      "id": "garlic_bread",
+      "source": "assets/items/supplies-v1.png",
+      "crop": {
+        "left": 580,
+        "top": 193,
+        "width": 194,
+        "height": 194
+      },
+      "src": "assets/items/detail/garlic_bread-v3.webp",
+      "width": 194,
+      "height": 194,
+      "bytes": 48178,
+      "pixelExact": true
+    },
+    {
+      "kind": "item",
+      "id": "bread",
+      "source": "assets/items/supplies-v1.png",
+      "crop": {
+        "left": 773,
+        "top": 193,
+        "width": 195,
+        "height": 194
+      },
+      "src": "assets/items/detail/bread-v3.webp",
+      "width": 195,
+      "height": 194,
+      "bytes": 47120,
+      "pixelExact": true
+    },
+    {
+      "kind": "item",
+      "id": "hot_honey_water",
+      "source": "assets/items/supplies-v1.png",
+      "crop": {
+        "left": 967,
+        "top": 193,
+        "width": 194,
+        "height": 194
+      },
+      "src": "assets/items/detail/hot_honey_water-v3.webp",
+      "width": 194,
+      "height": 194,
+      "bytes": 37988,
+      "pixelExact": true
+    },
+    {
+      "kind": "item",
+      "id": "honey",
+      "source": "assets/items/supplies-v1.png",
+      "crop": {
+        "left": 1160,
+        "top": 193,
+        "width": 194,
+        "height": 194
+      },
+      "src": "assets/items/detail/honey-v3.webp",
+      "width": 194,
+      "height": 194,
+      "bytes": 46364,
+      "pixelExact": true
+    },
+    {
+      "kind": "item",
+      "id": "herbal_tea",
+      "source": "assets/items/supplies-v1.png",
+      "crop": {
+        "left": 0,
+        "top": 387,
+        "width": 194,
+        "height": 194
+      },
+      "src": "assets/items/detail/herbal_tea-v3.webp",
+      "width": 194,
+      "height": 194,
+      "bytes": 37860,
+      "pixelExact": true
+    },
+    {
+      "kind": "item",
+      "id": "soy_sauce",
+      "source": "assets/items/supplies-v1.png",
+      "crop": {
+        "left": 193,
+        "top": 387,
+        "width": 194,
+        "height": 194
+      },
+      "src": "assets/items/detail/soy_sauce-v3.webp",
+      "width": 194,
+      "height": 194,
+      "bytes": 32220,
+      "pixelExact": true
+    },
+    {
+      "kind": "item",
+      "id": "chocolate",
+      "source": "assets/items/supplies-v1.png",
+      "crop": {
+        "left": 386,
+        "top": 387,
+        "width": 195,
+        "height": 194
+      },
+      "src": "assets/items/detail/chocolate-v3.webp",
+      "width": 195,
+      "height": 194,
+      "bytes": 36500,
+      "pixelExact": true
+    },
+    {
+      "kind": "item",
+      "id": "orange",
+      "source": "assets/items/supplies-v1.png",
+      "crop": {
+        "left": 580,
+        "top": 387,
+        "width": 194,
+        "height": 194
+      },
+      "src": "assets/items/detail/orange-v3.webp",
+      "width": 194,
+      "height": 194,
+      "bytes": 47076,
+      "pixelExact": true
+    },
+    {
+      "kind": "item",
+      "id": "curry_powder",
+      "source": "assets/items/supplies-v1.png",
+      "crop": {
+        "left": 773,
+        "top": 387,
+        "width": 195,
+        "height": 194
+      },
+      "src": "assets/items/detail/curry_powder-v3.webp",
+      "width": 195,
+      "height": 194,
+      "bytes": 42242,
+      "pixelExact": true
+    },
+    {
+      "kind": "item",
+      "id": "coffee",
+      "source": "assets/items/supplies-v1.png",
+      "crop": {
+        "left": 967,
+        "top": 387,
+        "width": 194,
+        "height": 194
+      },
+      "src": "assets/items/detail/coffee-v3.webp",
+      "width": 194,
+      "height": 194,
+      "bytes": 38410,
+      "pixelExact": true
+    },
+    {
+      "kind": "item",
+      "id": "holy_water",
+      "source": "assets/items/supplies-v1.png",
+      "crop": {
+        "left": 1160,
+        "top": 387,
+        "width": 194,
+        "height": 194
+      },
+      "src": "assets/items/detail/holy_water-v3.webp",
+      "width": 194,
+      "height": 194,
+      "bytes": 37868,
+      "pixelExact": true
+    },
+    {
+      "kind": "item",
+      "id": "tuna",
+      "source": "assets/items/supplies-v1.png",
+      "crop": {
+        "left": 0,
+        "top": 580,
+        "width": 194,
+        "height": 194
+      },
+      "src": "assets/items/detail/tuna-v3.webp",
+      "width": 194,
+      "height": 194,
+      "bytes": 37834,
+      "pixelExact": true
+    },
+    {
+      "kind": "item",
+      "id": "fresh_sashimi",
+      "source": "assets/items/supplies-v1.png",
+      "crop": {
+        "left": 193,
+        "top": 580,
+        "width": 194,
+        "height": 194
+      },
+      "src": "assets/items/detail/fresh_sashimi-v3.webp",
+      "width": 194,
+      "height": 194,
+      "bytes": 47012,
+      "pixelExact": true
+    },
+    {
+      "kind": "item",
+      "id": "burdock",
+      "source": "assets/items/supplies-v1.png",
+      "crop": {
+        "left": 386,
+        "top": 580,
+        "width": 195,
+        "height": 194
+      },
+      "src": "assets/items/detail/burdock-v3.webp",
+      "width": 195,
+      "height": 194,
+      "bytes": 41028,
+      "pixelExact": true
+    },
+    {
+      "kind": "item",
+      "id": "potato",
+      "source": "assets/items/supplies-v1.png",
+      "crop": {
+        "left": 580,
+        "top": 580,
+        "width": 194,
+        "height": 194
+      },
+      "src": "assets/items/detail/potato-v3.webp",
+      "width": 194,
+      "height": 194,
+      "bytes": 42532,
+      "pixelExact": true
+    },
+    {
+      "kind": "item",
+      "id": "cookie",
+      "source": "assets/items/supplies-v1.png",
+      "crop": {
+        "left": 773,
+        "top": 580,
+        "width": 195,
+        "height": 194
+      },
+      "src": "assets/items/detail/cookie-v3.webp",
+      "width": 195,
+      "height": 194,
+      "bytes": 47224,
+      "pixelExact": true
+    },
+    {
+      "kind": "item",
+      "id": "relief_patch",
+      "source": "assets/items/supplies-v1.png",
+      "crop": {
+        "left": 967,
+        "top": 580,
+        "width": 194,
+        "height": 194
+      },
+      "src": "assets/items/detail/relief_patch-v3.webp",
+      "width": 194,
+      "height": 194,
+      "bytes": 37498,
+      "pixelExact": true
+    },
+    {
+      "kind": "item",
+      "id": "bird_meat",
+      "source": "assets/items/supplies-v1.png",
+      "crop": {
+        "left": 1160,
+        "top": 580,
+        "width": 194,
+        "height": 194
+      },
+      "src": "assets/items/detail/bird_meat-v3.webp",
+      "width": 194,
+      "height": 194,
+      "bytes": 40994,
+      "pixelExact": true
+    },
+    {
+      "kind": "item",
+      "id": "pill",
+      "source": "assets/items/supplies-v1.png",
+      "crop": {
+        "left": 0,
+        "top": 774,
+        "width": 194,
+        "height": 194
+      },
+      "src": "assets/items/detail/pill-v3.webp",
+      "width": 194,
+      "height": 194,
+      "bytes": 39716,
+      "pixelExact": true
+    },
+    {
+      "kind": "item",
+      "id": "bandage",
+      "source": "assets/items/supplies-v1.png",
+      "crop": {
+        "left": 193,
+        "top": 774,
+        "width": 194,
+        "height": 194
+      },
+      "src": "assets/items/detail/bandage-v3.webp",
+      "width": 194,
+      "height": 194,
+      "bytes": 43046,
+      "pixelExact": true
+    },
+    {
+      "kind": "item",
+      "id": "bird_egg",
+      "source": "assets/items/supplies-v1.png",
+      "crop": {
+        "left": 386,
+        "top": 774,
+        "width": 195,
+        "height": 194
+      },
+      "src": "assets/items/detail/bird_egg-v3.webp",
+      "width": 195,
+      "height": 194,
+      "bytes": 33024,
+      "pixelExact": true
+    },
+    {
+      "kind": "item",
+      "id": "sweet_potato",
+      "source": "assets/items/supplies-v1.png",
+      "crop": {
+        "left": 580,
+        "top": 774,
+        "width": 194,
+        "height": 194
+      },
+      "src": "assets/items/detail/sweet_potato-v3.webp",
+      "width": 194,
+      "height": 194,
+      "bytes": 44970,
+      "pixelExact": true
+    },
+    {
+      "kind": "item",
+      "id": "sports_drink",
+      "source": "assets/items/supplies-v1.png",
+      "crop": {
+        "left": 773,
+        "top": 774,
+        "width": 195,
+        "height": 194
+      },
+      "src": "assets/items/detail/sports_drink-v3.webp",
+      "width": 195,
+      "height": 194,
+      "bytes": 34910,
+      "pixelExact": true
+    },
+    {
+      "kind": "item",
+      "id": "antiseptic",
+      "source": "assets/items/supplies-v1.png",
+      "crop": {
+        "left": 967,
+        "top": 774,
+        "width": 194,
+        "height": 194
+      },
+      "src": "assets/items/detail/antiseptic-v3.webp",
+      "width": 194,
+      "height": 194,
+      "bytes": 30736,
+      "pixelExact": true
+    },
+    {
+      "kind": "item",
+      "id": "band_aid",
+      "source": "assets/items/supplies-v1.png",
+      "crop": {
+        "left": 1160,
+        "top": 774,
+        "width": 194,
+        "height": 194
+      },
+      "src": "assets/items/detail/band_aid-v3.webp",
+      "width": 194,
+      "height": 194,
+      "bytes": 41628,
+      "pixelExact": true
+    },
+    {
+      "kind": "item",
+      "id": "liver_supplement_pill",
+      "source": "assets/items/supplies-v1.png",
+      "crop": {
+        "left": 0,
+        "top": 967,
+        "width": 194,
+        "height": 194
+      },
+      "src": "assets/items/detail/liver_supplement_pill-v3.webp",
+      "width": 194,
+      "height": 194,
+      "bytes": 33862,
+      "pixelExact": true
+    },
+    {
+      "kind": "item",
+      "id": "saury",
+      "source": "assets/items/supplies-v1.png",
+      "crop": {
+        "left": 193,
+        "top": 967,
+        "width": 194,
+        "height": 194
+      },
+      "src": "assets/items/detail/saury-v3.webp",
+      "width": 194,
+      "height": 194,
+      "bytes": 30138,
+      "pixelExact": true
+    },
+    {
+      "kind": "item",
+      "id": "carbonated_water",
+      "source": "assets/items/supplies-v1.png",
+      "crop": {
+        "left": 386,
+        "top": 967,
+        "width": 195,
+        "height": 194
+      },
+      "src": "assets/items/detail/carbonated_water-v3.webp",
+      "width": 195,
+      "height": 194,
+      "bytes": 35140,
+      "pixelExact": true
+    },
+    {
+      "kind": "item",
+      "id": "bacchus",
+      "source": "assets/items/supplies-v1.png",
+      "crop": {
+        "left": 580,
+        "top": 967,
+        "width": 194,
+        "height": 194
+      },
+      "src": "assets/items/detail/bacchus-v3.webp",
+      "width": 194,
+      "height": 194,
+      "bytes": 28818,
+      "pixelExact": true
+    },
+    {
+      "kind": "item",
+      "id": "tree_of_life",
+      "source": "assets/items/supplies-v1.png",
+      "crop": {
+        "left": 773,
+        "top": 967,
+        "width": 195,
+        "height": 194
+      },
+      "src": "assets/items/detail/tree_of_life-v3.webp",
+      "width": 195,
+      "height": 194,
+      "bytes": 39856,
+      "pixelExact": true
+    },
+    {
+      "kind": "item",
+      "id": "crystal_tiara",
+      "source": "assets/items/equipment-v1.png",
+      "crop": {
+        "left": 0,
+        "top": 0,
+        "width": 168,
+        "height": 168
+      },
+      "src": "assets/items/detail/crystal_tiara-v3.webp",
+      "width": 168,
+      "height": 168,
+      "bytes": 26818,
+      "pixelExact": true
+    },
+    {
+      "kind": "item",
+      "id": "tiara",
+      "source": "assets/items/equipment-v1.png",
+      "crop": {
+        "left": 167,
+        "top": 0,
+        "width": 169,
+        "height": 168
+      },
+      "src": "assets/items/detail/tiara-v3.webp",
+      "width": 169,
+      "height": 168,
+      "bytes": 28376,
+      "pixelExact": true
+    },
+    {
+      "kind": "item",
+      "id": "circlet",
+      "source": "assets/items/equipment-v1.png",
+      "crop": {
+        "left": 335,
+        "top": 0,
+        "width": 168,
+        "height": 168
+      },
+      "src": "assets/items/detail/circlet-v3.webp",
+      "width": 168,
+      "height": 168,
+      "bytes": 20984,
+      "pixelExact": true
+    },
+    {
+      "kind": "item",
+      "id": "hairband",
+      "source": "assets/items/equipment-v1.png",
+      "crop": {
+        "left": 502,
+        "top": 0,
+        "width": 169,
+        "height": 168
+      },
+      "src": "assets/items/detail/hairband-v3.webp",
+      "width": 169,
+      "height": 168,
+      "bytes": 24528,
+      "pixelExact": true
+    },
+    {
+      "kind": "item",
+      "id": "close_helm",
+      "source": "assets/items/equipment-v1.png",
+      "crop": {
+        "left": 670,
+        "top": 0,
+        "width": 169,
+        "height": 168
+      },
+      "src": "assets/items/detail/close_helm-v3.webp",
+      "width": 169,
+      "height": 168,
+      "bytes": 27866,
+      "pixelExact": true
+    },
+    {
+      "kind": "item",
+      "id": "mask",
+      "source": "assets/items/equipment-v1.png",
+      "crop": {
+        "left": 838,
+        "top": 0,
+        "width": 168,
+        "height": 168
+      },
+      "src": "assets/items/detail/mask-v3.webp",
+      "width": 168,
+      "height": 168,
+      "bytes": 23114,
+      "pixelExact": true
+    },
+    {
+      "kind": "item",
+      "id": "glasses",
+      "source": "assets/items/equipment-v1.png",
+      "crop": {
+        "left": 1005,
+        "top": 0,
+        "width": 169,
+        "height": 168
+      },
+      "src": "assets/items/detail/glasses-v3.webp",
+      "width": 169,
+      "height": 168,
+      "bytes": 20354,
+      "pixelExact": true
+    },
+    {
+      "kind": "item",
+      "id": "crusader_armor",
+      "source": "assets/items/equipment-v1.png",
+      "crop": {
+        "left": 1173,
+        "top": 0,
+        "width": 168,
+        "height": 168
+      },
+      "src": "assets/items/detail/crusader_armor-v3.webp",
+      "width": 168,
+      "height": 168,
+      "bytes": 32484,
+      "pixelExact": true
+    },
+    {
+      "kind": "item",
+      "id": "sheet_metal_armor",
+      "source": "assets/items/equipment-v1.png",
+      "crop": {
+        "left": 0,
+        "top": 167,
+        "width": 168,
+        "height": 169
+      },
+      "src": "assets/items/detail/sheet_metal_armor-v3.webp",
+      "width": 168,
+      "height": 169,
+      "bytes": 29238,
+      "pixelExact": true
+    },
+    {
+      "kind": "item",
+      "id": "fabric_armor",
+      "source": "assets/items/equipment-v1.png",
+      "crop": {
+        "left": 167,
+        "top": 167,
+        "width": 169,
+        "height": 169
+      },
+      "src": "assets/items/detail/fabric_armor-v3.webp",
+      "width": 169,
+      "height": 169,
+      "bytes": 30522,
+      "pixelExact": true
+    },
+    {
+      "kind": "item",
+      "id": "bishop_s_cassock",
+      "source": "assets/items/equipment-v1.png",
+      "crop": {
+        "left": 335,
+        "top": 167,
+        "width": 168,
+        "height": 169
+      },
+      "src": "assets/items/detail/bishop_s_cassock-v3.webp",
+      "width": 168,
+      "height": 169,
+      "bytes": 35750,
+      "pixelExact": true
+    },
+    {
+      "kind": "item",
+      "id": "cassock",
+      "source": "assets/items/equipment-v1.png",
+      "crop": {
+        "left": 502,
+        "top": 167,
+        "width": 169,
+        "height": 169
+      },
+      "src": "assets/items/detail/cassock-v3.webp",
+      "width": 169,
+      "height": 169,
+      "bytes": 22804,
+      "pixelExact": true
+    },
+    {
+      "kind": "item",
+      "id": "cross",
+      "source": "assets/items/equipment-v1.png",
+      "crop": {
+        "left": 670,
+        "top": 167,
+        "width": 169,
+        "height": 169
+      },
+      "src": "assets/items/detail/cross-v3.webp",
+      "width": 169,
+      "height": 169,
+      "bytes": 22954,
+      "pixelExact": true
+    },
+    {
+      "kind": "item",
+      "id": "sunset_armor",
+      "source": "assets/items/equipment-v1.png",
+      "crop": {
+        "left": 838,
+        "top": 167,
+        "width": 168,
+        "height": 169
+      },
+      "src": "assets/items/detail/sunset_armor-v3.webp",
+      "width": 168,
+      "height": 169,
+      "bytes": 36158,
+      "pixelExact": true
+    },
+    {
+      "kind": "item",
+      "id": "steel_shield",
+      "source": "assets/items/equipment-v1.png",
+      "crop": {
+        "left": 1005,
+        "top": 167,
+        "width": 169,
+        "height": 169
+      },
+      "src": "assets/items/detail/steel_shield-v3.webp",
+      "width": 169,
+      "height": 169,
+      "bytes": 28776,
+      "pixelExact": true
+    },
+    {
+      "kind": "item",
+      "id": "leather_shield",
+      "source": "assets/items/equipment-v1.png",
+      "crop": {
+        "left": 1173,
+        "top": 167,
+        "width": 168,
+        "height": 169
+      },
+      "src": "assets/items/detail/leather_shield-v3.webp",
+      "width": 168,
+      "height": 169,
+      "bytes": 33864,
+      "pixelExact": true
+    },
+    {
+      "kind": "item",
+      "id": "crimson_bracelet",
+      "source": "assets/items/equipment-v1.png",
+      "crop": {
+        "left": 0,
+        "top": 335,
+        "width": 168,
+        "height": 168
+      },
+      "src": "assets/items/detail/crimson_bracelet-v3.webp",
+      "width": 168,
+      "height": 168,
+      "bytes": 30034,
+      "pixelExact": true
+    },
+    {
+      "kind": "item",
+      "id": "bracelet",
+      "source": "assets/items/equipment-v1.png",
+      "crop": {
+        "left": 167,
+        "top": 335,
+        "width": 169,
+        "height": 168
+      },
+      "src": "assets/items/detail/bracelet-v3.webp",
+      "width": 169,
+      "height": 168,
+      "bytes": 24344,
+      "pixelExact": true
+    },
+    {
+      "kind": "item",
+      "id": "battle_boots",
+      "source": "assets/items/equipment-v1.png",
+      "crop": {
+        "left": 335,
+        "top": 335,
+        "width": 168,
+        "height": 168
+      },
+      "src": "assets/items/detail/battle_boots-v3.webp",
+      "width": 168,
+      "height": 168,
+      "bytes": 31688,
+      "pixelExact": true
+    },
+    {
+      "kind": "item",
+      "id": "advanced_military_boots",
+      "source": "assets/items/equipment-v1.png",
+      "crop": {
+        "left": 502,
+        "top": 335,
+        "width": 169,
+        "height": 168
+      },
+      "src": "assets/items/detail/advanced_military_boots-v3.webp",
+      "width": 169,
+      "height": 168,
+      "bytes": 28808,
+      "pixelExact": true
+    },
+    {
+      "kind": "item",
+      "id": "boots",
+      "source": "assets/items/equipment-v1.png",
+      "crop": {
+        "left": 670,
+        "top": 335,
+        "width": 169,
+        "height": 168
+      },
+      "src": "assets/items/detail/boots-v3.webp",
+      "width": 169,
+      "height": 168,
+      "bytes": 27802,
+      "pixelExact": true
+    },
+    {
+      "kind": "item",
+      "id": "knee_pads",
+      "source": "assets/items/equipment-v1.png",
+      "crop": {
+        "left": 838,
+        "top": 335,
+        "width": 168,
+        "height": 168
+      },
+      "src": "assets/items/detail/knee_pads-v3.webp",
+      "width": 168,
+      "height": 168,
+      "bytes": 26116,
+      "pixelExact": true
+    },
+    {
+      "kind": "item",
+      "id": "maverick_runner",
+      "source": "assets/items/equipment-v1.png",
+      "crop": {
+        "left": 1005,
+        "top": 335,
+        "width": 169,
+        "height": 168
+      },
+      "src": "assets/items/detail/maverick_runner-v3.webp",
+      "width": 169,
+      "height": 168,
+      "bytes": 28436,
+      "pixelExact": true
+    },
+    {
+      "kind": "item",
+      "id": "heelys",
+      "source": "assets/items/equipment-v1.png",
+      "crop": {
+        "left": 1173,
+        "top": 335,
+        "width": 168,
+        "height": 168
+      },
+      "src": "assets/items/detail/heelys-v3.webp",
+      "width": 168,
+      "height": 168,
+      "bytes": 28198,
+      "pixelExact": true
+    },
+    {
+      "kind": "item",
+      "id": "running_shoes",
+      "source": "assets/items/equipment-v1.png",
+      "crop": {
+        "left": 0,
+        "top": 502,
+        "width": 168,
+        "height": 169
+      },
+      "src": "assets/items/detail/running_shoes-v3.webp",
+      "width": 168,
+      "height": 169,
+      "bytes": 28162,
+      "pixelExact": true
+    },
+    {
+      "kind": "item",
+      "id": "moonlight_pendant",
+      "source": "assets/items/equipment-v1.png",
+      "crop": {
+        "left": 167,
+        "top": 502,
+        "width": 169,
+        "height": 169
+      },
+      "src": "assets/items/detail/moonlight_pendant-v3.webp",
+      "width": 169,
+      "height": 169,
+      "bytes": 24426,
+      "pixelExact": true
+    },
+    {
+      "kind": "item",
+      "id": "moon_stone",
+      "source": "assets/items/equipment-v1.png",
+      "crop": {
+        "left": 335,
+        "top": 502,
+        "width": 168,
+        "height": 169
+      },
+      "src": "assets/items/detail/moon_stone-v3.webp",
+      "width": 168,
+      "height": 169,
+      "bytes": 27886,
+      "pixelExact": true
+    },
+    {
+      "kind": "item",
+      "id": "ribbon",
+      "source": "assets/items/equipment-v1.png",
+      "crop": {
+        "left": 502,
+        "top": 502,
+        "width": 169,
+        "height": 169
+      },
+      "src": "assets/items/detail/ribbon-v3.webp",
+      "width": 169,
+      "height": 169,
+      "bytes": 29204,
+      "pixelExact": true
+    },
+    {
+      "kind": "item",
+      "id": "eye_of_horus",
+      "source": "assets/items/equipment-v1.png",
+      "crop": {
+        "left": 670,
+        "top": 502,
+        "width": 169,
+        "height": 169
+      },
+      "src": "assets/items/detail/eye_of_horus-v3.webp",
+      "width": 169,
+      "height": 169,
+      "bytes": 32762,
+      "pixelExact": true
+    },
+    {
+      "kind": "item",
+      "id": "ancient_elixir_stone",
+      "source": "assets/items/equipment-v1.png",
+      "crop": {
+        "left": 838,
+        "top": 502,
+        "width": 168,
+        "height": 169
+      },
+      "src": "assets/items/detail/ancient_elixir_stone-v3.webp",
+      "width": 168,
+      "height": 169,
+      "bytes": 35444,
+      "pixelExact": true
+    },
+    {
+      "kind": "item",
+      "id": "flower",
+      "source": "assets/items/equipment-v1.png",
+      "crop": {
+        "left": 1005,
+        "top": 502,
+        "width": 169,
+        "height": 169
+      },
+      "src": "assets/items/detail/flower-v3.webp",
+      "width": 169,
+      "height": 169,
+      "bytes": 29660,
+      "pixelExact": true
+    },
+    {
+      "kind": "item",
+      "id": "windbreaker",
+      "source": "assets/items/equipment-v1.png",
+      "crop": {
+        "left": 1173,
+        "top": 502,
+        "width": 168,
+        "height": 169
+      },
+      "src": "assets/items/detail/windbreaker-v3.webp",
+      "width": 168,
+      "height": 169,
+      "bytes": 30840,
+      "pixelExact": true
+    },
+    {
+      "kind": "item",
+      "id": "watch",
+      "source": "assets/items/equipment-v1.png",
+      "crop": {
+        "left": 0,
+        "top": 670,
+        "width": 168,
+        "height": 168
+      },
+      "src": "assets/items/detail/watch-v3.webp",
+      "width": 168,
+      "height": 168,
+      "bytes": 27810,
+      "pixelExact": true
+    },
+    {
+      "kind": "item",
+      "id": "arm_warmers",
+      "source": "assets/items/equipment-v1.png",
+      "crop": {
+        "left": 167,
+        "top": 670,
+        "width": 169,
+        "height": 168
+      },
+      "src": "assets/items/detail/arm_warmers-v3.webp",
+      "width": 169,
+      "height": 168,
+      "bytes": 28072,
+      "pixelExact": true
+    },
+    {
+      "kind": "item",
+      "id": "bike_helmet",
+      "source": "assets/items/equipment-v1.png",
+      "crop": {
+        "left": 335,
+        "top": 670,
+        "width": 168,
+        "height": 168
+      },
+      "src": "assets/items/detail/bike_helmet-v3.webp",
+      "width": 168,
+      "height": 168,
+      "bytes": 30332,
+      "pixelExact": true
+    },
+    {
+      "kind": "item",
+      "id": "reserve_armband",
+      "source": "assets/items/equipment-v1.png",
+      "crop": {
+        "left": 502,
+        "top": 670,
+        "width": 169,
+        "height": 168
+      },
+      "src": "assets/items/detail/reserve_armband-v3.webp",
+      "width": 169,
+      "height": 168,
+      "bytes": 29180,
+      "pixelExact": true
+    },
+    {
+      "kind": "item",
+      "id": "box",
+      "source": "assets/items/equipment-v1.png",
+      "crop": {
+        "left": 670,
+        "top": 670,
+        "width": 169,
+        "height": 168
+      },
+      "src": "assets/items/detail/box-v3.webp",
+      "width": 169,
+      "height": 168,
+      "bytes": 30416,
+      "pixelExact": true
+    },
+    {
+      "kind": "item",
+      "id": "wooden_shoes",
+      "source": "assets/items/equipment-v1.png",
+      "crop": {
+        "left": 838,
+        "top": 670,
+        "width": 168,
+        "height": 168
+      },
+      "src": "assets/items/detail/wooden_shoes-v3.webp",
+      "width": 168,
+      "height": 168,
+      "bytes": 26954,
+      "pixelExact": true
+    },
+    {
+      "kind": "item",
+      "id": "hiking_hat",
+      "source": "assets/items/equipment-v1.png",
+      "crop": {
+        "left": 1005,
+        "top": 670,
+        "width": 169,
+        "height": 168
+      },
+      "src": "assets/items/detail/hiking_hat-v3.webp",
+      "width": 169,
+      "height": 168,
+      "bytes": 26416,
+      "pixelExact": true
+    },
+    {
+      "kind": "item",
+      "id": "tights",
+      "source": "assets/items/equipment-v1.png",
+      "crop": {
+        "left": 1173,
+        "top": 670,
+        "width": 168,
+        "height": 168
+      },
+      "src": "assets/items/detail/tights-v3.webp",
+      "width": 168,
+      "height": 168,
+      "bytes": 18766,
+      "pixelExact": true
+    },
+    {
+      "kind": "item",
+      "id": "full_body_swimsuit",
+      "source": "assets/items/equipment-v1.png",
+      "crop": {
+        "left": 0,
+        "top": 837,
+        "width": 168,
+        "height": 169
+      },
+      "src": "assets/items/detail/full_body_swimsuit-v3.webp",
+      "width": 168,
+      "height": 169,
+      "bytes": 21308,
+      "pixelExact": true
+    },
+    {
+      "kind": "item",
+      "id": "magazine",
+      "source": "assets/items/magazine-v1.png",
+      "crop": {
+        "left": 0,
+        "top": 0,
+        "width": 1254,
+        "height": 1254
+      },
+      "src": "assets/items/detail/magazine-v3.webp",
+      "width": 1254,
+      "height": 1254,
+      "bytes": 1077410,
+      "pixelExact": true
+    },
+    {
+      "kind": "item",
+      "id": "thimble",
+      "source": "assets/items/equipment-v1.png",
+      "crop": {
+        "left": 335,
+        "top": 837,
+        "width": 168,
+        "height": 169
+      },
+      "src": "assets/items/detail/thimble-v3.webp",
+      "width": 168,
+      "height": 169,
+      "bytes": 28344,
+      "pixelExact": true
+    },
+    {
+      "kind": "item",
+      "id": "slippers",
+      "source": "assets/items/equipment-v1.png",
+      "crop": {
+        "left": 502,
+        "top": 837,
+        "width": 169,
+        "height": 169
+      },
+      "src": "assets/items/detail/slippers-v3.webp",
+      "width": 169,
+      "height": 169,
+      "bytes": 30582,
+      "pixelExact": true
+    },
+    {
+      "kind": "item",
+      "id": "bunker_jacket",
+      "source": "assets/items/equipment-v1.png",
+      "crop": {
+        "left": 670,
+        "top": 837,
+        "width": 169,
+        "height": 169
+      },
+      "src": "assets/items/detail/bunker_jacket-v3.webp",
+      "width": 169,
+      "height": 169,
+      "bytes": 36252,
+      "pixelExact": true
+    },
+    {
+      "kind": "item",
+      "id": "hiking_shoes",
+      "source": "assets/items/equipment-v1.png",
+      "crop": {
+        "left": 838,
+        "top": 837,
+        "width": 168,
+        "height": 169
+      },
+      "src": "assets/items/detail/hiking_shoes-v3.webp",
+      "width": 168,
+      "height": 169,
+      "bytes": 29830,
+      "pixelExact": true
+    },
+    {
+      "kind": "item",
+      "id": "monk_s_robe",
+      "source": "assets/items/equipment-v1.png",
+      "crop": {
+        "left": 1005,
+        "top": 837,
+        "width": 169,
+        "height": 169
+      },
+      "src": "assets/items/detail/monk_s_robe-v3.webp",
+      "width": 169,
+      "height": 169,
+      "bytes": 27816,
+      "pixelExact": true
+    },
+    {
+      "kind": "item",
+      "id": "wooden_fish",
+      "source": "assets/items/equipment-v1.png",
+      "crop": {
+        "left": 1173,
+        "top": 837,
+        "width": 168,
+        "height": 169
+      },
+      "src": "assets/items/detail/wooden_fish-v3.webp",
+      "width": 168,
+      "height": 169,
+      "bytes": 29762,
+      "pixelExact": true
+    },
+    {
+      "kind": "item",
+      "id": "buddhist_scripture",
+      "source": "assets/items/equipment-v1.png",
+      "crop": {
+        "left": 0,
+        "top": 1005,
+        "width": 168,
+        "height": 168
+      },
+      "src": "assets/items/detail/buddhist_scripture-v3.webp",
+      "width": 168,
+      "height": 168,
+      "bytes": 36928,
+      "pixelExact": true
+    },
+    {
+      "kind": "item",
+      "id": "binoculars",
+      "source": "assets/items/equipment-v1.png",
+      "crop": {
+        "left": 167,
+        "top": 1005,
+        "width": 169,
+        "height": 168
+      },
+      "src": "assets/items/detail/binoculars-v3.webp",
+      "width": 169,
+      "height": 168,
+      "bytes": 27442,
+      "pixelExact": true
+    },
+    {
+      "kind": "item",
+      "id": "quiver",
+      "source": "assets/items/equipment-v1.png",
+      "crop": {
+        "left": 335,
+        "top": 1005,
+        "width": 168,
+        "height": 168
+      },
+      "src": "assets/items/detail/quiver-v3.webp",
+      "width": 168,
+      "height": 168,
+      "bytes": 26738,
+      "pixelExact": true
+    },
+    {
+      "kind": "item",
+      "id": "doctor_s_gown",
+      "source": "assets/items/equipment-v1.png",
+      "crop": {
+        "left": 502,
+        "top": 1005,
+        "width": 169,
+        "height": 168
+      },
+      "src": "assets/items/detail/doctor_s_gown-v3.webp",
+      "width": 169,
+      "height": 168,
+      "bytes": 27340,
+      "pixelExact": true
+    },
+    {
+      "kind": "map",
+      "source": "assets/lumia-island-painted-v1.png",
+      "before": 3324888,
+      "src": "assets/lumia-island-painted-web-v4.webp",
+      "width": 1521,
+      "height": 1034,
+      "bytes": 2331882,
+      "pixelExact": true
+    },
+    {
+      "kind": "map",
+      "source": "assets/lumia-island-hospital-v2.png",
+      "before": 2840506,
+      "src": "assets/lumia-island-hospital-web-v4.webp",
+      "width": 1521,
+      "height": 1034,
+      "bytes": 2023038,
+      "pixelExact": true
+    }
+  ]
+}

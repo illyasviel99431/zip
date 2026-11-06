@@ -1,0 +1,49 @@
+/* Yellow warning surfaces for danger in the player's own region. */
+.zone-warning{background:#655321eb;color:#fff3c0;border-color:#e6ca76}
+.shell[data-zone-danger] .battlefield{box-shadow:inset 0 0 0 3px #f0cd69;position:relative}
+.shell[data-zone-danger] .battlefield:after{content:'';position:absolute;inset:0;z-index:5;pointer-events:none;border:3px solid #f0cd69;box-shadow:inset 0 0 65px #b28c242c}
+.shell[data-zone-danger] .subbar,.shell[data-zone-danger] .mobile-hud{background:#554a2d;border-color:#ddc16d}
+.shell[data-zone-danger] #region-breadcrumb{color:#fff5d0;font-weight:700}
+.shell[data-zone-danger] .location-name{color:#fff0b4}
+.shell[data-zone-danger] .location-name svg{color:#f5d977}
+#warning-host{position:relative;z-index:6;flex-shrink:0}
+.zone-warning.zone-warning--danger{display:grid;grid-template-columns:26px minmax(0,1fr) auto;gap:9px 12px;align-items:start;margin:0 24px 10px;padding:14px 16px;background:linear-gradient(115deg,#81662cf5,#594921f7);border:1px solid #ebd486;border-left:5px solid #ffe28e;border-radius:5px;color:#fff7dd;box-shadow:0 5px 24px #60461155}
+.zone-warning--danger>svg{width:26px;height:26px;color:#ffebb0;margin-top:3px}
+.zone-warning-copy{min-width:0;display:flex;flex-direction:column;gap:5px}
+.zone-warning-copy strong{font-size:16px;line-height:1.5;letter-spacing:.2px;color:#fff9e7}
+.zone-warning-copy small{font-size:11px;line-height:1.75;color:#fff0bf}
+.zone-warning-preview{font-size:9px;letter-spacing:.4px;color:#f0dda7}
+.zone-countdown{display:flex;flex-direction:column;align-items:center;justify-content:center;min-width:62px;padding:6px 8px;border:1px solid #f2d77c6b;border-radius:4px;background:#352d1566;color:#fff9df;font-variant-numeric:tabular-nums}
+.zone-countdown b{font-size:23px;line-height:1.15;letter-spacing:1px}
+.zone-countdown small{font-size:9px;margin-top:3px;white-space:nowrap}
+.zone-warning--danger .zone-warning-action{grid-column:2/4;justify-self:start;display:flex;align-items:center;gap:7px;padding:7px 10px;min-height:34px;background:#f3d98e;color:#493a18;border:1px solid #fff0bd;border-radius:3px;font-size:11px;font-weight:700}
+.zone-warning--danger .zone-warning-action:hover{background:#fff0ba;border-color:#fff;color:#3b2f12}
+.zone-warning-action svg{width:15px;height:15px}
+.zone-warning--danger .zone-warning-action kbd{font-size:10px;border:1px solid #8a6d254f;border-radius:2px;padding:1px 4px;margin-left:6px}
+dialog[data-zone-danger]{border-color:#ebcd77;box-shadow:0 0 0 2px #eac65f40,0 22px 90px #28241499}
+dialog[data-zone-danger]::backdrop{background:#40391d99}
+dialog[data-zone-danger] .window-footer{background:#6e5829;color:#fff4cf;border-top:1px solid #edcf77;font-size:11px;line-height:1.6}
+.illustrated-world-map .map-current-outline.map-current-danger{stroke:#f1cf70;stroke-width:4}
+.illustrated-world-map .district.is-current:is(.is-closed,.is-warning) .district-land{stroke:#f1cf70;stroke-width:3}
+.district.is-current:is(.is-closed,.is-warning) .map-label-bg{fill:#78632e;stroke:#ebd486;stroke-width:2}
+.district.is-current:is(.is-closed,.is-warning) .map-label-name{fill:#fff5d3}
+.district.is-current:is(.is-closed,.is-warning) .map-label-badge-bg{fill:#927331;stroke:#f9df96}
+.district.is-current:is(.is-closed,.is-warning) .map-label-badge{fill:#fff8df}
+@media(min-width:801px) and (max-height:850px){
+ .zone-warning.zone-warning--danger{margin:0 16px 8px;padding:9px 12px;gap:5px 9px;grid-template-columns:22px minmax(0,1fr) auto}
+ .zone-warning-copy strong{font-size:14px}.zone-warning-copy small{font-size:10px}
+ .zone-warning--danger>svg{width:21px;height:21px}.zone-countdown b{font-size:20px}
+ .zone-warning--danger .zone-warning-action{padding:5px 8px;min-height:28px;font-size:10px}
+ .shell[data-zone-danger] .stage{min-height:100px;padding-top:8px;padding-bottom:8px}
+ .shell[data-zone-danger] .exploration-card{padding:12px 22px}
+ .shell[data-zone-danger] .exploration-card .stage-title{font-size:23px;margin-top:7px}
+ .shell[data-zone-danger] .field-location-icon{width:30px;height:30px;margin-bottom:5px}
+}
+@media(max-width:600px){
+ .zone-warning.zone-warning--danger{margin:0 14px 10px;padding:12px 10px;gap:8px;grid-template-columns:22px minmax(0,1fr) auto}
+ .zone-warning--danger>svg{width:22px;height:22px}.zone-warning-copy strong{font-size:14px}
+ .zone-warning-copy small{font-size:10px}.zone-countdown{min-width:53px;padding:6px}
+ .zone-countdown b{font-size:21px}.zone-warning--danger .zone-warning-action{font-size:11px;min-height:44px}
+ .shell[data-zone-danger] .stage{min-height:180px}
+ dialog[data-zone-danger] .window-footer{font-size:10px}
+}

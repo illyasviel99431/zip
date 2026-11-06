@@ -1,0 +1,204 @@
+{
+  "tool": "built-in image_gen",
+  "webExport": "WebP quality 88, original generated dimensions and composition preserved",
+  "regions": [
+    {
+      "id": 1,
+      "slug": "villas",
+      "source": "generated-images/exec-f268a5d5-55d2-4aa4-b571-fefc168f6d69.png",
+      "asset": "assets/regions/01-villas-v1.webp",
+      "width": 1672,
+      "height": 941,
+      "bytes": 618248
+    },
+    {
+      "id": 2,
+      "slug": "school",
+      "source": "generated-images/exec-a22ac506-6fdc-4079-ade1-176b6423326d.png",
+      "asset": "assets/regions/02-school-v1.webp",
+      "width": 1672,
+      "height": 941,
+      "bytes": 548338
+    },
+    {
+      "id": 3,
+      "slug": "factory",
+      "source": "generated-images/exec-ab0844f5-d90b-48bb-b784-16953b8871f2.png",
+      "asset": "assets/regions/03-factory-v1.webp",
+      "width": 1672,
+      "height": 941,
+      "bytes": 577470
+    },
+    {
+      "id": 4,
+      "slug": "church",
+      "source": "generated-images/exec-d8291af7-015f-4ee3-8d63-6f1398ca9de0.png",
+      "asset": "assets/regions/04-church-v1.webp",
+      "width": 1672,
+      "height": 941,
+      "bytes": 504218
+    },
+    {
+      "id": 5,
+      "slug": "forest",
+      "source": "generated-images/exec-41646a77-3e5c-4ca9-a090-78e0ba4e6ddb.png",
+      "asset": "assets/regions/05-forest-v1.webp",
+      "width": 1672,
+      "height": 941,
+      "bytes": 566078
+    },
+    {
+      "id": 6,
+      "slug": "pond",
+      "source": "generated-images/exec-c347c249-dffb-48ae-899e-70c8d488cd2c.png",
+      "asset": "assets/regions/06-pond-v1.webp",
+      "width": 1672,
+      "height": 941,
+      "bytes": 651914
+    },
+    {
+      "id": 7,
+      "slug": "harbor",
+      "source": "generated-images/exec-5b9a7847-693e-4b0a-870f-58b3098a2be0.png",
+      "asset": "assets/regions/07-harbor-v1.webp",
+      "width": 1672,
+      "height": 941,
+      "bytes": 570392
+    },
+    {
+      "id": 8,
+      "slug": "hotel",
+      "source": "generated-images/exec-e5a559d9-0103-497d-86e8-edd59d665e88.png",
+      "asset": "assets/regions/08-hotel-v1.webp",
+      "width": 1672,
+      "height": 941,
+      "bytes": 573042
+    },
+    {
+      "id": 9,
+      "slug": "alley",
+      "source": "generated-images/exec-897d0141-b3d3-49b3-ba29-7f1f4b9805a1.png",
+      "asset": "assets/regions/09-alley-v1.webp",
+      "width": 1672,
+      "height": 941,
+      "bytes": 632960
+    },
+    {
+      "id": 10,
+      "slug": "town-hall",
+      "source": "generated-images/exec-f0cd7c22-9b7f-4dfa-909a-61a9bb59cfbd.png",
+      "asset": "assets/regions/10-town-hall-v1.webp",
+      "width": 1672,
+      "height": 941,
+      "bytes": 570978
+    },
+    {
+      "id": 11,
+      "slug": "fire-station",
+      "source": "generated-images/exec-162f11f5-9bbc-44ac-b51e-f4628691eb1c.png",
+      "asset": "assets/regions/11-fire-station-v1.webp",
+      "width": 1672,
+      "height": 941,
+      "bytes": 543170
+    },
+    {
+      "id": 12,
+      "slug": "mountain-trail",
+      "source": "generated-images/exec-38636ff1-254a-4c23-b829-66760273e2cf.png",
+      "asset": "assets/regions/12-mountain-trail-v1.webp",
+      "width": 1672,
+      "height": 941,
+      "bytes": 615990
+    },
+    {
+      "id": 13,
+      "slug": "cemetery",
+      "source": "generated-images/exec-3fb0672a-62c7-42b5-9c44-ba8da12484d8.png",
+      "asset": "assets/regions/13-cemetery-v1.webp",
+      "width": 1672,
+      "height": 941,
+      "bytes": 592118
+    },
+    {
+      "id": 14,
+      "slug": "tunnel",
+      "source": "generated-images/exec-01324cfe-5b8b-477b-9114-a30120ba5c7b.png",
+      "asset": "assets/regions/14-tunnel-v1.webp",
+      "width": 1672,
+      "height": 941,
+      "bytes": 608608
+    },
+    {
+      "id": 15,
+      "slug": "temple",
+      "source": "generated-images/exec-681406a7-56c6-47e7-ac18-ab2a52353906.png",
+      "asset": "assets/regions/15-temple-v1.webp",
+      "width": 1672,
+      "height": 941,
+      "bytes": 571474
+    },
+    {
+      "id": 16,
+      "slug": "lighthouse",
+      "source": "generated-images/exec-a8331aab-5d86-46bc-ac67-e37fa06c3437.png",
+      "asset": "assets/regions/16-lighthouse-v1.webp",
+      "width": 1672,
+      "height": 941,
+      "bytes": 501098
+    },
+    {
+      "id": 17,
+      "slug": "archery-range",
+      "source": "generated-images/exec-9f53d28f-7689-4b46-9f53-512f9ed1372e.png",
+      "asset": "assets/regions/17-archery-range-v1.webp",
+      "width": 1672,
+      "height": 941,
+      "bytes": 527288
+    },
+    {
+      "id": 18,
+      "slug": "hospital",
+      "source": "generated-images/exec-472b68c6-05df-41fc-9871-5bab49b2e8fa.png",
+      "asset": "assets/regions/18-hospital-v1.webp",
+      "width": 1672,
+      "height": 941,
+      "bytes": 519760
+    },
+    {
+      "id": 19,
+      "slug": "beach",
+      "source": "generated-images/exec-c3ad723e-cf5f-4a8f-b4ad-f2626ab16d92.png",
+      "asset": "assets/regions/19-beach-v1.webp",
+      "width": 1672,
+      "height": 941,
+      "bytes": 579784
+    },
+    {
+      "id": 20,
+      "slug": "well",
+      "source": "generated-images/exec-c0b97a9c-9be3-416a-a259-fd3daad4622e.png",
+      "asset": "assets/regions/20-well-v1.webp",
+      "width": 1672,
+      "height": 941,
+      "bytes": 622834
+    },
+    {
+      "id": 21,
+      "slug": "slums",
+      "source": "generated-images/exec-a972e338-f452-44ee-aa72-81ee97b8b396.png",
+      "asset": "assets/regions/21-slums-v1.webp",
+      "width": 1672,
+      "height": 941,
+      "bytes": 565992
+    },
+    {
+      "id": 22,
+      "slug": "research-lab",
+      "source": "generated-images/exec-58952143-800a-45f1-b06b-d75f4f727eaa.png",
+      "asset": "assets/regions/22-research-lab-v1.webp",
+      "width": 1672,
+      "height": 941,
+      "bytes": 555016
+    }
+  ]
+}

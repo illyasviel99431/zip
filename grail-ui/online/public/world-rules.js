@@ -1,0 +1,8 @@
+/* Shared by the browser practice and authoritative game server. */
+globalThis.GRAIL_WORLD={
+ restricted(data){return data.regions.filter(r=>r.restricted).map(r=>r.id);},
+ closures(data,random=Math.random){let open=data.regions.filter(r=>!r.restricted).map(r=>r.id);return data.closureSchedule.map(({t,count})=>{const ids=[],total=Math.min(count,open.length-1);for(let n=0;n<total;n++){const index=Math.floor(random()*open.length);ids.push(open.splice(index,1)[0]);}return {t,ids};});},
+ stock(data){return Object.fromEntries(data.regions.flatMap(r=>r.loot.map(l=>[`${r.id}:${l.itemId}`,l.stockUnits])));},
+ release(data,world,seconds,closed=[],random=Math.random){const released=world.releasedLoot??=[];const regions=data.regions.filter(r=>!r.restricted&&!closed.includes(r.id));const events=[];if(!regions.length)return events;for(const wave of data.randomLoot){if(wave.at>seconds||released.includes(wave.at))continue;for(const entry of wave.entries){for(let n=0;n<entry.stockDiscoveries;n++){const r=regions[Math.floor(random()*regions.length)],key=`${r.id}:${entry.itemId}`;world.stock[key]=(world.stock[key]||0)+entry.quantityPerDiscovery;}}released.push(wave.at);events.push(wave);}return events;},
+ available(data,world,region){return data.items.flatMap(item=>{const key=`${region}:${item.id}`,remaining=world.stock[key]||0;if(!remaining)return [];const fixed=data.regions.find(r=>r.id===region)?.loot.find(l=>l.itemId===item.id);const random=data.randomLoot.flatMap(w=>w.entries).find(e=>e.itemId===item.id);return [{itemId:item.id,quantityPerDiscovery:fixed?.quantityPerDiscovery||random?.quantityPerDiscovery||1,stockUnits:remaining}];});}
+};

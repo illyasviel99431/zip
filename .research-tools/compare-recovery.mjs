@@ -1,12 +1,13 @@
 import fs from 'node:fs/promises';
 import path from 'node:path';
 import crypto from 'node:crypto';
+import os from 'node:os';
 const source=await fs.readFile('.research-tools/define-game-system.mjs','utf8');
 const generated=new Map();
 const proxy={readFile:(p,...args)=>fs.readFile(p,...args),writeFile:async(p,value)=>generated.set(path.basename(p),Buffer.from(value,'utf8'))};
 const AsyncFunction=Object.getPrototypeOf(async function(){}).constructor;
 await new AsyncFunction('fs',source.replace(/^import fs from 'node:fs\/promises';\s*/,''))(proxy);
-const downloads='C:/Users/sprig/Downloads';
+const downloads=process.env.RECOVERY_DOWNLOADS||path.join(os.homedir(),'Downloads');
 const folders=(await fs.readdir(downloads,{withFileTypes:true})).filter(x=>x.isDirectory()&&x.name.includes('2026-11-01'));
 const names=['서번트_캐릭터_10종_관리표.txt','성배전쟁_공통_게임_규칙_v0.2.txt','알트리아_펜드래곤_캐릭터_성능_설계서_v2.2.txt'];
 const hash=b=>crypto.createHash('sha256').update(b).digest('hex');

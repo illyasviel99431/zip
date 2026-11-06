@@ -1,0 +1,4009 @@
+{
+  "retrievedAt": "2026-11-02T19:42:55.081Z",
+  "basis": "Gamerch current exploration tables, excludes change-history rollback tables",
+  "regions": [
+    {
+      "id": 1,
+      "name": "고급주택가",
+      "nameJa": "高級住宅街",
+      "page": 460834,
+      "icon": "building",
+      "type": "주거 지구",
+      "source": "https://gamerch.com/blacksurvival/460834",
+      "loot": [
+        {
+          "nameJa": "鎖",
+          "source": "https://gamerch.com/blacksurvival/461218",
+          "stockDiscoveries": 5,
+          "cells": [
+            "鎖",
+            "8",
+            "一般",
+            "５個"
+          ]
+        },
+        {
+          "nameJa": "包丁",
+          "source": "https://gamerch.com/blacksurvival/460916",
+          "stockDiscoveries": 4,
+          "cells": [
+            "包丁",
+            "8",
+            "一般",
+            "４個"
+          ]
+        },
+        {
+          "nameJa": "グラス",
+          "source": "https://gamerch.com/blacksurvival/461496",
+          "stockDiscoveries": 4,
+          "cells": [
+            "グラス",
+            "5",
+            "一般",
+            "４個"
+          ]
+        },
+        {
+          "nameJa": "針",
+          "source": "https://gamerch.com/blacksurvival/460939",
+          "stockDiscoveries": 3,
+          "cells": [
+            "針",
+            "5",
+            "一般",
+            "３個"
+          ]
+        },
+        {
+          "nameJa": "刀",
+          "source": "https://gamerch.com/blacksurvival/460908",
+          "stockDiscoveries": 2,
+          "cells": [
+            "刀",
+            "8",
+            "一般",
+            "２個"
+          ]
+        },
+        {
+          "nameJa": "鍋",
+          "source": "https://gamerch.com/blacksurvival/461481",
+          "stockDiscoveries": 2,
+          "cells": [
+            "鍋",
+            "10",
+            "一般",
+            "２個"
+          ]
+        },
+        {
+          "nameJa": "皿",
+          "source": "https://gamerch.com/blacksurvival/461495",
+          "stockDiscoveries": 1,
+          "cells": [
+            "皿",
+            "5",
+            "一般",
+            "１個"
+          ]
+        },
+        {
+          "nameJa": "テレビジョン",
+          "source": "https://gamerch.com/blacksurvival/461249",
+          "stockDiscoveries": 1,
+          "cells": [
+            "テレビジョン",
+            "40",
+            "高級",
+            "１個"
+          ]
+        },
+        {
+          "nameJa": "壊れたノートパソコン",
+          "source": "https://gamerch.com/blacksurvival/461480",
+          "stockDiscoveries": 1,
+          "cells": [
+            "壊れたノートパソコン",
+            "12",
+            "一般",
+            "１個"
+          ]
+        },
+        {
+          "nameJa": "ウィンドブレーカー",
+          "source": "https://gamerch.com/blacksurvival/461563",
+          "stockDiscoveries": 4,
+          "cells": [
+            "ウィンドブレーカー",
+            "5",
+            "一般",
+            "４個"
+          ]
+        },
+        {
+          "nameJa": "スニーカー",
+          "source": "https://gamerch.com/blacksurvival/461599",
+          "stockDiscoveries": 3,
+          "cells": [
+            "スニーカー",
+            "3",
+            "一般",
+            "３個"
+          ]
+        },
+        {
+          "nameJa": "リボン",
+          "source": "https://gamerch.com/blacksurvival/461291",
+          "stockDiscoveries": 3,
+          "cells": [
+            "リボン",
+            "2",
+            "一般",
+            "３個"
+          ]
+        },
+        {
+          "nameJa": "腕時計",
+          "source": "https://gamerch.com/blacksurvival/461586",
+          "stockDiscoveries": 3,
+          "cells": [
+            "腕時計",
+            "3",
+            "一般",
+            "３個"
+          ]
+        },
+        {
+          "nameJa": "ブレスレット",
+          "source": "https://gamerch.com/blacksurvival/461588",
+          "stockDiscoveries": 2,
+          "cells": [
+            "ブレスレット",
+            "3",
+            "一般",
+            "２個"
+          ]
+        },
+        {
+          "nameJa": "腕ぬき",
+          "source": "https://gamerch.com/blacksurvival/461585",
+          "stockDiscoveries": 1,
+          "cells": [
+            "腕ぬき",
+            "5",
+            "一般",
+            "１個"
+          ]
+        },
+        {
+          "nameJa": "醤油",
+          "source": "https://gamerch.com/blacksurvival/461430",
+          "stockDiscoveries": 3,
+          "cells": [
+            "醤油",
+            "5",
+            "一般",
+            "３個"
+          ]
+        },
+        {
+          "nameJa": "チョコレート",
+          "source": "https://gamerch.com/blacksurvival/461404",
+          "stockDiscoveries": 3,
+          "cells": [
+            "チョコレート",
+            "20",
+            "一般",
+            "３個"
+          ]
+        },
+        {
+          "nameJa": "オレンジ",
+          "source": "https://gamerch.com/blacksurvival/461409",
+          "stockDiscoveries": 2,
+          "cells": [
+            "オレンジ",
+            "12",
+            "一般",
+            "２個"
+          ]
+        },
+        {
+          "nameJa": "カレーパウダー",
+          "source": "https://gamerch.com/blacksurvival/461431",
+          "stockDiscoveries": 2,
+          "cells": [
+            "カレーパウダー",
+            "5",
+            "一般",
+            "２個"
+          ]
+        },
+        {
+          "nameJa": "コーヒー豆",
+          "source": "https://gamerch.com/blacksurvival/461464",
+          "stockDiscoveries": 3,
+          "cells": [
+            "コーヒー豆",
+            "20",
+            "一般",
+            "３個"
+          ]
+        },
+        {
+          "nameJa": "砥石",
+          "source": "https://gamerch.com/blacksurvival/461320",
+          "stockDiscoveries": 5,
+          "cells": [
+            "砥石",
+            "x1",
+            "一般",
+            "５個"
+          ]
+        }
+      ],
+      "summary": [
+        "21種",
+        "57個"
+      ],
+      "restricted": false
+    },
+    {
+      "id": 2,
+      "name": "학교",
+      "nameJa": "学校",
+      "page": 460835,
+      "icon": "book",
+      "type": "교육 지구",
+      "source": "https://gamerch.com/blacksurvival/460835",
+      "loot": [
+        {
+          "nameJa": "剃刀",
+          "source": "https://gamerch.com/blacksurvival/460920",
+          "stockDiscoveries": 6,
+          "cells": [
+            "剃刀",
+            "5",
+            "一般",
+            "６個"
+          ]
+        },
+        {
+          "nameJa": "はさみ",
+          "source": "https://gamerch.com/blacksurvival/460918",
+          "stockDiscoveries": 6,
+          "cells": [
+            "はさみ",
+            "5",
+            "一般",
+            "６個"
+          ]
+        },
+        {
+          "nameJa": "白チョーク",
+          "source": "https://gamerch.com/blacksurvival/461491",
+          "stockDiscoveries": 3,
+          "cells": [
+            "白チョーク",
+            "5",
+            "一般",
+            "３個"
+          ]
+        },
+        {
+          "nameJa": "万年筆",
+          "source": "https://gamerch.com/blacksurvival/460938",
+          "stockDiscoveries": 3,
+          "cells": [
+            "万年筆",
+            "5",
+            "一般",
+            "３個"
+          ]
+        },
+        {
+          "nameJa": "バット",
+          "source": "https://gamerch.com/blacksurvival/461216",
+          "stockDiscoveries": 2,
+          "cells": [
+            "バット",
+            "10",
+            "一般",
+            "２個"
+          ]
+        },
+        {
+          "nameJa": "人体模型",
+          "source": "https://gamerch.com/blacksurvival/461230",
+          "stockDiscoveries": 1,
+          "cells": [
+            "人体模型",
+            "10",
+            "一般",
+            "１個"
+          ]
+        },
+        {
+          "nameJa": "ウィンドブレーカー",
+          "source": "https://gamerch.com/blacksurvival/461563",
+          "stockDiscoveries": 6,
+          "cells": [
+            "ウィンドブレーカー",
+            "5",
+            "一般",
+            "６個"
+          ]
+        },
+        {
+          "nameJa": "ヘルメット",
+          "source": "https://gamerch.com/blacksurvival/461576",
+          "stockDiscoveries": 4,
+          "cells": [
+            "ヘルメット",
+            "5",
+            "一般",
+            "４個"
+          ]
+        },
+        {
+          "nameJa": "予備軍の腕章",
+          "source": "https://gamerch.com/blacksurvival/461587",
+          "stockDiscoveries": 4,
+          "cells": [
+            "予備軍の腕章",
+            "3",
+            "一般",
+            "４個"
+          ]
+        },
+        {
+          "nameJa": "ダンボール",
+          "source": "https://gamerch.com/blacksurvival/461295",
+          "stockDiscoveries": 4,
+          "cells": [
+            "ダンボール",
+            "2",
+            "一般",
+            "４個"
+          ]
+        },
+        {
+          "nameJa": "腕ぬき",
+          "source": "https://gamerch.com/blacksurvival/461585",
+          "stockDiscoveries": 3,
+          "cells": [
+            "腕ぬき",
+            "5",
+            "一般",
+            "３個"
+          ]
+        },
+        {
+          "nameJa": "リボン",
+          "source": "https://gamerch.com/blacksurvival/461291",
+          "stockDiscoveries": 2,
+          "cells": [
+            "リボン",
+            "2",
+            "一般",
+            "２個"
+          ]
+        },
+        {
+          "nameJa": "ライター",
+          "source": "https://gamerch.com/blacksurvival/461635",
+          "stockDiscoveries": 5,
+          "cells": [
+            "ライター",
+            "x3",
+            "一般",
+            "５個"
+          ]
+        },
+        {
+          "nameJa": "アルコール",
+          "source": "https://gamerch.com/blacksurvival/461647",
+          "stockDiscoveries": 5,
+          "cells": [
+            "アルコール",
+            "x1",
+            "一般",
+            "５個"
+          ]
+        },
+        {
+          "nameJa": "ゴム",
+          "source": "https://gamerch.com/blacksurvival/461638",
+          "stockDiscoveries": 3,
+          "cells": [
+            "ゴム",
+            "x1",
+            "一般",
+            "３個"
+          ]
+        },
+        {
+          "nameJa": "レーザーポインタ",
+          "source": "https://gamerch.com/blacksurvival/461632",
+          "stockDiscoveries": 3,
+          "cells": [
+            "レーザーポインタ",
+            "x1",
+            "高級",
+            "３個"
+          ]
+        }
+      ],
+      "summary": [
+        "16種",
+        "60個"
+      ],
+      "restricted": false
+    },
+    {
+      "id": 3,
+      "name": "공장",
+      "nameJa": "工場",
+      "page": 460824,
+      "icon": "factory",
+      "type": "산업 지구",
+      "source": "https://gamerch.com/blacksurvival/460824",
+      "loot": [
+        {
+          "nameJa": "鉄パイプ",
+          "source": "https://gamerch.com/blacksurvival/461219",
+          "stockDiscoveries": 5,
+          "cells": [
+            "鉄パイプ",
+            "8",
+            "一般",
+            "５個"
+          ]
+        },
+        {
+          "nameJa": "石弓",
+          "source": "https://gamerch.com/blacksurvival/461511",
+          "stockDiscoveries": 4,
+          "cells": [
+            "石弓",
+            "12",
+            "一般",
+            "４個"
+          ]
+        },
+        {
+          "nameJa": "ガラスの玉",
+          "source": "https://gamerch.com/blacksurvival/461493",
+          "stockDiscoveries": 3,
+          "cells": [
+            "ガラスの玉",
+            "5",
+            "一般",
+            "３個"
+          ]
+        },
+        {
+          "nameJa": "はさみ",
+          "source": "https://gamerch.com/blacksurvival/460918",
+          "stockDiscoveries": 2,
+          "cells": [
+            "はさみ",
+            "5",
+            "一般",
+            "２個"
+          ]
+        },
+        {
+          "nameJa": "めがね",
+          "source": "https://gamerch.com/blacksurvival/461580",
+          "stockDiscoveries": 4,
+          "cells": [
+            "めがね",
+            "1",
+            "一般",
+            "４個"
+          ]
+        },
+        {
+          "nameJa": "予備軍の腕章",
+          "source": "https://gamerch.com/blacksurvival/461587",
+          "stockDiscoveries": 3,
+          "cells": [
+            "予備軍の腕章",
+            "3",
+            "一般",
+            "３個"
+          ]
+        },
+        {
+          "nameJa": "醤油",
+          "source": "https://gamerch.com/blacksurvival/461430",
+          "stockDiscoveries": 2,
+          "cells": [
+            "醤油",
+            "5",
+            "一般",
+            "２個"
+          ]
+        },
+        {
+          "nameJa": "屑鉄",
+          "source": "https://gamerch.com/blacksurvival/461637",
+          "stockDiscoveries": 8,
+          "cells": [
+            "屑鉄",
+            "x1",
+            "一般",
+            "８個"
+          ]
+        },
+        {
+          "nameJa": "鉄糸",
+          "source": "https://gamerch.com/blacksurvival/461640",
+          "stockDiscoveries": 5,
+          "cells": [
+            "鉄糸",
+            "x1",
+            "一般",
+            "５個"
+          ]
+        },
+        {
+          "nameJa": "釘",
+          "source": "https://gamerch.com/blacksurvival/461321",
+          "stockDiscoveries": 4,
+          "cells": [
+            "釘",
+            "x1",
+            "一般",
+            "４個"
+          ]
+        },
+        {
+          "nameJa": "接着剤",
+          "source": "https://gamerch.com/blacksurvival/461335",
+          "stockDiscoveries": 5,
+          "cells": [
+            "接着剤",
+            "x1",
+            "一般",
+            "５個"
+          ]
+        },
+        {
+          "nameJa": "レーザーポインタ",
+          "source": "https://gamerch.com/blacksurvival/461632",
+          "stockDiscoveries": 5,
+          "cells": [
+            "レーザーポインタ",
+            "x１",
+            "高級",
+            "５個"
+          ]
+        }
+      ],
+      "summary": [
+        "12種",
+        "50個"
+      ],
+      "restricted": false
+    },
+    {
+      "id": 4,
+      "name": "성당",
+      "nameJa": "教会",
+      "page": 460827,
+      "icon": "church",
+      "type": "종교 지구",
+      "source": "https://gamerch.com/blacksurvival/460827",
+      "loot": [
+        {
+          "nameJa": "短棒",
+          "source": "https://gamerch.com/blacksurvival/461224",
+          "stockDiscoveries": 4,
+          "cells": [
+            "短棒",
+            "10",
+            "一般",
+            "４個"
+          ]
+        },
+        {
+          "nameJa": "投擲用の短刀",
+          "source": "https://gamerch.com/blacksurvival/461479",
+          "stockDiscoveries": 4,
+          "cells": [
+            "投擲用の短刀",
+            "10",
+            "一般",
+            "４個"
+          ]
+        },
+        {
+          "nameJa": "F92S",
+          "source": "https://gamerch.com/blacksurvival/461354",
+          "stockDiscoveries": 4,
+          "cells": [
+            "F92S",
+            "8",
+            "一般",
+            "４個"
+          ]
+        },
+        {
+          "nameJa": "洋弓",
+          "source": "https://gamerch.com/blacksurvival/461512",
+          "stockDiscoveries": 4,
+          "cells": [
+            "洋弓",
+            "10",
+            "一般",
+            "４個"
+          ]
+        },
+        {
+          "nameJa": "長剣",
+          "source": "https://gamerch.com/blacksurvival/460910",
+          "stockDiscoveries": 3,
+          "cells": [
+            "長剣",
+            "10",
+            "一般",
+            "３個"
+          ]
+        },
+        {
+          "nameJa": "CD",
+          "source": "https://gamerch.com/blacksurvival/461490",
+          "stockDiscoveries": 3,
+          "cells": [
+            "CD",
+            "20",
+            "一般",
+            "３個"
+          ]
+        },
+        {
+          "nameJa": "サザーンリボルバー",
+          "source": "https://gamerch.com/blacksurvival/461357",
+          "stockDiscoveries": 3,
+          "cells": [
+            "サザーンリボルバー",
+            "10",
+            "一般",
+            "３個"
+          ]
+        },
+        {
+          "nameJa": "石弓",
+          "source": "https://gamerch.com/blacksurvival/461511",
+          "stockDiscoveries": 3,
+          "cells": [
+            "石弓",
+            "12",
+            "一般",
+            "３個"
+          ]
+        },
+        {
+          "nameJa": "投げ罠",
+          "source": "https://gamerch.com/blacksurvival/461541",
+          "stockDiscoveries": 3,
+          "cells": [
+            "投げ罠",
+            "5",
+            "一般",
+            "３個"
+          ]
+        },
+        {
+          "nameJa": "白チョーク",
+          "source": "https://gamerch.com/blacksurvival/461491",
+          "stockDiscoveries": 3,
+          "cells": [
+            "白チョーク",
+            "5",
+            "一般",
+            "３個"
+          ]
+        },
+        {
+          "nameJa": "ガラスの玉",
+          "source": "https://gamerch.com/blacksurvival/461493",
+          "stockDiscoveries": 2,
+          "cells": [
+            "ガラスの玉",
+            "5",
+            "一般",
+            "２個"
+          ]
+        },
+        {
+          "nameJa": "ノーザンリボルバー",
+          "source": "https://gamerch.com/blacksurvival/461356",
+          "stockDiscoveries": 1,
+          "cells": [
+            "ノーザンリボルバー",
+            "10",
+            "一般",
+            "１個"
+          ]
+        },
+        {
+          "nameJa": "聖杯",
+          "source": "https://gamerch.com/blacksurvival/461483",
+          "stockDiscoveries": 1,
+          "cells": [
+            "聖杯",
+            "8",
+            "一般",
+            "１個"
+          ]
+        },
+        {
+          "nameJa": "司祭服",
+          "source": "https://gamerch.com/blacksurvival/461565",
+          "stockDiscoveries": 5,
+          "cells": [
+            "司祭服",
+            "5",
+            "一般",
+            "５個"
+          ]
+        },
+        {
+          "nameJa": "十字架",
+          "source": "https://gamerch.com/blacksurvival/461294",
+          "stockDiscoveries": 5,
+          "cells": [
+            "十字架",
+            "2",
+            "一般",
+            "５個"
+          ]
+        },
+        {
+          "nameJa": "木靴",
+          "source": "https://gamerch.com/blacksurvival/461597",
+          "stockDiscoveries": 2,
+          "cells": [
+            "木靴",
+            "3",
+            "一般",
+            "２個"
+          ]
+        },
+        {
+          "nameJa": "聖水",
+          "source": "https://gamerch.com/blacksurvival/461386",
+          "stockDiscoveries": 3,
+          "cells": [
+            "聖水",
+            "70",
+            "高級",
+            "３個"
+          ]
+        }
+      ],
+      "summary": [
+        "17種",
+        "53個"
+      ],
+      "restricted": false
+    },
+    {
+      "id": 5,
+      "name": "숲",
+      "nameJa": "森",
+      "page": 460843,
+      "icon": "tree",
+      "type": "삼림 지대",
+      "source": "https://gamerch.com/blacksurvival/460843",
+      "loot": [
+        {
+          "nameJa": "竹",
+          "source": "https://gamerch.com/blacksurvival/461221",
+          "stockDiscoveries": 6,
+          "cells": [
+            "竹",
+            "10",
+            "一般",
+            "６個"
+          ]
+        },
+        {
+          "nameJa": "モリ",
+          "source": "https://gamerch.com/blacksurvival/460935",
+          "stockDiscoveries": 5,
+          "cells": [
+            "モリ",
+            "14",
+            "一般",
+            "５個"
+          ]
+        },
+        {
+          "nameJa": "爪",
+          "source": "https://gamerch.com/blacksurvival/461524",
+          "stockDiscoveries": 4,
+          "cells": [
+            "爪",
+            "8",
+            "一般",
+            "４個"
+          ]
+        },
+        {
+          "nameJa": "ハチェット",
+          "source": "https://gamerch.com/blacksurvival/460912",
+          "stockDiscoveries": 4,
+          "cells": [
+            "ハチェット",
+            "10",
+            "一般",
+            "４個"
+          ]
+        },
+        {
+          "nameJa": "短槍",
+          "source": "https://gamerch.com/blacksurvival/460936",
+          "stockDiscoveries": 4,
+          "cells": [
+            "短槍",
+            "10",
+            "一般",
+            "４個"
+          ]
+        },
+        {
+          "nameJa": "トマホーク",
+          "source": "https://gamerch.com/blacksurvival/461245",
+          "stockDiscoveries": 3,
+          "cells": [
+            "トマホーク",
+            "10",
+            "一般",
+            "３個"
+          ]
+        },
+        {
+          "nameJa": "枝",
+          "source": "https://gamerch.com/blacksurvival/461227",
+          "stockDiscoveries": 3,
+          "cells": [
+            "枝",
+            "5",
+            "一般",
+            "３個"
+          ]
+        },
+        {
+          "nameJa": "鎌",
+          "source": "https://gamerch.com/blacksurvival/460914",
+          "stockDiscoveries": 2,
+          "cells": [
+            "鎌",
+            "10",
+            "一般",
+            "２個"
+          ]
+        },
+        {
+          "nameJa": "投げ罠",
+          "source": "https://gamerch.com/blacksurvival/461541",
+          "stockDiscoveries": 2,
+          "cells": [
+            "投げ罠",
+            "5",
+            "一般",
+            "２個"
+          ]
+        },
+        {
+          "nameJa": "登山帽",
+          "source": "https://gamerch.com/blacksurvival/461578",
+          "stockDiscoveries": 2,
+          "cells": [
+            "登山帽",
+            "3",
+            "一般",
+            "２個"
+          ]
+        },
+        {
+          "nameJa": "花",
+          "source": "https://gamerch.com/blacksurvival/461292",
+          "stockDiscoveries": 2,
+          "cells": [
+            "花",
+            "2",
+            "一般",
+            "２個"
+          ]
+        },
+        {
+          "nameJa": "薬草",
+          "source": "https://gamerch.com/blacksurvival/461429",
+          "stockDiscoveries": 7,
+          "cells": [
+            "薬草",
+            "7",
+            "一般",
+            "７個"
+          ]
+        },
+        {
+          "nameJa": "水",
+          "source": "https://gamerch.com/blacksurvival/461470",
+          "stockDiscoveries": 7,
+          "cells": [
+            "水",
+            "10",
+            "一般",
+            "７個"
+          ]
+        },
+        {
+          "nameJa": "皮",
+          "source": "https://gamerch.com/blacksurvival/461639",
+          "stockDiscoveries": 6,
+          "cells": [
+            "皮",
+            "x1",
+            "一般",
+            "６個"
+          ]
+        },
+        {
+          "nameJa": "鉄鉱石",
+          "source": "https://gamerch.com/blacksurvival/461641",
+          "stockDiscoveries": 4,
+          "cells": [
+            "鉄鉱石",
+            "x3",
+            "一般",
+            "４個"
+          ]
+        },
+        {
+          "nameJa": "羽",
+          "source": "https://gamerch.com/blacksurvival/461634",
+          "stockDiscoveries": 3,
+          "cells": [
+            "羽",
+            "x1",
+            "一般",
+            "３個"
+          ]
+        }
+      ],
+      "summary": [
+        "16種",
+        "64個"
+      ],
+      "restricted": false
+    },
+    {
+      "id": 6,
+      "name": "연못",
+      "nameJa": "池",
+      "page": 460833,
+      "icon": "waves",
+      "type": "수변 지대",
+      "source": "https://gamerch.com/blacksurvival/460833",
+      "loot": [
+        {
+          "nameJa": "ペットボトル",
+          "source": "https://gamerch.com/blacksurvival/461489",
+          "stockDiscoveries": 5,
+          "cells": [
+            "ペットボトル",
+            "5",
+            "一般",
+            "５個"
+          ]
+        },
+        {
+          "nameJa": "ナイフ",
+          "source": "https://gamerch.com/blacksurvival/460913",
+          "stockDiscoveries": 4,
+          "cells": [
+            "ナイフ",
+            "10",
+            "一般",
+            "４個"
+          ]
+        },
+        {
+          "nameJa": "短棒",
+          "source": "https://gamerch.com/blacksurvival/461224",
+          "stockDiscoveries": 4,
+          "cells": [
+            "短棒",
+            "10",
+            "一般",
+            "４個"
+          ]
+        },
+        {
+          "nameJa": "長棒",
+          "source": "https://gamerch.com/blacksurvival/461212",
+          "stockDiscoveries": 4,
+          "cells": [
+            "長棒",
+            "10",
+            "一般",
+            "４個"
+          ]
+        },
+        {
+          "nameJa": "ネズミ捕り",
+          "source": "https://gamerch.com/blacksurvival/461539",
+          "stockDiscoveries": 4,
+          "cells": [
+            "ネズミ捕り",
+            "10",
+            "一般",
+            "４個"
+          ]
+        },
+        {
+          "nameJa": "鮒",
+          "source": "https://gamerch.com/blacksurvival/461304",
+          "stockDiscoveries": 3,
+          "cells": [
+            "鮒",
+            "6",
+            "一般",
+            "３個"
+          ]
+        },
+        {
+          "nameJa": "投げ罠",
+          "source": "https://gamerch.com/blacksurvival/461541",
+          "stockDiscoveries": 3,
+          "cells": [
+            "投げ罠",
+            "5",
+            "一般",
+            "３個"
+          ]
+        },
+        {
+          "nameJa": "原石",
+          "source": "https://gamerch.com/blacksurvival/461485",
+          "stockDiscoveries": 2,
+          "cells": [
+            "原石",
+            "6",
+            "一般",
+            "２個"
+          ]
+        },
+        {
+          "nameJa": "タイツ",
+          "source": "https://gamerch.com/blacksurvival/461598",
+          "stockDiscoveries": 3,
+          "cells": [
+            "タイツ",
+            "3",
+            "一般",
+            "３個"
+          ]
+        },
+        {
+          "nameJa": "花",
+          "source": "https://gamerch.com/blacksurvival/461292",
+          "stockDiscoveries": 3,
+          "cells": [
+            "花",
+            "2",
+            "一般",
+            "３個"
+          ]
+        },
+        {
+          "nameJa": "水",
+          "source": "https://gamerch.com/blacksurvival/461470",
+          "stockDiscoveries": 17,
+          "cells": [
+            "水",
+            "10",
+            "一般",
+            "17個"
+          ]
+        },
+        {
+          "nameJa": "肥料",
+          "source": "https://gamerch.com/blacksurvival/461644",
+          "stockDiscoveries": 7,
+          "cells": [
+            "肥料",
+            "x１",
+            "一般",
+            "７個"
+          ]
+        },
+        {
+          "nameJa": "亀の甲羅",
+          "source": "https://gamerch.com/blacksurvival/461628",
+          "stockDiscoveries": 5,
+          "cells": [
+            "亀の甲羅",
+            "x１",
+            "高級",
+            "５個"
+          ]
+        }
+      ],
+      "summary": [
+        "13種",
+        "64個"
+      ],
+      "restricted": false
+    },
+    {
+      "id": 7,
+      "name": "항구",
+      "nameJa": "港",
+      "page": 460823,
+      "icon": "anchor",
+      "type": "항만 지구",
+      "source": "https://gamerch.com/blacksurvival/460823",
+      "loot": [
+        {
+          "nameJa": "金槌",
+          "source": "https://gamerch.com/blacksurvival/461215",
+          "stockDiscoveries": 5,
+          "cells": [
+            "金槌",
+            "12",
+            "一般",
+            "５個"
+          ]
+        },
+        {
+          "nameJa": "火縄銃",
+          "source": "https://gamerch.com/blacksurvival/461358",
+          "stockDiscoveries": 5,
+          "cells": [
+            "火縄銃",
+            "10",
+            "一般",
+            "５個"
+          ]
+        },
+        {
+          "nameJa": "ノーザンリボルバー",
+          "source": "https://gamerch.com/blacksurvival/461356",
+          "stockDiscoveries": 4,
+          "cells": [
+            "ノーザンリボルバー",
+            "10",
+            "一般",
+            "４個"
+          ]
+        },
+        {
+          "nameJa": "V-PP",
+          "source": "https://gamerch.com/blacksurvival/461355",
+          "stockDiscoveries": 3,
+          "cells": [
+            "V-PP",
+            "8",
+            "一般",
+            "３個"
+          ]
+        },
+        {
+          "nameJa": "投げ罠",
+          "source": "https://gamerch.com/blacksurvival/461541",
+          "stockDiscoveries": 3,
+          "cells": [
+            "投げ罠",
+            "5",
+            "一般",
+            "３個"
+          ]
+        },
+        {
+          "nameJa": "サザーンリボルバー",
+          "source": "https://gamerch.com/blacksurvival/461357",
+          "stockDiscoveries": 2,
+          "cells": [
+            "サザーンリボルバー",
+            "10",
+            "一般",
+            "２個"
+          ]
+        },
+        {
+          "nameJa": "F92S",
+          "source": "https://gamerch.com/blacksurvival/461354",
+          "stockDiscoveries": 2,
+          "cells": [
+            "F92S",
+            "8",
+            "一般",
+            "２個"
+          ]
+        },
+        {
+          "nameJa": "SGOTY870",
+          "source": "https://gamerch.com/blacksurvival/461353",
+          "stockDiscoveries": 2,
+          "cells": [
+            "SGOTY870",
+            "22",
+            "高級",
+            "２個"
+          ]
+        },
+        {
+          "nameJa": "全身水着",
+          "source": "https://gamerch.com/blacksurvival/461562",
+          "stockDiscoveries": 4,
+          "cells": [
+            "全身水着",
+            "8",
+            "一般",
+            "４個"
+          ]
+        },
+        {
+          "nameJa": "弾倉",
+          "source": "https://gamerch.com/blacksurvival/461290",
+          "stockDiscoveries": 4,
+          "cells": [
+            "弾倉",
+            "6",
+            "高級",
+            "４個"
+          ]
+        },
+        {
+          "nameJa": "マグロ",
+          "source": "https://gamerch.com/blacksurvival/461426",
+          "stockDiscoveries": 3,
+          "cells": [
+            "マグロ",
+            "10",
+            "一般",
+            "３個"
+          ]
+        },
+        {
+          "nameJa": "刺身",
+          "source": "https://gamerch.com/blacksurvival/461385",
+          "stockDiscoveries": 1,
+          "cells": [
+            "刺身",
+            "120",
+            "高級",
+            "１個"
+          ]
+        },
+        {
+          "nameJa": "水",
+          "source": "https://gamerch.com/blacksurvival/461470",
+          "stockDiscoveries": 6,
+          "cells": [
+            "水",
+            "10",
+            "一般",
+            "６個"
+          ]
+        },
+        {
+          "nameJa": "弾丸",
+          "source": "https://gamerch.com/blacksurvival/461602",
+          "stockDiscoveries": 9,
+          "cells": [
+            "弾丸",
+            "x20",
+            "一般",
+            "９個"
+          ]
+        },
+        {
+          "nameJa": "砥石",
+          "source": "https://gamerch.com/blacksurvival/461320",
+          "stockDiscoveries": 4,
+          "cells": [
+            "砥石",
+            "x１",
+            "一般",
+            "４個"
+          ]
+        },
+        {
+          "nameJa": "亀の甲羅",
+          "source": "https://gamerch.com/blacksurvival/461628",
+          "stockDiscoveries": 3,
+          "cells": [
+            "亀の甲羅",
+            "x１",
+            "高級",
+            "３個"
+          ]
+        }
+      ],
+      "summary": [
+        "16種",
+        "60個"
+      ],
+      "restricted": false
+    },
+    {
+      "id": 8,
+      "name": "호텔",
+      "nameJa": "ホテル",
+      "page": 460826,
+      "icon": "building",
+      "type": "숙박 지구",
+      "source": "https://gamerch.com/blacksurvival/460826",
+      "loot": [
+        {
+          "nameJa": "鞭",
+          "source": "https://gamerch.com/blacksurvival/461217",
+          "stockDiscoveries": 4,
+          "cells": [
+            "鞭",
+            "10",
+            "一般",
+            "４個"
+          ]
+        },
+        {
+          "nameJa": "剃刀",
+          "source": "https://gamerch.com/blacksurvival/460920",
+          "stockDiscoveries": 4,
+          "cells": [
+            "剃刀",
+            "5",
+            "一般",
+            "４個"
+          ]
+        },
+        {
+          "nameJa": "鎖",
+          "source": "https://gamerch.com/blacksurvival/461218",
+          "stockDiscoveries": 4,
+          "cells": [
+            "鎖",
+            "8",
+            "一般",
+            "４個"
+          ]
+        },
+        {
+          "nameJa": "グラス",
+          "source": "https://gamerch.com/blacksurvival/461496",
+          "stockDiscoveries": 4,
+          "cells": [
+            "グラス",
+            "5",
+            "一般",
+            "４個"
+          ]
+        },
+        {
+          "nameJa": "包丁",
+          "source": "https://gamerch.com/blacksurvival/460916",
+          "stockDiscoveries": 3,
+          "cells": [
+            "包丁",
+            "8",
+            "一般",
+            "３個"
+          ]
+        },
+        {
+          "nameJa": "石ころ",
+          "source": "https://gamerch.com/blacksurvival/461482",
+          "stockDiscoveries": 3,
+          "cells": [
+            "石ころ",
+            "8",
+            "一般",
+            "３個"
+          ]
+        },
+        {
+          "nameJa": "フライパン",
+          "source": "https://gamerch.com/blacksurvival/461222",
+          "stockDiscoveries": 2,
+          "cells": [
+            "フライパン",
+            "6",
+            "一般",
+            "２個"
+          ]
+        },
+        {
+          "nameJa": "カッター",
+          "source": "https://gamerch.com/blacksurvival/460919",
+          "stockDiscoveries": 2,
+          "cells": [
+            "カッター",
+            "5",
+            "一般",
+            "２個"
+          ]
+        },
+        {
+          "nameJa": "鍋",
+          "source": "https://gamerch.com/blacksurvival/461481",
+          "stockDiscoveries": 2,
+          "cells": [
+            "鍋",
+            "10",
+            "一般",
+            "２個"
+          ]
+        },
+        {
+          "nameJa": "皿",
+          "source": "https://gamerch.com/blacksurvival/461495",
+          "stockDiscoveries": 2,
+          "cells": [
+            "皿",
+            "5",
+            "一般",
+            "２個"
+          ]
+        },
+        {
+          "nameJa": "破けた武功秘書・下",
+          "source": "https://gamerch.com/blacksurvival/461228",
+          "stockDiscoveries": 1,
+          "cells": [
+            "破けた武功秘書・下",
+            "5",
+            "一般",
+            "１個"
+          ]
+        },
+        {
+          "nameJa": "壊れたノートパソコン",
+          "source": "https://gamerch.com/blacksurvival/461480",
+          "stockDiscoveries": 1,
+          "cells": [
+            "壊れたノートパソコン",
+            "12",
+            "一般",
+            "１個"
+          ]
+        },
+        {
+          "nameJa": "指ぬき",
+          "source": "https://gamerch.com/blacksurvival/461589",
+          "stockDiscoveries": 4,
+          "cells": [
+            "指ぬき",
+            "1",
+            "一般",
+            "４個"
+          ]
+        },
+        {
+          "nameJa": "腕時計",
+          "source": "https://gamerch.com/blacksurvival/461586",
+          "stockDiscoveries": 2,
+          "cells": [
+            "腕時計",
+            "3",
+            "一般",
+            "２個"
+          ]
+        },
+        {
+          "nameJa": "にんにく",
+          "source": "https://gamerch.com/blacksurvival/461425",
+          "stockDiscoveries": 2,
+          "cells": [
+            "にんにく",
+            "10",
+            "一般",
+            "２個"
+          ]
+        },
+        {
+          "nameJa": "ゴボウ",
+          "source": "https://gamerch.com/blacksurvival/461427",
+          "stockDiscoveries": 1,
+          "cells": [
+            "ゴボウ",
+            "10",
+            "一般",
+            "１個"
+          ]
+        },
+        {
+          "nameJa": "ジャガイモ",
+          "source": "https://gamerch.com/blacksurvival/461424",
+          "stockDiscoveries": 1,
+          "cells": [
+            "ジャガイモ",
+            "10",
+            "一般",
+            "１個"
+          ]
+        },
+        {
+          "nameJa": "クッキー",
+          "source": "https://gamerch.com/blacksurvival/461405",
+          "stockDiscoveries": 1,
+          "cells": [
+            "クッキー",
+            "15",
+            "一般",
+            "１個"
+          ]
+        },
+        {
+          "nameJa": "はちみつ",
+          "source": "https://gamerch.com/blacksurvival/461463",
+          "stockDiscoveries": 3,
+          "cells": [
+            "はちみつ",
+            "22",
+            "一般",
+            "３個"
+          ]
+        },
+        {
+          "nameJa": "氷",
+          "source": "https://gamerch.com/blacksurvival/461467",
+          "stockDiscoveries": 2,
+          "cells": [
+            "氷",
+            "10",
+            "一般",
+            "２個"
+          ]
+        },
+        {
+          "nameJa": "砥石",
+          "source": "https://gamerch.com/blacksurvival/461320",
+          "stockDiscoveries": 5,
+          "cells": [
+            "砥石",
+            "x１",
+            "一般",
+            "５個"
+          ]
+        },
+        {
+          "nameJa": "肥料",
+          "source": "https://gamerch.com/blacksurvival/461644",
+          "stockDiscoveries": 3,
+          "cells": [
+            "肥料",
+            "x１",
+            "一般",
+            "３個"
+          ]
+        }
+      ],
+      "summary": [
+        "22種",
+        "56個"
+      ],
+      "restricted": false
+    },
+    {
+      "id": 9,
+      "name": "골목길",
+      "nameJa": "路地裏",
+      "page": 460828,
+      "icon": "building",
+      "type": "주거 지구",
+      "source": "https://gamerch.com/blacksurvival/460828",
+      "loot": [
+        {
+          "nameJa": "軍手",
+          "source": "https://gamerch.com/blacksurvival/461315",
+          "stockDiscoveries": 7,
+          "cells": [
+            "軍手",
+            "10",
+            "一般",
+            "７個"
+          ]
+        },
+        {
+          "nameJa": "カッター",
+          "source": "https://gamerch.com/blacksurvival/460919",
+          "stockDiscoveries": 6,
+          "cells": [
+            "カッター",
+            "5",
+            "一般",
+            "６個"
+          ]
+        },
+        {
+          "nameJa": "針",
+          "source": "https://gamerch.com/blacksurvival/460939",
+          "stockDiscoveries": 5,
+          "cells": [
+            "針",
+            "5",
+            "一般",
+            "５個"
+          ]
+        },
+        {
+          "nameJa": "グラス",
+          "source": "https://gamerch.com/blacksurvival/461496",
+          "stockDiscoveries": 4,
+          "cells": [
+            "グラス",
+            "5",
+            "一般",
+            "４個"
+          ]
+        },
+        {
+          "nameJa": "包丁",
+          "source": "https://gamerch.com/blacksurvival/460916",
+          "stockDiscoveries": 3,
+          "cells": [
+            "包丁",
+            "8",
+            "一般",
+            "３個"
+          ]
+        },
+        {
+          "nameJa": "鎖",
+          "source": "https://gamerch.com/blacksurvival/461218",
+          "stockDiscoveries": 3,
+          "cells": [
+            "鎖",
+            "8",
+            "一般",
+            "３個"
+          ]
+        },
+        {
+          "nameJa": "テレビジョン",
+          "source": "https://gamerch.com/blacksurvival/461249",
+          "stockDiscoveries": 2,
+          "cells": [
+            "テレビジョン",
+            "40",
+            "高級",
+            "２個"
+          ]
+        },
+        {
+          "nameJa": "鍋",
+          "source": "https://gamerch.com/blacksurvival/461481",
+          "stockDiscoveries": 2,
+          "cells": [
+            "鍋",
+            "10",
+            "一般",
+            "２個"
+          ]
+        },
+        {
+          "nameJa": "皿",
+          "source": "https://gamerch.com/blacksurvival/461495",
+          "stockDiscoveries": 2,
+          "cells": [
+            "皿",
+            "5",
+            "一般",
+            "２個"
+          ]
+        },
+        {
+          "nameJa": "スニーカー",
+          "source": "https://gamerch.com/blacksurvival/461599",
+          "stockDiscoveries": 3,
+          "cells": [
+            "スニーカー",
+            "3",
+            "一般",
+            "３個"
+          ]
+        },
+        {
+          "nameJa": "ブレスレット",
+          "source": "https://gamerch.com/blacksurvival/461588",
+          "stockDiscoveries": 3,
+          "cells": [
+            "ブレスレット",
+            "3",
+            "一般",
+            "３個"
+          ]
+        },
+        {
+          "nameJa": "インスタントラーメン",
+          "source": "https://gamerch.com/blacksurvival/461408",
+          "stockDiscoveries": 2,
+          "cells": [
+            "インスタントラーメン",
+            "15",
+            "一般",
+            "２個"
+          ]
+        },
+        {
+          "nameJa": "生地",
+          "source": "https://gamerch.com/blacksurvival/461646",
+          "stockDiscoveries": 3,
+          "cells": [
+            "生地",
+            "x１",
+            "一般",
+            "３個"
+          ]
+        },
+        {
+          "nameJa": "屑鉄",
+          "source": "https://gamerch.com/blacksurvival/461637",
+          "stockDiscoveries": 2,
+          "cells": [
+            "屑鉄",
+            "x１",
+            "一般",
+            "２個"
+          ]
+        }
+      ],
+      "summary": [
+        "14種",
+        "51個"
+      ],
+      "restricted": false
+    },
+    {
+      "id": 10,
+      "name": "마을회관",
+      "nameJa": "村会館",
+      "page": 460829,
+      "icon": "building",
+      "type": "공공 지구",
+      "source": "https://gamerch.com/blacksurvival/460829",
+      "loot": [
+        {
+          "nameJa": "金槌",
+          "source": "https://gamerch.com/blacksurvival/461215",
+          "stockDiscoveries": 6,
+          "cells": [
+            "金槌",
+            "12",
+            "一般",
+            "６個"
+          ]
+        },
+        {
+          "nameJa": "扇子",
+          "source": "https://gamerch.com/blacksurvival/461233",
+          "stockDiscoveries": 4,
+          "cells": [
+            "扇子",
+            "5",
+            "一般",
+            "４個"
+          ]
+        },
+        {
+          "nameJa": "ピアノ線",
+          "source": "https://gamerch.com/blacksurvival/461540",
+          "stockDiscoveries": 4,
+          "cells": [
+            "ピアノ線",
+            "8",
+            "一般",
+            "４個"
+          ]
+        },
+        {
+          "nameJa": "さいころ",
+          "source": "https://gamerch.com/blacksurvival/461492",
+          "stockDiscoveries": 3,
+          "cells": [
+            "さいころ",
+            "5",
+            "一般",
+            "３個"
+          ]
+        },
+        {
+          "nameJa": "テレビジョン",
+          "source": "https://gamerch.com/blacksurvival/461249",
+          "stockDiscoveries": 1,
+          "cells": [
+            "テレビジョン",
+            "40",
+            "高級",
+            "１個"
+          ]
+        },
+        {
+          "nameJa": "トランプカード",
+          "source": "https://gamerch.com/blacksurvival/461317",
+          "stockDiscoveries": 1,
+          "cells": [
+            "トランプカード",
+            "5",
+            "高級",
+            "１個"
+          ]
+        },
+        {
+          "nameJa": "カチューシャ",
+          "source": "https://gamerch.com/blacksurvival/461577",
+          "stockDiscoveries": 4,
+          "cells": [
+            "カチューシャ",
+            "3",
+            "一般",
+            "４個"
+          ]
+        },
+        {
+          "nameJa": "スリッパ",
+          "source": "https://gamerch.com/blacksurvival/461600",
+          "stockDiscoveries": 3,
+          "cells": [
+            "スリッパ",
+            "1",
+            "一般",
+            "３個"
+          ]
+        },
+        {
+          "nameJa": "湿布",
+          "source": "https://gamerch.com/blacksurvival/461423",
+          "stockDiscoveries": 3,
+          "cells": [
+            "湿布",
+            "10",
+            "一般",
+            "３個"
+          ]
+        },
+        {
+          "nameJa": "鳥肉",
+          "source": "https://gamerch.com/blacksurvival/461402",
+          "stockDiscoveries": 2,
+          "cells": [
+            "鳥肉",
+            "20",
+            "一般",
+            "２個"
+          ]
+        },
+        {
+          "nameJa": "はちみつ",
+          "source": "https://gamerch.com/blacksurvival/461463",
+          "stockDiscoveries": 6,
+          "cells": [
+            "はちみつ",
+            "22",
+            "一般",
+            "６個"
+          ]
+        },
+        {
+          "nameJa": "矢",
+          "source": "https://gamerch.com/blacksurvival/461601",
+          "stockDiscoveries": 10,
+          "cells": [
+            "矢",
+            "x20",
+            "一般",
+            "10個"
+          ]
+        },
+        {
+          "nameJa": "生地",
+          "source": "https://gamerch.com/blacksurvival/461646",
+          "stockDiscoveries": 5,
+          "cells": [
+            "生地",
+            "x１",
+            "一般",
+            "５個"
+          ]
+        },
+        {
+          "nameJa": "厚い紙",
+          "source": "https://gamerch.com/blacksurvival/461633",
+          "stockDiscoveries": 3,
+          "cells": [
+            "厚い紙",
+            "x１",
+            "一般",
+            "３個"
+          ]
+        },
+        {
+          "nameJa": "肥料",
+          "source": "https://gamerch.com/blacksurvival/461644",
+          "stockDiscoveries": 2,
+          "cells": [
+            "肥料",
+            "x１",
+            "一般",
+            "２個"
+          ]
+        }
+      ],
+      "summary": [
+        "15種",
+        "57個"
+      ],
+      "restricted": false
+    },
+    {
+      "id": 11,
+      "name": "소방서",
+      "nameJa": "消防署",
+      "page": 460830,
+      "icon": "building",
+      "type": "공공 지구",
+      "source": "https://gamerch.com/blacksurvival/460830",
+      "loot": [
+        {
+          "nameJa": "金槌",
+          "source": "https://gamerch.com/blacksurvival/461215",
+          "stockDiscoveries": 6,
+          "cells": [
+            "金槌",
+            "12",
+            "一般",
+            "６個"
+          ]
+        },
+        {
+          "nameJa": "ネズミ捕り",
+          "source": "https://gamerch.com/blacksurvival/461539",
+          "stockDiscoveries": 6,
+          "cells": [
+            "ネズミ捕り",
+            "10",
+            "一般",
+            "６個"
+          ]
+        },
+        {
+          "nameJa": "ハチェット",
+          "source": "https://gamerch.com/blacksurvival/460912",
+          "stockDiscoveries": 3,
+          "cells": [
+            "ハチェット",
+            "10",
+            "一般",
+            "３個"
+          ]
+        },
+        {
+          "nameJa": "トマホーク",
+          "source": "https://gamerch.com/blacksurvival/461245",
+          "stockDiscoveries": 3,
+          "cells": [
+            "トマホーク",
+            "10",
+            "一般",
+            "３個"
+          ]
+        },
+        {
+          "nameJa": "ブーツ",
+          "source": "https://gamerch.com/blacksurvival/461595",
+          "stockDiscoveries": 4,
+          "cells": [
+            "ブーツ",
+            "5",
+            "一般",
+            "４個"
+          ]
+        },
+        {
+          "nameJa": "腕時計",
+          "source": "https://gamerch.com/blacksurvival/461586",
+          "stockDiscoveries": 3,
+          "cells": [
+            "腕時計",
+            "3",
+            "一般",
+            "３個"
+          ]
+        },
+        {
+          "nameJa": "防火服",
+          "source": "https://gamerch.com/blacksurvival/461560",
+          "stockDiscoveries": 3,
+          "cells": [
+            "防火服",
+            "8",
+            "一般",
+            "３個"
+          ]
+        },
+        {
+          "nameJa": "サプリ",
+          "source": "https://gamerch.com/blacksurvival/461400",
+          "stockDiscoveries": 3,
+          "cells": [
+            "サプリ",
+            "35",
+            "一般",
+            "３個"
+          ]
+        },
+        {
+          "nameJa": "包帯",
+          "source": "https://gamerch.com/blacksurvival/461401",
+          "stockDiscoveries": 3,
+          "cells": [
+            "包帯",
+            "30",
+            "一般",
+            "３個"
+          ]
+        },
+        {
+          "nameJa": "水",
+          "source": "https://gamerch.com/blacksurvival/461470",
+          "stockDiscoveries": 16,
+          "cells": [
+            "水",
+            "10",
+            "一般",
+            "16個"
+          ]
+        },
+        {
+          "nameJa": "バッテリー",
+          "source": "https://gamerch.com/blacksurvival/461645",
+          "stockDiscoveries": 8,
+          "cells": [
+            "バッテリー",
+            "x１",
+            "一般",
+            "８個"
+          ]
+        },
+        {
+          "nameJa": "オイル",
+          "source": "https://gamerch.com/blacksurvival/461642",
+          "stockDiscoveries": 5,
+          "cells": [
+            "オイル",
+            "x１",
+            "一般",
+            "５個"
+          ]
+        },
+        {
+          "nameJa": "釘",
+          "source": "https://gamerch.com/blacksurvival/461321",
+          "stockDiscoveries": 3,
+          "cells": [
+            "釘",
+            "x１",
+            "一般",
+            "３個"
+          ]
+        },
+        {
+          "nameJa": "皮",
+          "source": "https://gamerch.com/blacksurvival/461639",
+          "stockDiscoveries": 3,
+          "cells": [
+            "皮",
+            "x１",
+            "一般",
+            "３個"
+          ]
+        }
+      ],
+      "summary": [
+        "14種",
+        "69個"
+      ],
+      "restricted": false
+    },
+    {
+      "id": 12,
+      "name": "산길",
+      "nameJa": "山道",
+      "page": 460836,
+      "icon": "tree",
+      "type": "산악 지대",
+      "source": "https://gamerch.com/blacksurvival/460836",
+      "loot": [
+        {
+          "nameJa": "石ころ",
+          "source": "https://gamerch.com/blacksurvival/461482",
+          "stockDiscoveries": 7,
+          "cells": [
+            "石ころ",
+            "10",
+            "一般",
+            "７個"
+          ]
+        },
+        {
+          "nameJa": "原石",
+          "source": "https://gamerch.com/blacksurvival/461485",
+          "stockDiscoveries": 5,
+          "cells": [
+            "原石",
+            "6",
+            "一般",
+            "５個"
+          ]
+        },
+        {
+          "nameJa": "長棒",
+          "source": "https://gamerch.com/blacksurvival/461212",
+          "stockDiscoveries": 5,
+          "cells": [
+            "長棒",
+            "10",
+            "一般",
+            "５個"
+          ]
+        },
+        {
+          "nameJa": "枝",
+          "source": "https://gamerch.com/blacksurvival/461227",
+          "stockDiscoveries": 5,
+          "cells": [
+            "枝",
+            "5",
+            "一般",
+            "５個"
+          ]
+        },
+        {
+          "nameJa": "シャムシール",
+          "source": "https://gamerch.com/blacksurvival/460911",
+          "stockDiscoveries": 4,
+          "cells": [
+            "シャムシール",
+            "10",
+            "一般",
+            "４個"
+          ]
+        },
+        {
+          "nameJa": "竹",
+          "source": "https://gamerch.com/blacksurvival/461221",
+          "stockDiscoveries": 4,
+          "cells": [
+            "竹",
+            "10",
+            "一般",
+            "４個"
+          ]
+        },
+        {
+          "nameJa": "トマホーク",
+          "source": "https://gamerch.com/blacksurvival/461245",
+          "stockDiscoveries": 2,
+          "cells": [
+            "トマホーク",
+            "10",
+            "一般",
+            "２個"
+          ]
+        },
+        {
+          "nameJa": "ハチェット",
+          "source": "https://gamerch.com/blacksurvival/460912",
+          "stockDiscoveries": 2,
+          "cells": [
+            "ハチェット",
+            "10",
+            "一般",
+            "２個"
+          ]
+        },
+        {
+          "nameJa": "スカーフ",
+          "source": "https://gamerch.com/blacksurvival/461231",
+          "stockDiscoveries": 2,
+          "cells": [
+            "スカーフ",
+            "5",
+            "一般",
+            "２個"
+          ]
+        },
+        {
+          "nameJa": "ブーツ",
+          "source": "https://gamerch.com/blacksurvival/461595",
+          "stockDiscoveries": 3,
+          "cells": [
+            "ブーツ",
+            "5",
+            "一般",
+            "３個"
+          ]
+        },
+        {
+          "nameJa": "登山靴",
+          "source": "https://gamerch.com/blacksurvival/461596",
+          "stockDiscoveries": 2,
+          "cells": [
+            "登山靴",
+            "3",
+            "一般",
+            "２個"
+          ]
+        },
+        {
+          "nameJa": "ヘルメット",
+          "source": "https://gamerch.com/blacksurvival/461576",
+          "stockDiscoveries": 2,
+          "cells": [
+            "ヘルメット",
+            "5",
+            "一般",
+            "２個"
+          ]
+        },
+        {
+          "nameJa": "登山帽",
+          "source": "https://gamerch.com/blacksurvival/461578",
+          "stockDiscoveries": 2,
+          "cells": [
+            "登山帽",
+            "3",
+            "一般",
+            "２個"
+          ]
+        },
+        {
+          "nameJa": "薬草",
+          "source": "https://gamerch.com/blacksurvival/461429",
+          "stockDiscoveries": 10,
+          "cells": [
+            "薬草",
+            "7",
+            "一般",
+            "10個"
+          ]
+        },
+        {
+          "nameJa": "鉄鉱石",
+          "source": "https://gamerch.com/blacksurvival/461641",
+          "stockDiscoveries": 7,
+          "cells": [
+            "鉄鉱石",
+            "x3",
+            "一般",
+            "７個"
+          ]
+        },
+        {
+          "nameJa": "羽",
+          "source": "https://gamerch.com/blacksurvival/461634",
+          "stockDiscoveries": 2,
+          "cells": [
+            "羽",
+            "x1",
+            "一般",
+            "２個"
+          ]
+        }
+      ],
+      "summary": [
+        "16種",
+        "64個"
+      ],
+      "restricted": false
+    },
+    {
+      "id": 13,
+      "name": "묘지",
+      "nameJa": "墓場",
+      "page": 460837,
+      "icon": "cross",
+      "type": "추모 지구",
+      "source": "https://gamerch.com/blacksurvival/460837",
+      "loot": [
+        {
+          "nameJa": "つるはし",
+          "source": "https://gamerch.com/blacksurvival/460915",
+          "stockDiscoveries": 6,
+          "cells": [
+            "つるはし",
+            "8",
+            "一般",
+            "６個"
+          ]
+        },
+        {
+          "nameJa": "竹",
+          "source": "https://gamerch.com/blacksurvival/461221",
+          "stockDiscoveries": 5,
+          "cells": [
+            "竹",
+            "10",
+            "一般",
+            "５個"
+          ]
+        },
+        {
+          "nameJa": "ピアノ線",
+          "source": "https://gamerch.com/blacksurvival/461540",
+          "stockDiscoveries": 5,
+          "cells": [
+            "ピアノ線",
+            "8",
+            "一般",
+            "５個"
+          ]
+        },
+        {
+          "nameJa": "枝",
+          "source": "https://gamerch.com/blacksurvival/461227",
+          "stockDiscoveries": 5,
+          "cells": [
+            "枝",
+            "5",
+            "一般",
+            "５個"
+          ]
+        },
+        {
+          "nameJa": "投擲用の短刀",
+          "source": "https://gamerch.com/blacksurvival/461479",
+          "stockDiscoveries": 5,
+          "cells": [
+            "投擲用の短刀",
+            "10",
+            "一般",
+            "５個"
+          ]
+        },
+        {
+          "nameJa": "鞭",
+          "source": "https://gamerch.com/blacksurvival/461217",
+          "stockDiscoveries": 4,
+          "cells": [
+            "鞭",
+            "10",
+            "一般",
+            "４個"
+          ]
+        },
+        {
+          "nameJa": "シャムシール",
+          "source": "https://gamerch.com/blacksurvival/460911",
+          "stockDiscoveries": 4,
+          "cells": [
+            "シャムシール",
+            "10",
+            "一般",
+            "４個"
+          ]
+        },
+        {
+          "nameJa": "石ころ",
+          "source": "https://gamerch.com/blacksurvival/461482",
+          "stockDiscoveries": 4,
+          "cells": [
+            "石ころ",
+            "10",
+            "一般",
+            "４個"
+          ]
+        },
+        {
+          "nameJa": "長剣",
+          "source": "https://gamerch.com/blacksurvival/460910",
+          "stockDiscoveries": 2,
+          "cells": [
+            "長剣",
+            "10",
+            "一般",
+            "２個"
+          ]
+        },
+        {
+          "nameJa": "カチューシャ",
+          "source": "https://gamerch.com/blacksurvival/461577",
+          "stockDiscoveries": 4,
+          "cells": [
+            "カチューシャ",
+            "3",
+            "一般",
+            "４個"
+          ]
+        },
+        {
+          "nameJa": "花",
+          "source": "https://gamerch.com/blacksurvival/461292",
+          "stockDiscoveries": 2,
+          "cells": [
+            "花",
+            "2",
+            "一般",
+            "２個"
+          ]
+        },
+        {
+          "nameJa": "十字架",
+          "source": "https://gamerch.com/blacksurvival/461294",
+          "stockDiscoveries": 2,
+          "cells": [
+            "十字架",
+            "2",
+            "一般",
+            "２個"
+          ]
+        },
+        {
+          "nameJa": "ジャガイモ",
+          "source": "https://gamerch.com/blacksurvival/461424",
+          "stockDiscoveries": 2,
+          "cells": [
+            "ジャガイモ",
+            "10",
+            "一般",
+            "２個"
+          ]
+        },
+        {
+          "nameJa": "鳥の卵",
+          "source": "https://gamerch.com/blacksurvival/461422",
+          "stockDiscoveries": 2,
+          "cells": [
+            "鳥の卵",
+            "10",
+            "一般",
+            "２個"
+          ]
+        },
+        {
+          "nameJa": "矢",
+          "source": "https://gamerch.com/blacksurvival/461601",
+          "stockDiscoveries": 7,
+          "cells": [
+            "矢",
+            "x20",
+            "一般",
+            "７個"
+          ]
+        },
+        {
+          "nameJa": "鉄鉱石",
+          "source": "https://gamerch.com/blacksurvival/461641",
+          "stockDiscoveries": 5,
+          "cells": [
+            "鉄鉱石",
+            "x3",
+            "一般",
+            "５個"
+          ]
+        },
+        {
+          "nameJa": "羽",
+          "source": "https://gamerch.com/blacksurvival/461634",
+          "stockDiscoveries": 4,
+          "cells": [
+            "羽",
+            "x1",
+            "一般",
+            "４個"
+          ]
+        },
+        {
+          "nameJa": "ゴム",
+          "source": "https://gamerch.com/blacksurvival/461638",
+          "stockDiscoveries": 2,
+          "cells": [
+            "ゴム",
+            "x1",
+            "一般",
+            "２個"
+          ]
+        }
+      ],
+      "summary": [
+        "18種",
+        "70個"
+      ],
+      "restricted": false
+    },
+    {
+      "id": 14,
+      "name": "터널",
+      "nameJa": "トンネル",
+      "page": 460838,
+      "icon": "building",
+      "type": "지하 통로",
+      "source": "https://gamerch.com/blacksurvival/460838",
+      "loot": [
+        {
+          "nameJa": "石ころ",
+          "source": "https://gamerch.com/blacksurvival/461482",
+          "stockDiscoveries": 8,
+          "cells": [
+            "石ころ",
+            "10",
+            "一般",
+            "８個"
+          ]
+        },
+        {
+          "nameJa": "軍手",
+          "source": "https://gamerch.com/blacksurvival/461315",
+          "stockDiscoveries": 7,
+          "cells": [
+            "軍手",
+            "10",
+            "一般",
+            "７個"
+          ]
+        },
+        {
+          "nameJa": "缶",
+          "source": "https://gamerch.com/blacksurvival/461306",
+          "stockDiscoveries": 5,
+          "cells": [
+            "缶",
+            "5",
+            "一般",
+            "５個"
+          ]
+        },
+        {
+          "nameJa": "ガラスのビン",
+          "source": "https://gamerch.com/blacksurvival/461494",
+          "stockDiscoveries": 5,
+          "cells": [
+            "ガラスのビン",
+            "5",
+            "一般",
+            "５個"
+          ]
+        },
+        {
+          "nameJa": "原石",
+          "source": "https://gamerch.com/blacksurvival/461485",
+          "stockDiscoveries": 4,
+          "cells": [
+            "原石",
+            "6",
+            "一般",
+            "４個"
+          ]
+        },
+        {
+          "nameJa": "鉄球",
+          "source": "https://gamerch.com/blacksurvival/461484",
+          "stockDiscoveries": 3,
+          "cells": [
+            "鉄球",
+            "10",
+            "一般",
+            "３個"
+          ]
+        },
+        {
+          "nameJa": "つるはし",
+          "source": "https://gamerch.com/blacksurvival/460915",
+          "stockDiscoveries": 2,
+          "cells": [
+            "つるはし",
+            "8",
+            "一般",
+            "２個"
+          ]
+        },
+        {
+          "nameJa": "ダンボール",
+          "source": "https://gamerch.com/blacksurvival/461295",
+          "stockDiscoveries": 5,
+          "cells": [
+            "ダンボール",
+            "2",
+            "一般",
+            "５個"
+          ]
+        },
+        {
+          "nameJa": "タイツ",
+          "source": "https://gamerch.com/blacksurvival/461598",
+          "stockDiscoveries": 3,
+          "cells": [
+            "タイツ",
+            "3",
+            "一般",
+            "３個"
+          ]
+        },
+        {
+          "nameJa": "サツマイモ",
+          "source": "https://gamerch.com/blacksurvival/461432",
+          "stockDiscoveries": 2,
+          "cells": [
+            "サツマイモ",
+            "5",
+            "一般",
+            "２個"
+          ]
+        },
+        {
+          "nameJa": "鉄糸",
+          "source": "https://gamerch.com/blacksurvival/461640",
+          "stockDiscoveries": 6,
+          "cells": [
+            "鉄糸",
+            "x1",
+            "一般",
+            "６個"
+          ]
+        },
+        {
+          "nameJa": "釘",
+          "source": "https://gamerch.com/blacksurvival/461321",
+          "stockDiscoveries": 5,
+          "cells": [
+            "釘",
+            "x1",
+            "一般",
+            "５個"
+          ]
+        },
+        {
+          "nameJa": "砥石",
+          "source": "https://gamerch.com/blacksurvival/461320",
+          "stockDiscoveries": 6,
+          "cells": [
+            "砥石",
+            "x1",
+            "一般",
+            "６個"
+          ]
+        },
+        {
+          "nameJa": "火薬",
+          "source": "https://gamerch.com/blacksurvival/461643",
+          "stockDiscoveries": 3,
+          "cells": [
+            "火薬",
+            "x1",
+            "一般",
+            "３個"
+          ]
+        }
+      ],
+      "summary": [
+        "14種",
+        "64個"
+      ],
+      "restricted": false
+    },
+    {
+      "id": 15,
+      "name": "절",
+      "nameJa": "寺",
+      "page": 460839,
+      "icon": "church",
+      "type": "종교 지구",
+      "source": "https://gamerch.com/blacksurvival/460839",
+      "loot": [
+        {
+          "nameJa": "短槍",
+          "source": "https://gamerch.com/blacksurvival/460936",
+          "stockDiscoveries": 6,
+          "cells": [
+            "短槍",
+            "10",
+            "一般",
+            "６個"
+          ]
+        },
+        {
+          "nameJa": "和弓",
+          "source": "https://gamerch.com/blacksurvival/461513",
+          "stockDiscoveries": 6,
+          "cells": [
+            "和弓",
+            "12",
+            "一般",
+            "６個"
+          ]
+        },
+        {
+          "nameJa": "刀",
+          "source": "https://gamerch.com/blacksurvival/460908",
+          "stockDiscoveries": 5,
+          "cells": [
+            "刀",
+            "8",
+            "一般",
+            "５個"
+          ]
+        },
+        {
+          "nameJa": "石ころ",
+          "source": "https://gamerch.com/blacksurvival/461482",
+          "stockDiscoveries": 5,
+          "cells": [
+            "石ころ",
+            "8",
+            "一般",
+            "５個"
+          ]
+        },
+        {
+          "nameJa": "ナックル",
+          "source": "https://gamerch.com/blacksurvival/461525",
+          "stockDiscoveries": 4,
+          "cells": [
+            "ナックル",
+            "8",
+            "一般",
+            "４個"
+          ]
+        },
+        {
+          "nameJa": "槍の柄",
+          "source": "https://gamerch.com/blacksurvival/461223",
+          "stockDiscoveries": 4,
+          "cells": [
+            "槍の柄",
+            "6",
+            "一般",
+            "４個"
+          ]
+        },
+        {
+          "nameJa": "馬牌",
+          "source": "https://gamerch.com/blacksurvival/461477",
+          "stockDiscoveries": 2,
+          "cells": [
+            "馬牌",
+            "5",
+            "高級",
+            "２個"
+          ]
+        },
+        {
+          "nameJa": "正宗",
+          "source": "https://gamerch.com/blacksurvival/460894",
+          "stockDiscoveries": 1,
+          "cells": [
+            "正宗",
+            "28",
+            "貴重",
+            "１個"
+          ]
+        },
+        {
+          "nameJa": "僧服",
+          "source": "https://gamerch.com/blacksurvival/461559",
+          "stockDiscoveries": 6,
+          "cells": [
+            "僧服",
+            "8",
+            "一般",
+            "６個"
+          ]
+        },
+        {
+          "nameJa": "布の鎧",
+          "source": "https://gamerch.com/blacksurvival/461561",
+          "stockDiscoveries": 4,
+          "cells": [
+            "布の鎧",
+            "8",
+            "一般",
+            "４個"
+          ]
+        },
+        {
+          "nameJa": "木魚",
+          "source": "https://gamerch.com/blacksurvival/461220",
+          "stockDiscoveries": 3,
+          "cells": [
+            "木魚",
+            "3",
+            "一般",
+            "３個"
+          ]
+        },
+        {
+          "nameJa": "仏経",
+          "source": "https://gamerch.com/blacksurvival/461234",
+          "stockDiscoveries": 3,
+          "cells": [
+            "仏経",
+            "6",
+            "一般",
+            "３個"
+          ]
+        },
+        {
+          "nameJa": "カチューシャ",
+          "source": "https://gamerch.com/blacksurvival/461577",
+          "stockDiscoveries": 2,
+          "cells": [
+            "カチューシャ",
+            "3",
+            "一般",
+            "２個"
+          ]
+        },
+        {
+          "nameJa": "厚い紙",
+          "source": "https://gamerch.com/blacksurvival/461633",
+          "stockDiscoveries": 4,
+          "cells": [
+            "厚い紙",
+            "x1",
+            "一般",
+            "４個"
+          ]
+        },
+        {
+          "nameJa": "生地",
+          "source": "https://gamerch.com/blacksurvival/461646",
+          "stockDiscoveries": 4,
+          "cells": [
+            "生地",
+            "x1",
+            "一般",
+            "４個"
+          ]
+        }
+      ],
+      "summary": [
+        "15種",
+        "62個"
+      ],
+      "restricted": false
+    },
+    {
+      "id": 16,
+      "name": "등대",
+      "nameJa": "灯台",
+      "page": 460840,
+      "icon": "anchor",
+      "type": "해안 지대",
+      "source": "https://gamerch.com/blacksurvival/460840",
+      "loot": [
+        {
+          "nameJa": "ナックル",
+          "source": "https://gamerch.com/blacksurvival/461525",
+          "stockDiscoveries": 6,
+          "cells": [
+            "ナックル",
+            "8",
+            "一般",
+            "６個"
+          ]
+        },
+        {
+          "nameJa": "槍の柄",
+          "source": "https://gamerch.com/blacksurvival/461223",
+          "stockDiscoveries": 4,
+          "cells": [
+            "槍の柄",
+            "6",
+            "一般",
+            "４個"
+          ]
+        },
+        {
+          "nameJa": "鞭",
+          "source": "https://gamerch.com/blacksurvival/461217",
+          "stockDiscoveries": 3,
+          "cells": [
+            "鞭",
+            "10",
+            "一般",
+            "３個"
+          ]
+        },
+        {
+          "nameJa": "鎌",
+          "source": "https://gamerch.com/blacksurvival/460914",
+          "stockDiscoveries": 2,
+          "cells": [
+            "鎌",
+            "10",
+            "一般",
+            "２個"
+          ]
+        },
+        {
+          "nameJa": "双眼鏡",
+          "source": "https://gamerch.com/blacksurvival/461293",
+          "stockDiscoveries": 5,
+          "cells": [
+            "双眼鏡",
+            "2",
+            "一般",
+            "５個"
+          ]
+        },
+        {
+          "nameJa": "ブーツ",
+          "source": "https://gamerch.com/blacksurvival/461595",
+          "stockDiscoveries": 4,
+          "cells": [
+            "ブーツ",
+            "5",
+            "一般",
+            "４個"
+          ]
+        },
+        {
+          "nameJa": "めがね",
+          "source": "https://gamerch.com/blacksurvival/461580",
+          "stockDiscoveries": 2,
+          "cells": [
+            "めがね",
+            "1",
+            "一般",
+            "２個"
+          ]
+        },
+        {
+          "nameJa": "ゴボウ",
+          "source": "https://gamerch.com/blacksurvival/461427",
+          "stockDiscoveries": 2,
+          "cells": [
+            "ゴボウ",
+            "10",
+            "一般",
+            "２個"
+          ]
+        },
+        {
+          "nameJa": "鳥の卵",
+          "source": "https://gamerch.com/blacksurvival/461422",
+          "stockDiscoveries": 2,
+          "cells": [
+            "鳥の卵",
+            "10",
+            "一般",
+            "２個"
+          ]
+        },
+        {
+          "nameJa": "イオンドリンク",
+          "source": "https://gamerch.com/blacksurvival/461279",
+          "stockDiscoveries": 5,
+          "cells": [
+            "イオンドリンク",
+            "10",
+            "一般",
+            "５個"
+          ]
+        },
+        {
+          "nameJa": "弾丸",
+          "source": "https://gamerch.com/blacksurvival/461602",
+          "stockDiscoveries": 7,
+          "cells": [
+            "弾丸",
+            "x20",
+            "一般",
+            "７個"
+          ]
+        },
+        {
+          "nameJa": "ライター",
+          "source": "https://gamerch.com/blacksurvival/461635",
+          "stockDiscoveries": 6,
+          "cells": [
+            "ライター",
+            "x3",
+            "一般",
+            "６個"
+          ]
+        },
+        {
+          "nameJa": "ゴム",
+          "source": "https://gamerch.com/blacksurvival/461638",
+          "stockDiscoveries": 5,
+          "cells": [
+            "ゴム",
+            "x1",
+            "一般",
+            "５個"
+          ]
+        },
+        {
+          "nameJa": "火薬",
+          "source": "https://gamerch.com/blacksurvival/461643",
+          "stockDiscoveries": 5,
+          "cells": [
+            "火薬",
+            "x1",
+            "一般",
+            "５個"
+          ]
+        },
+        {
+          "nameJa": "バッテリー",
+          "source": "https://gamerch.com/blacksurvival/461645",
+          "stockDiscoveries": 4,
+          "cells": [
+            "バッテリー",
+            "x1",
+            "一般",
+            "４個"
+          ]
+        },
+        {
+          "nameJa": "鉄鉱石",
+          "source": "https://gamerch.com/blacksurvival/461641",
+          "stockDiscoveries": 3,
+          "cells": [
+            "鉄鉱石",
+            "x3",
+            "一般",
+            "３個"
+          ]
+        }
+      ],
+      "summary": [
+        "16種",
+        "65個"
+      ],
+      "restricted": false
+    },
+    {
+      "id": 17,
+      "name": "양궁장",
+      "nameJa": "洋弓場",
+      "page": 460841,
+      "icon": "target",
+      "type": "체육 지구",
+      "source": "https://gamerch.com/blacksurvival/460841",
+      "loot": [
+        {
+          "nameJa": "和弓",
+          "source": "https://gamerch.com/blacksurvival/461513",
+          "stockDiscoveries": 6,
+          "cells": [
+            "和弓",
+            "12",
+            "一般",
+            "６個"
+          ]
+        },
+        {
+          "nameJa": "ピアノ線",
+          "source": "https://gamerch.com/blacksurvival/461540",
+          "stockDiscoveries": 6,
+          "cells": [
+            "ピアノ線",
+            "8",
+            "一般",
+            "６個"
+          ]
+        },
+        {
+          "nameJa": "洋弓",
+          "source": "https://gamerch.com/blacksurvival/461512",
+          "stockDiscoveries": 5,
+          "cells": [
+            "洋弓",
+            "10",
+            "一般",
+            "５個"
+          ]
+        },
+        {
+          "nameJa": "投げ罠",
+          "source": "https://gamerch.com/blacksurvival/461541",
+          "stockDiscoveries": 2,
+          "cells": [
+            "投げ罠",
+            "5",
+            "一般",
+            "２個"
+          ]
+        },
+        {
+          "nameJa": "つるはし",
+          "source": "https://gamerch.com/blacksurvival/460915",
+          "stockDiscoveries": 2,
+          "cells": [
+            "つるはし",
+            "8",
+            "一般",
+            "２個"
+          ]
+        },
+        {
+          "nameJa": "双眼鏡",
+          "source": "https://gamerch.com/blacksurvival/461293",
+          "stockDiscoveries": 4,
+          "cells": [
+            "双眼鏡",
+            "2",
+            "一般",
+            "４個"
+          ]
+        },
+        {
+          "nameJa": "矢筒",
+          "source": "https://gamerch.com/blacksurvival/461289",
+          "stockDiscoveries": 4,
+          "cells": [
+            "矢筒",
+            "6",
+            "高級",
+            "４個"
+          ]
+        },
+        {
+          "nameJa": "布の鎧",
+          "source": "https://gamerch.com/blacksurvival/461561",
+          "stockDiscoveries": 3,
+          "cells": [
+            "布の鎧",
+            "8",
+            "一般",
+            "３個"
+          ]
+        },
+        {
+          "nameJa": "めがね",
+          "source": "https://gamerch.com/blacksurvival/461580",
+          "stockDiscoveries": 3,
+          "cells": [
+            "めがね",
+            "1",
+            "一般",
+            "３個"
+          ]
+        },
+        {
+          "nameJa": "花",
+          "source": "https://gamerch.com/blacksurvival/461292",
+          "stockDiscoveries": 1,
+          "cells": [
+            "花",
+            "2",
+            "一般",
+            "１個"
+          ]
+        },
+        {
+          "nameJa": "イオンドリンク",
+          "source": "https://gamerch.com/blacksurvival/461279",
+          "stockDiscoveries": 5,
+          "cells": [
+            "イオンドリンク",
+            "10",
+            "一般",
+            "５個"
+          ]
+        },
+        {
+          "nameJa": "矢",
+          "source": "https://gamerch.com/blacksurvival/461601",
+          "stockDiscoveries": 10,
+          "cells": [
+            "矢",
+            "x20",
+            "一般",
+            "10個"
+          ]
+        },
+        {
+          "nameJa": "厚い紙",
+          "source": "https://gamerch.com/blacksurvival/461633",
+          "stockDiscoveries": 4,
+          "cells": [
+            "厚い紙",
+            "x1",
+            "一般",
+            "４個"
+          ]
+        },
+        {
+          "nameJa": "オイル",
+          "source": "https://gamerch.com/blacksurvival/461642",
+          "stockDiscoveries": 5,
+          "cells": [
+            "オイル",
+            "x1",
+            "一般",
+            "５個"
+          ]
+        },
+        {
+          "nameJa": "火薬",
+          "source": "https://gamerch.com/blacksurvival/461643",
+          "stockDiscoveries": 2,
+          "cells": [
+            "火薬",
+            "x1",
+            "一般",
+            "２個"
+          ]
+        }
+      ],
+      "summary": [
+        "15種",
+        "62個"
+      ],
+      "restricted": false
+    },
+    {
+      "id": 18,
+      "name": "병원",
+      "nameJa": "病院",
+      "page": 460842,
+      "icon": "cross",
+      "type": "의료 지구",
+      "source": "https://gamerch.com/blacksurvival/460842",
+      "loot": [
+        {
+          "nameJa": "はさみ",
+          "source": "https://gamerch.com/blacksurvival/460918",
+          "stockDiscoveries": 5,
+          "cells": [
+            "はさみ",
+            "5",
+            "一般",
+            "５個"
+          ]
+        },
+        {
+          "nameJa": "金槌",
+          "source": "https://gamerch.com/blacksurvival/461215",
+          "stockDiscoveries": 4,
+          "cells": [
+            "金槌",
+            "12",
+            "一般",
+            "４個"
+          ]
+        },
+        {
+          "nameJa": "大同類聚方",
+          "source": "https://gamerch.com/blacksurvival/461226",
+          "stockDiscoveries": 4,
+          "cells": [
+            "大同類聚方",
+            "5",
+            "一般",
+            "４個"
+          ]
+        },
+        {
+          "nameJa": "万年筆",
+          "source": "https://gamerch.com/blacksurvival/460938",
+          "stockDiscoveries": 2,
+          "cells": [
+            "万年筆",
+            "5",
+            "一般",
+            "２個"
+          ]
+        },
+        {
+          "nameJa": "人体模型",
+          "source": "https://gamerch.com/blacksurvival/461230",
+          "stockDiscoveries": 1,
+          "cells": [
+            "人体模型",
+            "5",
+            "一般",
+            "１個"
+          ]
+        },
+        {
+          "nameJa": "医師ガウン",
+          "source": "https://gamerch.com/blacksurvival/461564",
+          "stockDiscoveries": 8,
+          "cells": [
+            "医師ガウン",
+            "5",
+            "一般",
+            "８個"
+          ]
+        },
+        {
+          "nameJa": "スリッパ",
+          "source": "https://gamerch.com/blacksurvival/461600",
+          "stockDiscoveries": 3,
+          "cells": [
+            "スリッパ",
+            "1",
+            "一般",
+            "３個"
+          ]
+        },
+        {
+          "nameJa": "サプリ",
+          "source": "https://gamerch.com/blacksurvival/461400",
+          "stockDiscoveries": 5,
+          "cells": [
+            "サプリ",
+            "35",
+            "一般",
+            "５個"
+          ]
+        },
+        {
+          "nameJa": "包帯",
+          "source": "https://gamerch.com/blacksurvival/461401",
+          "stockDiscoveries": 4,
+          "cells": [
+            "包帯",
+            "30",
+            "一般",
+            "４個"
+          ]
+        },
+        {
+          "nameJa": "消毒薬",
+          "source": "https://gamerch.com/blacksurvival/461406",
+          "stockDiscoveries": 4,
+          "cells": [
+            "消毒薬",
+            "15",
+            "一般",
+            "４個"
+          ]
+        },
+        {
+          "nameJa": "絆創膏",
+          "source": "https://gamerch.com/blacksurvival/461407",
+          "stockDiscoveries": 3,
+          "cells": [
+            "絆創膏",
+            "25",
+            "一般",
+            "３個"
+          ]
+        },
+        {
+          "nameJa": "肝機能強化剤",
+          "source": "https://gamerch.com/blacksurvival/461334",
+          "stockDiscoveries": 2,
+          "cells": [
+            "肝機能強化剤",
+            "20",
+            "一般",
+            "２個"
+          ]
+        },
+        {
+          "nameJa": "接着剤",
+          "source": "https://gamerch.com/blacksurvival/461335",
+          "stockDiscoveries": 5,
+          "cells": [
+            "接着剤",
+            "x1",
+            "一般",
+            "５個"
+          ]
+        },
+        {
+          "nameJa": "アルコール",
+          "source": "https://gamerch.com/blacksurvival/461647",
+          "stockDiscoveries": 3,
+          "cells": [
+            "アルコール",
+            "x1",
+            "一般",
+            "３個"
+          ]
+        }
+      ],
+      "summary": [
+        "13種",
+        "50個"
+      ],
+      "restricted": false
+    },
+    {
+      "id": 19,
+      "name": "모래사장",
+      "nameJa": "浜辺",
+      "page": 460844,
+      "icon": "waves",
+      "type": "해안 지대",
+      "source": "https://gamerch.com/blacksurvival/460844",
+      "loot": [
+        {
+          "nameJa": "IM-10",
+          "source": "https://gamerch.com/blacksurvival/461351",
+          "stockDiscoveries": 5,
+          "cells": [
+            "IM-10",
+            "12",
+            "一般",
+            "５個"
+          ]
+        },
+        {
+          "nameJa": "火縄銃",
+          "source": "https://gamerch.com/blacksurvival/461358",
+          "stockDiscoveries": 4,
+          "cells": [
+            "火縄銃",
+            "10",
+            "一般",
+            "４個"
+          ]
+        },
+        {
+          "nameJa": "缶",
+          "source": "https://gamerch.com/blacksurvival/461306",
+          "stockDiscoveries": 4,
+          "cells": [
+            "缶",
+            "5",
+            "一般",
+            "４個"
+          ]
+        },
+        {
+          "nameJa": "ネズミ捕り",
+          "source": "https://gamerch.com/blacksurvival/461539",
+          "stockDiscoveries": 4,
+          "cells": [
+            "ネズミ捕り",
+            "10",
+            "一般",
+            "４個"
+          ]
+        },
+        {
+          "nameJa": "マグナム‐パイソン",
+          "source": "https://gamerch.com/blacksurvival/461350",
+          "stockDiscoveries": 3,
+          "cells": [
+            "マグナム‐パイソン",
+            "28",
+            "高級",
+            "３個"
+          ]
+        },
+        {
+          "nameJa": "投げ罠",
+          "source": "https://gamerch.com/blacksurvival/461541",
+          "stockDiscoveries": 2,
+          "cells": [
+            "投げ罠",
+            "5",
+            "一般",
+            "２個"
+          ]
+        },
+        {
+          "nameJa": "全身水着",
+          "source": "https://gamerch.com/blacksurvival/461562",
+          "stockDiscoveries": 5,
+          "cells": [
+            "全身水着",
+            "8",
+            "一般",
+            "５個"
+          ]
+        },
+        {
+          "nameJa": "ヘルメット",
+          "source": "https://gamerch.com/blacksurvival/461576",
+          "stockDiscoveries": 4,
+          "cells": [
+            "ヘルメット",
+            "5",
+            "一般",
+            "４個"
+          ]
+        },
+        {
+          "nameJa": "弾倉",
+          "source": "https://gamerch.com/blacksurvival/461290",
+          "stockDiscoveries": 4,
+          "cells": [
+            "弾倉",
+            "6",
+            "高級",
+            "４個"
+          ]
+        },
+        {
+          "nameJa": "サンマ",
+          "source": "https://gamerch.com/blacksurvival/461428",
+          "stockDiscoveries": 4,
+          "cells": [
+            "サンマ",
+            "10",
+            "一般",
+            "４個"
+          ]
+        },
+        {
+          "nameJa": "刺身",
+          "source": "https://gamerch.com/blacksurvival/461385",
+          "stockDiscoveries": 1,
+          "cells": [
+            "刺身",
+            "120",
+            "高級",
+            "１個"
+          ]
+        },
+        {
+          "nameJa": "水",
+          "source": "https://gamerch.com/blacksurvival/461470",
+          "stockDiscoveries": 8,
+          "cells": [
+            "水",
+            "10",
+            "一般",
+            "８個"
+          ]
+        },
+        {
+          "nameJa": "弾丸",
+          "source": "https://gamerch.com/blacksurvival/461602",
+          "stockDiscoveries": 8,
+          "cells": [
+            "弾丸",
+            "x20",
+            "一般",
+            "８個"
+          ]
+        },
+        {
+          "nameJa": "屑鉄",
+          "source": "https://gamerch.com/blacksurvival/461637",
+          "stockDiscoveries": 6,
+          "cells": [
+            "屑鉄",
+            "x1",
+            "一般",
+            "６個"
+          ]
+        },
+        {
+          "nameJa": "亀の甲羅",
+          "source": "https://gamerch.com/blacksurvival/461628",
+          "stockDiscoveries": 4,
+          "cells": [
+            "亀の甲羅",
+            "x1",
+            "高級",
+            "４個"
+          ]
+        }
+      ],
+      "summary": [
+        "15種",
+        "66個"
+      ],
+      "restricted": false
+    },
+    {
+      "id": 20,
+      "name": "우물",
+      "nameJa": "井戸",
+      "page": 460845,
+      "icon": "drop",
+      "type": "수원 지대",
+      "source": "https://gamerch.com/blacksurvival/460845",
+      "loot": [
+        {
+          "nameJa": "ナイフ",
+          "source": "https://gamerch.com/blacksurvival/460913",
+          "stockDiscoveries": 5,
+          "cells": [
+            "ナイフ",
+            "10",
+            "一般",
+            "５個"
+          ]
+        },
+        {
+          "nameJa": "石弓",
+          "source": "https://gamerch.com/blacksurvival/461511",
+          "stockDiscoveries": 5,
+          "cells": [
+            "石弓",
+            "12",
+            "一般",
+            "５個"
+          ]
+        },
+        {
+          "nameJa": "鉄球",
+          "source": "https://gamerch.com/blacksurvival/461484",
+          "stockDiscoveries": 5,
+          "cells": [
+            "鉄球",
+            "10",
+            "一般",
+            "５個"
+          ]
+        },
+        {
+          "nameJa": "ナックル",
+          "source": "https://gamerch.com/blacksurvival/461525",
+          "stockDiscoveries": 4,
+          "cells": [
+            "ナックル",
+            "8",
+            "一般",
+            "４個"
+          ]
+        },
+        {
+          "nameJa": "爪",
+          "source": "https://gamerch.com/blacksurvival/461524",
+          "stockDiscoveries": 4,
+          "cells": [
+            "爪",
+            "8",
+            "一般",
+            "４個"
+          ]
+        },
+        {
+          "nameJa": "ドジョウ",
+          "source": "https://gamerch.com/blacksurvival/461488",
+          "stockDiscoveries": 3,
+          "cells": [
+            "ドジョウ",
+            "6",
+            "一般",
+            "３個"
+          ]
+        },
+        {
+          "nameJa": "投げ罠",
+          "source": "https://gamerch.com/blacksurvival/461541",
+          "stockDiscoveries": 2,
+          "cells": [
+            "投げ罠",
+            "5",
+            "一般",
+            "２個"
+          ]
+        },
+        {
+          "nameJa": "ヘルメット",
+          "source": "https://gamerch.com/blacksurvival/461576",
+          "stockDiscoveries": 3,
+          "cells": [
+            "ヘルメット",
+            "5",
+            "一般",
+            "３個"
+          ]
+        },
+        {
+          "nameJa": "矢筒",
+          "source": "https://gamerch.com/blacksurvival/461289",
+          "stockDiscoveries": 2,
+          "cells": [
+            "矢筒",
+            "6",
+            "高級",
+            "２個"
+          ]
+        },
+        {
+          "nameJa": "水",
+          "source": "https://gamerch.com/blacksurvival/461470",
+          "stockDiscoveries": 15,
+          "cells": [
+            "水",
+            "10",
+            "一般",
+            "15個"
+          ]
+        },
+        {
+          "nameJa": "炭酸水",
+          "source": "https://gamerch.com/blacksurvival/461466",
+          "stockDiscoveries": 8,
+          "cells": [
+            "炭酸水",
+            "13",
+            "一般",
+            "８個"
+          ]
+        },
+        {
+          "nameJa": "氷",
+          "source": "https://gamerch.com/blacksurvival/461467",
+          "stockDiscoveries": 5,
+          "cells": [
+            "氷",
+            "10",
+            "一般",
+            "５個"
+          ]
+        },
+        {
+          "nameJa": "矢",
+          "source": "https://gamerch.com/blacksurvival/461601",
+          "stockDiscoveries": 5,
+          "cells": [
+            "矢",
+            "x20",
+            "一般",
+            "５個"
+          ]
+        },
+        {
+          "nameJa": "弾丸",
+          "source": "https://gamerch.com/blacksurvival/461602",
+          "stockDiscoveries": 5,
+          "cells": [
+            "弾丸",
+            "x20",
+            "一般",
+            "５個"
+          ]
+        },
+        {
+          "nameJa": "皮",
+          "source": "https://gamerch.com/blacksurvival/461639",
+          "stockDiscoveries": 4,
+          "cells": [
+            "皮",
+            "x1",
+            "一般",
+            "４個"
+          ]
+        },
+        {
+          "nameJa": "亀の甲羅",
+          "source": "https://gamerch.com/blacksurvival/461628",
+          "stockDiscoveries": 3,
+          "cells": [
+            "亀の甲羅",
+            "x1",
+            "高級",
+            "３個"
+          ]
+        }
+      ],
+      "summary": [
+        "16種",
+        "78個"
+      ],
+      "restricted": false
+    },
+    {
+      "id": 21,
+      "name": "슬럼",
+      "nameJa": "スラム",
+      "page": 460825,
+      "icon": "building",
+      "type": "주거 지구",
+      "source": "https://gamerch.com/blacksurvival/460825",
+      "loot": [
+        {
+          "nameJa": "鎖",
+          "source": "https://gamerch.com/blacksurvival/461218",
+          "stockDiscoveries": 5,
+          "cells": [
+            "鎖",
+            "8",
+            "一般",
+            "５個"
+          ]
+        },
+        {
+          "nameJa": "針",
+          "source": "https://gamerch.com/blacksurvival/460939",
+          "stockDiscoveries": 4,
+          "cells": [
+            "針",
+            "5",
+            "一般",
+            "４個"
+          ]
+        },
+        {
+          "nameJa": "鍋",
+          "source": "https://gamerch.com/blacksurvival/461481",
+          "stockDiscoveries": 4,
+          "cells": [
+            "鍋",
+            "10",
+            "一般",
+            "４個"
+          ]
+        },
+        {
+          "nameJa": "フライパン",
+          "source": "https://gamerch.com/blacksurvival/461222",
+          "stockDiscoveries": 3,
+          "cells": [
+            "フライパン",
+            "6",
+            "一般",
+            "３個"
+          ]
+        },
+        {
+          "nameJa": "包丁",
+          "source": "https://gamerch.com/blacksurvival/460916",
+          "stockDiscoveries": 3,
+          "cells": [
+            "包丁",
+            "8",
+            "一般",
+            "３個"
+          ]
+        },
+        {
+          "nameJa": "グラス",
+          "source": "https://gamerch.com/blacksurvival/461496",
+          "stockDiscoveries": 3,
+          "cells": [
+            "グラス",
+            "5",
+            "一般",
+            "３個"
+          ]
+        },
+        {
+          "nameJa": "CD",
+          "source": "https://gamerch.com/blacksurvival/461490",
+          "stockDiscoveries": 2,
+          "cells": [
+            "CD",
+            "20",
+            "一般",
+            "２個"
+          ]
+        },
+        {
+          "nameJa": "テレビジョン",
+          "source": "https://gamerch.com/blacksurvival/461249",
+          "stockDiscoveries": 2,
+          "cells": [
+            "テレビジョン",
+            "40",
+            "高級",
+            "２個"
+          ]
+        },
+        {
+          "nameJa": "破けた武功秘書・上",
+          "source": "https://gamerch.com/blacksurvival/461232",
+          "stockDiscoveries": 1,
+          "cells": [
+            "破けた武功秘書・上",
+            "5",
+            "一般",
+            "１個"
+          ]
+        },
+        {
+          "nameJa": "腕ぬき",
+          "source": "https://gamerch.com/blacksurvival/461585",
+          "stockDiscoveries": 3,
+          "cells": [
+            "腕ぬき",
+            "5",
+            "一般",
+            "３個"
+          ]
+        },
+        {
+          "nameJa": "ブレスレット",
+          "source": "https://gamerch.com/blacksurvival/461588",
+          "stockDiscoveries": 3,
+          "cells": [
+            "ブレスレット",
+            "3",
+            "一般",
+            "３個"
+          ]
+        },
+        {
+          "nameJa": "インスタントラーメン",
+          "source": "https://gamerch.com/blacksurvival/461408",
+          "stockDiscoveries": 2,
+          "cells": [
+            "インスタントラーメン",
+            "15",
+            "一般",
+            "２個"
+          ]
+        },
+        {
+          "nameJa": "バックス",
+          "source": "https://gamerch.com/blacksurvival/461281",
+          "stockDiscoveries": 2,
+          "cells": [
+            "バックス",
+            "25",
+            "一般",
+            "２個"
+          ]
+        },
+        {
+          "nameJa": "ライター",
+          "source": "https://gamerch.com/blacksurvival/461635",
+          "stockDiscoveries": 7,
+          "cells": [
+            "ライター",
+            "x３",
+            "一般",
+            "７個"
+          ]
+        },
+        {
+          "nameJa": "屑鉄",
+          "source": "https://gamerch.com/blacksurvival/461637",
+          "stockDiscoveries": 6,
+          "cells": [
+            "屑鉄",
+            "x１",
+            "一般",
+            "６個"
+          ]
+        },
+        {
+          "nameJa": "生地",
+          "source": "https://gamerch.com/blacksurvival/461646",
+          "stockDiscoveries": 5,
+          "cells": [
+            "生地",
+            "x１",
+            "一般",
+            "５個"
+          ]
+        },
+        {
+          "nameJa": "オイル",
+          "source": "https://gamerch.com/blacksurvival/461642",
+          "stockDiscoveries": 5,
+          "cells": [
+            "オイル",
+            "x１",
+            "一般",
+            "５個"
+          ]
+        }
+      ],
+      "summary": [
+        "17種",
+        "59個"
+      ],
+      "restricted": false
+    },
+    {
+      "id": 22,
+      "name": "연구소",
+      "nameJa": "研究所",
+      "page": 460846,
+      "icon": "flask",
+      "type": "특수 폐쇄 지구",
+      "source": "https://gamerch.com/blacksurvival/460846",
+      "loot": [],
+      "summary": [
+        "0種",
+        "0個"
+      ],
+      "restricted": true
+    }
+  ]
+}

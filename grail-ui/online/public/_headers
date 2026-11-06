@@ -1,0 +1,8 @@
+/assets/items/*
+  Cache-Control: private, max-age=31536000, immutable
+/assets/regions/*
+  Cache-Control: private, max-age=31536000, immutable
+/assets/lumia-island-painted-web-v4.webp
+  Cache-Control: private, max-age=31536000, immutable
+/assets/lumia-island-hospital-web-v4.webp
+  Cache-Control: private, max-age=31536000, immutable

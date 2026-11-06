@@ -1,0 +1,1105 @@
+{
+  "tool": "built-in image_gen",
+  "specs": [
+    {
+      "name": "weapons-a",
+      "cols": 6,
+      "rows": 6,
+      "items": [
+        {
+          "id": "monohoshizao",
+          "name": "모노호시자오",
+          "subject": "extremely long slender silver katana, deep violet handle"
+        },
+        {
+          "id": "odachi",
+          "name": "오다치",
+          "subject": "long broad Japanese sword, red handle"
+        },
+        {
+          "id": "katana",
+          "name": "카타나",
+          "subject": "curved Japanese katana, black handle"
+        },
+        {
+          "id": "fountain_pen",
+          "name": "만년필",
+          "subject": "Fountain Pen"
+        },
+        {
+          "id": "hades_edge",
+          "name": "하데스 엣지",
+          "subject": "dark jagged obsidian greatsword with purple edge"
+        },
+        {
+          "id": "bastard_sword",
+          "name": "바스타드 소드",
+          "subject": "wide steel hand-and-a-half sword with brass crossguard"
+        },
+        {
+          "id": "long_sword",
+          "name": "장검",
+          "subject": "straight silver medieval longsword with blue grip"
+        },
+        {
+          "id": "rapier",
+          "name": "레이피어",
+          "subject": "thin thrusting rapier with ornate cup guard"
+        },
+        {
+          "id": "sabre",
+          "name": "사브르",
+          "subject": "military curved saber with knuckle guard"
+        },
+        {
+          "id": "shamshir",
+          "name": "샴시르",
+          "subject": "strongly curved Persian scimitar with gold hilt"
+        },
+        {
+          "id": "lance_of_poseidon",
+          "name": "포세이돈의 창",
+          "subject": "ornate ocean-blue and gold trident"
+        },
+        {
+          "id": "trident",
+          "name": "트라이던트",
+          "subject": "plain iron three-prong fishing trident"
+        },
+        {
+          "id": "twin_sword",
+          "name": "쌍칼",
+          "subject": "Twin Sword"
+        },
+        {
+          "id": "sharp_kitchen_knife",
+          "name": "날카로운 식칼",
+          "subject": "polished large shiny cleaver with red handle"
+        },
+        {
+          "id": "kitchen_knife",
+          "name": "식칼",
+          "subject": "plain steel kitchen knife, wood handle"
+        },
+        {
+          "id": "long_spear",
+          "name": "장창",
+          "subject": "long wooden spear with large metal leaf tip"
+        },
+        {
+          "id": "short_spear",
+          "name": "단창",
+          "subject": "short wooden spear with small triangular tip"
+        },
+        {
+          "id": "beam_axe",
+          "name": "빔 액스",
+          "subject": "futuristic luminous cyan energy axe"
+        },
+        {
+          "id": "plasma_sword",
+          "name": "플라즈마 소드",
+          "subject": "futuristic violet plasma sword"
+        },
+        {
+          "id": "battle_axe",
+          "name": "배틀 액스",
+          "subject": "Battle Axe"
+        },
+        {
+          "id": "hatchet",
+          "name": "손도끼",
+          "subject": "Hatchet"
+        },
+        {
+          "id": "needle",
+          "name": "바늘",
+          "subject": "Needle"
+        },
+        {
+          "id": "cooking_pot",
+          "name": "냄비",
+          "subject": "Cooking Pot"
+        },
+        {
+          "id": "plate",
+          "name": "접시",
+          "subject": "Plate"
+        },
+        {
+          "id": "tv",
+          "name": "텔레비전",
+          "subject": "TV"
+        },
+        {
+          "id": "laptop_broken_screen",
+          "name": "고장난 노트북",
+          "subject": "Laptop (broken screen)"
+        },
+        {
+          "id": "razor",
+          "name": "면도칼",
+          "subject": "Razor"
+        },
+        {
+          "id": "scissors",
+          "name": "가위",
+          "subject": "Scissors"
+        },
+        {
+          "id": "white_chalk",
+          "name": "분필",
+          "subject": "White Chalk"
+        },
+        {
+          "id": "bat_weapon",
+          "name": "야구방망이",
+          "subject": "Bat (Weapon)"
+        },
+        {
+          "id": "anatomy_model",
+          "name": "인체 모형",
+          "subject": "Anatomy Model"
+        },
+        {
+          "id": "steel_pipe",
+          "name": "쇠파이프",
+          "subject": "Steel Pipe"
+        },
+        {
+          "id": "short_crossbow",
+          "name": "석궁",
+          "subject": "Short Crossbow"
+        },
+        {
+          "id": "glass_marble",
+          "name": "유리구슬",
+          "subject": "Glass Marble"
+        },
+        {
+          "id": "short_rod",
+          "name": "단봉",
+          "subject": "Short Rod"
+        },
+        {
+          "id": "throwing_dagger",
+          "name": "투척용 단검",
+          "subject": "Throwing Dagger"
+        }
+      ],
+      "prompt": "Use case: stylized-concept. Asset type: production inventory sprite ATLAS for a survival RPG. Create ONE complete atlas image with EXACTLY 6 equal columns and 6 equal rows, edge-to-edge grid, no outer padding, every cell exactly the same square size. Overall image aspect ratio 6:6. Each cell has the same flat opaque very dark blue slate background #142029, no frames, no lines, no labels, no words, no numbers, no UI. One recognizable object centered per cell, occupying 76% of its square with generous empty margins, absolutely no objects crossing cells. Crisp hand-painted realistic game item illustration, clear silhouettes, strong value contrast, clean light from upper left, subtle highlights, rich natural material colors. Readable at 40px, simple decisive shapes, no excessive tiny detail, no glow spilling beyond object. Weapons diagonally from lower left to upper right. Do not replace distinct objects with generic symbols. Follow this EXACT row-major order, left to right then top to bottom:\nROW 1: CELL 1: extremely long slender silver katana, deep violet handle | CELL 2: long broad Japanese sword, red handle | CELL 3: curved Japanese katana, black handle | CELL 4: Fountain Pen | CELL 5: dark jagged obsidian greatsword with purple edge | CELL 6: wide steel hand-and-a-half sword with brass crossguard\nROW 2: CELL 1: straight silver medieval longsword with blue grip | CELL 2: thin thrusting rapier with ornate cup guard | CELL 3: military curved saber with knuckle guard | CELL 4: strongly curved Persian scimitar with gold hilt | CELL 5: ornate ocean-blue and gold trident | CELL 6: plain iron three-prong fishing trident\nROW 3: CELL 1: Twin Sword | CELL 2: polished large shiny cleaver with red handle | CELL 3: plain steel kitchen knife, wood handle | CELL 4: long wooden spear with large metal leaf tip | CELL 5: short wooden spear with small triangular tip | CELL 6: futuristic luminous cyan energy axe\nROW 4: CELL 1: futuristic violet plasma sword | CELL 2: Battle Axe | CELL 3: Hatchet | CELL 4: Needle | CELL 5: Cooking Pot | CELL 6: Plate\nROW 5: CELL 1: TV | CELL 2: Laptop (broken screen) | CELL 3: Razor | CELL 4: Scissors | CELL 5: White Chalk | CELL 6: Bat (Weapon)\nROW 6: CELL 1: Anatomy Model | CELL 2: Steel Pipe | CELL 3: Short Crossbow | CELL 4: Glass Marble | CELL 5: Short Rod | CELL 6: Throwing Dagger\nKeep exact grid alignment. All unused final cells empty. Original artwork, no logos or watermarks."
+    },
+    {
+      "name": "weapons-b",
+      "cols": 7,
+      "rows": 6,
+      "items": [
+        {
+          "id": "f92s",
+          "name": "F92S",
+          "subject": "black semi-automatic pistol"
+        },
+        {
+          "id": "bow",
+          "name": "양궁",
+          "subject": "Bow"
+        },
+        {
+          "id": "cd",
+          "name": "CD",
+          "subject": "CD"
+        },
+        {
+          "id": "southern_revolver",
+          "name": "서던 리볼버",
+          "subject": "short-barrel brass revolver"
+        },
+        {
+          "id": "northern_revolver",
+          "name": "노던 리볼버",
+          "subject": "long-barrel silver revolver"
+        },
+        {
+          "id": "holy_grail",
+          "name": "성배",
+          "subject": "Holy Grail"
+        },
+        {
+          "id": "harpoon",
+          "name": "작살",
+          "subject": "Harpoon"
+        },
+        {
+          "id": "claw",
+          "name": "손톱",
+          "subject": "three curved metal finger claws"
+        },
+        {
+          "id": "tomahawk",
+          "name": "토마호크",
+          "subject": "Tomahawk"
+        },
+        {
+          "id": "sickle",
+          "name": "낫",
+          "subject": "Sickle"
+        },
+        {
+          "id": "plastic_bottle",
+          "name": "페트병",
+          "subject": "Plastic Bottle"
+        },
+        {
+          "id": "knife",
+          "name": "나이프",
+          "subject": "Knife"
+        },
+        {
+          "id": "long_rod",
+          "name": "장봉",
+          "subject": "Long Rod"
+        },
+        {
+          "id": "carp",
+          "name": "붕어",
+          "subject": "golden freshwater carp fish"
+        },
+        {
+          "id": "long_rifle",
+          "name": "화승총",
+          "subject": "Long Rifle"
+        },
+        {
+          "id": "v_pp",
+          "name": "V-PP",
+          "subject": "compact black machine pistol"
+        },
+        {
+          "id": "sgoty870",
+          "name": "SGOTY870",
+          "subject": "pump-action shotgun with brown stock"
+        },
+        {
+          "id": "whip",
+          "name": "채찍",
+          "subject": "Whip"
+        },
+        {
+          "id": "frying_pan",
+          "name": "프라이팬",
+          "subject": "Frying Pan"
+        },
+        {
+          "id": "box_cutter",
+          "name": "커터칼",
+          "subject": "Box Cutter"
+        },
+        {
+          "id": "ripped_scroll_2",
+          "name": "찢어진 무공비급 하권",
+          "subject": "torn parchment martial arts scroll, lower fragment"
+        },
+        {
+          "id": "cotton_work_glove",
+          "name": "목장갑",
+          "subject": "Cotton Work Glove"
+        },
+        {
+          "id": "fan",
+          "name": "부채",
+          "subject": "Fan"
+        },
+        {
+          "id": "dice",
+          "name": "주사위",
+          "subject": "Dice"
+        },
+        {
+          "id": "playing_cards",
+          "name": "트럼프 카드",
+          "subject": "Playing Cards"
+        },
+        {
+          "id": "scarf",
+          "name": "스카프",
+          "subject": "Scarf"
+        },
+        {
+          "id": "pickaxe",
+          "name": "곡괭이",
+          "subject": "Pickaxe"
+        },
+        {
+          "id": "can",
+          "name": "캔",
+          "subject": "Can"
+        },
+        {
+          "id": "yumi_bow",
+          "name": "국궁",
+          "subject": "Yumi Bow"
+        },
+        {
+          "id": "knuckle",
+          "name": "너클",
+          "subject": "Knuckle"
+        },
+        {
+          "id": "stallion_medal",
+          "name": "마패",
+          "subject": "antique bronze Korean horse medallion"
+        },
+        {
+          "id": "masamune",
+          "name": "마사무네",
+          "subject": "Masamune"
+        },
+        {
+          "id": "scrolls_of_dongyi",
+          "name": "동의보감",
+          "subject": "closed traditional blue herbal medicine book"
+        },
+        {
+          "id": "im_10",
+          "name": "IM-10",
+          "subject": "compact black submachine gun"
+        },
+        {
+          "id": "magnum_python",
+          "name": "매그넘 파이선",
+          "subject": "large chrome magnum revolver"
+        },
+        {
+          "id": "mudfish",
+          "name": "미꾸라지",
+          "subject": "long brown loach fish"
+        },
+        {
+          "id": "ripped_scroll_1",
+          "name": "찢어진 무공비급 상권",
+          "subject": "torn parchment martial arts scroll, upper fragment"
+        }
+      ],
+      "prompt": "Use case: stylized-concept. Asset type: production inventory sprite ATLAS for a survival RPG. Create ONE complete atlas image with EXACTLY 7 equal columns and 6 equal rows, edge-to-edge grid, no outer padding, every cell exactly the same square size. Overall image aspect ratio 7:6. Each cell has the same flat opaque very dark blue slate background #142029, no frames, no lines, no labels, no words, no numbers, no UI. One recognizable object centered per cell, occupying 76% of its square with generous empty margins, absolutely no objects crossing cells. Crisp hand-painted realistic game item illustration, clear silhouettes, strong value contrast, clean light from upper left, subtle highlights, rich natural material colors. Readable at 40px, simple decisive shapes, no excessive tiny detail, no glow spilling beyond object. Weapons diagonally from lower left to upper right. Do not replace distinct objects with generic symbols. Follow this EXACT row-major order, left to right then top to bottom:\nROW 1: CELL 1: black semi-automatic pistol | CELL 2: Bow | CELL 3: CD | CELL 4: short-barrel brass revolver | CELL 5: long-barrel silver revolver | CELL 6: Holy Grail | CELL 7: Harpoon\nROW 2: CELL 1: three curved metal finger claws | CELL 2: Tomahawk | CELL 3: Sickle | CELL 4: Plastic Bottle | CELL 5: Knife | CELL 6: Long Rod | CELL 7: golden freshwater carp fish\nROW 3: CELL 1: Long Rifle | CELL 2: compact black machine pistol | CELL 3: pump-action shotgun with brown stock | CELL 4: Whip | CELL 5: Frying Pan | CELL 6: Box Cutter | CELL 7: torn parchment martial arts scroll, lower fragment\nROW 4: CELL 1: Cotton Work Glove | CELL 2: Fan | CELL 3: Dice | CELL 4: Playing Cards | CELL 5: Scarf | CELL 6: Pickaxe | CELL 7: Can\nROW 5: CELL 1: Yumi Bow | CELL 2: Knuckle | CELL 3: antique bronze Korean horse medallion | CELL 4: Masamune | CELL 5: closed traditional blue herbal medicine book | CELL 6: compact black submachine gun | CELL 7: large chrome magnum revolver\nROW 6: CELL 1: long brown loach fish | CELL 2: torn parchment martial arts scroll, upper fragment | CELL 3: EMPTY dark background only | CELL 4: EMPTY dark background only | CELL 5: EMPTY dark background only | CELL 6: EMPTY dark background only | CELL 7: EMPTY dark background only\nKeep exact grid alignment. All unused final cells empty. Original artwork, no logos or watermarks."
+    },
+    {
+      "name": "materials",
+      "cols": 7,
+      "rows": 7,
+      "items": [
+        {
+          "id": "iron_sheet",
+          "name": "철판",
+          "subject": "single flat gray iron plate"
+        },
+        {
+          "id": "scrap_metal",
+          "name": "고철",
+          "subject": "pile of rusty jagged metal scraps"
+        },
+        {
+          "id": "hammer",
+          "name": "망치",
+          "subject": "Hammer"
+        },
+        {
+          "id": "blueprint",
+          "name": "정교한 도면",
+          "subject": "Blueprint"
+        },
+        {
+          "id": "thick_paper",
+          "name": "두꺼운 종이",
+          "subject": "Thick Paper"
+        },
+        {
+          "id": "steel",
+          "name": "강철",
+          "subject": "stack of bright silver steel ingots"
+        },
+        {
+          "id": "iron_ore",
+          "name": "철광석",
+          "subject": "rough dark rock with rusty veins"
+        },
+        {
+          "id": "heated_whetstone",
+          "name": "달궈진 숫돌",
+          "subject": "rectangular sharpening stone glowing orange from heat"
+        },
+        {
+          "id": "lighter",
+          "name": "라이터",
+          "subject": "Lighter"
+        },
+        {
+          "id": "whetstone",
+          "name": "숫돌",
+          "subject": "gray rectangular sharpening stone"
+        },
+        {
+          "id": "spear_handle",
+          "name": "창자루",
+          "subject": "Spear Handle"
+        },
+        {
+          "id": "boiling_water",
+          "name": "뜨거운 물",
+          "subject": "metal kettle pouring steaming hot water"
+        },
+        {
+          "id": "laser_pointer",
+          "name": "레이저 포인터",
+          "subject": "Laser Pointer"
+        },
+        {
+          "id": "bamboo",
+          "name": "대나무",
+          "subject": "Bamboo"
+        },
+        {
+          "id": "branch",
+          "name": "나뭇가지",
+          "subject": "Branch"
+        },
+        {
+          "id": "wire",
+          "name": "철사",
+          "subject": "loose coil of thick gray wire"
+        },
+        {
+          "id": "glass_pieces",
+          "name": "유리 조각",
+          "subject": "Glass Pieces"
+        },
+        {
+          "id": "glass_cup",
+          "name": "유리잔",
+          "subject": "Glass Cup"
+        },
+        {
+          "id": "stone",
+          "name": "돌멩이",
+          "subject": "rounded gray pebble"
+        },
+        {
+          "id": "feather",
+          "name": "깃털",
+          "subject": "Feather"
+        },
+        {
+          "id": "steel_chain",
+          "name": "쇠사슬",
+          "subject": "Steel Chain"
+        },
+        {
+          "id": "ruby",
+          "name": "루비",
+          "subject": "faceted red ruby gemstone"
+        },
+        {
+          "id": "gemstone",
+          "name": "원석",
+          "subject": "unpolished translucent pale violet crystal"
+        },
+        {
+          "id": "turtle_shell",
+          "name": "거북이 등딱지",
+          "subject": "Turtle Shell"
+        },
+        {
+          "id": "leather",
+          "name": "가죽",
+          "subject": "brown tanned leather hide"
+        },
+        {
+          "id": "cloth",
+          "name": "천",
+          "subject": "folded beige cloth"
+        },
+        {
+          "id": "iron_ball",
+          "name": "쇠구슬",
+          "subject": "Iron Ball"
+        },
+        {
+          "id": "electronic_parts",
+          "name": "전자 부품",
+          "subject": "Electronic Parts"
+        },
+        {
+          "id": "battery",
+          "name": "배터리",
+          "subject": "Battery"
+        },
+        {
+          "id": "meteorsteel",
+          "name": "운석강",
+          "subject": "dark polished ingot with blue luminous veins"
+        },
+        {
+          "id": "meteorite",
+          "name": "운석",
+          "subject": "dark cratered meteor rock with blue fissures"
+        },
+        {
+          "id": "flint",
+          "name": "부싯돌",
+          "subject": "angular charcoal flint shards"
+        },
+        {
+          "id": "gunpowder",
+          "name": "화약",
+          "subject": "Gunpowder"
+        },
+        {
+          "id": "piano_wire",
+          "name": "피아노선",
+          "subject": "tight thin silver wire spool"
+        },
+        {
+          "id": "glass_bottle",
+          "name": "유리병",
+          "subject": "empty green glass bottle"
+        },
+        {
+          "id": "alcohol",
+          "name": "알코올",
+          "subject": "clear alcohol bottle with red cap"
+        },
+        {
+          "id": "rubber",
+          "name": "고무",
+          "subject": "folded black rubber sheet"
+        },
+        {
+          "id": "nail",
+          "name": "못",
+          "subject": "Nail"
+        },
+        {
+          "id": "glue",
+          "name": "접착제",
+          "subject": "Glue"
+        },
+        {
+          "id": "snare",
+          "name": "올가미",
+          "subject": "Snare"
+        },
+        {
+          "id": "mouse_trap",
+          "name": "쥐덫",
+          "subject": "Mouse Trap"
+        },
+        {
+          "id": "fertilizer",
+          "name": "비료",
+          "subject": "tan sack of fertilizer with green leaf emblem"
+        },
+        {
+          "id": "bullets",
+          "name": "총알",
+          "subject": "Bullets"
+        },
+        {
+          "id": "arrows",
+          "name": "화살",
+          "subject": "Arrows"
+        },
+        {
+          "id": "oil",
+          "name": "기름",
+          "subject": "black motor oil can with narrow spout"
+        },
+        {
+          "id": "mithril",
+          "name": "미스릴",
+          "subject": "pale turquoise-silver crystalline ingot"
+        },
+        {
+          "id": "ogre_skin",
+          "name": "오우거 가죽",
+          "subject": "thick dark green monster hide"
+        }
+      ],
+      "prompt": "Use case: stylized-concept. Asset type: production inventory sprite ATLAS for a survival RPG. Create ONE complete atlas image with EXACTLY 7 equal columns and 7 equal rows, edge-to-edge grid, no outer padding, every cell exactly the same square size. Overall image aspect ratio 7:7. Each cell has the same flat opaque very dark blue slate background #142029, no frames, no lines, no labels, no words, no numbers, no UI. One recognizable object centered per cell, occupying 76% of its square with generous empty margins, absolutely no objects crossing cells. Crisp hand-painted realistic game item illustration, clear silhouettes, strong value contrast, clean light from upper left, subtle highlights, rich natural material colors. Readable at 40px, simple decisive shapes, no excessive tiny detail, no glow spilling beyond object. Weapons diagonally from lower left to upper right. Do not replace distinct objects with generic symbols. Follow this EXACT row-major order, left to right then top to bottom:\nROW 1: CELL 1: single flat gray iron plate | CELL 2: pile of rusty jagged metal scraps | CELL 3: Hammer | CELL 4: Blueprint | CELL 5: Thick Paper | CELL 6: stack of bright silver steel ingots | CELL 7: rough dark rock with rusty veins\nROW 2: CELL 1: rectangular sharpening stone glowing orange from heat | CELL 2: Lighter | CELL 3: gray rectangular sharpening stone | CELL 4: Spear Handle | CELL 5: metal kettle pouring steaming hot water | CELL 6: Laser Pointer | CELL 7: Bamboo\nROW 3: CELL 1: Branch | CELL 2: loose coil of thick gray wire | CELL 3: Glass Pieces | CELL 4: Glass Cup | CELL 5: rounded gray pebble | CELL 6: Feather | CELL 7: Steel Chain\nROW 4: CELL 1: faceted red ruby gemstone | CELL 2: unpolished translucent pale violet crystal | CELL 3: Turtle Shell | CELL 4: brown tanned leather hide | CELL 5: folded beige cloth | CELL 6: Iron Ball | CELL 7: Electronic Parts\nROW 5: CELL 1: Battery | CELL 2: dark polished ingot with blue luminous veins | CELL 3: dark cratered meteor rock with blue fissures | CELL 4: angular charcoal flint shards | CELL 5: Gunpowder | CELL 6: tight thin silver wire spool | CELL 7: empty green glass bottle\nROW 6: CELL 1: clear alcohol bottle with red cap | CELL 2: folded black rubber sheet | CELL 3: Nail | CELL 4: Glue | CELL 5: Snare | CELL 6: Mouse Trap | CELL 7: tan sack of fertilizer with green leaf emblem\nROW 7: CELL 1: Bullets | CELL 2: Arrows | CELL 3: black motor oil can with narrow spout | CELL 4: pale turquoise-silver crystalline ingot | CELL 5: thick dark green monster hide | CELL 6: EMPTY dark background only | CELL 7: EMPTY dark background only\nKeep exact grid alignment. All unused final cells empty. Original artwork, no logos or watermarks."
+    },
+    {
+      "name": "supplies",
+      "cols": 7,
+      "rows": 6,
+      "items": [
+        {
+          "id": "purified_water",
+          "name": "정화수",
+          "subject": "clear purified water in faceted blue flask"
+        },
+        {
+          "id": "water",
+          "name": "물",
+          "subject": "clear water in simple blue-capped plastic bottle"
+        },
+        {
+          "id": "ice",
+          "name": "얼음",
+          "subject": "Ice"
+        },
+        {
+          "id": "herb",
+          "name": "약초",
+          "subject": "broad green medicinal herb sprig"
+        },
+        {
+          "id": "oriental_grass",
+          "name": "약초 잎",
+          "subject": "bundle of thin medicinal grass leaves"
+        },
+        {
+          "id": "garlic_ramen",
+          "name": "마늘 라면",
+          "subject": "noodle bowl with obvious white garlic cloves"
+        },
+        {
+          "id": "hot_ramen",
+          "name": "뜨거운 라면",
+          "subject": "bowl of cooked steaming noodles"
+        },
+        {
+          "id": "ramen",
+          "name": "라면",
+          "subject": "sealed red dry instant noodle packet without text"
+        },
+        {
+          "id": "garlic",
+          "name": "마늘",
+          "subject": "Garlic"
+        },
+        {
+          "id": "healing_potion",
+          "name": "회복 물약",
+          "subject": "round red healing potion bottle with cork"
+        },
+        {
+          "id": "garlic_bread",
+          "name": "마늘빵",
+          "subject": "Garlic Bread"
+        },
+        {
+          "id": "bread",
+          "name": "빵",
+          "subject": "Bread"
+        },
+        {
+          "id": "hot_honey_water",
+          "name": "뜨거운 꿀물",
+          "subject": "steaming glass mug of golden honey water"
+        },
+        {
+          "id": "honey",
+          "name": "꿀",
+          "subject": "Honey"
+        },
+        {
+          "id": "herbal_tea",
+          "name": "약초차",
+          "subject": "white teacup of green tea with herb leaves"
+        },
+        {
+          "id": "soy_sauce",
+          "name": "간장",
+          "subject": "Soy Sauce"
+        },
+        {
+          "id": "chocolate",
+          "name": "초콜릿",
+          "subject": "Chocolate"
+        },
+        {
+          "id": "orange",
+          "name": "오렌지",
+          "subject": "Orange"
+        },
+        {
+          "id": "curry_powder",
+          "name": "카레 가루",
+          "subject": "Curry Powder"
+        },
+        {
+          "id": "coffee",
+          "name": "커피콩",
+          "subject": "Coffee"
+        },
+        {
+          "id": "holy_water",
+          "name": "성수",
+          "subject": "small ornate glass flask of blue holy water with silver cross"
+        },
+        {
+          "id": "tuna",
+          "name": "참치",
+          "subject": "Tuna"
+        },
+        {
+          "id": "fresh_sashimi",
+          "name": "생선회",
+          "subject": "Fresh Sashimi"
+        },
+        {
+          "id": "burdock",
+          "name": "우엉",
+          "subject": "Burdock"
+        },
+        {
+          "id": "potato",
+          "name": "감자",
+          "subject": "Potato"
+        },
+        {
+          "id": "cookie",
+          "name": "쿠키",
+          "subject": "Cookie"
+        },
+        {
+          "id": "relief_patch",
+          "name": "파스",
+          "subject": "rectangular white adhesive pain patch in pale blue wrapper"
+        },
+        {
+          "id": "bird_meat",
+          "name": "새고기",
+          "subject": "Bird Meat"
+        },
+        {
+          "id": "pill",
+          "name": "알약",
+          "subject": "red and white capsule with small blister strip"
+        },
+        {
+          "id": "bandage",
+          "name": "붕대",
+          "subject": "white rolled gauze bandage"
+        },
+        {
+          "id": "bird_egg",
+          "name": "새알",
+          "subject": "Bird Egg"
+        },
+        {
+          "id": "sweet_potato",
+          "name": "고구마",
+          "subject": "Sweet Potato"
+        },
+        {
+          "id": "sports_drink",
+          "name": "이온 음료",
+          "subject": "Sports Drink"
+        },
+        {
+          "id": "antiseptic",
+          "name": "소독약",
+          "subject": "brown antiseptic bottle with red medical cross"
+        },
+        {
+          "id": "band_aid",
+          "name": "반창고",
+          "subject": "beige cross-shaped adhesive bandage"
+        },
+        {
+          "id": "liver_supplement_pill",
+          "name": "간 기능 강화제",
+          "subject": "green supplement bottle with white capsules"
+        },
+        {
+          "id": "saury",
+          "name": "꽁치",
+          "subject": "Saury"
+        },
+        {
+          "id": "carbonated_water",
+          "name": "탄산수",
+          "subject": "Carbonated Water"
+        },
+        {
+          "id": "bacchus",
+          "name": "박카스",
+          "subject": "small amber energy tonic bottle with blue cap, no lettering"
+        },
+        {
+          "id": "tree_of_life",
+          "name": "생명의 나무",
+          "subject": "small radiant golden-green living branch"
+        }
+      ],
+      "prompt": "Use case: stylized-concept. Asset type: production inventory sprite ATLAS for a survival RPG. Create ONE complete atlas image with EXACTLY 7 equal columns and 6 equal rows, edge-to-edge grid, no outer padding, every cell exactly the same square size. Overall image aspect ratio 7:6. Each cell has the same flat opaque very dark blue slate background #142029, no frames, no lines, no labels, no words, no numbers, no UI. One recognizable object centered per cell, occupying 76% of its square with generous empty margins, absolutely no objects crossing cells. Crisp hand-painted realistic game item illustration, clear silhouettes, strong value contrast, clean light from upper left, subtle highlights, rich natural material colors. Readable at 40px, simple decisive shapes, no excessive tiny detail, no glow spilling beyond object. Weapons diagonally from lower left to upper right. Do not replace distinct objects with generic symbols. Follow this EXACT row-major order, left to right then top to bottom:\nROW 1: CELL 1: clear purified water in faceted blue flask | CELL 2: clear water in simple blue-capped plastic bottle | CELL 3: Ice | CELL 4: broad green medicinal herb sprig | CELL 5: bundle of thin medicinal grass leaves | CELL 6: noodle bowl with obvious white garlic cloves | CELL 7: bowl of cooked steaming noodles\nROW 2: CELL 1: sealed red dry instant noodle packet without text | CELL 2: Garlic | CELL 3: round red healing potion bottle with cork | CELL 4: Garlic Bread | CELL 5: Bread | CELL 6: steaming glass mug of golden honey water | CELL 7: Honey\nROW 3: CELL 1: white teacup of green tea with herb leaves | CELL 2: Soy Sauce | CELL 3: Chocolate | CELL 4: Orange | CELL 5: Curry Powder | CELL 6: Coffee | CELL 7: small ornate glass flask of blue holy water with silver cross\nROW 4: CELL 1: Tuna | CELL 2: Fresh Sashimi | CELL 3: Burdock | CELL 4: Potato | CELL 5: Cookie | CELL 6: rectangular white adhesive pain patch in pale blue wrapper | CELL 7: Bird Meat\nROW 5: CELL 1: red and white capsule with small blister strip | CELL 2: white rolled gauze bandage | CELL 3: Bird Egg | CELL 4: Sweet Potato | CELL 5: Sports Drink | CELL 6: brown antiseptic bottle with red medical cross | CELL 7: beige cross-shaped adhesive bandage\nROW 6: CELL 1: green supplement bottle with white capsules | CELL 2: Saury | CELL 3: Carbonated Water | CELL 4: small amber energy tonic bottle with blue cap, no lettering | CELL 5: small radiant golden-green living branch | CELL 6: EMPTY dark background only | CELL 7: EMPTY dark background only\nKeep exact grid alignment. All unused final cells empty. Original artwork, no logos or watermarks."
+    },
+    {
+      "name": "equipment",
+      "cols": 8,
+      "rows": 7,
+      "items": [
+        {
+          "id": "crystal_tiara",
+          "name": "수정 티아라",
+          "subject": "ornate silver tiara with large icy blue crystals"
+        },
+        {
+          "id": "tiara",
+          "name": "티아라",
+          "subject": "gold tiara with red gems"
+        },
+        {
+          "id": "circlet",
+          "name": "서클릿",
+          "subject": "simple thin bronze circlet"
+        },
+        {
+          "id": "hairband",
+          "name": "머리띠",
+          "subject": "plain red cloth headband"
+        },
+        {
+          "id": "close_helm",
+          "name": "투구",
+          "subject": "Close Helm"
+        },
+        {
+          "id": "mask",
+          "name": "가면",
+          "subject": "white theatrical face mask"
+        },
+        {
+          "id": "glasses",
+          "name": "안경",
+          "subject": "Glasses"
+        },
+        {
+          "id": "crusader_armor",
+          "name": "십자군 갑옷",
+          "subject": "silver crusader breastplate with large red cross"
+        },
+        {
+          "id": "sheet_metal_armor",
+          "name": "판금 갑옷",
+          "subject": "plain gray riveted metal breastplate"
+        },
+        {
+          "id": "fabric_armor",
+          "name": "천 갑옷",
+          "subject": "brown padded cloth vest"
+        },
+        {
+          "id": "bishop_s_cassock",
+          "name": "주교복",
+          "subject": "white and purple bishop vestment with gold trim"
+        },
+        {
+          "id": "cassock",
+          "name": "사제복",
+          "subject": "black priest robe with white collar"
+        },
+        {
+          "id": "cross",
+          "name": "십자가",
+          "subject": "Cross"
+        },
+        {
+          "id": "sunset_armor",
+          "name": "황혼의 갑옷",
+          "subject": "ornate dark armor with warm orange-red accents"
+        },
+        {
+          "id": "steel_shield",
+          "name": "강철 방패",
+          "subject": "Steel Shield"
+        },
+        {
+          "id": "leather_shield",
+          "name": "가죽 방패",
+          "subject": "Leather Shield"
+        },
+        {
+          "id": "crimson_bracelet",
+          "name": "진홍 팔찌",
+          "subject": "ornate red ruby bracelet"
+        },
+        {
+          "id": "bracelet",
+          "name": "팔찌",
+          "subject": "plain bronze bracelet"
+        },
+        {
+          "id": "battle_boots",
+          "name": "전투화",
+          "subject": "heavy gray armored combat boots"
+        },
+        {
+          "id": "advanced_military_boots",
+          "name": "기능성 군화",
+          "subject": "reinforced black tactical boots with steel plates"
+        },
+        {
+          "id": "boots",
+          "name": "부츠",
+          "subject": "plain brown leather boots"
+        },
+        {
+          "id": "knee_pads",
+          "name": "무릎 보호대",
+          "subject": "pair of black padded knee guards"
+        },
+        {
+          "id": "maverick_runner",
+          "name": "매버릭 러너",
+          "subject": "futuristic black running shoes with neon cyan soles"
+        },
+        {
+          "id": "heelys",
+          "name": "힐리스",
+          "subject": "white-red sneakers with a visible heel wheel"
+        },
+        {
+          "id": "running_shoes",
+          "name": "운동화",
+          "subject": "Running Shoes"
+        },
+        {
+          "id": "moonlight_pendant",
+          "name": "달빛 펜던트",
+          "subject": "silver crescent pendant with blue gem"
+        },
+        {
+          "id": "moon_stone",
+          "name": "문스톤",
+          "subject": "round luminous blue-white moonstone"
+        },
+        {
+          "id": "ribbon",
+          "name": "리본",
+          "subject": "Ribbon"
+        },
+        {
+          "id": "eye_of_horus",
+          "name": "호루스의 눈",
+          "subject": "gold Egyptian eye amulet with turquoise center"
+        },
+        {
+          "id": "ancient_elixir_stone",
+          "name": "고대 영약석",
+          "subject": "irregular ornate green luminous alchemical stone"
+        },
+        {
+          "id": "flower",
+          "name": "꽃",
+          "subject": "Flower"
+        },
+        {
+          "id": "windbreaker",
+          "name": "바람막이",
+          "subject": "Windbreaker"
+        },
+        {
+          "id": "watch",
+          "name": "손목시계",
+          "subject": "Watch"
+        },
+        {
+          "id": "arm_warmers",
+          "name": "토시",
+          "subject": "Arm Warmers"
+        },
+        {
+          "id": "bike_helmet",
+          "name": "자전거 헬멧",
+          "subject": "Bike Helmet"
+        },
+        {
+          "id": "reserve_armband",
+          "name": "예비군 완장",
+          "subject": "green military armband with small yellow emblem"
+        },
+        {
+          "id": "box",
+          "name": "상자",
+          "subject": "Box"
+        },
+        {
+          "id": "wooden_shoes",
+          "name": "나막신",
+          "subject": "Wooden Shoes"
+        },
+        {
+          "id": "hiking_hat",
+          "name": "등산모",
+          "subject": "Hiking Hat"
+        },
+        {
+          "id": "tights",
+          "name": "타이즈",
+          "subject": "Tights"
+        },
+        {
+          "id": "full_body_swimsuit",
+          "name": "전신 수영복",
+          "subject": "Full Body Swimsuit"
+        },
+        {
+          "id": "magazine",
+          "name": "탄창",
+          "subject": "Magazine"
+        },
+        {
+          "id": "thimble",
+          "name": "골무",
+          "subject": "Thimble"
+        },
+        {
+          "id": "slippers",
+          "name": "슬리퍼",
+          "subject": "Slippers"
+        },
+        {
+          "id": "bunker_jacket",
+          "name": "방화복",
+          "subject": "tan firefighter coat with reflective yellow stripes"
+        },
+        {
+          "id": "hiking_shoes",
+          "name": "등산화",
+          "subject": "Hiking Shoes"
+        },
+        {
+          "id": "monk_s_robe",
+          "name": "승복",
+          "subject": "folded gray Buddhist monk robe"
+        },
+        {
+          "id": "wooden_fish",
+          "name": "목탁",
+          "subject": "brown carved wooden Buddhist percussion fish"
+        },
+        {
+          "id": "buddhist_scripture",
+          "name": "불경",
+          "subject": "golden-covered traditional Buddhist scripture book"
+        },
+        {
+          "id": "binoculars",
+          "name": "쌍안경",
+          "subject": "Binoculars"
+        },
+        {
+          "id": "quiver",
+          "name": "화살통",
+          "subject": "Quiver"
+        },
+        {
+          "id": "doctor_s_gown",
+          "name": "의사 가운",
+          "subject": "white lab coat with stethoscope"
+        }
+      ],
+      "prompt": "Use case: stylized-concept. Asset type: production inventory sprite ATLAS for a survival RPG. Create ONE complete atlas image with EXACTLY 8 equal columns and 7 equal rows, edge-to-edge grid, no outer padding, every cell exactly the same square size. Overall image aspect ratio 8:7. Each cell has the same flat opaque very dark blue slate background #142029, no frames, no lines, no labels, no words, no numbers, no UI. One recognizable object centered per cell, occupying 76% of its square with generous empty margins, absolutely no objects crossing cells. Crisp hand-painted realistic game item illustration, clear silhouettes, strong value contrast, clean light from upper left, subtle highlights, rich natural material colors. Readable at 40px, simple decisive shapes, no excessive tiny detail, no glow spilling beyond object. Weapons diagonally from lower left to upper right. Do not replace distinct objects with generic symbols. Follow this EXACT row-major order, left to right then top to bottom:\nROW 1: CELL 1: ornate silver tiara with large icy blue crystals | CELL 2: gold tiara with red gems | CELL 3: simple thin bronze circlet | CELL 4: plain red cloth headband | CELL 5: Close Helm | CELL 6: white theatrical face mask | CELL 7: Glasses | CELL 8: silver crusader breastplate with large red cross\nROW 2: CELL 1: plain gray riveted metal breastplate | CELL 2: brown padded cloth vest | CELL 3: white and purple bishop vestment with gold trim | CELL 4: black priest robe with white collar | CELL 5: Cross | CELL 6: ornate dark armor with warm orange-red accents | CELL 7: Steel Shield | CELL 8: Leather Shield\nROW 3: CELL 1: ornate red ruby bracelet | CELL 2: plain bronze bracelet | CELL 3: heavy gray armored combat boots | CELL 4: reinforced black tactical boots with steel plates | CELL 5: plain brown leather boots | CELL 6: pair of black padded knee guards | CELL 7: futuristic black running shoes with neon cyan soles | CELL 8: white-red sneakers with a visible heel wheel\nROW 4: CELL 1: Running Shoes | CELL 2: silver crescent pendant with blue gem | CELL 3: round luminous blue-white moonstone | CELL 4: Ribbon | CELL 5: gold Egyptian eye amulet with turquoise center | CELL 6: irregular ornate green luminous alchemical stone | CELL 7: Flower | CELL 8: Windbreaker\nROW 5: CELL 1: Watch | CELL 2: Arm Warmers | CELL 3: Bike Helmet | CELL 4: green military armband with small yellow emblem | CELL 5: Box | CELL 6: Wooden Shoes | CELL 7: Hiking Hat | CELL 8: Tights\nROW 6: CELL 1: Full Body Swimsuit | CELL 2: Magazine | CELL 3: Thimble | CELL 4: Slippers | CELL 5: tan firefighter coat with reflective yellow stripes | CELL 6: Hiking Shoes | CELL 7: folded gray Buddhist monk robe | CELL 8: brown carved wooden Buddhist percussion fish\nROW 7: CELL 1: golden-covered traditional Buddhist scripture book | CELL 2: Binoculars | CELL 3: Quiver | CELL 4: white lab coat with stethoscope | CELL 5: EMPTY dark background only | CELL 6: EMPTY dark background only | CELL 7: EMPTY dark background only | CELL 8: EMPTY dark background only\nKeep exact grid alignment. All unused final cells empty. Original artwork, no logos or watermarks."
+    }
+  ]
+}

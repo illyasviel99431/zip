@@ -1,0 +1,76 @@
+/* 22 compact districts, with a full-size list for small screens. */
+.map-surface{min-width:0;width:100%;align-self:start}
+.map-surface .world-map{width:100%;display:block;max-height:none!important}
+.district .district-land{fill:var(--district-fill);stroke:#1c3340;stroke-width:3}
+.district.is-current .district-land{fill:#426f66}
+.district.is-selected .district-land{fill:#7b7147}
+.district.is-warning .district-land{stroke:#f4b680;stroke-dasharray:8 5}
+.district.is-closed .district-land{fill:url(#closed-hatch);stroke:#bd807c}
+.district .district-number{font-size:15px;letter-spacing:2px;fill:#cbdae1}
+.district .district-name{font-size:23px;letter-spacing:0;fill:#f5f6ed;stroke:#203943;stroke-width:3px}
+.district .district-status{font-size:13px;fill:#d1dfe3;letter-spacing:0}
+.district.is-selected .district-name,.district.is-selected .district-status{fill:#fff1ba}
+.district.is-closed .district-name{fill:#e5ada7}
+.district.is-closed .district-status{fill:#f0c0b7}
+.map-region-index{margin-top:10px;border:1px solid #92b9c44a;border-radius:4px;background:#243f50}
+.map-region-index summary{padding:12px 14px;cursor:pointer;font-size:12px;color:#e3edf0}
+.region-index-grid{padding:0 10px 10px;display:grid;grid-template-columns:repeat(4,minmax(0,1fr));gap:6px}
+.region-index-grid button{min-height:44px;display:flex;align-items:center;gap:7px;text-align:left;padding:6px 9px;border:1px solid #8aadb94a;border-radius:3px;background:#345469;color:#ecf3f5;font:12px var(--sans)}
+.region-index-grid small{color:#b4cbd6;font-size:10px}
+.region-index-grid button[aria-pressed=true]{background:#796c45;border-color:#ffe398;color:#fff1c6}
+.region-index-grid button.current{border-color:#9de3cb}
+.region-index-grid button.soon{border-color:#eca476}
+.region-index-grid button:disabled{background:#34424b;color:#bca7a4;opacity:.7}
+.map-loot small{color:#d9e4e3;font-size:10px}
+.pending-item-note,.random-loot-note{font-size:12px;line-height:1.8;color:#d3e3e7;background:#34586a;padding:10px;border-radius:3px}
+.deployment-page .map-info{max-height:none!important;min-height:360px}
+.deployment-page .map-loot{max-height:260px}
+@media(min-width:851px){.map-surface .world-map{min-height:330px;max-height:min(520px,calc(100dvh - 280px))!important}.world-map-layout{align-items:start}}
+@media(max-width:850px){.region-index-grid{grid-template-columns:repeat(3,minmax(0,1fr))}.map-surface .world-map{min-height:0}.map-region-index summary{font-size:13px}.region-index-grid button{font-size:13px}.map-info h4{margin-top:16px}.deployment-page .map-info{min-height:0}.world-map-heading{font-size:12px}}
+
+/* The terrain carries the geography; only hover, current and selected areas have outlines. */
+.illustrated-world-map{background:#28566c;border-color:#8eb5bf6e;border-radius:10px;overflow:hidden;stroke:none;stroke-width:0;fill:none}
+.island-terrain{pointer-events:none}
+.illustrated-world-map .district .district-land{fill:transparent;stroke:#173c4599;stroke-width:1.2;stroke-linejoin:round;transition:fill .15s;pointer-events:all}
+.illustrated-world-map .district[role=button]:hover .district-land,.illustrated-world-map .district[role=button]:focus-visible .district-land{fill:#fff1be22;stroke:#e8d3a6;stroke-width:2}
+.illustrated-world-map .district.is-current .district-land{fill:#a9e1cc0a}
+.illustrated-world-map .district.is-selected .district-land{fill:#fff1ad14}
+.illustrated-world-map .district.is-closed .district-land{fill:url(#closed-hatch);stroke:#d5a68c;stroke-width:1.5;opacity:.8}
+.illustrated-world-map .district.is-warning .district-land{fill:#f4ac5812;stroke:#f5b772;stroke-width:2;stroke-dasharray:7 5}
+.map-label{pointer-events:all;font-family:var(--sans);filter:drop-shadow(0 2px 2px #183d4770)}
+.map-label[data-map-pick]{pointer-events:visiblePainted;cursor:pointer}
+.district[role=button]:hover .map-label-bg,.district[role=button]:focus-visible .map-label-bg{stroke:#fff1b6;stroke-width:2}
+.map-label-bg{fill:#17333b;fill-opacity:.86;stroke:#e1e5ce;stroke-opacity:.6;stroke-width:1}
+.map-label-number-bg{fill:#4e6b70}
+.map-label-number{text-anchor:middle;fill:#d3e0d6;font-size:12px;font-weight:600}
+.map-label-name{text-anchor:middle;fill:#fff9e4;font-size:18px;font-weight:650;letter-spacing:0}
+.map-label-badge-bg{fill:#355450;stroke:#a9d2b4;stroke-width:1}
+.map-label-badge{text-anchor:middle;fill:#eff1d2;font-size:12px;font-weight:600}
+.label-current .map-label-bg{stroke:#b7f0d5;stroke-width:2;fill:#285749}
+.label-current .map-label-number-bg{fill:#4c8065}
+.label-selected .map-label-bg{stroke:#ffe9a0;stroke-width:2;fill:#6d623d}
+.label-selected .map-label-number-bg{fill:#9c8a4b}
+.label-selected .map-label-badge-bg{fill:#8a783c;stroke:#ffe9a0}
+.label-closed .map-label-bg{fill:#4e4946;stroke:#c6aaa0}
+.label-closed .map-label-name{fill:#d9c5ba}
+.label-closed .map-label-number-bg{fill:#77675b}
+.label-closed .map-label-badge-bg{fill:#76514b;stroke:#cba192}
+.illustrated-world-map .map-selection-outline .outline-halo{stroke:#203e3b;stroke-width:6;stroke-opacity:.7}
+.illustrated-world-map .map-selection-outline .outline-color{stroke:#ffe59c;stroke-width:2.8}
+.illustrated-world-map .map-current-outline{stroke:#b3f1d4;stroke-width:3}
+.illustrated-world-map .map-route{stroke:#fff2b8;stroke-width:3;stroke-dasharray:7 7;opacity:.9}
+.map-title text{font-family:var(--sans);fill:#d0e4dc;font-size:17px;font-weight:500;letter-spacing:2px}
+.map-title text.map-title-caption{font-size:8px;letter-spacing:1.5px;fill:#accbd0}
+.illustrated-world-map .map-compass{fill:#c4d8ca}
+.illustrated-world-map .map-compass text{fill:#d9e4cf}
+.illustrated-world-map .map-sea-label{fill:#c0d3cc;font-size:10px;letter-spacing:3px}
+.material-location-marker{pointer-events:none}
+.material-location-marker circle{fill:#dce8b8;stroke:#315a5c;stroke-width:2}
+.material-location-marker path{fill:none;stroke:#335e55;stroke-width:2.5}
+
+/* Painted scenery with crisp interaction overlays. */
+.map-label-name{paint-order:stroke;stroke:#102a3033;stroke-width:1px}
+.map-title text{fill:#f0edda;text-shadow:0 2px 4px #103640;font-size:18px;font-weight:600}
+.map-title text.map-title-caption{fill:#c8dcd8}
+.illustrated-world-map .district.is-closed .district-land{opacity:.55}
+.illustrated-world-map .map-selection-outline,.illustrated-world-map .map-current-outline{pointer-events:none;fill:none;stroke-linejoin:round}
